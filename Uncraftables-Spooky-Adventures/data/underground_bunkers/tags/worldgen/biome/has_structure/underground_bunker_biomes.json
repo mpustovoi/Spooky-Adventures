@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_taiga",
+    "#minecraft:is_hill",
+    "#minecraft:is_mountain",
+    "minecraft:dark_forest",
+    "minecraft:sunflower_plains",
+    "#minecraft:is_forest",
+    "minecraft:desert",
+    "#minecraft:is_jungle",
+    "minecraft:plains",
+    "minecraft:snowy_plains",
+    "minecraft:meadow",
+    "#minecraft:is_desert",
+    {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "#c:is_forest",
+      "required": false
+    },
+    {
+      "id": "#forge:is_jungle",
+      "required": false
+    },
+    {
+      "id": "#c:is_jungle",
+      "required": false
+    },
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#forge:is_desert",
+      "required": false
+    },
+    {
+      "id": "#c:desert",
+      "required": false
+    },
+    {
+      "id": "#c:is_desert",
+      "required": false
+    }
+  ]
+}

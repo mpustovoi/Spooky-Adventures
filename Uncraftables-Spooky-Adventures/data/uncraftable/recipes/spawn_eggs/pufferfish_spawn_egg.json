@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GAG",
+        "GGG"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "G": {
+            "item": "minecraft:pufferfish"
+        }
+    },
+    "result": {
+		"item": "minecraft:pufferfish_spawn_egg"
+	}
+}

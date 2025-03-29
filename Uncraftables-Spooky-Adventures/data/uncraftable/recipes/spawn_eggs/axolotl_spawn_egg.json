@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_eggs",
+  "pattern": [
+  
+    "#X#",
+    "XIX",
+    "#X#"
+  ],
+  
+  "key": {
+    "X": {
+      "item": "minecraft:tropical_fish"
+    },
+    "#": {
+      "item": "minecraft:ghast_tear"
+    },
+	"I": {
+	  "item": "minecraft:tropical_fish_bucket"
+	}
+  },
+  
+  
+  "result": {
+    "item": "minecraft:axolotl_spawn_egg"
+  }
+}

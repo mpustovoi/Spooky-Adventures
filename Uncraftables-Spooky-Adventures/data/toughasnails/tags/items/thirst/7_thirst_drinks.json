@@ -1,0 +1,26 @@
+{
+    "values": [
+      "toughasnails:cactus_juice",
+      "toughasnails:melon_juice",
+      {
+        "id": "farmersdelight:chicken_soup",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:pumpkin_soup",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:noodle_soup",
+        "required": false
+      },
+      {
+        "id": "toughasdelight:melon_pie",
+        "required": false
+      },
+      {
+        "id": "alexscavesdelight:relicheirus_noodle_soup",
+        "required": false
+      }
+    ]
+  }

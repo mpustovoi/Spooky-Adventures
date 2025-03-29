@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MMM",
+		"MSM",
+		"MMM"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:lapis_lazuli"
+		},
+		"S": {
+			"item": "minecraft:granite"
+		}
+	},
+	"result": {
+		"item": "universal_ores:granite_lapis_ore",
+		"count": 1
+	}
+}

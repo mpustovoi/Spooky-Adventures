@@ -1,0 +1,32 @@
+{
+    "author": "patreon.com/thediamondplayables",
+    "parent": "tdp.509:open_fishing_crate",
+    "display": {
+        "frame": "task",
+        "title": {
+            "translate": "advancements.tdp.509.catch_exp_swarm.title"
+        },
+        "description": {
+            "translate": "advancements.tdp.509.catch_exp_swarm.descr"
+        },
+        "icon": {
+            "item": "minecraft:experience_bottle"
+        },
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "the_task": {
+            "trigger": "minecraft:fishing_rod_hooked",
+            "conditions": {
+                "item": {
+                    "nbt": "{tdp.509:{event:\"exp_swarm\"}}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "experience": 10
+    }
+}

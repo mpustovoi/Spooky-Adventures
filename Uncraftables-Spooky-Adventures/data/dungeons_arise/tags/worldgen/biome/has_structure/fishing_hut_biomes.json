@@ -1,0 +1,46 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_beach",
+    {
+      "id": "#c:is_beach",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/oceanic",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/kelp_cove",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/sugar_sand_beach",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MXM",
+		"EGE",
+		"BXB"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:packed_mud"
+		},
+		"B": {
+			"item": "minecraft:mud_bricks"
+		},
+		"E": {
+			"item": "minecraft:enchanted_book"
+		},
+		"G": {
+			"item": "minecraft:ghast_tear"
+		},
+		"X": {
+			"item": "minecraft:experience_bottle"
+		}
+	},
+	"result": {
+		"item": "friendsandfoes:mauler_spawn_egg",
+		"count": 1
+	}
+}

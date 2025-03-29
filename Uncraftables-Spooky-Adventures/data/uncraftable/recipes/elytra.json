@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IXI",
+    "PPP",
+		"P P"
+  ], 
+  "key": {
+    "X": {
+      "item": "minecraft:dragon_head"
+    },
+    "I": {
+      "item": "minecraft:end_crystal"
+    },
+    "P": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },  
+  "result": {
+    "item": "minecraft:elytra"
+  }
+}

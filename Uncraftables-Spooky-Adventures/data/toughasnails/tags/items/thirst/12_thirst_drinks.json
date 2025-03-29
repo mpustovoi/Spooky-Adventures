@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:milk_bucket",
+    {
+      "id": "alexscavesdelight:acid_juice",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:licoroot_juice",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:tree_star_juice",
+      "required": false
+    }
+  ]
+}

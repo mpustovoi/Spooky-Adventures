@@ -1,0 +1,41 @@
+{
+  "parent": "bro:enter_void_first_time",
+  "display": {
+    "icon": {
+      "item": "minecraft:chiseled_quartz_block"
+    },
+    "title": {
+      "translate": "advancements.bro.find_liminal.title",
+      "fallback": "§eLiminal spaces"
+    },
+    "description": {
+      "translate": "advancements.bro.find_liminal.descr",
+      "fallback": "Find that secret place"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "find_liminal": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "bro:liminal"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 125
+  }
+}

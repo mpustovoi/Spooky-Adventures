@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "tacz:gun_smith_table"
+  },
+  "pattern": [
+    "LNL",
+    "BWB",
+    "I I"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "W": {
+      "item": "cgm:workbench"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  }
+}

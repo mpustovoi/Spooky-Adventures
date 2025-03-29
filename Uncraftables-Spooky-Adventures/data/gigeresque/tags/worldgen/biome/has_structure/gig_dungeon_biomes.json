@@ -1,0 +1,21 @@
+{
+  "values": [
+    "#minecraft:is_mountain",
+    {
+      "id": "#c:is_mountain",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/basalt_climb",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/crystallized_peaks",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/verdant_spires",
+      "required": false
+    }
+  ]
+}

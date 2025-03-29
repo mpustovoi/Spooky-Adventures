@@ -1,0 +1,64 @@
+{
+  "values": [
+    {
+      "id": "additionaladditions:gilded_netherite_hoe",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:rose_gold_hoe",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:nightmare_scythe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_hoe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_hoe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_hoe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_hoe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_hoe",
+      "required": false
+    },
+    {
+      "id": "oxidized:rose_gold_hoe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:amethyst_hoe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:copper_hoe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_hoe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:obsidian_hoe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:ruby_hoe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:steel_hoe",
+      "required": false
+    }
+  ]
+}

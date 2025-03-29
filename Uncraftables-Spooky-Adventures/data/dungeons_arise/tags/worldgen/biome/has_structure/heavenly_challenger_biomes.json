@@ -1,0 +1,151 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_jungle",
+    "#minecraft:is_forest",
+    "minecraft:desert",
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:end_barrens",
+    "minecraft:end_midlands",
+    "minecraft:end_highlands",
+    {
+      "id": "#c:is_jungle",
+      "required": false
+    },
+    {
+      "id": "#c:is_forest",
+      "required": false
+    },
+    {
+      "id": "#c:is_desert",
+      "required": false
+    },
+    {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "#c:is_savanna",
+      "required": false
+    },
+    {
+      "id": "#c:end_islands",
+      "required": false
+    },
+    {
+      "id": "nullscape:crystal_peaks",
+      "required": false
+    },
+    {
+      "id": "nullscape:shadowlands",
+      "required": false
+    },
+    {
+      "id": "nullscape:void_barrens",
+      "required": false
+    },
+    {
+      "id": "bracken:void/void",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/boreal_valley",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/moss_basin",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/stranger_flats",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/the_enchanted",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/condemned_taiga",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/creeper_dominion",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/crimson_organism",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/honeybee_biome",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/hungering_jungle",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/ravenous_greenwood",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/clandestine_castlegrounds",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/darkthunder_thicket",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/dreamfall_dells",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/foison_fields",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/hidden_hamlet",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/malmsey_meadow",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/wanderlight_woods",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_forests",
+      "required": false
+    }
+  ]
+}

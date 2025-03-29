@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "MWM",
+        "WAW",
+        "WMW"
+    ],
+    "key": {
+        "A": {
+          "item": "minecraft:ghast_tear"
+        },
+        "W": {
+        		"tag": "minecraft:wool"
+      	},
+    		"M": {
+      		"item": "minecraft:mutton"
+    		}  
+    },
+    "result": {
+		"item": "minecraft:sheep_spawn_egg"
+	}
+}

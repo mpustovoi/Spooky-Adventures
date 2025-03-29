@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:long_scope"
+		},
+		{
+			"item": "cgm:light_stock"
+		},
+		{
+			"item": "cgm:horizontal_grip"
+		}
+	],
+	"result": "minecraft:iron_nugget",
+	"count": 6
+}

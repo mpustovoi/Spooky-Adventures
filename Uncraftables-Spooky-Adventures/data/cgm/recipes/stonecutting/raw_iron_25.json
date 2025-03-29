@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:sniper_rifle"
+		}
+	],
+	"result": "minecraft:raw_iron",
+	"count": 25
+}

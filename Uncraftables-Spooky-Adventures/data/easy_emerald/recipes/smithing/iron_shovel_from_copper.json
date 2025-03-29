@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "easy_emerald:copper_shovel"
+	},
+	"addition": {
+		"item": "minecraft:iron_ingot"
+	},
+	"result": {
+		"item": "minecraft:iron_shovel"
+	},
+	"template": {
+		"item": "minecraft:iron_ingot"
+	}
+}

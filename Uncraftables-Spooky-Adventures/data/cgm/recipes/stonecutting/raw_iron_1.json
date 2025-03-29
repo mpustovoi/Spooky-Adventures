@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:stabilizing_stock"
+		},
+		{
+			"item": "cgm:carbine_stock"
+		},
+		{
+			"item": "cgm:solid_stock"
+		}
+	],
+	"result": "minecraft:raw_iron",
+	"count": 1
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:sniper_rifle_item",
+  "display": {
+    "icon": {
+      "item": "cgm:heavy_rifle"
+    },
+    "title": {
+      "translate": "advancements.cgm.heavy_rifle.title",
+      "fallback": "Sniper Elite"
+    },
+    "description": {
+      "translate": "advancements.cgm.heavy_rifle.descr",
+      "fallback": "Create a Sniper Rifle Mk. II"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_heavy_rifle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:heavy_rifle"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

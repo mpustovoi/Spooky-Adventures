@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "farmersdelight:golden_knife"
+  },
+  "addition": {
+    "item": "minecraft:iron_block"
+  },
+  "result": {
+    "item": "farmersdelight:iron_knife"
+  },
+  "template": {
+    "item": "minecraft:iron_nugget"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "values": [
+    {
+      "id": "additionaladditions:gilded_netherite_shovel",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:rose_gold_shovel",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_excavator",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_shovel",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_excavator",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_shovel",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:diamond_excavator",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_excavator",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_shovel",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:gold_excavator",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:iron_excavator",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:netherite_excavator",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_excavator",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_shovel",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_excavator",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_shovel",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:wooden_excavator",
+      "required": false
+    },
+    {
+      "id": "oxidized:rose_gold_shovel",
+      "required": false
+    }
+  ]
+}

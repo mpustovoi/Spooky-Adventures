@@ -1,0 +1,1 @@
+{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:emerald"}], "functions": [{"function": "minecraft:set_count", "count": {"min": 13, "max": 17}}]}, {"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:sniffer_egg"}], "functions": [{"function": "minecraft:set_count", "count": 1}]}]}

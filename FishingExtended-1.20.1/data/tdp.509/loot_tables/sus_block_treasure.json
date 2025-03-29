@@ -1,0 +1,1 @@
+{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:loot_table", "name": "tdp.509:sus_block_treasure_enchanted", "weight": 530}, {"type": "minecraft:loot_table", "name": "tdp.509:treasure_items", "weight": 410}, {"type": "minecraft:loot_table", "name": "tdp.509:sus_block_potions", "weight": 59}, {"type": "minecraft:loot_table", "name": "tdp.509:ancient_fishing_rod"}]}]}

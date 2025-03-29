@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GA"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:horse_spawn_egg"
+        },
+        "G": {
+            "item": "minecraft:donkey_spawn_egg"
+        }
+    },
+    "result": {
+		"item": "minecraft:mule_spawn_egg"
+	}
+}

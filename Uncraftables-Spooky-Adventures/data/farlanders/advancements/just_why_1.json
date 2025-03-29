@@ -1,0 +1,30 @@
+{
+  "parent": "farlanders:root",
+  "display": {
+    "icon": {
+      "item": "farlanders:wanderer_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.farlanders.just_why_1.title",
+      "fallback": "Why..."
+    },
+    "description": {
+      "translate": "advancements.farlanders.just_why_1.descr",
+      "fallback": "Kill a Wanderer"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_wanderer": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "farlanders:wanderer"
+        }
+      }
+    }
+  }
+}

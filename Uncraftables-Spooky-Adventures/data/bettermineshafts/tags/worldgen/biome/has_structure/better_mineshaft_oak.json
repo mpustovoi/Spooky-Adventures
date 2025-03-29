@@ -1,0 +1,73 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:swamp",
+    "minecraft:meadow",
+    {
+      "id": "terralith:brushland",
+      "required": false
+    },
+    {
+      "id": "projectvibrantjourneys:prairie",
+      "required": false
+    },
+    {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/bone_cavern",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/crystalline_cavity",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/empty",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/littoral_hollow",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/boreal_valley",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/moss_basin",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/stranger_flats",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/the_enchanted",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/crystal_caves",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/diorite_sea",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/eroded_basin",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/petrified_forest",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/sulfur_caldera",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:adventure/whos_the_pillager_now",
+  "display": {
+    "icon": {
+      "item": "minecraft:shield"
+    },
+    "title": {
+      "translate": "advancements.illagerinvasion.inquisitor.title",
+      "fallback": "Inquisitorius"
+    },
+    "description": {
+      "translate": "advancements.illagerinvasion.inquisitor.descr",
+      "fallback": "Kill an Inquisitor"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_inquisitor": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "illagerinvasion:inquisitor"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 150
+  }
+}

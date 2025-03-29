@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"RRR",
+		"SES",
+		"MMM"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		"R": {
+			"item": "minecraft:red_mushroom_block"
+		},
+		"M": {
+			"item": "minecraft:mycelium"
+		},
+		"S": {
+			"item": "minecraft:mushroom_stem"
+		}
+	},
+	"result": {
+		"item": "endermanoverhaul:mushroom_fields_enderman_spawn_egg",
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "LAL",
+        "GGG"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "G": {
+            "item": "minecraft:porkchop"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+		"item": "minecraft:hoglin_spawn_egg"
+	}
+}

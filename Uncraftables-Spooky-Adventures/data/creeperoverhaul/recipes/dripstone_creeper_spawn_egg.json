@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GPG", "PTP", "DDD"],
+  "key": {
+    "T": {
+      "item": "minecraft:creeper_spawn_egg"
+    },
+    "D": {
+      "item": "minecraft:dripstone_block"
+    },
+    "P": {
+      "item": "minecraft:pointed_dripstone"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "creeperoverhaul:dripstone_creeper_spawn_egg",
+    "count": 1
+  }
+}

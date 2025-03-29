@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"FBF",
+		"BEB",
+		"BFB"
+	],
+	"key": {
+		"F": {
+			"item": "enderzoology:ender_fragment"
+		},
+		"E": {
+			"item": "minecraft:wolf_spawn_egg"
+		},
+		"B": {
+			"item": "minecraft:bone"
+		}
+	},
+	"result": {
+		"item": "enderzoology:dire_wolf_spawn_egg",
+		"count": 1
+	}
+}

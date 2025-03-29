@@ -1,0 +1,34 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_nether",
+    {
+      "id": "#c:is_nether",
+      "required": false
+    },
+    {
+      "id": "bracken:dormis/bezerium",
+      "required": false
+    },
+    {
+      "id": "bracken:dormis/golanium",
+      "required": false
+    },
+    {
+      "id": "bracken:dormis/hebronium",
+      "required": false
+    },
+    {
+      "id": "bracken:dormis/kedeshium",
+      "required": false
+    },
+    {
+      "id": "bracken:dormis/ramothium",
+      "required": false
+    },
+    {
+      "id": "bracken:dormis/shechemium",
+      "required": false
+    }
+  ]
+}

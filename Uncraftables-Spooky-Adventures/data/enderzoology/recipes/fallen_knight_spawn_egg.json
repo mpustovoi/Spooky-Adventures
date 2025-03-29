@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:zombie_spawn_egg"
+		},
+		[
+			{
+				"item": "minecraft:skeleton_spawn_egg"
+			},
+			{
+				"item": "minecraft:wither_skeleton_spawn_egg"
+			}
+		]
+	],
+	"result": {
+		"item": "enderzoology:fallen_knight_spawn_egg",
+		"count": 1
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "easy_emerald:emerald_excavator"
+	},
+	"addition": {
+		"item": "easy_emerald:ruby"
+	},
+	"result": {
+		"item": "easy_emerald:ruby_excavator"
+	},
+	"template": {
+		"item": "easy_emerald:ruby"
+	}
+}

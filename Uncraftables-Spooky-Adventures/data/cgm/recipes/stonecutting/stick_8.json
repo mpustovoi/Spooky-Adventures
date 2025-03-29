@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:bolt_action_rifle"
+		},
+		{
+			"item": "cgm:infantry_rifle"
+		},
+		{
+			"item": "cgm:hunting_rifle"
+		},
+		{
+			"item": "cgm:hunting_shotgun"
+		}
+	],
+	"result": "minecraft:stick",
+	"count": 8
+}

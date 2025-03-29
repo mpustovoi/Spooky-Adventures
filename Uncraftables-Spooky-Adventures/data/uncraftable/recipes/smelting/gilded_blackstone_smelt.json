@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "minecraft:gilded_blackstone"
+	},
+	"result": "minecraft:gold_ingot"
+}

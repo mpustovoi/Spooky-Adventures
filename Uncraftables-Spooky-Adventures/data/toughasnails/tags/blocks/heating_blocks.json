@@ -1,0 +1,193 @@
+{
+  "values": [
+    "minecraft:fire",
+    "minecraft:campfire",
+    "minecraft:lantern",
+    "minecraft:jack_o_lantern",
+    "minecraft:lava",
+    "minecraft:glowstone",
+    "minecraft:shroomlight",
+    "minecraft:magma_block",
+    "minecraft:lava_cauldron",
+    {
+      "id": "piglinproliferation:stone_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:deepslate_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:netherrack_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:blackstone_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:end_stone_fire_ring",
+      "required": false
+    },
+    {
+      "id": "pigsteel:pigsteel_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:infected_pigsteel_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:corrupted_pigsteel_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:zombified_pigsteel_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:waxed_pigsteel_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:waxed_infected_pigsteel_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:waxed_corrupted_pigsteel_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:waxed_zombified_pigsteel_lantern",
+      "required": false
+    },
+    {
+      "id": "create:blaze_burner",
+      "required": false
+    },
+    {
+      "id": "quark:blaze_lantern",
+      "required": false
+    },
+    {
+      "id": "graveyard:fire_brazier",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fire_jet",
+      "required": false
+    },
+    {
+      "id": "twilightforest:encased_fire_jet",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:gloomy_geyser",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:stove",
+      "required": false
+    },
+    {
+      "id": "ends_delight:end_stove",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:maze_stove",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:nether_stove",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:magma_cake",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:blackstone_stove",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:blackstone_furnace",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:nether_brick_smoker",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:blackstone_blast_furnace",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:heating_cask",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:fiery_fondue_pot",
+      "required": false
+    },
+    {
+      "id": "aether:ambrosium_torch",
+      "required": false
+    },
+    {
+      "id": "alexscaves:primal_magma",
+      "required": false
+    },
+    {
+      "id": "alexscaves:radrock_uranium_ore",
+      "required": false
+    },
+    {
+      "id": "alexscaves:uranium_rod",
+      "required": false
+    },
+    {
+      "id": "alexscaves:block_of_uranium",
+      "required": false
+    },
+    {
+      "id": "alexscaves:unrefined_waste",
+      "required": false
+    },
+    {
+      "id": "alexscaves:waste_drum",
+      "required": false
+    },
+    {
+      "id": "alexscaves:acid",
+      "required": false
+    },
+    {
+      "id": "alexscaves:acidic_radrock",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:magma_cube",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:nether",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:blaze",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:wither",
+      "required": false
+    },
+    {
+      "id": "ancient_aether:holystone_lantern",
+      "required": false
+    },
+    {
+      "id": "ancient_aether:ambrosium_campfire",
+      "required": false
+    }
+  ]
+}

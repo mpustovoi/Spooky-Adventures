@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:creeper_spawn_egg"
+		},
+		{
+			"item": "mutantmonsters:creeper_shard"
+		},
+		{
+			"item": "mutantmonsters:creeper_shard"
+		},
+		{
+			"item": "mutantmonsters:creeper_shard"
+		},
+		{
+			"item": "mutantmonsters:creeper_shard"
+		},
+		{
+			"item": "mutantmonsters:creeper_minion_spawn_egg"
+		},
+		{
+			"item": "mutantmonsters:creeper_minion_spawn_egg"
+		},
+		{
+			"item": "mutantmonsters:creeper_minion_spawn_egg"
+		},
+		{
+			"item": "mutantmonsters:creeper_minion_spawn_egg"
+		}
+	],
+	"result": {
+		"item": "mutantmonsters:mutant_creeper_spawn_egg",
+		"count": 1
+	}
+}

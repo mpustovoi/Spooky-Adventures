@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" H ",
+		"SFE"
+	],
+	"key": {
+		"F": {
+			"item": "farlanders:farlander_spawn_egg"
+		},
+		"H": {
+			"item": "farlanders:rebel_farlander_helmet"
+		},
+		"S": {
+			"item": "minecraft:wooden_sword"
+		},
+		"E": {
+			"item": "minecraft:spider_eye"
+		}
+	},
+	"result": {
+		"item": "farlanders:rebel_spawn_egg",
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    " B ",
+		"# #"
+  ],
+  
+  "key": {
+    "#": {
+      "item": "minecraft:structure_void" 
+    },
+		"B": {
+      "item": "minecraft:bedrock" 
+    }
+  },
+  
+  "result": {
+    "item": "minecraft:barrier",
+		"count": 3
+  }
+}

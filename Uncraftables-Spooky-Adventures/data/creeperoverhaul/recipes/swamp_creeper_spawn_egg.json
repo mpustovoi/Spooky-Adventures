@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["LGL", "BTP", "MPM"],
+  "key": {
+    "T": {
+      "item": "minecraft:creeper_spawn_egg"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "M": {
+      "item": "minecraft:mud"
+    },
+    "P": {
+      "item": "minecraft:gunpowder"
+    },
+    "L": {
+      "item": "minecraft:lily_pad"
+    },
+    "G": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "creeperoverhaul:swamp_creeper_spawn_egg",
+    "count": 1
+  }
+}

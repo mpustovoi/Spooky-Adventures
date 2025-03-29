@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:glowstone"
+      },
+      {
+        "item": "minecraft:shroomlight"
+      },
+      {
+        "item": "minecraft:sea_lantern"
+      },
+      {
+        "item": "minecraft:torch"
+      },
+      {
+        "item": "minecraft:lantern"
+      }
+    ],
+    {
+      "item": "minecraft:structure_void"
+    }
+  ],
+  "result": {
+    "item": "minecraft:light",
+    "count": 4
+  }
+}

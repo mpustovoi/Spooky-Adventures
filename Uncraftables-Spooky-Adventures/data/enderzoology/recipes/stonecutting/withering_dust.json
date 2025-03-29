@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:wither_skeleton_skull"
+	},
+	"result": "enderzoology:withering_dust",
+	"count": 16
+}

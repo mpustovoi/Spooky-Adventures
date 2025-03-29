@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "graveyard:dark_iron_ingot"
+	},
+	"result": "minecraft:iron_ingot",
+	"count": 1
+}

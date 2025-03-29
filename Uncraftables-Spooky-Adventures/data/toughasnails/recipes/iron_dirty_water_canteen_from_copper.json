@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "toughasnails:copper_dirty_water_canteen"
+    },
+    "addition": {
+        "item": "minecraft:iron_ingot"
+    },
+    "result": {
+        "item": "toughasnails:iron_dirty_water_canteen"
+    },
+    "template": {
+        "item": "minecraft:iron_ingot"
+    }
+}

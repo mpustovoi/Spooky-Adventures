@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "easy_emerald:emerald_axe"
+	},
+	"addition": {
+		"item": "easy_emerald:ruby"
+	},
+	"result": {
+		"item": "easy_emerald:ruby_axe"
+	},
+	"template": {
+		"item": "easy_emerald:ruby"
+	}
+}

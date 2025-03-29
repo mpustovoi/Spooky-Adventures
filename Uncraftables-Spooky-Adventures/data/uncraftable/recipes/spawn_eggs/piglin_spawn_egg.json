@@ -1,0 +1,31 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GHG",
+        "CAS",
+        "GBG"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+				"B": {
+            "item": "minecraft:gold_block"
+        },
+        "C": {
+            "item": "minecraft:crossbow"
+        },
+        "S": {
+            "item": "minecraft:golden_sword"
+        },
+        "H": {
+            "item": "minecraft:piglin_head"
+        }
+    },
+    "result": {
+		"item": "minecraft:piglin_spawn_egg"
+	}
+}

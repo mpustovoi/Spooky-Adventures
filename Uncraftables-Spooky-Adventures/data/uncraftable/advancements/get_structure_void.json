@@ -1,0 +1,35 @@
+{
+  "parent": "uncraftable:get_barrier",
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_void"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.get_structure_void.title",
+      "fallback": "Thin Air"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.get_structure_void.descr",
+      "fallback": "Create a Structure Void Block"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_structure_void": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:structure_void"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2500
+  }
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MMM",
+		"MSM",
+		"MMM"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:raw_iron"
+		},
+		"S": {
+			"item": "minecraft:andesite"
+		}
+	},
+	"result": {
+		"item": "universal_ores:andesite_iron_ore",
+		"count": 1
+	}
+}

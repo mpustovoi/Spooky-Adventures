@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		{
+			"item": "mutantmonsters:endersoul_hand"
+		},
+		{
+			"item": "mutantmonsters:endersoul_hand"
+		},
+		{
+			"item": "mutantmonsters:endersoul_hand"
+		},
+		{
+			"item": "mutantmonsters:endersoul_hand"
+		}
+	],
+	"result": {
+		"item": "mutantmonsters:mutant_enderman_spawn_egg",
+		"count": 1
+	}
+}

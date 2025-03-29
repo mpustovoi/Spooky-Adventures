@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_deep_ocean",
+    {
+      "id": "bro:saturated/oceanic",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/kelp_cove",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/sugar_sand_beach",
+      "required": false
+    },
+    {
+      "id": "#c:is_deep_ocean",
+      "required": false
+    }
+  ]
+}

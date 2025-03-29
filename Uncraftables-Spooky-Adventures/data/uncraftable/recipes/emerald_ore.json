@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQQ",
+    "QNQ",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:emerald"
+    },
+    "N": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:emerald_ore"
+  }
+}

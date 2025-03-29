@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "SAS",
+        "SSS"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "G": {
+            "item": "minecraft:seagrass"
+        },
+        "S": {
+            "item": "minecraft:scute"
+        }
+    },
+    "result": {
+		"item": "minecraft:turtle_spawn_egg"
+	}
+}

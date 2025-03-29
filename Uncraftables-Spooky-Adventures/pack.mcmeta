@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": {
+      "translate": "datapack.uncraftable.uncraftable.name",
+      "fallback": "Extra §arecipes§r and §6tweaks§r for §5Karbin_Drem§r's modpacks"
+    },
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 26
+    }
+  }
+}

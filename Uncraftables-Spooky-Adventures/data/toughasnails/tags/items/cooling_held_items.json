@@ -1,0 +1,143 @@
+{
+  "values": [
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+    "minecraft:powder_snow_bucket",
+    {
+      "id": "terrainslabs:packed_ice_slab",
+      "required": false
+    },
+    {
+      "id": "endrem:cold_eye",
+      "required": false
+    },
+    {
+      "id": "endermanoverhaul:icy_pearl",
+      "required": false
+    },
+    {
+      "id": "endermanoverhaul:soul_pearl",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonbone_sword_ice",
+      "required": false
+    },
+    {
+      "id": "iceandfire:ice_dragon_flesh",
+      "required": false
+    },
+    {
+      "id": "iceandfire:ice_dragon_heart",
+      "required": false
+    },
+    {
+      "id": "iceandfire:ice_dragon_blood",
+      "required": false
+    },
+    {
+      "id": "twilightforest:peacock_feather_fan",
+      "required": false
+    },
+    {
+      "id": "farlanders:nightfall_shard",
+      "required": false
+    },
+    {
+      "id": "farlanders:nightfall_staff",
+      "required": false
+    },
+    {
+      "id": "farlanders:nightfall_sword",
+      "required": false
+    },
+    {
+      "id": "farlanders:titan_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:endersoul_hand",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:ice_cube_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:frost_lily",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:icicle_knife",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_ingot",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_scrap",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_pickaxe",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_axe",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_hoe",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_shovel",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_sword",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_block",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_ore",
+      "required": false
+    },
+    {
+      "id": "enderitemod:cracked_enderite_ore",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_respawn_anchor",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_shulker_box",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_crossbow",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_bow",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_shield",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_shears",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_upgrade_smithing_template",
+      "required": false
+    }
+  ]
+}

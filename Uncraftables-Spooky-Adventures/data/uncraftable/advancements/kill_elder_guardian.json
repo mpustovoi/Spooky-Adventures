@@ -1,0 +1,36 @@
+{
+  "parent": "uncraftable:find_monument",
+  "display": {
+    "icon": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.kill_elder_guardian.title",
+      "fallback": "Senior Mecha-Fish"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.kill_elder_guardian.descr",
+      "fallback": "Kill an Elder Guardian"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "k_elder_guardian": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:elder_guardian"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:golden_axe"
+	},
+	"addition": {
+		"item": "minecraft:amethyst_shard"
+	},
+	"result": {
+		"item": "easy_emerald:amethyst_axe"
+	},
+	"template": {
+		"item": "minecraft:amethyst_shard"
+	}
+}

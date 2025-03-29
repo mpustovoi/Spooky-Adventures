@@ -1,0 +1,30 @@
+{
+    "values": [
+    "minecraft:diamond_hoe",
+    "minecraft:netherite_hoe",
+    {
+      "id": "additionaladditions:gilded_netherite_hoe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_hoe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_hoe",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:resonarium_hoe",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_hoe",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_hoe",
+      "required": false
+    }
+  ]
+}

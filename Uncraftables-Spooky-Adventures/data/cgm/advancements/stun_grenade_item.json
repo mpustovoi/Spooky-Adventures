@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:grenade_item",
+  "display": {
+    "icon": {
+      "item": "cgm:stun_grenade"
+    },
+    "title": {
+      "translate": "advancements.cgm.stun_grenade.title",
+      "fallback": "Cover Your Eyes and Close Your Ears!"
+    },
+    "description": {
+      "translate": "advancements.cgm.stun_grenade.descr",
+      "fallback": "Get a Stun Grenade"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_grenade_launcher": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:stun_grenade"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  }
+}

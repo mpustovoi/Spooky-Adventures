@@ -1,0 +1,221 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_mountain",
+    "#minecraft:is_badlands",
+    "#minecraft:is_hill",
+    "#minecraft:is_taiga",
+    "#minecraft:is_jungle",
+    {
+      "id": "#forge:is_jungle",
+      "required": false
+    },
+    {
+      "id": "#c:is_jungle",
+      "required": false
+    },
+    "#minecraft:is_forest",
+    {
+      "id": "#forge:is_forest",
+      "required": false
+    },
+    {
+      "id": "#c:forest",
+      "required": false
+    },
+    "minecraft:stony_shore",
+    "minecraft:mushroom_fields",
+    {
+      "id": "#forge:is_mushroom",
+      "required": false
+    },
+    {
+      "id": "#c:mushroom",
+      "required": false
+    },
+    "minecraft:ice_spikes",
+    "minecraft:frozen_peaks",
+    {
+      "id": "#byg:is_icy",
+      "required": false
+    },
+    {
+      "id": "#forge:is_icy",
+      "required": false
+    },
+    {
+      "id": "#c:icy",
+      "required": false
+    },
+    "minecraft:desert",
+    {
+      "id": "#forge:is_desert",
+      "required": false
+    },
+    {
+      "id": "#c:desert",
+      "required": false
+    },
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna",
+    {
+      "id": "#forge:is_savanna",
+      "required": false
+    },
+    {
+      "id": "#c:savanna",
+      "required": false
+    },
+    "#minecraft:is_badlands",
+    {
+      "id": "#forge:is_mesa",
+      "required": false
+    },
+    {
+      "id": "#c:in_mesa",
+      "required": false
+    },
+    {
+      "id": "#forge:is_badlands",
+      "required": false
+    },
+    {
+      "id": "#c:badlands",
+      "required": false
+    },
+    "minecraft:snowy_plains",
+    "minecraft:plains",
+    {
+      "id": "#c:plains",
+      "required": false
+    },
+    "minecraft:sunflower_plains",
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_slopes",
+    "minecraft:jagged_peaks",
+    "minecraft:swamp",
+    "minecraft:dripstone_caves",
+    "minecraft:lush_caves",
+    {
+      "id": "#c:is_cave",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/bone_cavern",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/crystalline_cavity",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/empty",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/glacial_carve",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/littoral_hollow",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/underground_jungle",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/boreal_valley",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/moss_basin",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/stranger_flats",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/the_enchanted",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/condemned_taiga",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/creeper_dominion",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/crimson_organism",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/honeybee_biome",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/hungering_jungle",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/ravenous_greenwood",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/crystal_caves",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/diorite_sea",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/eroded_basin",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/petrified_forest",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/ruby_fungi_forest",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/sulfur_caldera",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/titan_dripstone_cavern",
+      "required": false
+    }
+  ]
+}

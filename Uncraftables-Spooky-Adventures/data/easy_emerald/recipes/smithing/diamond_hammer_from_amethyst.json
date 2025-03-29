@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "easy_emerald:amethyst_hammer"
+	},
+	"addition": {
+		"item": "minecraft:diamond_block"
+	},
+	"result": {
+		"item": "easy_emerald:diamond_hammer"
+	},
+	"template": {
+		"item": "minecraft:diamond"
+	}
+}

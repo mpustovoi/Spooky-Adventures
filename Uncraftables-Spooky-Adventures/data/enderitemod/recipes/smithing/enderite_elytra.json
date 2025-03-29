@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "enderitemod:enderite_chestplate"
+	},
+	"addition": {
+		"item": "minecraft:elytra"
+	},
+	"result": {
+		"item": "enderitemod:enderite_elytra"
+	},
+	"template": {
+		"item": "minecraft:string"
+	}
+}

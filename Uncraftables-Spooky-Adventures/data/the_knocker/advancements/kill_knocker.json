@@ -1,0 +1,89 @@
+{
+  "parent": "the_knocker:cant_sleep",
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_door"
+    },
+    "title": {
+      "translate": "advancements.the_knocker.kill_knocker.title",
+      "fallback": "§fI am the one who knocks!"
+    },
+    "description": {
+      "translate": "advancements.the_knocker.kill_knocker.descr",
+      "fallback": "Kill the Knocker"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_knocker": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_knocker:knocker"
+            }
+          }
+        ]
+      }
+    },
+    "k_knockerdeadanimal": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_knocker:knockerdeadanimal"
+            }
+          }
+        ]
+      }
+    },
+    "k_knockerstalk": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_knocker:knockerstalk"
+            }
+          }
+        ]
+      }
+    },
+    "k_knockerstalklooked": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_knocker:knockerstalklooked"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "k_knocker",
+      "k_knockerdeadanimal",
+      "k_knockerstalk",
+      "k_knockerstalklooked"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
+}

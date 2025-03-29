@@ -1,0 +1,32 @@
+{
+  "parent": "bro:enter_void_from_saturated",
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_door"
+    },
+    "title": {
+      "translate": "advancements.bro.enter_overworld_from_void.title",
+      "fallback": "§2Finally Home"
+    },
+    "description": {
+      "translate": "advancements.bro.enter_overworld_from_void.descr",
+      "fallback": "Return to the Overworld"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "enter_overworld_from_void": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "bro:void",
+        "to": "minecraft:overworld"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 150
+  }
+}

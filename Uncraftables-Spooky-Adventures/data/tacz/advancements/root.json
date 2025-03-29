@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:root",
+  "display": {
+    "icon": {
+      "item": "tacz:gun_smith_table"
+    },
+    "title": {
+      "translate": "advancements.tacz.root.title",
+      "fallback": "How could it be more interesting?"
+    },
+    "description": {
+      "translate": "advancements.tacz.root.descr",
+      "fallback": "Create an Advanced Gun Smith Table"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_gun_smith_table": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["tacz:gun_smith_table"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 150
+  }
+}

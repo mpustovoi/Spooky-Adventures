@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SES",
+		"PGP",
+		"EEE"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:evoker_spawn_egg"
+		},
+		"E": {
+			"item": "minecraft:emerald"
+		},
+		"S": {
+			"item": "illagerinvasion:surrendered_spawn_egg"
+		},
+		"P": {
+			"item": "illagerinvasion:primal_essence"
+		}
+	},
+	"result": {
+		"item": "illagerinvasion:invoker_spawn_egg",
+		"count": 1
+	}
+}

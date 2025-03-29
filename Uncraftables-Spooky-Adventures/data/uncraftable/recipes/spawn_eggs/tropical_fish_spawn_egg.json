@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GAG",
+        "GGG"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "G": {
+            "item": "minecraft:tropical_fish"
+        }
+    },
+    "result": {
+		"item": "minecraft:tropical_fish_spawn_egg"
+	}
+}

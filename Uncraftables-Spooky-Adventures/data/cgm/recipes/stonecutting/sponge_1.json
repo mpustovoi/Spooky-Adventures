@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:silencer"
+		}
+	],
+	"result": "minecraft:sponge",
+	"count": 1
+}

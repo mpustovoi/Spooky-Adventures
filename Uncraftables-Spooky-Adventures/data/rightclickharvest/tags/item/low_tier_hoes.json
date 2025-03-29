@@ -1,0 +1,11 @@
+{
+    "values": [
+    "minecraft:wooden_hoe",
+    "minecraft:stone_hoe",
+    "minecraft:golden_hoe",
+    {
+      "id": "easy_emerald:copper_hoe",
+      "required": false
+    }
+  ]
+}

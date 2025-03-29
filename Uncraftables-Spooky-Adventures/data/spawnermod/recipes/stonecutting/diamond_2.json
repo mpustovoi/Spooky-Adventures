@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "spawnermod:spawner_key"
+	},
+	"result": "minecraft:diamond",
+	"count": 2
+}

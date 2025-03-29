@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"GGG",
+		"GAG",
+		"GGG"
+	],
+	"key": {
+		"A": {
+			"item": "minecraft:hoglin_spawn_egg"
+		},
+		"G": {
+			"item": "minecraft:rotten_flesh"
+		}
+	},
+	"result": {
+		"item": "minecraft:zoglin_spawn_egg"
+	}
+}

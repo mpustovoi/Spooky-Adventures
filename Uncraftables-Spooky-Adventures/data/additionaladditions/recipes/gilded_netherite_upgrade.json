@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"RBR",
+		"RCR",
+		"RRR"
+	],
+	"key": {
+		"R": {
+			"item": "minecraft:netherite_scrap"
+		},
+		"C": {
+			"item": "minecraft:blackstone"
+		},
+		"B": {
+			"item": "additionaladditions:gilded_netherite_upgrade"
+		}
+	},
+	"result": {
+		"item": "additionaladditions:gilded_netherite_upgrade",
+		"count": 2
+	}
+}

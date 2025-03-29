@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"EBE",
+		"PGP",
+		"XEX"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:ghast_tear"
+		},
+		"B": {
+			"item": "minecraft:book"
+		},
+		"P": {
+			"item": "minecraft:paper"
+		},
+		"E": {
+			"item": "minecraft:emerald"
+		},
+		"X": {
+			"item": "minecraft:enchanted_book"
+		}
+	},
+	"result": {
+		"item": "illagerinvasion:archivist_spawn_egg",
+		"count": 1
+	}
+}

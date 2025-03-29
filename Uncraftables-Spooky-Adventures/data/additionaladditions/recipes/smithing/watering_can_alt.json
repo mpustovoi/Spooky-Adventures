@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:bucket"
+	},
+	"addition": {
+		"item": "minecraft:waxed_copper_block"
+	},
+	"result": {
+		"item": "additionaladditions:watering_can"
+	},
+	"template": {
+		"item": "minecraft:iron_nugget"
+	}
+}

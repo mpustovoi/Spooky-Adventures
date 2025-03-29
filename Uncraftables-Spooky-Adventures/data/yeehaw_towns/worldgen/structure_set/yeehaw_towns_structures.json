@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "yeehaw_towns:western_town",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 476261561,
+    "spacing": 50,
+    "separation": 15,
+    "type": "minecraft:random_spread"
+  }
+}

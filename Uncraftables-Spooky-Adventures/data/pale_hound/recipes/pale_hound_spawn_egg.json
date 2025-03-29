@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIA",
+    "AEI",
+    "SIS"
+  ],
+  "key": {
+    "E": {
+      "item": "cave_dweller:cave_dweller_spawn_egg"
+    },
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "S": {
+      "item": "minecraft:snow_block"
+    },
+    "I": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "pale_hound:pale_hound_spawn_egg",
+    "count": 1
+  }
+}

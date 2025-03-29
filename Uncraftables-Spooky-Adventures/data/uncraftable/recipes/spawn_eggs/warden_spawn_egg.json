@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_eggs",
+  "pattern": [
+    "HCH",
+    "S#S",
+    "KBK"
+  ],
+  
+  "key": {
+    "C": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "H": {
+      "item": "minecraft:sculk_shrieker"
+    },
+    "#": {
+      "item": "minecraft:nether_star"
+    },
+    "K": {
+      "item": "minecraft:sculk"
+    },
+    "S": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "B": {
+      "item": "minecraft:bone_block"
+    }        
+  },
+  
+  "result": {
+    "item": "minecraft:warden_spawn_egg"
+  }
+}

@@ -1,0 +1,28 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"PEP",
+		"CTC",
+		"PSP"
+	],
+	"key": {
+		"T": {
+			"item": "minecraft:ghast_tear"
+		},
+		"C": {
+			"item": "minecraft:chain"
+		},
+		"P": {
+			"item": "illagerinvasion:platinum_chunk"
+		},
+		"S": {
+			"item": "minecraft:saddle"
+		},
+		"E": {
+			"item": "minecraft:pillager_spawn_egg"
+		}
+	},
+	"result": {
+		"item": "minecraft:ravager_spawn_egg"
+	}
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:husbandry/breed_an_animal",
+  "display": {
+    "icon": {
+      "item": "minecraft:milk_bucket"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.get_milk_bucket.title",
+      "fallback": "Here It Comes"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.get_milk_bucket.descr",
+      "fallback": "Fill a Bucket with milk"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_milk_bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:milk_bucket"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

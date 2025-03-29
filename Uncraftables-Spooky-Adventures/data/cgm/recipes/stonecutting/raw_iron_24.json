@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:shotgun"
+		},
+		{
+			"item": "cgm:rifle"
+		},
+		{
+			"item": "cgm:pump_shotgun"
+		},
+		{
+			"item": "cgm:automatic_sniper_rifle"
+		}		
+	],
+	"result": "minecraft:raw_iron",
+	"count": 24
+}

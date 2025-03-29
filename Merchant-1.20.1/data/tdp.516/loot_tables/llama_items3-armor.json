@@ -1,0 +1,1 @@
+{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:loot_table", "name": "tdp.516:iron_armor", "weight": 7}, {"type": "minecraft:loot_table", "name": "tdp.516:diamond_armor"}], "functions": [{"function": "minecraft:enchant_with_levels", "levels": {"min": 25, "max": 35}, "treasure": false, "conditions": [{"condition": "minecraft:random_chance", "chance": 0.15}]}]}]}

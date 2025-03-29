@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:iron_ingot"
+	},
+	"addition": {
+		"item": "graveyard:corruption"
+	},
+	"result": {
+		"item": "graveyard:dark_iron_ingot"
+	},
+	"template": {
+		"item": "graveyard:corruption"
+	}
+}

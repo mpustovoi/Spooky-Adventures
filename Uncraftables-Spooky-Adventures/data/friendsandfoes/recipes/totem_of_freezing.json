@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"ITI",
+		"SIS"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:blue_ice"
+		},
+		"T": {
+			"item": "minecraft:totem_of_undying"
+		},
+		"S": {
+			"item": "minecraft:snow_block"
+		}
+	},
+	"result": {
+		"item": "friendsandfoes:totem_of_freezing",
+		"count": 1
+	}
+}

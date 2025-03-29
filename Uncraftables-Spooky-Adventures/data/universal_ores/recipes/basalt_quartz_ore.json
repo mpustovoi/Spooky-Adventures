@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MMM",
+		"MSM",
+		"MMM"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:quartz"
+		},
+		"S": {
+			"item": "minecraft:basalt"
+		}
+	},
+	"result": {
+		"item": "universal_ores:basalt_quartz_ore",
+		"count": 1
+	}
+}

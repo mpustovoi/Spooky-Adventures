@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"W",
+		"S",
+		"G"
+	],
+	"key": {
+		"S": {
+			"item": "farlanders:farlander_spawn_egg"
+		},
+		"W": {
+			"item": "minecraft:white_wool"
+		},
+		"G": {
+			"item": "minecraft:gray_wool"
+		}
+	},
+	"result": {
+		"item": "farlanders:elder_spawn_egg",
+		"count": 1
+	}
+}

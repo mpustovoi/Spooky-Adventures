@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "graveyard:dark_iron_door"
+		},
+		{
+			"item": "graveyard:dark_iron_trapdoor"
+		},
+		{
+			"item": "graveyard:candle_holder"
+		},
+		{
+			"item": "graveyard:black_urn"
+		}
+	],
+	"result": "graveyard:dark_iron_ingot",
+	"count": 2
+}

@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "illagerinvasion:platinum_sheet"
+	},
+	"result": "illagerinvasion:platinum_chunk",
+	"count": 4
+}

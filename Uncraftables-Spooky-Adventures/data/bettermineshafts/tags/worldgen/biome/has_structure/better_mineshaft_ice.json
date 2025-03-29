@@ -1,0 +1,39 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ice_spikes",
+    "minecraft:frozen_peaks",
+    {
+      "id": "#byg:is_icy",
+      "required": false
+    },
+    {
+      "id": "#forge:is_icy",
+      "required": false
+    },
+    {
+      "id": "#c:is_icy",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/glacial_carve",
+      "required": false
+    },
+    {
+      "id": "bracken:glacium/boreal_frontier",
+      "required": false
+    },
+    {
+      "id": "bracken:glacium/fractured_wastes",
+      "required": false
+    },
+    {
+      "id": "bracken:glacium/gathheim",
+      "required": false
+    },
+    {
+      "id": "bracken:glacium/glacial_mass",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "values": [
+      "toughasnails:apple_juice",
+      {
+        "id": "farmersdelight:melon_juice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:apple_cider",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:glow_berry_custard",
+        "required": false
+      },
+      {
+        "id": "collectorsreap:pomegranate_custard",
+        "required": false
+      },
+      {
+        "id": "mynethersdelight:spicy_noodle_soup",
+        "required": false
+      },
+      {
+        "id": "alexscavesdelight:bioluminesscence_custard",
+        "required": false
+      },
+      {
+        "id": "deeperdarkerdelight:soul_custard",
+        "required": false
+      },
+      {
+        "id": "oceansdelight:bowl_of_guardian_soup",
+        "required": false
+      },
+      {
+        "id": "ends_delight:dragon_breath_and_chorus_soup",
+        "required": false
+      },
+      {
+        "id": "ends_delight:bubble_tea",
+        "required": false
+      },
+      {
+        "id": "cavebiomesdelight:icicle_juice",
+        "required": false
+      },
+      {
+        "id": "cavebiomesdelight:prickly_peach_juice",
+        "required": false
+      }
+    ]
+}

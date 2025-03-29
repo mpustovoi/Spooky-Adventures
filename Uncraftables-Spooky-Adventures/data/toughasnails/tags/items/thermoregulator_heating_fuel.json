@@ -1,0 +1,72 @@
+{
+  "values": [
+    "toughasnails:charc_os",
+    "minecraft:magma_block",
+    "minecraft:magma_cream",
+    "minecraft:blaze_powder",
+    "minecraft:blaze_rod",
+    "minecraft:fire_charge",
+    "minecraft:coal",
+    "minecraft:charcoal",
+    "minecraft:coal_block",
+    "minecraft:lava_bucket",
+    "minecraft:magma_cube_spawn_egg",
+    "minecraft:blaze_spawn_egg",
+    {
+      "id": "alexsmobs:lava_bootle",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:spawn_egg_laviathan",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:magma_jem",
+      "required": false
+    },
+    {
+      "id": "endrem:nether_eye",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:fire_dust",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:firelight_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "friendsandfoes:wildfire_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "friendsandfoesdelight:wildfire_meat",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:magma_cake",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:heating_cask",
+      "required": false
+    },  
+    {
+      "id": "brewinandchewin:fiery_fondue_pot",
+      "required": false
+    },
+    {
+      "id": "alexscaves:primal_magma",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:magma_cube",
+      "required": false
+    },
+    {
+      "id": "#mynethersdelight:hot_spice",
+      "required": false
+    }
+  ]
+}

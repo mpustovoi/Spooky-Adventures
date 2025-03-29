@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "result": {
+    "item": "minecraft:powder_snow_bucket"
+  }
+}

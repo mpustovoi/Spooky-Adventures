@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "easy_emerald:gold_excavator"
+	},
+	"addition": {
+		"item": "minecraft:amethyst_shard"
+	},
+	"result": {
+		"item": "easy_emerald:amethyst_excavator"
+	},
+	"template": {
+		"item": "minecraft:amethyst_shard"
+	}
+}

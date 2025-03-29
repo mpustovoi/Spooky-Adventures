@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SHS",
+		"ZGZ",
+		"EEE"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:ghast_tear"
+		},
+		"E": {
+			"item": "minecraft:emerald"
+		},
+		"H": {
+			"item": "minecraft:skeleton_skull"
+		},
+		"S": {
+			"item": "minecraft:skeleton_spawn_egg"
+		},
+		"Z": {
+			"item": "minecraft:zombie_spawn_egg"
+		}
+	},
+	"result": {
+		"item": "illagerinvasion:necromancer_spawn_egg",
+		"count": 1
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"AAA",
+		"AEA",
+		"AAA"
+	],
+	"key": {
+		"E": {
+			"item": "farlanders:farlander_spawn_egg"
+		},
+		"A": {
+			"item": "minecraft:apple"
+		}
+	},
+	"result": {
+		"item": "farlanders:enderminion_spawn_egg",
+		"count": 1
+	}
+}

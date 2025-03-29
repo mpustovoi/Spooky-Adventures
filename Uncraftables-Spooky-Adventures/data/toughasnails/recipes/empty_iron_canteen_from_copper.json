@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "toughasnails:empty_copper_canteen"
+    },
+    "addition": {
+        "item": "minecraft:iron_ingot"
+    },
+    "result": {
+        "item": "toughasnails:empty_iron_canteen"
+    },
+    "template": {
+        "item": "minecraft:iron_ingot"
+    }
+}

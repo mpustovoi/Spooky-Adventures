@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  
+  "key": {
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  
+  "result": {
+    "item": "minecraft:bedrock"
+  }
+}

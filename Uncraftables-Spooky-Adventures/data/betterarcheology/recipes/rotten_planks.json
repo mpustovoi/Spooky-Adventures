@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "betterarcheology:rotten_log"
+		}
+	],
+	"result": {
+		"item": "betterarcheology:rotten_planks",
+		"count": 4
+	}
+}

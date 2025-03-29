@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"DBD",
+		"DGD",
+		"ETE"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bow"
+		},
+		"E": {
+			"item": "minecraft:emerald"
+		},
+		"T": {
+			"item": "minecraft:potion"
+		},
+		"G": {
+			"item": "minecraft:ghast_tear"
+		},
+		"D": {
+			"item": "minecraft:fermented_spider_eye"
+		}
+	},
+	"result": {
+		"item": "guardvillagers:illusioner_spawn_egg",
+		"count": 1
+	}
+}

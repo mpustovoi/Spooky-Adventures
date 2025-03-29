@@ -1,0 +1,141 @@
+{
+  "values": [
+    "toughasnails:ice_cream",
+    {
+      "id": "collectorsreap:lime_ice_cream",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:lime_popsicle",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:pomegranate_ice_cream",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:icicle",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:icicle_wrap",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:icicle_juice",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:frost_lily_ice_cream",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:frost_lily_punch",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:glazed_frost_lily",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:cooked_ice_cube",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:ice_cube",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:cut_cooked_ice_cube",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:cut_ice_cube",
+      "required": false
+    },
+    {
+      "id": "alexscaves:sundae",
+      "required": false
+    },
+    {
+      "id": "alexscaves:vanilla_ice_cream",
+      "required": false
+    },
+    {
+      "id": "alexscaves:chocolate_ice_cream",
+      "required": false
+    },
+    {
+      "id": "alexscaves:sweetberry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "alexscaves:vanilla_ice_cream_scoop",
+      "required": false
+    },
+    {
+      "id": "alexscaves:chocolate_ice_cream_scoop",
+      "required": false
+    },
+    {
+      "id": "alexscaves:sweetberry_ice_cream_scoop",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:vanilla_ice_cream",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:chocolate_ice_cream",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:sweetberry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:mint_ice_cream",
+      "required": false
+    },
+    {
+      "id": "deeperdarkerdelight:soul_custard",
+      "required": false
+    },
+    {
+      "id": "deeperdarkerdelight:soul_crystal_shard",
+      "required": false
+    },
+    {
+      "id": "borninchaosdelight:holiday_candy_ice_cream",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:cactus_ice_cream",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:ice_cream_shake",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:sweet_berry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "promenadedelight:banana_ice_cream",
+      "required": false
+    },
+    {
+      "id": "graveyarddelight:blood_ice_cream",
+      "required": false
+    },
+    {
+      "id": "graveyarddelight:corruotion_ice_cream",
+      "required": false
+    },
+    {
+      "id": "graveyarddelight:corruption_ice_cream",
+      "required": false
+    }
+  ]
+}

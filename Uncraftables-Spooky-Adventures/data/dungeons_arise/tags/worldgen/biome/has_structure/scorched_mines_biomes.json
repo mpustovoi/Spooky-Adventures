@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:desert",
+    {
+      "id": "#c:is_desert",
+      "required": false
+    },
+    "#minecraft:has_structure/desert_pyramid",
+    {
+      "id": "bracken:sanctum/dark_soot_dunes",
+      "required": false
+    },
+    {
+      "id": "bracken:sanctum/no_mans_land",
+      "required": false
+    },
+    {
+      "id": "bracken:sanctum/toxic_playa",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_deserts",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" X ",
+		"XOX",
+		" X "
+	],
+	"key": {
+		"O": {
+			"item": "additionaladditions:rose_gold_alloy"
+		},
+		"X": {
+		"item": "additionaladditions:chicken_nugget"
+		}
+	},
+	"result": {
+		"item": "additionaladditions:music_disc_1007"
+	}
+}

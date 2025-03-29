@@ -1,0 +1,56 @@
+{
+  "values": [
+    {
+      "id": "enderzoology:hunting_bow",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_bow",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_bow",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_bow",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_bow",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_bow",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_bow",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:ruby_bow",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:obsidian_bow",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:copper_bow",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:amethyst_bow",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_bow",
+      "required": false
+    },
+    {
+      "id": "alexscaves:dread_bow",
+      "required": false
+    }
+  ]
+}

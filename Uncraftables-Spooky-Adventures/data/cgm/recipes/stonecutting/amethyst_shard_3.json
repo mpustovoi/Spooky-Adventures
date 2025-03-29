@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:ballistic_scope"
+		}
+	],
+	"result": "minecraft:amethyst_shard",
+	"count": 3
+}

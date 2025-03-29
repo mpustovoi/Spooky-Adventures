@@ -1,0 +1,93 @@
+{
+  "values": [
+    {
+      "id": "#forge:raw_bacon",
+      "required": false
+    },
+    {
+      "id": "#forge:raw_beef",
+      "required": false
+    },
+    {
+      "id": "#forge:raw_chicken",
+      "required": false
+    },
+    {
+      "id": "#forge:raw_mutton",
+      "required": false
+    },
+    {
+      "id": "#forge:raw_pork",
+      "required": false
+    },
+    "minecraft:rotten_flesh",
+    {
+      "id": "promenade:duck",
+      "required": false
+    },
+    {
+      "id": "promenadedelight:cut_duck",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:lobster_tail",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:moose_ribs",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:kangaroo_meat",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:kangaroo_shank",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:loose_moose_rib",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:raw_bunfungus_drumstick",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:raw_bunfungus",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:raw_bison",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:bison_mince",
+      "required": false
+    },
+    {
+      "id": "alexscaves:trilocararis_tail",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:cut_trilocararis_tail",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:cut_dinosaur_chop_raw",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:hoglin_loin",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:crab",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:clawster",
+      "required": false
+    }
+  ]
+}

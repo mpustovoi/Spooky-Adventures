@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:short_scope"
+		}
+	],
+	"result": "minecraft:redstone",
+	"count": 1
+}

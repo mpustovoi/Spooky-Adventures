@@ -1,0 +1,39 @@
+{
+  "parent": "uncraftable:find_ancient_city",
+  "display": {
+    "icon": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.kill_warden.title",
+      "fallback": "Was It Worth It?"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.kill_warden.descr",
+      "fallback": "Kill the Keeper of the Ancient City"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_warden": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:warden"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "rewards": {
+    "experience": 5000
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_taiga",
+    "#minecraft:is_hill",
+    "#minecraft:is_mountain",
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#c:is_hill",
+      "required": false
+    },
+    {
+      "id": "#c:is_mountain",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/basalt_climb",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/crystallized_peaks",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/verdant_spires",
+      "required": false
+    },
+    {
+      "id": "bracken:pax/autumn_idyll",
+      "required": false
+    },
+    {
+      "id": "bracken:pax/cenotaph",
+      "required": false
+    },
+    {
+      "id": "bracken:pax/grand_machair",
+      "required": false
+    },
+    {
+      "id": "bracken:pax/petal_grove",
+      "required": false
+    },
+    {
+      "id": "bracken:pax/sky_garden",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_taigas",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_mountains",
+      "required": false
+    }
+  ]
+}

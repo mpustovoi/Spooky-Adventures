@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:root",
+  "display": {
+    "icon": {
+      "item": "cgm:bazooka"
+    },
+    "title": {
+      "translate": "advancements.cgm.bazooka.title",
+      "fallback": "The Demon's Trumpet"
+    },
+    "description": {
+      "translate": "advancements.cgm.bazooka.descr",
+      "fallback": "Get a Bazooka"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_bazooka": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:bazooka"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

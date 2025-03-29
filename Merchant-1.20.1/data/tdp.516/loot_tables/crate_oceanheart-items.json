@@ -1,0 +1,1 @@
+{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:loot_table", "name": "tdp.516:crate_oceanheart-items_success"}, {"type": "minecraft:loot_table", "name": "tdp.516:crate_oceanheart-items_fail", "weight": 9}]}]}

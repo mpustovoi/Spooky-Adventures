@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:extended_barrel"
+		}
+	],
+	"result": "minecraft:iron_nugget",
+	"count": 7
+}

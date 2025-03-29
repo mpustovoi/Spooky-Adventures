@@ -1,0 +1,33 @@
+{
+  "parent": "farlanders:root",
+  "display": {
+    "icon": {
+      "item": "farlanders:ender_guardian_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.farlanders.guard.title",
+      "fallback": "The Defense is Weakening..."
+    },
+    "description": {
+      "translate": "advancements.farlanders.guard.descr",
+      "fallback": "Kill an Ender Guardian"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_guard": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "farlanders:ender_guardian"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 75
+  }
+}

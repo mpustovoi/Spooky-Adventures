@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:machine_pistol_item",
+  "display": {
+    "icon": {
+      "item": "cgm:mini_gun"
+    },
+    "title": {
+      "translate": "advancements.cgm.minigun.title",
+      "fallback": "Get a Minigun"
+    },
+    "description": {
+      "translate": "advancements.cgm.minigun.descr",
+      "fallback": "I'll be Back"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_minigun": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:mini_gun"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

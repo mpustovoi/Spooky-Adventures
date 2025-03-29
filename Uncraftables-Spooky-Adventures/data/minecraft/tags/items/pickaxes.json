@@ -1,0 +1,152 @@
+{
+  "values": [
+    {
+      "id": "additionaladditions:gilded_netherite_pickaxe",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:rose_gold_pickaxe",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:skullbreaker_hammer",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_hammer",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_pickaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_hammer",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_pickaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_hammer",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_pickaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:gold_hammer",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_hammer",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_pickaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_hammer",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_pickaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "oxidized:rose_gold_pickaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:amethyst_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:amethyst_pickaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:copper_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:copper_pickaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_pickaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:gold_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:obsidian_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:obsidian_pickaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:ruby_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:ruby_pickaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:steel_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:steel_pickaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:hulk_hammer",
+      "required": false
+    }
+  ]
+}

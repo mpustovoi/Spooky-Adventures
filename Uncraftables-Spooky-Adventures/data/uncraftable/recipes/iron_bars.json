@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB"
+  ],
+  
+  "key": {
+    "B": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  
+  
+  "result": {
+    "item": "minecraft:iron_bars",
+		"count": 48
+  }
+}

@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BLB",
+		"BTB",
+		"SLS"
+	],
+	"key": {
+		"T": {
+			"item": "minecraft:ghast_tear"
+		},
+		"L": {
+			"item": "deeperdarker:sculk_leech_spawn_egg"
+		},
+		"B": {
+			"item": "deeperdarker:sculk_bone"
+		},
+		"S": {
+			"item": "minecraft:sculk"
+		}
+	},
+	"result": {
+		"item": "deeperdarker:shriek_worm_spawn_egg",
+		"count": 1
+	}
+}

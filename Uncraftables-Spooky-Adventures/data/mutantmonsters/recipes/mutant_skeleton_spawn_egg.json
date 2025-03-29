@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SUS",
+		"RER",
+		"LPL"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:skeleton_spawn_egg"
+		},
+		"U": {
+			"item": "mutantmonsters:mutant_skeleton_skull"
+		},
+		"S": {
+			"item": "mutantmonsters:mutant_skeleton_shoulder_pad"
+		},
+		"L": {
+			"item": "mutantmonsters:mutant_skeleton_limb"
+		},
+		"R": {
+			"item": "mutantmonsters:mutant_skeleton_rib"
+		},
+		"P": {
+			"item": "mutantmonsters:mutant_skeleton_pelvis"
+		}
+	},
+	"result": {
+		"item": "mutantmonsters:mutant_skeleton_spawn_egg",
+		"count": 1
+	}
+}

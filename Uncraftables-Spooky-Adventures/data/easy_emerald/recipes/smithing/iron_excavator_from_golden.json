@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "easy_emerald:gold_excavator"
+	},
+	"addition": {
+		"item": "minecraft:iron_block"
+	},
+	"result": {
+		"item": "easy_emerald:iron_excavator"
+	},
+	"template": {
+		"item": "minecraft:iron_ingot"
+	}
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:story/iron_tools",
+  "display": {
+    "icon": {
+      "item": "minecraft:spawner"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.get_spawner.title",
+      "fallback": "Why Not?"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.get_spawner.descr",
+      "fallback": "Take a Spawner for Yourself"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_spawner": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:spawner"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500
+  }
+}

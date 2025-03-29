@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:shulker_box"
+	},
+	"addition": {
+		"item": "enderitemod:enderite_ingot"
+	},
+	"result": {
+		"item": "enderitemod:enderite_shulker_box"
+	},
+	"template": {
+		"item": "enderitemod:enderite_upgrade_smithing_template"
+	}
+}

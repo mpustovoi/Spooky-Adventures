@@ -1,0 +1,310 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{instrument:\"minecraft:dream_goat_horn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{instrument:\"minecraft:yearn_goat_horn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{instrument:\"minecraft:call_goat_horn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{instrument:\"minecraft:admire_goat_horn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{instrument:\"minecraft:feel_goat_horn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{instrument:\"minecraft:seek_goat_horn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{instrument:\"minecraft:sing_goat_horn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{instrument:\"minecraft:ponder_goat_horn\"}"
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+    },
+    {
+      "rolls": 4,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:rotten_flesh",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.5
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wheat_seeds",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.3
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:melon_seeds",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.3
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:beetroot_seeds",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.3
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pumpkin_seeds",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.3
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torchflower_seeds",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wheat",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:melon_slice",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potato",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:beetroot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "conditions": [
+            {
+              "condition": "minecraft:killed_by_player"
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.05
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_carrot",
+          "conditions": [
+            {
+              "condition": "minecraft:killed_by_player"
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.08
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "conditions": [
+            {
+              "condition": "minecraft:killed_by_player"
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.01
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "goat_man:entities/goat_man"
+}

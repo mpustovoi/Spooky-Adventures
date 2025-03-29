@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "monster_egg",
+  "ingredients": [
+  
+    {
+      "item": "minecraft:sculk"
+    },
+    {
+    "item": "deeperdarker:shriek_worm_spawn_egg"
+    }
+    
+  ],
+  "result": {
+    "item": "deeperdarker:infested_sculk"
+  }
+}

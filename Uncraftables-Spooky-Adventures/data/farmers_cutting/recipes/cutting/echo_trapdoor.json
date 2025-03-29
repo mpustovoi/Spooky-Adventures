@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "deeperdarker:echo_trapdoor"
+    }
+  ],
+  "result": [
+    {
+      "item": "deeperdarker:echo_planks"
+    }
+  ],
+  "sound": "minecraft:item.axe.strip",
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_strip"
+  }
+}

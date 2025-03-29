@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"ASA",
+		"STS",
+		"SSS"
+	],
+	"key": {
+		"T": {
+			"item": "minecraft:ghast_tear"
+		},
+		"S": {
+			"item": "minecraft:sand"
+		},
+		"A": {
+			"item": "minecraft:saddle"
+		}
+	},
+	"result": {
+		"item": "minecraft:camel_spawn_egg"
+	}
+}

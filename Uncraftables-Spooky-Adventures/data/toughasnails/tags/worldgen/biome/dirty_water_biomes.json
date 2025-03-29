@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:mangrove_swamp",
+    "minecraft:mushroom_fields",
+    "minecraft:swamp",
+    {
+      "id": "#c:is_swamp",
+      "required": false
+    },
+    {
+      "id": "#c:is_mushroom",
+      "required": false
+    }
+  ]
+}

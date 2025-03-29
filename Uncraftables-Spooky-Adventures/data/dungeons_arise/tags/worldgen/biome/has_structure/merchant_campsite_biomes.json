@@ -1,0 +1,56 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:meadow",
+    "minecraft:sunflower_plains",
+    {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/boreal_valley",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/moss_basin",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/stranger_flats",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/the_enchanted",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_plains",
+      "required": false
+    }
+  ]
+}

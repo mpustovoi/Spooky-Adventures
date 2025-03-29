@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:rifle_item",
+  "display": {
+    "icon": {
+      "item": "cgm:assault_rifle"
+    },
+    "title": {
+      "translate": "advancements.cgm.assault_rifle.title",
+      "fallback": "Stormtrooper"
+    },
+    "description": {
+      "translate": "advancements.cgm.assault_rifle.descr",
+      "fallback": "Create an Assault Rifle"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_assault_rifle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:assault_rifle"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

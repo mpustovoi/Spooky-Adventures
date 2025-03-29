@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:adventure/ol_betsy",
+  "display": {
+    "icon": {
+      "item": "illagerinvasion:platinum_infused_hatchet"
+    },
+    "title": {
+      "translate": "advancements.illagerinvasion.whos_the_marauder_now.title",
+      "fallback": "Who's the Marauder Now?"
+    },
+    "description": {
+      "translate": "advancements.illagerinvasion.whos_the_marauder_now.descr",
+      "fallback": "Give a Marauder a taste of their own medicine"
+    },
+    "announce_to_chat": true,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": true
+  },
+  "criteria": {
+    "kill_marauder_with_hatchet": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "illagerinvasion:marauder"
+        },
+        "killing_blow": {
+          "source_entity": {
+            "type": "minecraft:player",
+            "nbt": "{SelectedItem:{id:\"illagerinvasion:platinum_infused_hatchet\"}}"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [["kill_marauder_with_hatchet"]],
+  "sends_telemetry_event": true
+}

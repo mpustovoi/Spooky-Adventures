@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BBB", "BTB", "BBB"],
+  "key": {
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "B": {
+      "item": "minecraft:bamboo"
+    }
+  },
+  "result": {
+    "item": "creeperoverhaul:bamboo_creeper_spawn_egg",
+    "count": 1
+  }
+}

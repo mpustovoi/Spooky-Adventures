@@ -1,0 +1,118 @@
+{
+  "values": [
+    "minecraft:the_end",
+    "minecraft:small_end_islands",
+    "minecraft:end_midlands",
+    "minecraft:end_highlands",
+    "minecraft:end_barrens",
+    "minecraft:deep_dark",
+    "minecraft:taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_forest",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:cold_ocean",
+    "minecraft:deep_cold_ocean",
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#c:is_end",
+      "required": false
+    },
+    {
+      "id": "#c:is_cold",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/ice_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/deep_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/frostfire_cavess",
+      "required": false
+    },
+    {
+      "id": "nullscape:crystal_peaks",
+      "required": false
+    },
+    {
+      "id": "nullscape:shadowlands",
+      "required": false
+    },
+    {
+      "id": "nullscape:void_barrens",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:frosted_caves",
+      "required": false
+    },
+    {
+      "id": "promenade:glacarian_taiga",
+      "required": false
+    },
+    {
+      "id": "alexscaves:abyssal_chasm",
+      "required": false
+    },
+    {
+      "id": "alexscaves:magnetic_caves",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:blooming_caverns",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:deeplands",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:echoing_forest",
+      "required": false
+    },
+    {
+      "id": "bro:river",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/glacial_carve",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/freezer",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/littoral_hollow",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/sunken_depths",
+      "required": false
+    },
+    {
+      "id": "bro:void/void_below",
+      "required": false
+    },
+    {
+      "id": "bro:void/void_inverse_below",
+      "required": false
+    },
+    {
+      "id": "bro:void/void_inverse",
+      "required": false
+    },
+    {
+      "id": "bro:void/void",
+      "required": false
+    }
+  ]
+}

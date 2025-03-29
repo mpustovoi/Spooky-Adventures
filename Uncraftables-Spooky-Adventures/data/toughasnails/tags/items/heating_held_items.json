@@ -1,0 +1,178 @@
+{
+  "values": [
+    "minecraft:lava_bucket",
+    "minecraft:blaze_rod",
+    "minecraft:blaze_powder",
+    "minecraft:fire_charge",
+    "minecraft:magma_cube_spawn_egg",
+    "minecraft:blaze_spawn_egg",
+    {
+      "id": "alexsmobs:lava_bootle",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:spawn_egg_laviathan",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:magma_jem",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:uranium_pie",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:uranium_knife",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:toxic_sauce",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:toxic_jem",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:toxic_hamburger",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:toxic_noodle_soup",
+      "required": false
+    },
+    {
+      "id": "alexscaves:toxic_paste",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:acid_radgill_stew",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:acid_juice",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:acid_pasta",
+      "required": false
+    },
+    {
+      "id": "alexscaves:acidic_radrock",
+      "required": false
+    },
+    {
+      "id": "alexscaves:acid_bucket",
+      "required": false
+    },
+    {
+      "id": "alexscaves:radgill_bucket",
+      "required": false
+    },
+    {
+      "id": "alexscaves:unrefined_waste",
+      "required": false
+    },
+    {
+      "id": "alexscaves:waste_drum",
+      "required": false
+    },
+    {
+      "id": "alexscaves:radrock_uranium_ore",
+      "required": false
+    },
+    {
+      "id": "alexscaves:uranium_rod",
+      "required": false
+    },
+    {
+      "id": "alexscaves:block_of_uranium",
+      "required": false
+    },
+    {
+      "id": "alexscaves:uranium",
+      "required": false
+    },
+    {
+      "id": "alexscaves:uranium_shard",
+      "required": false
+    },
+    {
+      "id": "endrem:nether_eye",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_blood",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_tears",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_ingot",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_sword",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_pickaxe",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:fiery_knife",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:teardrop_sword",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:fiery_fondue_pot",
+      "required": false
+    },
+    {
+      "id": "friendsandfoes:wildfire_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "friendsandfoesdelight:wildfire_meat",
+      "required": false
+    },
+    {
+      "id": "aether:flaming_sword",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:fire_dust",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:firelight_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "lost_aether_content:phoenix_sword",
+      "required": false
+    },
+    {
+      "id": "lost_aether_content:phoenix_shovel",
+      "required": false
+    },
+    {
+      "id": "lost_aether_content:phoenix_pickaxe",
+      "required": false
+    },
+    {
+      "id": "lost_aether_content:phoenix_axe",
+      "required": false
+    },
+    {
+      "id": "lost_aether_content:phoenix_hoe",
+      "required": false
+    }
+  ]
+}

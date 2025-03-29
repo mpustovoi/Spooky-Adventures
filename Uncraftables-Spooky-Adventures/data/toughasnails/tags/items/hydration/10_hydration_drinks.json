@@ -1,0 +1,323 @@
+{
+  "values": [
+    "minecraft:apple",
+    "minecraft:golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "toughasnails:dirty_water_bottle",
+    "toughasnails:leather_dirty_water_canteen",
+    "toughasnails:copper_dirty_water_canteen",
+    "toughasnails:iron_dirty_water_canteen",
+    "toughasnails:gold_dirty_water_canteen",
+    "toughasnails:diamond_dirty_water_canteen",
+    "toughasnails:netherite_dirty_water_canteen",
+    "minecraft:honey_bottle",
+    "minecraft:sweet_berries",
+    "minecraft:glow_berries",
+    "toughasnails:ice_cream",
+    {
+      "id": "additionaladditions:blueberries",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:blueberries_cookie",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:berry_pie",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:bloom_berries",
+      "required": false
+    },
+    {
+      "id": "deeperdarkerdelight:bloom_berries_cookie",
+      "required": false
+    },
+    {
+      "id": "deeperdarkerdelight:bloom_jem",
+      "required": false
+    },
+    {
+      "id": "deeperdarkerdelight:resonarium_jem",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:sweet_berry_cheesecake_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:sweet_berry_cookie",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cake_slice",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:pomegranate_cake_slice",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:lime_cake_slice",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:portobello_quiche_slice",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:lime_slice",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:lime",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:candied_lime",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:lime_pie_slice",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:crab_cakes",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:phytochemical_juice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:pumpkin_pie_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:apple_pie_slice",
+      "required": false
+    },
+    {
+      "id": "moredelight:toast_with_sweet_berries",
+      "required": false
+    },
+    {
+      "id": "moredelight:toast_with_glow_berries",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:mint_ice_cream",
+      "required": false
+    },
+    {
+      "id": "borninchaosdelight:mint_jem",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:pickled_pickles",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:quiche_slice",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:withering_dross",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:sulfur_jem",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:sweet_puff_jem",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:toxic_jem",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:magma_jem",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:bioluminesscence_jem",
+      "required": false
+    },
+    {
+      "id": "alexscaves:vanilla_ice_cream_scoop",
+      "required": false
+    },
+    {
+      "id": "alexscaves:chocolate_ice_cream_scoop",
+      "required": false
+    },
+    {
+      "id": "alexscaves:sweetberry_ice_cream_scoop",
+      "required": false
+    },
+    {
+      "id": "alexscaves:darkened_apple",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:pumpkin_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomato",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:pomegranate_slice",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:lime_ice_cream",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:limeade",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:shimmering_apple",
+      "required": false
+    },
+    "minecraft:melon_slice",
+    {
+      "id": "farmersdelight:hot_cocoa",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:honeyed_apple",
+      "required": false
+    },
+    {
+      "id": "miners_delight:beetroot_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:bat_soup_cup",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:rock_soup_cup",
+      "required": false
+    },
+    {
+      "id": "deeperdarkerdelight:bloom_berries_pie",
+      "required": false
+    },
+    {
+      "id": "borninchaosdelight:holiday_candy_jem",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:thorn_rose_tea",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:sea_pickle_juice",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:chorus_fruit_jem",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:cactus_jem",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:apple_jem",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:melon_jem",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:pumpkin_jem",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:glow_berry_jem",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:glow_berry_pie",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:sweet_berry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:sweet_berry_jem",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:caramel_jem",
+      "required": false
+    },
+    {
+      "id": "silentsdelight:sculk_shrieker_shake",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:frost_lily_ice_cream",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:vanilla_ice_cream",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:chocolate_ice_cream",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:sweetberry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "borninchaosdelight:holiday_candy_ice_cream",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:cactus_ice_cream",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:charc_os_ice_cream",
+      "required": false
+    },
+    {
+      "id": "toughasdelight:sweet_berry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "promenadedelight:banana_ice_cream",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:kelp_shake",
+      "required": false
+    },
+    {
+      "id": "graveyarddelight:corruption_jem",
+      "required": false
+    },
+    {
+      "id": "graveyarddelight:corruotion_ice_cream",
+      "required": false
+    },
+    {
+      "id": "graveyarddelight:corruption_ice_cream",
+      "required": false
+    }
+  ]
+}

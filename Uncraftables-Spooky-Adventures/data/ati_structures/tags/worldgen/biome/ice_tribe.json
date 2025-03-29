@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:frozen_ocean",
+        "minecraft:deep_frozen_ocean",
+        {
+            "id": "#c:is_aquatic_icy",
+            "required": false
+        }
+    ]
+}

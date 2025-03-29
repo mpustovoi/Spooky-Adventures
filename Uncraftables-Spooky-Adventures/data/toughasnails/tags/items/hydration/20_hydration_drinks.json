@@ -1,0 +1,237 @@
+{
+  "values": [
+    "minecraft:potion",
+    "toughasnails:leather_water_canteen",
+    "toughasnails:copper_water_canteen",
+    "toughasnails:iron_water_canteen",
+    "toughasnails:gold_water_canteen",
+    "toughasnails:diamond_water_canteen",
+    "toughasnails:netherite_water_canteen",
+    "minecraft:beetroot_soup",
+    {
+      "id": "collectorsreap:lime_popsicle",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:limeade",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:pink_limeade",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:melon_popsicle",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:milk_bottle",
+      "required": false
+    },
+    {
+      "id": "ends_delight:chorus_fruit_popsicle",
+      "required": false
+    },
+    {
+      "id": "moredelight:chocolate_popsicle",
+      "required": false
+    },
+    {
+      "id": "miners_delight:milk_cup",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:torchberry_juice",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:aetherflower_tea",
+      "required": false
+    },
+    {
+      "id": "aetherdelight:swet_syrup",
+      "required": false
+    },
+    {
+      "id": "promenadedelight:blueberries_shake",
+      "required": false
+    },
+    {
+      "id": "promenadedelight:maple_jem",
+      "required": false
+    },
+    {
+      "id": "promenadedelight:banana_jem",
+      "required": false
+    },
+    {
+      "id": "promenadedelight:blueberries_jem",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:apple_jelly",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:sweet_berry_jam",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:glow_berry_marmalade",
+      "required": false
+    },
+    {
+      "id": "graveyarddelight:blood_ice_cream",
+      "required": false
+    },
+    {
+      "id": "miners_delight:vegetable_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:cave_soup_cup",
+      "required": false
+    },
+    {
+      "id": "alexscaves:primordial_soup",
+      "required": false
+    },
+    {
+      "id": "alexscaves:caramel_apple",
+      "required": false
+    },
+    {
+      "id": "alexscaves:giant_sweetberry",
+      "required": false
+    },
+    {
+      "id": "alexscaves:jelly_bean",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:rainbow_jelly",
+      "required": false
+    },
+    "minecraft:pumpkin_pie",
+    {
+      "id": "twilightdelight:twilight_spring",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:tear_drink",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:sweet_berry_cheesecake",
+      "required": false
+    },
+    {
+      "id": "miners_delight:bat_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:noodle_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:chicken_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:pumpkin_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:spicy_noodle_soup_cup",
+      "required": false
+    },
+    {
+      "id": "ends_delight:shulker_soup",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:rock_soup",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:mussel_soup",
+      "required": false
+    },
+    {
+      "id": "aether:skyroot_milk_bucket",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:portobello_quiche",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:lime_pie",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:quiche",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:beer",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:vodka",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:mead",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:rice_wine",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:egg_grog",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:strongroot_ale",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:saccharine_rum",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:pale_jane",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:salty_folly",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:steel_toe_stout",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:glittering_grenadine",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:bloody_mary",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:red_rum",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:dread_nog",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:kombucha",
+      "required": false
+    }
+  ]
+}

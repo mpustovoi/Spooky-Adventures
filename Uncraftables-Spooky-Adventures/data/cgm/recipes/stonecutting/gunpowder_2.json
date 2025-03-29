@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		
+		{
+			"item": "cgm:grenade"
+		}
+	],
+	"result": "minecraft:gunpowder",
+	"count": 2
+}

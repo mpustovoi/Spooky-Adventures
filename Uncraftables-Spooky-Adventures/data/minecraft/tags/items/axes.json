@@ -1,0 +1,160 @@
+{
+  "values": [
+    {
+      "id": "additionaladditions:gilded_netherite_axe",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:rose_gold_axe",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:great_reaper_axe",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:wood_splitter_axe",
+      "required": false
+    },
+    {
+      "id": "dungeons_plus:warped_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:diamond_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:gold_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:iron_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:netherite_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:wooden_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:amethyst_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:amethyst_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:copper_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:copper_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:diamond_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:gold_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:iron_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:netherite_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:obsidian_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:obsidian_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:ruby_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:ruby_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:steel_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:steel_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:wooden_treeaxe",
+      "required": false
+    },
+    {
+      "id": "illagerinvasion:platinum_infused_hatchet",
+      "required": false
+    },
+    {
+      "id": "oxidized:rose_gold_axe",
+      "required": false
+    }
+  ]
+}

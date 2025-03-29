@@ -1,0 +1,120 @@
+{
+  "values": [
+    "toughasnails:wool_helmet",
+    "toughasnails:wool_chestplate",
+    "toughasnails:wool_leggings",
+    "toughasnails:wool_boots",
+    {
+      "id": "twilightforest:fiery_helmet",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_chestplate",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_leggings",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_boots",
+      "required": false
+    },
+    {
+      "id": "twilightforest:arctic_helmet",
+      "required": false
+    },
+    {
+      "id": "twilightforest:arctic_chestplate",
+      "required": false
+    },
+    {
+      "id": "twilightforest:arctic_leggings",
+      "required": false
+    },
+    {
+      "id": "twilightforest:arctic_boots",
+      "required": false
+    },
+    {
+      "id": "twilightforest:yeti_helmet",
+      "required": false
+    },
+    {
+      "id": "twilightforest:yeti_chestplate",
+      "required": false
+    },
+    {
+      "id": "twilightforest:yeti_leggings",
+      "required": false
+    },
+    {
+      "id": "twilightforest:yeti_boots",
+      "required": false
+    },
+    {
+      "id": "alexscaves:diving_helmet",
+      "required": false
+    },
+    {
+      "id": "alexscaves:diving_chestplate",
+      "required": false
+    },
+    {
+      "id": "alexscaves:diving_leggings",
+      "required": false
+    },
+    {
+      "id": "alexscaves:diving_boots",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:wither_helmet",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:wither_chestplate",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:wither_leggings",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:wither_boots",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:robe_helmet",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:robe_chestplate",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:robe_leggings",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:robe_boots",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:divine_helmet",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:divine_chestplate",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:divine_leggings",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:divine_boots",
+      "required": false
+    }
+  ]
+}

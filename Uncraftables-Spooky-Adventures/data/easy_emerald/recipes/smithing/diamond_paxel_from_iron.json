@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "easy_emerald:iron_paxel"
+	},
+	"addition": {
+		"item": "minecraft:diamond_block"
+	},
+	"result": {
+		"item": "easy_emerald:diamond_paxel"
+	},
+	"template": {
+		"item": "minecraft:diamond"
+	}
+}

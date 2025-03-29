@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "minecraft:wooden_pickaxe"
+    },
+    "addition": {
+        "item": "minecraft:gold_ingot"
+    },
+    "result": {
+        "item": "minecraft:golden_pickaxe"
+    },
+	"template": {
+		"item": "minecraft:gold_nugget"
+	}
+}

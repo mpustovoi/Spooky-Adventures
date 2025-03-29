@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:netherite_ingot"
+	},
+	"result": "minecraft:raw_gold",
+	"count": 4
+}

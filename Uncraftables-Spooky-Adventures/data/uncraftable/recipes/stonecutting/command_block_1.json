@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "minecraft:command_block_minecart"
+		},
+		{
+			"item": "minecraft:repeating_command_block"
+		},
+		{
+			"item": "minecraft:chain_command_block"
+		}
+	],
+	"result": "minecraft:command_block",
+	"count": 1
+}

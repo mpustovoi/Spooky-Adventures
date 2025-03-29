@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:rapid_smg"
+		}
+	],
+	"result": "minecraft:raw_iron",
+	"count": 23
+}

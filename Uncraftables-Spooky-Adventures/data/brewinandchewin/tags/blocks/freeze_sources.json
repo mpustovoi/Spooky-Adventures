@@ -1,0 +1,32 @@
+{
+  "values": [
+    "brewinandchewin:ice_crate",
+    "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+    {
+      "id": "terrainslabs:packed_ice_slab",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:icicle",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:rare_ice",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:ice_sheet",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:ice_crate",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:snow",
+      "required": false
+    }
+  ]
+}

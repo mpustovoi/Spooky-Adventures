@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:mushroom_fields",
+    {
+      "id": "#forge:is_mushroom",
+      "required": false
+    },
+    {
+      "id": "#c:is_mushroom",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:fungal_jungle",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/ruby_fungi_forest",
+      "required": false
+    }
+  ]
+}

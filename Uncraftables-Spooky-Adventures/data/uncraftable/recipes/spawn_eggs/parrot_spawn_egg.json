@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GAG",
+        "GGG"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "G": [
+					{
+            "item": "minecraft:wheat_seeds"
+        	},
+					{
+            "item": "minecraft:pumpkin_seeds"
+        	},
+					{
+            "item": "minecraft:melon_seeds"
+        	},
+					{
+            "item": "minecraft:beetroot_seeds"
+        	}
+				]
+    },
+    "result": {
+		"item": "minecraft:parrot_spawn_egg"
+	}
+}

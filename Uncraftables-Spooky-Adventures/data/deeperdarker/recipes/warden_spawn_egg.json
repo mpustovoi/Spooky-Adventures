@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CSC",
+		"SHS",
+		"SSS"
+	],
+	"key": {
+		"S": {
+			"item": "deeperdarker:shattered_spawn_egg"
+		},
+		"H": {
+			"item": "deeperdarker:heart_of_the_deep"
+		},
+		"C": {
+			"item": "deeperdarker:warden_carapace"
+		}
+	},
+	"result": {
+		"item": "minecraft:warden_spawn_egg",
+		"count": 1
+	}
+}

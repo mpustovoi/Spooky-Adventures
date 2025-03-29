@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_slopes",
+    "#minecraft:is_taiga",
+    {
+      "id": "#c:is_snowy_plains",
+      "required": false
+    },
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/boreal_valley",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/moss_basin",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/stranger_flats",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/the_enchanted",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_taigas",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_snowy",
+      "required": false
+    }
+  ]
+}

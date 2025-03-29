@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"FEF",
+		"FFF"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		"F": {
+			"item": "minecraft:crimson_fungus"
+		},
+		"P": {
+			"item": "endermanoverhaul:crimson_pearl"
+		}
+	},
+	"result": {
+		"item": "endermanoverhaul:crimson_forest_enderman_spawn_egg",
+		"count": 1
+	}
+}

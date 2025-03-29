@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I#",
+    "IOI",
+    "#B#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_block"
+    },
+    "O": {
+      "item": "minecraft:beacon"
+    },
+    "I": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "minecraft:bedrock"
+    }  
+  },
+  "result": {
+    "item": "minecraft:command_block"
+  }
+}

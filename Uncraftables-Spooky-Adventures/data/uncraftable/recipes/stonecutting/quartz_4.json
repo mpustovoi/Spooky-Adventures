@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:quartz_block"
+    },
+    {
+      "item": "minecraft:quartz_bricks"
+    },
+    {
+      "item": "minecraft:quartz_pillar"
+    }
+  ],
+  "result": "minecraft:quartz",
+  "count": 4
+}

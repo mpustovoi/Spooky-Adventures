@@ -1,0 +1,13 @@
+{
+  "values": [
+    "toughasnails:chorus_fruit_juice",
+    {
+      "id": "promenadedelight:banana_juice",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:pure_darkness_shake",
+      "required": false
+    }
+  ]
+}

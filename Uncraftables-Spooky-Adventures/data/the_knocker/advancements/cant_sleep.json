@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:adventure/sleep_in_bed",
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_door"
+    },
+    "title": {
+      "translate": "advancements.the_knocker.cant_sleep.title",
+      "fallback": "I can't sleep..."
+    },
+    "description": {
+      "translate": "advancements.the_knocker.cant_sleep.descr",
+      "fallback": "You can't sleep because of something that keeps you awake..."
+    },
+    "show_toast": true,
+    "hidden": true
+  },
+  "criteria": {
+    "cant_sleep_0": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

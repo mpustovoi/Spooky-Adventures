@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GAG",
+        "GGG"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "G": {
+            "item": "minecraft:shulker_shell"
+        }
+    },
+    "result": {
+		"item": "minecraft:shulker_spawn_egg"
+	}
+}

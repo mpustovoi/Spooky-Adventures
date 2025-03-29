@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:crossbow"
+	},
+	"addition": {
+		"item": "minecraft:spyglass"
+	},
+	"result": {
+		"item": "additionaladditions:crossbow_with_spyglass"
+	},
+	"template": {
+		"item": "minecraft:iron_ingot"
+	}
+}

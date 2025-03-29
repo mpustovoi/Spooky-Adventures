@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:medium_scope"
+		},
+		{
+			"item": "cgm:short_scope"
+		}
+	],
+	"result": "minecraft:amethyst_shard",
+	"count": 1
+}

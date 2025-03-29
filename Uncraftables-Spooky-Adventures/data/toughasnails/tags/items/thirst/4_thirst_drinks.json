@@ -1,0 +1,125 @@
+{
+  "values": [
+    "minecraft:pumpkin_pie",
+    {
+      "id": "twilightdelight:twilight_spring",
+      "required": false
+    },
+    {
+      "id": "twilightdelight:tear_drink",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:sweet_berry_cheesecake",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:portobello_quiche",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:lime_pie",
+      "required": false
+    },
+    {
+      "id": "miners_delight:bat_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:noodle_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:chicken_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:pumpkin_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:spicy_noodle_soup_cup",
+      "required": false
+    },
+    {
+      "id": "ends_delight:shulker_soup",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:rock_soup",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:mussel_soup",
+      "required": false
+    },
+    {
+      "id": "aether:skyroot_milk_bucket",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:quiche",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:beer",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:vodka",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:mead",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:rice_wine",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:egg_grog",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:strongroot_ale",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:saccharine_rum",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:pale_jane",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:salty_folly",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:steel_toe_stout",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:glittering_grenadine",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:bloody_mary",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:red_rum",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:dread_nog",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:kombucha",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ABA",
+		"TGT",
+		"EPE"
+	],
+	"key": {
+		"A": {
+			"item": "minecraft:arrow"
+		},
+		"B": {
+			"item": "minecraft:bow"
+		},
+		"E": {
+			"item": "minecraft:emerald"
+		},
+		"T": {
+			"item": "friendsandfoes:totem_of_illusion"
+		},
+		"G": {
+			"item": "minecraft:ghast_tear"
+		},
+		"P": {
+			"item": "minecraft:potion"
+		}
+	},
+	"result": {
+		"item": "friendsandfoes:illusioner_spawn_egg",
+		"count": 1
+	}
+}

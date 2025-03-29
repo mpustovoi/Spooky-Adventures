@@ -1,0 +1,33 @@
+{
+  "parent": "sanitydim:for_what_sake",
+  "display": {
+    "icon": {
+      "item": "sanitydim:garland"
+    },
+    "title": {
+      "translate": "advancements.sanitydim.for_god_sake.title",
+      "fallback": "§0For God's sake!"
+    },
+    "description": {
+      "translate": "advancements.sanitydim.for_god_sake.descr",
+      "fallback": "Get rid of the Sneaking Terror"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_sneaking_terror": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "sanitydim:sneaking_terror"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 3500
+  }
+}

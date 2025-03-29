@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:golden_chestplate"
+	},
+	"addition": {
+		"item": "minecraft:amethyst_shard"
+	},
+	"result": {
+		"item": "easy_emerald:amethyst_body"
+	},
+	"template": {
+		"item": "minecraft:amethyst_shard"
+	}
+}

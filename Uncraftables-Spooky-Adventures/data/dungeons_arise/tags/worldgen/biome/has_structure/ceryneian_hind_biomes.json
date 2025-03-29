@@ -1,0 +1,47 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:desert",
+    "#minecraft:has_structure/desert_pyramid",
+    {
+      "id": "#c:is_desert",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/moss_basin",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/the_enchanted",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/diorite_sea",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/eroded_basin",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/sulfur_caldera",
+      "required": false
+    },
+    {
+      "id": "bracken:sanctum/dark_soot_dunes",
+      "required": false
+    },
+    {
+      "id": "bracken:sanctum/no_mans_land",
+      "required": false
+    },
+    {
+      "id": "bracken:sanctum/toxic_playa",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_deserts",
+      "required": false
+    }
+  ]
+}

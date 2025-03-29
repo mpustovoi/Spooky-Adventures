@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+	  "RRR",
+	  "RER",
+	  "RRR"
+	],
+	"key": {
+	  "E": {
+		"item": "minecraft:emerald"
+	  },
+	  "R": {
+		"item": "minecraft:redstone"
+	  }
+	},
+	"result": {
+	  "item": "easy_emerald:ruby"
+	}
+  }

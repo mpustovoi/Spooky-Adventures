@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"EYE",
+		"ETE",
+		"PEP"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:ender_pearl"
+		},
+		"Y": {
+			"item": "minecraft:ender_eye"
+		},
+		"T": {
+			"item": "minecraft:totem_of_undying"
+		},
+		"P": {
+			"item": "minecraft:potion"
+		}
+	},
+	"result": {
+		"item": "friendsandfoes:totem_of_illusion",
+		"count": 1
+	}
+}

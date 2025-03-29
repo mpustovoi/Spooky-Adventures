@@ -1,0 +1,33 @@
+{
+  "parent": "farlanders:golem",
+  "display": {
+    "icon": {
+      "item": "farlanders:titan_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.farlanders.titan.title",
+      "fallback": "The Defense has Fallen..."
+    },
+    "description": {
+      "translate": "advancements.farlanders.titan.descr",
+      "fallback": "Kill a Titan"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_titan": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "farlanders:titan"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:meadow",
+    "minecraft:dark_forest",
+    "minecraft:sunflower_plains",
+    "minecraft:snowy_taiga",
+    "#minecraft:is_taiga",
+    "minecraft:savanna",
+    {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "#c:is_dark_forest",
+      "required": false
+    },
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#c:is_savanna",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/boreal_valley",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/moss_basin",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/stranger_flats",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/the_enchanted",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/kelp_cove",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/sugar_sand_beach",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/clandestine_castlegrounds",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/darkthunder_thicket",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/dreamfall_dells",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/foison_fields",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/hidden_hamlet",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/malmsey_meadow",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/wanderlight_woods",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_plains",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_snowy",
+      "required": false
+    }
+  ]
+}

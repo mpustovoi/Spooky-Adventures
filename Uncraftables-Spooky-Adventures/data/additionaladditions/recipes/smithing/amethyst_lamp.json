@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:redstone_lamp"
+	},
+	"addition": {
+		"item": "minecraft:amethyst_shard"
+	},
+	"result": {
+		"item": "additionaladditions:amethyst_lamp"
+	},
+	"template": {
+		"item": "minecraft:amethyst_shard"
+	}
+}

@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "FFF",
+        "SAS",
+        "PPP"
+    ],
+    "key": {
+        "A": [
+					{
+            "item": "minecraft:phantom_spawn_egg"
+        	},
+					{
+            "item": "minecraft:allay_spawn_egg"
+        	}
+				],
+        "S": {
+            "item": "minecraft:iron_sword"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        }
+    },
+    "result": {
+        "item": "minecraft:vex_spawn_egg"
+    }
+}

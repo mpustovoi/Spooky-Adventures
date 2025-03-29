@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "SNS",
+        "NAN",
+        "BNB"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "N": {
+            "item": "minecraft:netherrack"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "B": {
+            "item": "minecraft:basalt"
+        }
+    },
+    "result": {
+		"item": "minecraft:strider_spawn_egg"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:bow"
+	},
+	"addition": {
+		"item": "enderzoology:hunting_bow"
+	},
+	"result": {
+		"item": "enderzoology:hunting_bow"
+	},
+	"template": {
+		"item": "minecraft:iron_nugget"
+	}
+}

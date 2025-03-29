@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "farmersdelight:flint_knife"
+	},
+	"addition": {
+		"item": "minecraft:stone"
+	},
+	"result": {
+		"item": "moredelight:stone_knife"
+	},
+	"template": {
+		"item": "minecraft:stick"
+	}
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "farlanders:guard",
+  "display": {
+    "icon": {
+      "item": "farlanders:ender_golem_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.farlanders.golem.title",
+      "fallback": "The Defense got a Hole..."
+    },
+    "description": {
+      "translate": "advancements.farlanders.golem.descr",
+      "fallback": "Kill an Ender Golem"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_golem": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "farlanders:ender_golem"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 225
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:root",
+  "display": {
+    "icon": {
+      "item": "cgm:grenade"
+    },
+    "title": {
+      "translate": "advancements.cgm.grenade.title",
+      "fallback": "You Have Three Seconds"
+    },
+    "description": {
+      "translate": "advancements.cgm.grenade.descr",
+      "fallback": "Get a Grenade"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_grenade": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:grenade"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  }
+}

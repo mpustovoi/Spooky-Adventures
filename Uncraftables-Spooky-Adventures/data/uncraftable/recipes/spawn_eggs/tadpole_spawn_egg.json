@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "FSF",
+        "SAS",
+        "FWF"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "S": {
+            "item": "minecraft:slime_ball"
+        },
+				"F": {
+            "item": "minecraft:frogspawn"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+		"item": "minecraft:tadpole_spawn_egg"
+	}
+}

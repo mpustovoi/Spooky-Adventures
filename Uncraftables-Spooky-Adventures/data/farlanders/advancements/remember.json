@@ -1,0 +1,33 @@
+{
+  "parent": "farlanders:root",
+  "display": {
+    "icon": {
+      "item": "farlanders:classic_enderman_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.farlanders.remember.title",
+      "fallback": "Now I Remember..."
+    },
+    "description": {
+      "translate": "advancements.farlanders.remember.descr",
+      "fallback": "Kill a Classic Enderman"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_classic_enderman": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "farlanders:classic_enderman"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  }
+}

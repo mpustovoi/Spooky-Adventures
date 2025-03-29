@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": {
+        "item": "toughasnails:iron_purified_water_canteen"
+    },
+    "addition": {
+        "item": "minecraft:gold_ingot"
+    },
+    "result": {
+        "item": "toughasnails:gold_purified_water_canteen"
+    },
+    "template": {
+        "item": "minecraft:gold_ingot"
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:machine_pistol"
+		},
+		{
+			"item": "cgm:double_barreled_shotgun"
+		}
+	],
+	"result": "minecraft:raw_iron",
+	"count": 20
+}

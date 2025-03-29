@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MMM",
+		"MSM",
+		"MMM"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:raw_gold"
+		},
+		"S": {
+			"item": "deeperdarker:gloomslate"
+		}
+	},
+	"result": {
+		"item": "deeperdarker:gloomslate_gold_ore",
+		"count": 1
+	}
+}

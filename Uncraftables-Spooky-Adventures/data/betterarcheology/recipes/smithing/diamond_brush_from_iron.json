@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "betterarcheology:iron_brush"
+	},
+	"addition": {
+		"item": "minecraft:diamond_block"
+	},
+	"result": {
+		"item": "betterarcheology:diamond_brush"
+	},
+	"template": {
+		"item": "minecraft:iron_nugget"
+	}
+}

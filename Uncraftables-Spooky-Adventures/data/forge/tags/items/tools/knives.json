@@ -1,0 +1,44 @@
+{
+  "values": [
+    {
+      "id": "alexscavesdelight:uranium_knife",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:azure_neodymium_knife",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:pearl_knife",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:scarlet_neodymium_knife",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:tectonic_knife",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:pure_darkness_knife",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:candy_knife",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:caramel_knife",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:gingerbread_knife",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:sweet_tooth_knife",
+      "required": false
+    }
+  ]
+}

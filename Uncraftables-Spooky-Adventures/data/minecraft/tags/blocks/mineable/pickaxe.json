@@ -1,0 +1,220 @@
+{
+  "values": [
+    "minecraft:beacon",
+    "minecraft:black_stained_glass_pane",
+    "minecraft:black_stained_glass",
+    "minecraft:blue_stained_glass_pane",
+    "minecraft:blue_stained_glass",
+    "minecraft:brown_stained_glass_pane",
+    "minecraft:brown_stained_glass",
+    "minecraft:creeper_head",
+    "minecraft:creeper_wall_head",
+    "minecraft:cyan_stained_glass_pane",
+    "minecraft:cyan_stained_glass",
+    "minecraft:dragon_head",
+    "minecraft:dragon_wall_head",
+    "minecraft:frosted_ice",
+    "minecraft:glass_pane",
+    "minecraft:glass",
+    "minecraft:glowstone",
+    "minecraft:gray_stained_glass_pane",
+    "minecraft:gray_stained_glass",
+    "minecraft:green_stained_glass_pane",
+    "minecraft:green_stained_glass",
+    "minecraft:lever",
+    "minecraft:light_blue_stained_glass_pane",
+    "minecraft:light_blue_stained_glass",
+    "minecraft:light_gray_stained_glass_pane",
+    "minecraft:light_gray_stained_glass",
+    "minecraft:lime_stained_glass_pane",
+    "minecraft:lime_stained_glass",
+    "minecraft:magenta_stained_glass_pane",
+    "minecraft:magenta_stained_glass",
+    "minecraft:orange_stained_glass_pane",
+    "minecraft:orange_stained_glass",
+    "minecraft:piglin_head",
+    "minecraft:piglin_wall_head",
+    "minecraft:pink_stained_glass_pane",
+    "minecraft:pink_stained_glass",
+    "minecraft:player_head",
+    "minecraft:player_wall_head",
+    "minecraft:purple_stained_glass_pane",
+    "minecraft:purple_stained_glass",
+    "minecraft:red_stained_glass_pane",
+    "minecraft:red_stained_glass",
+    "minecraft:redstone_lamp",
+    "minecraft:reinforced_deepslate",
+    "minecraft:sea_lantern",
+    "minecraft:skeleton_skull",
+    "minecraft:skeleton_wall_skull",
+    "minecraft:tinted_glass",
+    "minecraft:white_stained_glass_pane",
+    "minecraft:white_stained_glass",
+    "minecraft:wither_skeleton_skull",
+    "minecraft:wither_skeleton_wall_skull",
+    "minecraft:yellow_stained_glass_pane",
+    "minecraft:yellow_stained_glass",
+    "minecraft:zombie_head",
+    "minecraft:zombie_wall_head",
+    {
+      "id": "mutantmonsters:mutant_skeleton_skull",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:mutant_skeleton_wall_skull",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:shattered_head",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:shattered_wall_head",
+      "required": false
+    },
+    {
+      "id": "endofherobrine:cursed_head",
+      "required": false
+    },
+    {
+      "id": "endofherobrine:herobrine_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:zombified_piglin_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:zombified_piglin_wall_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_brute_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_brute_wall_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_alchemist_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_alchemist_wall_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_traveler_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_traveler_wall_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:alex_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:colonial_marine_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:desert_marine_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:german_officer_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:hazzmat_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:herobrine_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:impaled_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:phished_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:primitive_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:russian_officer_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:spider_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:steve_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:villager_head",
+      "required": false
+    },
+    {
+      "id": "cgm:workbench",
+      "required": false
+    },
+    {
+      "id": "tacz:gun_smith_table",
+      "required": false
+    },
+    {
+      "id": "the_knocker:bridge",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:coal",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:diamond",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:emerald",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:gold",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:iron",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:lapis",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:netherite",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:quartz",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:redstone",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:sandstone",
+      "required": false
+    }
+  ]
+}

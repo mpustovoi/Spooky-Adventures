@@ -1,0 +1,34 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BSB",
+		"PEP",
+		"SIS"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		"P": {
+			"item": "endermanoverhaul:soul_pearl"
+		},
+		"B": {
+			"item": "minecraft:bone"
+		},
+		"S": [
+			{
+				"item": "minecraft:soul_sand"
+			},
+			{
+				"item": "minecraft:soul_soil"
+			}
+		],
+		"I": {
+			"item": "endermanoverhaul:spirit_spawn_egg"
+		}
+	},
+	"result": {
+		"item": "endermanoverhaul:soulsand_valley_enderman_spawn_egg",
+		"count": 1
+	}
+}

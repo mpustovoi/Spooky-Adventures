@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CSC",
+		"CCC"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		"C": {
+			"item": "farlanders:ender_horn"
+		}
+	},
+	"result": {
+		"item": "farlanders:ender_golem_spawn_egg",
+		"count": 1
+	}
+}

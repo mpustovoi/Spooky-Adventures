@@ -1,0 +1,28 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ASA",
+        "BTB",
+        "OAO"
+    ],
+    "key": {
+        "T": {
+            "item": "minecraft:ghast_tear"
+        },
+        "A": {
+            "item": "minecraft:arrow"
+        },
+        "B": {
+            "item": "minecraft:bow"
+        },
+        "O": {
+            "item": "minecraft:bone"
+        },
+        "S": {
+            "item": "minecraft:skeleton_skull"
+        }
+    },
+    "result": {
+		"item": "minecraft:skeleton_spawn_egg"
+	}
+}

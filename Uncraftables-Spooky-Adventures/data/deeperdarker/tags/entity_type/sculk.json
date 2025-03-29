@@ -1,0 +1,129 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexsmobs:skreecher",
+      "required": false
+    },
+    {
+      "id": "sculk_worm:infected_bat_entity",
+      "required": false
+    },
+    {
+      "id": "sculk_worm:infected_creeper_entity",
+      "required": false
+    },
+    {
+      "id": "sculk_worm:infected_skeleton_entity",
+      "required": false
+    },
+    {
+      "id": "sculk_worm:infected_spawn_entity",
+      "required": false
+    },
+    {
+      "id": "sculk_worm:infected_spider_entity",
+      "required": false
+    },
+    {
+      "id": "sculk_worm:infected_zombie_entity",
+      "required": false
+    },
+    {
+      "id": "sculk_worm:sculk_segment_entity",
+      "required": false
+    },
+    {
+      "id": "sculk_worm:sculk_watcher_entity",
+      "required": false
+    },
+    {
+      "id": "sculk_worm:sculk_worm_entity",
+      "required": false
+    },
+    {
+      "id": "sculk_worm:unstable_enderman_entity",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:infestation_purifier",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_bee_harvester",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_bee_infector",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_creeper",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_enderman",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_hatcher",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_mite_aggressor",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_mite",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_phantom_corpse",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_phantom",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_pufferfish",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_ravager",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_salmon",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_skeleton",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_spitter",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_spore_spewer",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_squid",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_vindicator",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_witch",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_zombie",
+      "required": false
+    }
+  ]
+}

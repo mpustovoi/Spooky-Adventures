@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "RRR",
+        "HAH",
+        "FRF"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "R": {
+            "item": "minecraft:rabbit"
+        },
+        "H": {
+            "item": "minecraft:rabbit_hide"
+        },
+        "F": {
+            "item": "minecraft:rabbit_foot"
+        }
+    },
+    "result": {
+		"item": "minecraft:rabbit_spawn_egg"
+	}
+}

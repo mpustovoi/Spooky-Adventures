@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:short_stock"
+		}
+	],
+	"result": "minecraft:iron_nugget",
+	"count": 3
+}

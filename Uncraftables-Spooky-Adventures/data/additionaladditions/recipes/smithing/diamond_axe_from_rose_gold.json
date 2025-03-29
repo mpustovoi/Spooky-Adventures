@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "additionaladditions:rose_gold_axe"
+	},
+	"addition": {
+		"item": "minecraft:diamond"
+	},
+	"result": {
+		"item": "minecraft:diamond_axe"
+	},
+	"template": {
+		"item": "minecraft:iron_nugget"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "ends_delight:purpur_knife"
+	},
+	"addition": {
+		"item": "ends_delight:half_dragon_egg_shell"
+	},
+	"result": {
+		"item": "ends_delight:dragon_egg_shell_knife"
+	},
+	"template": {
+		"item": "minecraft:popped_chorus_fruit"
+	}
+}

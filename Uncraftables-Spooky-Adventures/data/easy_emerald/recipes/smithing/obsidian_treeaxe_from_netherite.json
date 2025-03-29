@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:obsidian"
+  },
+  "base": {
+    "item": "easy_emerald:netherite_treeaxe"
+  },
+  "result": {
+    "item": "easy_emerald:obsidian_treeaxe"
+  },
+  "template": {
+    "item": "minecraft:obsidian"
+  }
+}

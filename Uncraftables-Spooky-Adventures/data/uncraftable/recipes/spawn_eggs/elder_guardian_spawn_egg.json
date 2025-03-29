@@ -1,0 +1,34 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "RPR",
+        "WEW",
+        "CYS"
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:guardian_spawn_egg"
+        },
+        "W": {
+            "item": "minecraft:wet_sponge"
+        },
+        "R": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "Y": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "C": {
+            "item": "minecraft:cod_spawn_egg"
+        },
+        "S": {
+            "item": "minecraft:salmon_spawn_egg"
+        },
+        "P": {
+            "item": "minecraft:pufferfish_spawn_egg"
+        }
+    },
+    "result": {
+		"item": "minecraft:elder_guardian_spawn_egg"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:chainmail_leggings"
+	},
+	"addition": {
+		"item": "minecraft:copper_ingot"
+	},
+	"result": {
+		"item": "easy_emerald:copper_leggings"
+	},
+	"template": {
+		"item": "minecraft:copper_ingot"
+	}
+}

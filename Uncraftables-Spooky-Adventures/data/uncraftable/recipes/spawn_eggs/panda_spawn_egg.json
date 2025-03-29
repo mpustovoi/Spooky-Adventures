@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GAG",
+        "GGG"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "G": {
+            "item": "minecraft:bamboo"
+        }
+    },
+    "result": {	
+		"item": "minecraft:panda_spawn_egg"
+	}
+}

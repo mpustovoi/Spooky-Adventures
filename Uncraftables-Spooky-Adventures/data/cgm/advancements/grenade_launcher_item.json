@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:grenade_item",
+  "display": {
+    "icon": {
+      "item": "cgm:grenade_launcher"
+    },
+    "title": {
+      "translate": "advancements.cgm.grenade_launcher.title",
+      "fallback": "Grenade Jump"
+    },
+    "description": {
+      "translate": "advancements.cgm.grenade_launcher.descr",
+      "fallback": "Get a Grenade Launcher"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_grenade_launcher": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:grenade_launcher"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

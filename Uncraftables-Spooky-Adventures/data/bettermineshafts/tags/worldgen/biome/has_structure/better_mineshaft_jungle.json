@@ -1,0 +1,66 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_jungle",
+    {
+      "id": "#forge:is_jungle",
+      "required": false
+    },
+    {
+      "id": "#c:is_jungle",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/underground_jungle",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/condemned_taiga",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/creeper_dominion",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/crimson_organism",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/honeybee_biome",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/hungering_jungle",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/ravenous_greenwood",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    }
+  ]
+}

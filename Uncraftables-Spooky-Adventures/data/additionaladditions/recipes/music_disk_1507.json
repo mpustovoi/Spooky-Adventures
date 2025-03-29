@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" X ",
+		"XOX",
+		" X "
+	],
+	"key": {
+		"O": {
+			"item": "additionaladditions:patina_block"
+		},
+		"X": {
+		"item": "additionaladditions:glow_stick"
+		}
+	},
+	"result": {
+		"item": "additionaladditions:music_disc_1507"
+	}
+}

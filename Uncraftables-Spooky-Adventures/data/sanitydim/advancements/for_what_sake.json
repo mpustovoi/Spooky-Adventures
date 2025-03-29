@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:adventure/sleep_in_bed",
+  "display": {
+    "icon": {
+      "item": "sanitydim:garland"
+    },
+    "title": {
+      "translate": "advancements.sanitydim.for_what_sake.title",
+      "fallback": "§0For what sake?"
+    },
+    "description": {
+      "translate": "advancements.sanitydim.for_what_sake.descr",
+      "fallback": "Get rid of the Rotting Stalker"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_rotting_stalker": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "sanitydim:rotting_stalker"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2500
+  }
+}

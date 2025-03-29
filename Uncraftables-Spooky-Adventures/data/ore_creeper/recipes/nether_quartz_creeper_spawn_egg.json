@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IBI",
+		"IEI",
+		"BIB"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:creeper_spawn_egg"
+		},
+		"B": {
+			"item": "minecraft:quartz_block"
+		},
+		"I": {
+			"item": "minecraft:quartz"
+		}
+	},
+	"result": {
+		"item": "ore_creeper:nether_quartz_creeper_spawn_egg",
+		"count": 1
+	}
+}

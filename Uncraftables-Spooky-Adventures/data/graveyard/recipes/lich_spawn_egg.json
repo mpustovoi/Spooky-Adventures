@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "graveyard:revenant_spawn_egg"
+		},
+		{
+			"item": "graveyard:white_bone_staff"
+		},
+		{
+			"item": "graveyard:black_bone_staff"
+		},
+		{
+			"item": "graveyard:red_bone_staff"
+		},
+		{
+			"item": "graveyard:cyan_bone_staff"
+		},
+		{
+			"item": "graveyard:purple_bone_staff"
+		}
+	],
+	"result": {
+		"item": "graveyard:lich_spawn_egg",
+		"count": 1
+	}
+}

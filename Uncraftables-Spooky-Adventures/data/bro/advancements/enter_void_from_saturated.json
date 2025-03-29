@@ -1,0 +1,32 @@
+{
+  "parent": "bro:enter_saturated_from_void",
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_door"
+    },
+    "title": {
+      "translate": "advancements.bro.enter_void_from_saturated.title",
+      "fallback": "§0Here We Go Again"
+    },
+    "description": {
+      "translate": "advancements.bro.enter_void_from_saturated.descr",
+      "fallback": "Come Back Where You Came From"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "enter_void_from_saturated": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "bro:saturated",
+        "to": "bro:void"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

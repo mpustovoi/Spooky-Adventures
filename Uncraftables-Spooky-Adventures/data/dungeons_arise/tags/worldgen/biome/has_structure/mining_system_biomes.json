@@ -1,0 +1,95 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_jungle",
+    "#minecraft:is_forest",
+    "#minecraft:is_taiga",
+    "minecraft:desert",
+    "minecraft:plains",
+    "minecraft:snowy_plains",
+    "minecraft:sunflower_plains",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna",
+    {
+      "id": "#c:is_jungle",
+      "required": false
+    },
+    {
+      "id": "#c:is_forest",
+      "required": false
+    },
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#c:is_desert",
+      "required": false
+    },
+    {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "#c:is_snowy_plains",
+      "required": false
+    },
+    {
+      "id": "#c:is_savanna",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/boreal_valley",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/moss_basin",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/stranger_flats",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/the_enchanted",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/crystal_caves",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/diorite_sea",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/eroded_basin",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/petrified_forest",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/ruby_fungi_forest",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/sulfur_caldera",
+      "required": false
+    },
+    {
+      "id": "bracken:the_underdark/titan_dripstone_cavern",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_taigas",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_forests",
+      "required": false
+    }
+  ]
+}

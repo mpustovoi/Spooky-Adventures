@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"LHL",
+		"TCT",
+		"LBL"
+	],
+	"key": {
+		"T": {
+			"item": "minecraft:ghast_tear"
+		},
+		"H": {
+			"item": "minecraft:player_head"
+		},
+		"L": {
+			"item": "minecraft:leather"
+		},
+		"C": {
+			"item": "minecraft:cyan_wool"
+		},
+		"B": {
+			"item": "minecraft:blue_wool"
+		}
+	},
+	"result": {
+		"item": "human_reborn:human_spawn_egg",
+		"count": 1
+	}
+}

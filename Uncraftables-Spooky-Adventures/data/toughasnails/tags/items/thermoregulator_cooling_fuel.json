@@ -1,0 +1,72 @@
+{
+  "values": [
+    "toughasnails:ice_cream",
+    "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+    "minecraft:snowball",
+    "minecraft:snow",
+    "minecraft:snow_block",
+    "minecraft:powder_snow_bucket",
+    {
+      "id": "terrainslabs:packed_ice_slab",
+      "required": false
+    },
+    {
+      "id": "endrem:cold_eye",
+      "required": false
+    },
+    {
+      "id": "endermanoverhaul:icy_pearl",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonbone_sword_ice",
+      "required": false
+    },
+    {
+      "id": "iceandfire:ice_dragon_flesh",
+      "required": false
+    },
+    {
+      "id": "iceandfire:ice_dragon_heart",
+      "required": false
+    },
+    {
+      "id": "iceandfire:ice_dragon_blood",
+      "required": false
+    },
+    {
+      "id": "farlanders:nightfall_shard",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:ice_cube_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:frost_lily",
+      "required": false
+    },
+    {
+      "id": "cavebiomesdelight:icicle_knife",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:icicle",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:rare_ice",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:ice_sheet",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:ice_crate",
+      "required": false
+    }
+  ]
+}

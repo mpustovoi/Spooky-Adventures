@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "SFS",
+        "CAC",
+        "SFS"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "C": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "F": {
+            "item": "minecraft:cod"
+        },
+        "S": {
+            "item": "minecraft:prismarine_shard"
+        }
+    },
+    "result": {
+		"item": "minecraft:guardian_spawn_egg"
+	}
+}

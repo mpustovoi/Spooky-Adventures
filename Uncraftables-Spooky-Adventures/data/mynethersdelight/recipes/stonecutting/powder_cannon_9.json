@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "mynethersdelight:powdery_block"
+	},
+	"result": "mynethersdelight:powder_cannon",
+	"count": 9
+}

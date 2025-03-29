@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "farmersdelight:wheat_dough"
+  }
+}

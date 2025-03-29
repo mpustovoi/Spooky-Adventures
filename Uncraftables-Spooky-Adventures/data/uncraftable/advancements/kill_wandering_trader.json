@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "display": {
+    "icon": {
+      "item": "minecraft:emerald_block"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.kill_wandering_trader.title",
+      "fallback": "Speculator"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.kill_wandering_trader.descr",
+      "fallback": "Kill a Wandering Trader"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_wandering_trader": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "rewards": {
+    "experience": 500
+  }
+}

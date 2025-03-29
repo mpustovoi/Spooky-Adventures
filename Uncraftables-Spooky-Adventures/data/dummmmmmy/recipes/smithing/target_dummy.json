@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:armor_stand"
+	},
+	"addition": {
+		"item": "minecraft:hay_block"
+	},
+	"result": {
+		"item": "dummmmmmy:target_dummy"
+	},
+	"template": {
+		"item": "minecraft:iron_nugget"
+	}
+}

@@ -1,0 +1,128 @@
+{
+  "values": [
+    "minecraft:sea_lantern",
+    "minecraft:soul_fire",
+    "minecraft:soul_campfire",
+    "minecraft:soul_lantern",
+    "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+    "minecraft:powder_snow_cauldron",
+    {
+      "id": "terrainslabs:packed_ice_slab",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:stone_soul_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:deepslate_soul_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:netherrack_soul_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:blackstone_soul_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:end_stone_soul_fire_ring",
+      "required": false
+    },
+    {
+      "id": "pigsteel:pigsteel_soul_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:infected_pigsteel_soul_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:corrupted_pigsteel_soul_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:zombified_pigsteel_soul_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:waxed_pigsteel_soul_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:waxed_infected_pigsteel_soul_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:waxed_corrupted_pigsteel_soul_lantern",
+      "required": false
+    },
+    {
+      "id": "pigsteel:waxed_zombified_pigsteel_soul_lantern",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:nether_bricks_soul_stove",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:icicle",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:rare_ice",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:ice_sheet",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:ice_crate",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:snow",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:end",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:dragon",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:enderman",
+      "required": false
+    },
+    {
+      "id": "graveyard:soul_fire_brazier",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_block",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_ore",
+      "required": false
+    },
+    {
+      "id": "enderitemod:cracked_enderite_ore",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_respawn_anchor",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_shulker_box",
+      "required": false
+    }
+  ]
+}

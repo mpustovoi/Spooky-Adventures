@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "easy_emerald:emerald_paxel"
+	},
+	"addition": {
+		"item": "easy_emerald:ruby"
+	},
+	"result": {
+		"item": "easy_emerald:ruby_paxel"
+	},
+	"template": {
+		"item": "easy_emerald:ruby"
+	}
+}

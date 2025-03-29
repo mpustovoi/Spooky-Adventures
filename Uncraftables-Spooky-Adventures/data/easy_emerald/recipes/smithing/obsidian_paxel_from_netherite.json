@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:obsidian"
+  },
+  "base": {
+    "item": "easy_emerald:netherite_paxel"
+  },
+  "result": {
+    "item": "easy_emerald:obsidian_paxel"
+  },
+  "template": {
+    "item": "minecraft:obsidian"
+  }
+}

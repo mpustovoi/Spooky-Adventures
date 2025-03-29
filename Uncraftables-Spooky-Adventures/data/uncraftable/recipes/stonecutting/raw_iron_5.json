@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "minecraft:tnt_minecart"
+		},
+		{
+			"item": "minecraft:command_block_minecart"
+		}
+	],
+	"result": "minecraft:raw_iron",
+	"count": 5
+}

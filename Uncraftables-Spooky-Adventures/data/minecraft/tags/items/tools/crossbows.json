@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "additionaladditions:crossbow_with_spyglass",
+      "required": false
+    },
+    {
+      "id": "hunters_return:mini_crossbow",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_crossbow",
+      "required": false
+    }
+  ]
+}

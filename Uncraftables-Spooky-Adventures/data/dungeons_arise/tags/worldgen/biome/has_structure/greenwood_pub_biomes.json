@@ -1,0 +1,44 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dark_forest",
+    "minecraft:sunflower_plains",
+    "#minecraft:is_forest",
+    {
+      "id": "#c:is_dark_forest",
+      "required": false
+    },
+    {
+      "id": "#c:is_forest",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_forests",
+      "required": false
+    }
+  ]
+}

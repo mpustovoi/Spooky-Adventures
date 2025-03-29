@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQQ",
+    "QNQ",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:redstone"
+    },
+    "N": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:redstone_ore"
+  }
+}

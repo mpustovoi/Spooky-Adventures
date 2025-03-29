@@ -1,0 +1,44 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"TLT",
+		"IPI",
+		"TCT"
+	],
+	"key": {
+		"P": [
+			{
+				"item": "minecraft:carved_pumpkin"
+			},
+			{
+				"item": "minecraft:jack_o_lantern"
+			}
+		],
+		"L": [
+			{
+				"item": "minecraft:lightning_rod"
+			},
+			{
+				"item": "friendsandfoes:waxed_lightning_rod"
+			}
+		],
+		"I": {
+			"item": "minecraft:copper_ingot"
+		},
+		"C": [
+			{
+				"item": "minecraft:copper_block"
+			},
+			{
+				"item": "minecraft:waxed_copper_block"
+			}
+		],
+		"T": {
+			"item": "minecraft:ghast_tear"
+		}
+	},
+	"result": {
+		"item": "friendsandfoes:copper_golem_spawn_egg",
+		"count": 1
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:stabilizing_stock"
+		},
+		{
+			"item": "cgm:carbine_stock"
+		},
+		{
+			"item": "cgm:short_stock"
+		},
+		{
+			"item": "cgm:specialised_grip"
+		},
+		{
+			"item": "cgm:solid_stock"
+		},
+		{
+			"item": "cgm:tactical_stock"
+		},
+		{
+			"item": "cgm:dyeable_tactical_stock"
+		},
+		{
+			"item": "cgm:light_stock"
+		},
+		{
+			"item": "cgm:light_grip"
+		},
+		{
+			"item": "cgm:horizontal_grip"
+		},
+		{
+			"item": "cgm:weighted_stock"
+		}
+	],
+	"result": "minecraft:gray_wool",
+	"count": 1
+}

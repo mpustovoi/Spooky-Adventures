@@ -1,0 +1,30 @@
+{
+  "parent": "farlanders:just_why_2",
+  "display": {
+    "icon": {
+      "item": "farlanders:elder_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.farlanders.just_why_3.title",
+      "fallback": "Why are You Doing This?!"
+    },
+    "description": {
+      "translate": "advancements.farlanders.just_why_3.descr",
+      "fallback": "Kill an Elder Farlander"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_elder_farlander": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "farlanders:elder_farlander"
+        }
+      }
+    }
+  }
+}

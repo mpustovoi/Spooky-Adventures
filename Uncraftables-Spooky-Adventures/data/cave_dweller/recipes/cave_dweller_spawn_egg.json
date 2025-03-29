@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"TDT",
+		"FEF",
+		"DOD"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		"T": {
+			"item": "minecraft:ghast_tear"
+		},
+		"D": {
+			"item": "minecraft:deepslate"
+		},
+		"F": {
+			"item": "minecraft:rotten_flesh"
+		},
+		"O": {
+			"item": "minecraft:obsidian"
+		}
+	},
+	"result": {
+		"item": "cave_dweller:cave_dweller_spawn_egg",
+		"count": 1
+	}
+}

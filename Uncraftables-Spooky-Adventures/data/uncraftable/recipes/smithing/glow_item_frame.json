@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+      "item": "minecraft:item_frame"
+   },
+  "addition": {
+			"item": "minecraft:glow_ink_sac"
+		},
+  "result": {
+    "item": "minecraft:glow_item_frame"
+   },
+	"template": {
+		"item": "minecraft:stick"
+	}
+}

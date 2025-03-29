@@ -1,0 +1,107 @@
+{
+  "values": [
+    {
+      "id": "#forge:cooked_bacon",
+      "required": false
+    },
+    {
+      "id": "#forge:cooked_beef",
+      "required": false
+    },
+    {
+      "id": "#forge:cooked_chicken",
+      "required": false
+    },
+    {
+      "id": "#forge:cooked_mutton",
+      "required": false
+    },
+    {
+      "id": "#forge:cooked_pork",
+      "required": false
+    },
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:carrot",
+    "minecraft:beetroot",
+    "minecraft:cooked_rabbit",
+    "farmersdelight:cabbage_leaf",
+    "farmersdelight:onion",
+    {
+      "id": "additionaladditions:chicken_nugget",
+      "required": false
+    },
+    {
+      "id": "promenade:cooked_duck",
+      "required": false
+    },
+    {
+      "id": "promenadedelight:cut_cooked_duck",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:cooked_lobster_tail",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:cooked_moose_ribs",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:cooked_kangaroo_meat",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:cooked_kangaroo_shank",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:cooked_loose_moose_rib",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:cooked_bunfungus_drumstick",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:cooked_bunfungus",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:cooked_bison",
+      "required": false
+    },
+    {
+      "id": "alexsdelight:bison_patty",
+      "required": false
+    },
+    {
+      "id": "alexscaves:cooked_trilocararis_tail",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:cut_cooked_trilocararis",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:cut_dinosaur_chop_cooked",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:cooked_loin",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:roast_ear",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_crab",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_clawster",
+      "required": false
+    }
+  ]
+}

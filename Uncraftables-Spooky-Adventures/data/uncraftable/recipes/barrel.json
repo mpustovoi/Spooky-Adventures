@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WSW",
+    "W W",
+    "WSW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:logs"
+    },
+		"S": {
+      "tag": "minecraft:wooden_pressure_plates"
+    }
+  },
+  "result": {
+    "item": "minecraft:barrel",
+		"count": 4
+  }
+}

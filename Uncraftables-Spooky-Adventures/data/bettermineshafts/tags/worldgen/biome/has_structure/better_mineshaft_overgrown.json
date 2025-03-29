@@ -1,0 +1,110 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_forest",
+    {
+      "id": "#forge:is_forest",
+      "required": false
+    },
+    {
+      "id": "#c:is_forest",
+      "required": false
+    },
+    {
+      "id": "byg:red_oak_forest",
+      "required": false
+    },
+    {
+      "id": "byg:temperate_rainforest",
+      "required": false
+    },
+    {
+      "id": "byg:orchard",
+      "required": false
+    },
+    {
+      "id": "byg:autumnal_forest",
+      "required": false
+    },
+    {
+      "id": "byg:cherry_blossom_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:cherry_blossom_grove",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:orchard",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:seasonal_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:woodland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:old_growth_woodland",
+      "required": false
+    },
+    {
+      "id": "magicalforest:magical_forest",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/underground_jungle",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/condemned_taiga",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/creeper_dominion",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/crimson_organism",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/honeybee_biome",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/hungering_jungle",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/ravenous_greenwood",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    }
+  ]
+}

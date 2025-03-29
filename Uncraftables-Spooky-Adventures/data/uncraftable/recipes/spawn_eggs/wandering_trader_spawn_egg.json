@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "CEC",
+        "LAL",
+        "CEC"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:villager_spawn_egg"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        },
+        "L": {
+            "item": "minecraft:lead"
+        },
+        "C": {
+            "tag": "minecraft:wool_carpets"
+        }
+    },
+    "result": {
+		"item": "minecraft:wandering_trader_spawn_egg"
+	}
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "display": {
+    "icon": {
+      "item": "hunters_return:boomerang"
+    },
+    "title": {
+      "translate": "advancements.hunters_return.manhunt.title",
+      "fallback": "Manhunt"
+    },
+    "description": {
+      "translate": "advancements.hunters_return.manhunt.descr",
+      "fallback": "Kill a Hunter"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "killed_hunter": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "hunters_return:hunter"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

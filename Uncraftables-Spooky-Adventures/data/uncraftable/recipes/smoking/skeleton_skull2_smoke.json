@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:zombie_head"
+  },
+  "result": "minecraft:skeleton_skull",
+  "experience": 2.5,
+  "cookingtime": 200
+}

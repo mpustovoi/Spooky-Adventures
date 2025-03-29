@@ -1,0 +1,30 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"TPT",
+		"III",
+		"TIT"
+	],
+	"key": {
+		"P": [
+			{
+				"item": "minecraft:pumpkin"
+			},
+			{
+				"item": "minecraft:carved_pumpkin"
+			},
+			{
+				"item": "minecraft:jack_o_lantern"
+			}
+		],
+		"T": {
+			"item": "minecraft:ghast_tear"
+		},
+		"I": {
+			"item": "minecraft:iron_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_golem_spawn_egg"
+	}
+}

@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GAG",
+        "GBG"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "G": {
+            "item": "minecraft:cod"
+        },
+        "B": {
+            "item": "minecraft:bone_meal"
+        }
+    },
+    "result": {
+		"item": "minecraft:cod_spawn_egg"
+	}
+}

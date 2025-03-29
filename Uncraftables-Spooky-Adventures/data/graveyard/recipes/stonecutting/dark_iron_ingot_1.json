@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "graveyard:sarcophagus"
+		},
+		{
+			"item": "graveyard:oak_coffin"
+		},
+		{
+			"item": "graveyard:dark_oak_coffin"
+		},
+		{
+			"item": "graveyard:spruce_coffin"
+		},
+		{
+			"item": "graveyard:birch_coffin"
+		},
+		{
+			"item": "graveyard:jungle_coffin"
+		},
+		{
+			"item": "graveyard:acacia_coffin"
+		},
+		{
+			"item": "graveyard:warped_coffin"
+		},
+		{
+			"item": "graveyard:crimson_coffin"
+		},
+		{
+			"item": "graveyard:mangrove_coffin"
+		}
+	],
+	"result": "graveyard:dark_iron_ingot",
+	"count": 1
+}

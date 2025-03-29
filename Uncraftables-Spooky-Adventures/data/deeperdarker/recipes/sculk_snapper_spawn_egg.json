@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SSS",
+		"DTD",
+		"DBD"
+	],
+	"key": {
+		"T": {
+			"item": "minecraft:ghast_tear"
+		},
+		"D": {
+			"item": "deeperdarker:soul_dust"
+		},
+		"B": {
+			"item": "deeperdarker:sculk_bone"
+		},
+		"S": {
+			"item": "minecraft:sculk"
+		}
+	},
+	"result": {
+		"item": "deeperdarker:sculk_snapper_spawn_egg",
+		"count": 1
+	}
+}

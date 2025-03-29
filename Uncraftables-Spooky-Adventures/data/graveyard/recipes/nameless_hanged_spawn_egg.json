@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CLC",
+		"CEC",
+		"CCC"
+	],
+	"key": {
+		"C": {
+			"item": "graveyard:corruption"
+		},
+		"L": {
+			"item": "minecraft:lead"
+		},
+		"E": {
+			"item": "minecraft:villager_spawn_egg"
+		}
+	},
+	"result": {
+		"item": "graveyard:nameless_hanged_spawn_egg",
+		"count": 1
+	}
+}

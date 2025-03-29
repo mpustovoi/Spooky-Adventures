@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:honey_block"
+		},
+		{
+			"item": "minecraft:apple"
+		},
+		{
+			"item": "minecraft:apple"
+		},
+		{
+			"item": "minecraft:apple"
+		},
+		{
+			"item": "minecraft:apple"
+		}
+	],
+	"result": {
+		"item": "additionaladditions:honeyed_apple",
+		"count": 4
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SAS", "GTG", "CCC"],
+  "key": {
+    "T": {
+      "item": "minecraft:creeper_spawn_egg"
+    },
+    "C": {
+      "item": "minecraft:cod"
+    },
+    "S": {
+      "item": "minecraft:salmon"
+    },
+    "G": {
+      "item": "minecraft:spider_eye"
+    },
+    "A": {
+      "item": "minecraft:seagrass"
+    }
+  },
+  "result": {
+    "item": "creeperoverhaul:ocean_creeper_spawn_egg",
+    "count": 1
+  }
+}

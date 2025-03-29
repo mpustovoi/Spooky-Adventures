@@ -1,0 +1,43 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp",
+    {
+      "id": "#c:is_swamp",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_swamps",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/condemned_taiga",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    }
+  ]
+}

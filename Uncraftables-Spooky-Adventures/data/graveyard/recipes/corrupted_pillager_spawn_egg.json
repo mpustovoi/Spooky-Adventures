@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CEC",
+		"CCC"
+	],
+	"key": {
+		"C": {
+			"item": "graveyard:corruption"
+		},
+		"E": {
+			"item": "minecraft:pillager_spawn_egg"
+		}
+	},
+	"result": {
+		"item": "graveyard:corrupted_pillager_spawn_egg",
+		"count": 1
+	}
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:nether/obtain_crying_obsidian",
+  "display": {
+    "icon": {
+      "item": "minecraft:ghast_tear"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.get_ghast_tear.title",
+      "fallback": "Tears from the Valley of Souls"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.get_ghast_tear.descr",
+      "fallback": "What can I make out of it?"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_ghast_tear": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:ghast_tear"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

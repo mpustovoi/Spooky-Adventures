@@ -1,0 +1,149 @@
+{
+  "values": [
+    "toughasnails:charc_os",
+    {
+      "id": "toughasdelight:charc_os_cookie",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:hot_cocoa",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:fiery_fondue",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:spicy_grenadine_jelly",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:hot_cream",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:hot_cream_cone",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:magma_cake_slice",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:deviled_egg",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:bullet_pepper",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:burnt_roll",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:hot_wings",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:hot_wings_bucket",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:spicy_noodle_soup",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:spicy_cotton",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:spicy_skewer",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:spicy_hoglin_stew",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:spicy_curry",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:fried_hoglin_chop",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:plate_of_ghasta_with_cream",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:chilidog",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:rock_soup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:spicy_hoglin_stew_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:spicy_noodle_soup_cup",
+      "required": false
+    },
+    {
+      "id": "miners_delight:rock_soup_cup",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:acid_radgill_stew",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:acid_juice",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:acid_pasta",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:toxic_sauce",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:toxic_jem",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:toxic_hamburger",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:toxic_noodle_soup",
+      "required": false
+    },
+    {
+      "id": "alexscaves:radgill",
+      "required": false
+    },
+    {
+      "id": "alexscaves:cooked_radgill",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:uranium_pie",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:magma_jem",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:hot_chocolate_bottle",
+      "required": false
+    }
+  ]
+}

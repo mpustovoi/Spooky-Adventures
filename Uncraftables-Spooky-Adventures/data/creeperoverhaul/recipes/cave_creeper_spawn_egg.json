@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ISG", "PTP", "ESD"],
+  "key": {
+    "T": {
+      "item": "minecraft:creeper_spawn_egg"
+    },
+    "P": {
+      "item": "minecraft:gunpowder"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "G": {
+      "item": "minecraft:raw_gold"
+    },
+    "I": {
+      "item": "minecraft:raw_iron"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "creeperoverhaul:cave_creeper_spawn_egg",
+    "count": 1
+  }
+}

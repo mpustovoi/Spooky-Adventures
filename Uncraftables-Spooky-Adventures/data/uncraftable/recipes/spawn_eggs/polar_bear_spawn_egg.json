@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "CSC",
+        "SAS",
+        "CSC"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "C": {
+            "item": "minecraft:cod"
+        },
+				"S": {
+					"item": "minecraft:snow_block"
+				}
+    },
+    "result": {
+		"item": "minecraft:polar_bear_spawn_egg"
+	}
+}

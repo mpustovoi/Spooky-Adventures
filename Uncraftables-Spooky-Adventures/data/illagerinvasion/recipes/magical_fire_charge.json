@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"DDD",
+		"DFD",
+		"DDD"
+	],
+	"key": {
+		"F": {
+			"item": "minecraft:fire_charge"
+		},
+		"D": {
+			"item": "illagerinvasion:unusual_dust"
+		}
+	},
+	"result": {
+		"item": "illagerinvasion:magical_fire_charge",
+		"count": 2
+	}
+}

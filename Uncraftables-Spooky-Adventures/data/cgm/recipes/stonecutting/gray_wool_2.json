@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:marksman_stock"
+		}
+	],
+	"result": "minecraft:gray_wool",
+	"count": 2
+}

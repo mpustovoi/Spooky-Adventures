@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "RRR",
+        "RAR",
+        "RRR"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:cow_spawn_egg"
+        },
+        "R": {
+            "item": "minecraft:red_mushroom"
+        }
+    },
+    "result": {
+		"item": "minecraft:mooshroom_spawn_egg"
+	}
+}

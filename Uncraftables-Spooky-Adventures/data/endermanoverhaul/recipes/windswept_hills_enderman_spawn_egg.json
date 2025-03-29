@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PTP",
+		"TET",
+		"TPT"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		"T": {
+			"item": "minecraft:tuff"
+		},
+		"P": {
+			"item": "endermanoverhaul:summoner_pearl"
+		}
+	},
+	"result": {
+		"item": "endermanoverhaul:windswept_hills_enderman_spawn_egg",
+		"count": 1
+	}
+}

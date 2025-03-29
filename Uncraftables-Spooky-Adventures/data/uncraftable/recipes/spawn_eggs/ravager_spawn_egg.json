@@ -1,0 +1,28 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "PSP",
+        "IAI",
+        "BIB"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "I": {
+            "item": "minecraft:chain"
+        },
+        "B": {
+            "item": "minecraft:iron_block"
+        },
+        "S": {
+            "item": "minecraft:saddle"
+        },
+        "P": {
+            "item": "minecraft:pillager_spawn_egg"
+        }
+    },
+    "result": {
+		"item": "minecraft:ravager_spawn_egg"
+	}
+}

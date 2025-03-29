@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:nether/obtain_ancient_debris",
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.get_netherite_upgrade_smithing_template.title",
+      "fallback": "A Licensed Blacksmith"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.get_netherite_upgrade_smithing_template.descr",
+      "fallback": "Get an Netherite Upgrade Smithing Template"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "get_netherite_upgrade_smithing_template": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:netherite_upgrade_smithing_template"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_ocean",
+    {
+      "id": "#c:is_ocean",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/oceanic",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/blossom_reef",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/dead_reef",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/incursive_fungus",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/indigo_median",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/keeper_district",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/kelp_cove",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/revered_waters",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/sponge_ranch",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/sugar_sand_beach",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "values": [
+    "toughasnails:leaf_helmet",
+    "toughasnails:leaf_chestplate",
+    "toughasnails:leaf_leggings",
+    "toughasnails:leaf_boots",
+    {
+      "id": "create:netherite_diving_helmet",
+      "required": false
+    },
+    {
+      "id": "create:netherite_backtank",
+      "required": false
+    },
+    {
+      "id": "create:netherite_diving_boots",
+      "required": false
+    },
+    {
+      "id": "farlanders:nightfall_helmet",
+      "required": false
+    },
+    {
+      "id": "farlanders:nightfall_chestplate",
+      "required": false
+    },
+    {
+      "id": "farlanders:nightfall_leggings",
+      "required": false
+    },
+    {
+      "id": "farlanders:nightfall_boots",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_helmet",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_chestplate",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_leggings",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_boots",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_elytra",
+      "required": false
+    },
+    {
+      "id": "enderitemod:enderite_elytra_seperated",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_mask",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_chestplate",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_leggings",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_boots",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:mutant_skeleton_skull",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:mutant_skeleton_chestplate",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:mutant_skeleton_leggings",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:mutant_skeleton_boots",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:slime_helmet",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:slime_chestplate",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:slime_leggings",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:slime_boots",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:prismarine_helmet",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:prismarine_chestplate",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:prismarine_leggings",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:prismarine_boots",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "easy_emerald:iron_hammer"
+	},
+	"addition": {
+		"item": "minecraft:emerald"
+	},
+	"result": {
+		"item": "easy_emerald:emerald_hammer"
+	},
+	"template": {
+		"item": "minecraft:emerald"
+	}
+}

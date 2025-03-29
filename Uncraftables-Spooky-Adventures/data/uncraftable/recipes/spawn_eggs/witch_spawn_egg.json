@@ -1,0 +1,37 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "RPG",
+        "SAS",
+        "GBE"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "P": {
+            "item": "minecraft:gunpowder"
+        },
+        "G": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "E": {
+            "item": "minecraft:spider_eye"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "B": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+		"item": "minecraft:witch_spawn_egg"
+	}
+}

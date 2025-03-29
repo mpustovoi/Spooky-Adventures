@@ -1,0 +1,33 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"BPB",
+		"TST",
+		"BSB"
+	],
+	"key": {
+		"P": [
+			{
+				"item": "minecraft:pumpkin"
+			},
+			{
+				"item": "minecraft:carved_pumpkin"
+			},
+			{
+				"item": "minecraft:jack_o_lantern"
+			}
+		],
+		"T": {
+			"item": "minecraft:ghast_tear"
+		},
+		"S": {
+			"item": "minecraft:snow_block"
+		},
+		"B": {
+			"item": "minecraft:snowball"
+		}
+	},
+	"result": {
+		"item": "minecraft:snow_golem_spawn_egg"
+	}
+}

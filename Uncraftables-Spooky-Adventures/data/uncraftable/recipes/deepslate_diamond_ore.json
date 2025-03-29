@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQQ",
+    "QNQ",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:diamond"
+    },
+    "N": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "item": "minecraft:deepslate_diamond_ore"
+  }
+}

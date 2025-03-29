@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MMM",
+		"MSM",
+		"MMM"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:raw_copper"
+		},
+		"S": {
+			"item": "deeperdarker:gloomslate"
+		}
+	},
+	"result": {
+		"item": "deeperdarker:gloomslate_copper_ore",
+		"count": 1
+	}
+}

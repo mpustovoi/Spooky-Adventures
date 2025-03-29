@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_eggs",
+  "pattern": [
+  
+    "SXS",
+    "Y#Y",
+    "SXS"
+  ],
+  
+  "key": {
+    "X": {
+      "item": "minecraft:jungle_leaves"
+    },
+    "Y": {
+      "item": "minecraft:salmon"
+    },
+    "#": {
+      "item": "minecraft:cat_spawn_egg"
+    },
+	"S": {
+	  "item": "minecraft:cocoa_beans"
+	}
+	  
+  },
+  
+  
+  "result": {
+    "item": "minecraft:ocelot_spawn_egg"
+  }
+}

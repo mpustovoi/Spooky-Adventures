@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MMM",
+		"MSM",
+		"MMM"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:raw_copper"
+		},
+		"S": {
+			"item": "minecraft:calcite"
+		}
+	},
+	"result": {
+		"item": "universal_ores:calcite_copper_ore",
+		"count": 1
+	}
+}

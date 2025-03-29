@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:bundle"
+	},
+	"addition": {
+		"item": "minecraft:chest"
+	},
+	"result": {
+		"item": "bagofholding:leather_bag_of_holding"
+	},
+	"template": {
+		"item": "minecraft:iron_nugget"
+	}
+}

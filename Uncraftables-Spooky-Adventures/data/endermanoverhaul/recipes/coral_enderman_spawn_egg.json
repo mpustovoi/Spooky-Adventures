@@ -1,0 +1,38 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GHG",
+		"CEB",
+		"TPF"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		"P": {
+			"item": "endermanoverhaul:bubble_pearl"
+		},
+		"G": {
+			"item": "minecraft:seagrass"
+		},
+		"T": {
+			"item": "minecraft:tube_coral"
+		},
+		"B": {
+			"item": "minecraft:brain_coral"
+		},
+		"C": {
+			"item": "minecraft:bubble_coral"
+		},
+		"F": {
+			"item": "minecraft:fire_coral"
+		},
+		"H": {
+			"item": "minecraft:horn_coral"
+		}
+	},
+	"result": {
+		"item": "endermanoverhaul:coral_enderman_spawn_egg",
+		"count": 1
+	}
+}

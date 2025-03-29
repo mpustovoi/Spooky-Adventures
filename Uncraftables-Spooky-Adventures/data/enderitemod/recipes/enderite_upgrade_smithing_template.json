@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"NEN",
+		"NSN",
+		"NNN"
+	],
+	"key": {
+		"N": {
+			"item": "minecraft:netherite_scrap"
+		},
+		"E": {
+			"item": "enderitemod:enderite_upgrade_smithing_template"
+		},
+		"S": {
+			"item": "minecraft:end_stone"
+		}
+	},
+	"result": {
+		"item": "enderitemod:enderite_upgrade_smithing_template",
+		"count": 2
+	}
+}

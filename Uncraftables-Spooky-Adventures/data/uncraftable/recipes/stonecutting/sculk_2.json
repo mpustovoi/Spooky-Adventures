@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:sculk_sensor"
+    },
+    {
+      "item": "minecraft:calibrated_sculk_sensor"
+    },
+    {
+      "item": "minecraft:sculk_catalyst"
+    },
+    {
+      "item": "minecraft:sculk_shrieker"
+    }
+  ],
+  "result": "minecraft:sculk",
+  "count": 2
+}

@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": [
+		{
+			"item": "cgm:dot_sight"
+		}
+	],
+	"result": "minecraft:glass_pane",
+	"count": 1
+}

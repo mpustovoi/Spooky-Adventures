@@ -1,0 +1,486 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:axes",
+    {
+      "id": "#c:axe",
+      "required": false
+    },
+    {
+      "id": "#c:axes",
+      "required": false
+    },
+    {
+      "id": "#forge:axes",
+      "required": false
+    },
+    {
+      "id": "#forge:tools/axes",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:gilded_netherite_axe",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:rose_gold_axe",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:great_reaper_axe",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:wood_splitter_axe",
+      "required": false
+    },
+    {
+      "id": "dungeons_plus:warped_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:diamond_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:gold_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:iron_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:netherite_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_axe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_treeaxe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:wooden_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:amethyst_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:amethyst_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:copper_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:copper_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:diamond_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:gold_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:iron_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:netherite_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:obsidian_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:obsidian_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:ruby_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:ruby_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:steel_axe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:steel_treeaxe",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:wooden_treeaxe",
+      "required": false
+    },
+    {
+      "id": "illagerinvasion:platinum_infused_hatchet",
+      "required": false
+    },
+    {
+      "id": "oxidized:rose_gold_axe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:wood_guisarm",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:stone_guisarm",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:iron_guisarm",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:copper_guisarm",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:gold_guisarm",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:diamond_guisarm",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:netherite_guisarm",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:steel_guisarm",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:silver_guisarm",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:tin_guisarm",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_lochaberaxe",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_concavehalberd",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_heavywarhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_lucernhammer",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_morgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_chainmorgenstern",
+      "required": false
+    },
+    {
+      "id": "magistuarmory:bronze_guisarm",
+      "required": false
+    }
+  ]
+}

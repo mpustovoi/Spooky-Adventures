@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "easy_emerald:gold_excavator"
+	},
+	"addition": {
+		"item": "minecraft:copper_ingot"
+	},
+	"result": {
+		"item": "easy_emerald:copper_excavator"
+	},
+	"template": {
+		"item": "minecraft:copper_ingot"
+	}
+}

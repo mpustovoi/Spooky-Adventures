@@ -1,0 +1,1 @@
+{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:loot_table", "name": "tdp.509:sus_block_commons", "weight": 1369, "quality": -5}, {"type": "minecraft:loot_table", "name": "tdp.509:sus_block_treasure", "weight": 630, "quality": 5}, {"type": "minecraft:loot_table", "name": "tdp.509:crate"}]}]}

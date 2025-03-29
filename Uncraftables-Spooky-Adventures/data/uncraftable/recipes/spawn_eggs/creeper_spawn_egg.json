@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"GHG",
+		"TAT",
+		"GTG"
+	],
+	"key": {
+		"A": {
+			"item": "minecraft:ghast_tear"
+		},
+		"T": {
+			"item": "minecraft:tnt"
+		},
+		"G": {
+			"item": "minecraft:gunpowder"
+		},
+		"H": {
+			"item": "minecraft:creeper_head"
+		}
+	},
+	"result": {
+		"item": "minecraft:creeper_spawn_egg"
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "friendsandfoes:wildfire_crown"
+  },
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "minecraft:iron_helmet"
+  },
+  "template": {
+    "item": "minecraft:iron_ingot"
+  }
+}

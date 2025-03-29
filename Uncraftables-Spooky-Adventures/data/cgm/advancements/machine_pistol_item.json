@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:pistol_item",
+  "display": {
+    "icon": {
+      "item": "cgm:machine_pistol"
+    },
+    "title": {
+      "translate": "advancements.cgm.machine_pistol.title",
+      "fallback": "Rapid Bang Bang"
+    },
+    "description": {
+      "translate": "advancements.cgm.machine_pistol.descr",
+      "fallback": "Create a Machine Pistol"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_machine_pistol": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:machine_pistol"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  }
+}

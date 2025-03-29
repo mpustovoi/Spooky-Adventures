@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:adventure/sleep_in_bed",
+  "criteria": {
+    "swamp_hut": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "minecraft:swamp_hut"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.uncraftable.find_swamp_hut.descr",
+      "fallback": "Find a Witch's Hut"
+    },
+    "icon": {
+      "item": "minecraft:lily_pad"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.find_swamp_hut.title",
+      "fallback": "Flying on a Broomstick"
+    }
+  },
+  "requirements": [
+    [
+      "swamp_hut"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "rewards": {
+    "experience": 75
+  }
+}

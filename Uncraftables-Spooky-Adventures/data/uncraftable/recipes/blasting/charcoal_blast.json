@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "minecraft:logs_that_burn"
+  },
+  "result": "minecraft:charcoal",
+  "experience": 0.2,
+  "cookingtime": 80
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:root",
+  "display": {
+    "icon": {
+      "item": "cgm:pistol"
+    },
+    "title": {
+      "translate": "advancements.cgm.pistol.title",
+      "fallback": "Bang Bang"
+    },
+    "description": {
+      "translate": "advancements.cgm.pistol.descr",
+      "fallback": "Create a Pistol"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_pistol": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:pistol"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  }
+}

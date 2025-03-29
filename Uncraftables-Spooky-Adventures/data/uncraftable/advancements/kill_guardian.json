@@ -1,0 +1,35 @@
+{
+  "parent": "uncraftable:find_monument",
+  "display": {
+    "icon": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.kill_guardian.title",
+      "fallback": "A Weird-Looking Fish"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.kill_guardian.descr",
+      "fallback": "Kill a Guardian"
+    }
+  },
+  "criteria": {
+    "k_guardian": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:guardian"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

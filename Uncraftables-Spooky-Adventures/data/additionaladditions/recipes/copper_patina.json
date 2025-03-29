@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "additionaladditions:patina_block"
+		}
+	],
+	"result": {
+		"item": "additionaladditions:copper_patina",
+		"count": 4
+	}
+}

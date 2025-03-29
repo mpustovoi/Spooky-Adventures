@@ -1,0 +1,51 @@
+{
+  "values": [
+    "toughasnails:purified_water_bottle",
+    "toughasnails:leather_purified_water_canteen",
+    "toughasnails:copper_purified_water_canteen",
+    "toughasnails:iron_purified_water_canteen",
+    "toughasnails:gold_purified_water_canteen",
+    "toughasnails:diamond_purified_water_canteen",
+    "toughasnails:netherite_purified_water_canteen",
+    {
+      "id": "ends_delight:chorus_flower_tea",
+      "required": false
+    },
+    {
+      "id": "promenadedelight:syrup_juice",
+      "required": false
+    },
+    {
+      "id": "miners_delight:cave_soup",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:lanternfish_soup",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:tripodfish_soup",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:toxic_noodle_soup",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:sulfur_shake",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:pewen_shake",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:spelunkie_shake",
+      "required": false
+    },
+    {
+      "id": "deeperdarkerdelight:bloom_berries_cake",
+      "required": false
+    }
+  ]
+}

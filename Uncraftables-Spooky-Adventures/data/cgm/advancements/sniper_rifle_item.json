@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:rifle_item",
+  "display": {
+    "icon": {
+      "item": "cgm:sniper_rifle"
+    },
+    "title": {
+      "translate": "advancements.cgm.sniper_rifle.title",
+      "fallback": "Beginner Sniper"
+    },
+    "description": {
+      "translate": "advancements.cgm.sniper_rifle.descr",
+      "fallback": "Create a Sniper Rifle"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_sniper_rifle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:sniper_rifle"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

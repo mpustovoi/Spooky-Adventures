@@ -1,0 +1,142 @@
+{
+  "values": [
+    "minecraft:creeper_head",
+    "minecraft:creeper_wall_head",
+    "minecraft:dragon_head",
+    "minecraft:dragon_wall_head",
+    "minecraft:piglin_head",
+    "minecraft:piglin_wall_head",
+    "minecraft:player_head",
+    "minecraft:player_wall_head",
+    "minecraft:skeleton_skull",
+    "minecraft:skeleton_wall_skull",
+    "minecraft:wither_skeleton_skull",
+    "minecraft:wither_skeleton_wall_skull",
+    "minecraft:zombie_head",
+    "minecraft:zombie_wall_head",
+    {
+      "id": "mutantmonsters:mutant_skeleton_skull",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:mutant_skeleton_wall_skull",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:shattered_head",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:shattered_wall_head",
+      "required": false
+    },
+    {
+      "id": "endofherobrine:cursed_head",
+      "required": false
+    },
+    {
+      "id": "endofherobrine:herobrine_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:zombified_piglin_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:zombified_piglin_wall_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_brute_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_brute_wall_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_alchemist_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_alchemist_wall_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_traveler_head",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:piglin_traveler_wall_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:alex_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:colonial_marine_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:desert_marine_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:german_officer_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:hazzmat_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:herobrine_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:impaled_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:phished_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:primitive_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:russian_officer_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:spider_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:steve_head",
+      "required": false
+    },
+    {
+      "id": "horror_element_mod:villager_head",
+      "required": false
+    },
+    {
+      "id": "the_knocker:bridge",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:bookshelf",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:dragon",
+      "required": false
+    },
+    {
+      "id": "siren_head:siren_pole_top",
+      "required": false
+    }
+  ]
+}

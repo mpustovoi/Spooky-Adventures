@@ -1,0 +1,31 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "FHF",
+        "FAF",
+        "CIP"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "F": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "item": "minecraft:carrot"
+        },
+        "P": {
+            "item": "minecraft:potato"
+        },
+        "H": {
+            "item": "minecraft:zombie_head"
+        }
+    },
+    "result": {
+		"item": "minecraft:zombie_spawn_egg"
+	}
+}

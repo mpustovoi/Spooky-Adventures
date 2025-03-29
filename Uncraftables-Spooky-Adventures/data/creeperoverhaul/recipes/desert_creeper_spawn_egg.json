@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PCS", "STP", "BPB"],
+  "key": {
+    "T": {
+      "item": "minecraft:creeper_spawn_egg"
+    },
+    "P": {
+      "item": "minecraft:gunpowder"
+    },
+    "B": {
+      "item": "minecraft:sandstone"
+    },
+    "C": {
+      "item": "minecraft:cactus"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "creeperoverhaul:desert_creeper_spawn_egg",
+    "count": 1
+  }
+}

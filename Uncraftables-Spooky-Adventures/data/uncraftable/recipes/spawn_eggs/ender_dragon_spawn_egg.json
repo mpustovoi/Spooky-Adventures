@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "spawn_eggs",
+	"pattern": [
+		"SHS",
+		"SES",
+		"BBB"
+	],
+	"key": {
+		"H": {
+			"item": "minecraft:dragon_head"
+		},
+		"E": {
+			"item": "minecraft:dragon_egg"
+		},
+		"B": {
+			"item": "minecraft:bedrock"
+		},
+		"S": {
+			"item": "minecraft:end_stone"
+		}
+	},
+	"result": {
+		"item": "minecraft:ender_dragon_spawn_egg"
+	}
+}

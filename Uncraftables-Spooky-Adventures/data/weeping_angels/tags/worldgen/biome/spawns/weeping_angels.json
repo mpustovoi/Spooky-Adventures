@@ -1,0 +1,90 @@
+{
+  "values": [
+    "#minecraft:has_structure/village_snowy",
+    "#minecraft:snow_golem_melts",
+    "#minecraft:is_nether",
+    "#minecraft:is_forest",
+    "#minecraft:is_taiga",
+    "#minecraft:is_jungle",
+    {
+      "id": "#c:is_nether",
+      "required": false
+    },
+    {
+      "id": "#c:is_cave",
+      "required": false
+    },
+    {
+      "id": "#c:is_forest",
+      "required": false
+    },
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#c:is_jungle",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/bone_cavern",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/crystalline_cavity",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/empty",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/glacial_carve",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/littoral_hollow",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/cave/underground_jungle",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/boreal_valley",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/moss_basin",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/stranger_flats",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/the_enchanted",
+      "required": false
+    },
+    {
+      "id": "bro:void/void",
+      "required": false
+    },
+    {
+      "id": "bro:void/void_below",
+      "required": false
+    },
+    {
+      "id": "bro:void/void_inverse",
+      "required": false
+    },
+    {
+      "id": "bro:void/void_inverse_below",
+      "required": false
+    },
+    {
+      "id": "bracken:void/void",
+      "required": false
+    }
+  ]
+}

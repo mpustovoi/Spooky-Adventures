@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SES",
+		"BTB",
+		"SES"
+	],
+	"key": {
+		"T": {
+			"item": "minecraft:ghast_tear"
+		},
+		"B": {
+			"item": "deeperdarker:sculk_bone"
+		},
+		"E": {
+			"item": "minecraft:echo_shard"
+		},
+		"S": {
+			"item": "minecraft:sculk"
+		}
+	},
+	"result": {
+		"item": "deeperdarker:sculk_centipede_spawn_egg",
+		"count": 1
+	}
+}

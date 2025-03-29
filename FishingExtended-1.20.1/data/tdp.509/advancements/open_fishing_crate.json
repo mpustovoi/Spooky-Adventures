@@ -1,0 +1,50 @@
+{
+    "author": "patreon.com/thediamondplayables",
+    "parent": "tdp.509:catch_fish_on_chest_boat",
+    "display": {
+        "frame": "goal",
+        "title": {
+            "translate": "advancements.tdp.509.open_fishing_crate.title"
+        },
+        "description": {
+            "translate": "advancements.tdp.509.open_fishing_crate.descr"
+        },
+        "icon": {
+            "item": "minecraft:barrel",
+            "nbt": "{Enchantments:[{}]}"
+        },
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "open_crate": {
+            "trigger": "minecraft:player_generates_container_loot",
+            "conditions": {
+                "loot_table": "tdp.509:crate_items"
+            }
+        },
+        "open_crate_end": {
+            "trigger": "minecraft:player_generates_container_loot",
+            "conditions": {
+                "loot_table": "tdp.509:end_crate_items"
+            }
+        },
+        "open_crate_legacy": {
+            "trigger": "minecraft:player_generates_container_loot",
+            "conditions": {
+                "loot_table": "tdp.474:1/2_1"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "open_crate",
+            "open_crate_end",
+            "open_crate_legacy"
+        ]
+    ],
+    "rewards": {
+        "experience": 25
+    }
+}

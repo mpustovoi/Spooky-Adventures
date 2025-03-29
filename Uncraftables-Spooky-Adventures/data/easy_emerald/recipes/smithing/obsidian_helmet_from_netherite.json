@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "minecraft:netherite_helmet"
+	},
+	"addition": {
+		"item": "minecraft:obsidian"
+	},
+	"result": {
+		"item": "easy_emerald:obsidian_head"
+	},
+	"template": {
+		"item": "minecraft:obsidian"
+	}
+}

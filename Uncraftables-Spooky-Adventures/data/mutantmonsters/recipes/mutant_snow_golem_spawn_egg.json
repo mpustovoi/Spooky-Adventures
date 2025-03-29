@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IJI",
+		"SES",
+		"SES"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:snow_golem_spawn_egg"
+		},
+		"I": {
+			"item": "minecraft:packed_ice"
+		},
+		"J": {
+			"item": "minecraft:jack_o_lantern"
+		},
+		"S": {
+			"item": "minecraft:snow_block"
+		}
+	},
+	"result": {
+		"item": "mutantmonsters:mutant_snow_golem_spawn_egg",
+		"count": 1
+	}
+}

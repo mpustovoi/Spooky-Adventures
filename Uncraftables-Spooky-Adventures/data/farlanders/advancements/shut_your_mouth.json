@@ -1,0 +1,53 @@
+{
+  "parent": "farlanders:root",
+  "display": {
+    "icon": {
+      "item": "farlanders:enderminion_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.farlanders.shut_your_mouth.title",
+      "fallback": "Shut Your Mouth!"
+    },
+    "description": {
+      "translate": "advancements.farlanders.shut_your_mouth.descr",
+      "fallback": "Kill an Enderminion"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_enderminion": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "farlanders:enderminion"
+            }
+          }
+        ]
+      }
+    },
+    "k_mystic_enderminion": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "farlanders:mystic_enderminion"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  }
+}

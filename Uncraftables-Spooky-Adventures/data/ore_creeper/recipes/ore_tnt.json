@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "DCD",
+    "NDN"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:deepslate"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "N": {
+      "item": "minecraft:netherrack"
+    },
+    "C": {
+      "item": "minecraft:creeper_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "ore_creeper:ore_tnt",
+    "count": 3
+  }
+}

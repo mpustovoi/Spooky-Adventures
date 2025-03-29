@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["MGP", "GTM", "UUU"],
+  "key": {
+    "T": {
+      "item": "minecraft:creeper_spawn_egg"
+    },
+    "P": {
+      "item": "minecraft:gunpowder"
+    },
+    "M": {
+      "item": "minecraft:moss_block"
+    },
+    "U": {
+      "item": "minecraft:tuff"
+    },
+    "G": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "creeperoverhaul:hills_creeper_spawn_egg",
+    "count": 1
+  }
+}

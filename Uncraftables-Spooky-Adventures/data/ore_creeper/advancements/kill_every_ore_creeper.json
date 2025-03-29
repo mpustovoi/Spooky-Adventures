@@ -1,0 +1,177 @@
+{
+  "parent": "ore_creeper:kill_ore_creeper",
+  "display": {
+    "icon": {
+      "item": "minecraft:creeper_head"
+    },
+    "title": {
+      "translate": "advancements.ore_creeper.kill_every_ore_creeper.title",
+      "fallback": "You are doomed!"
+    },
+    "description": {
+      "translate": "advancements.ore_creeper.kill_every_ore_creeper.descr",
+      "fallback": "Kill all kinds of Ore Creepers"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "coal_creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ore_creeper:coal_creeper"
+            }
+          }
+        ]
+      }
+    },
+    "copper_creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ore_creeper:copper_creeper"
+            }
+          }
+        ]
+      }
+    },
+    "diamond_creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ore_creeper:diamond_creeper"
+            }
+          }
+        ]
+      }
+    },
+    "emerald_creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ore_creeper:emerald_creeper"
+            }
+          }
+        ]
+      }
+    },
+    "gold_creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ore_creeper:gold_creeper"
+            }
+          }
+        ]
+      }
+    },
+    "iron_creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ore_creeper:iron_creeper"
+            }
+          }
+        ]
+      }
+    },
+    "lapis_lazuli_creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ore_creeper:lapis_lazuli_creeper"
+            }
+          }
+        ]
+      }
+    },
+    "nether_gold_creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ore_creeper:nether_gold_creeper"
+            }
+          }
+        ]
+      }
+    },
+    "nether_quartz_creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ore_creeper:nether_quartz_creeper"
+            }
+          }
+        ]
+      }
+    },
+    "redstone_creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "ore_creeper:redstone_creeper"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["coal_creeper"],
+    ["copper_creeper"],
+    ["diamond_creeper"],
+    ["emerald_creeper"],
+    ["gold_creeper"],
+    ["iron_creeper"],
+    ["lapis_lazuli_creeper"],
+    ["nether_gold_creeper"],
+    ["nether_quartz_creeper"],
+    ["redstone_creeper"]
+  ],
+  "rewards": {
+    "experience": 1000
+  }
+}

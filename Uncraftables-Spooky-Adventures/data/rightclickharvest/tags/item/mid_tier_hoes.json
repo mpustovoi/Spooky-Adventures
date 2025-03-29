@@ -1,0 +1,21 @@
+{
+    "values": [
+    "minecraft:iron_hoe",
+    {
+      "id": "additionaladditions:rose_gold_hoe",
+      "required": false
+    },
+    {
+      "id": "oxidized:rose_gold_hoe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_hoe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_hoe",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SWS",
+		"WCW",
+		"MEM"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:cooked_chicken"
+		},
+		"E": {
+			"item": "minecraft:egg"
+		},
+		"M": {
+			"item": "minecraft:bone_meal"
+		},
+		"W": {
+			"item": "minecraft:wheat"
+		},
+		"S": {
+			"item": "minecraft:wheat_seeds"
+		}
+	},
+	"result": {
+		"item": "additionaladditions:chicken_nugget",
+		"count": 8
+	}
+}

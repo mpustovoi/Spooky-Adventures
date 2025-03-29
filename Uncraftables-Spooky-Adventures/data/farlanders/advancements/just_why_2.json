@@ -1,0 +1,30 @@
+{
+  "parent": "farlanders:just_why_1",
+  "display": {
+    "icon": {
+      "item": "farlanders:farlander_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.farlanders.just_why_2.title",
+      "fallback": "Why That?"
+    },
+    "description": {
+      "translate": "advancements.farlanders.just_why_2.descr",
+      "fallback": "Kill a Farlander"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_farlander": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "farlanders:farlander"
+        }
+      }
+    }
+  }
+}

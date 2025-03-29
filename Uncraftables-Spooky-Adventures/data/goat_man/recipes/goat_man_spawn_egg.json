@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HMH",
+    "BEB",
+    "MMM"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:goat_spawn_egg"
+    },
+    "M": {
+      "item": "minecraft:mutton"
+    },
+    "B": {
+      "item": "minecraft:bone_block"
+    },
+    "H": {
+      "item": "minecraft:goat_horn"
+    }
+  },
+  "result": {
+    "item": "goat_man:goat_man_spawn_egg",
+    "count": 1
+  }
+}

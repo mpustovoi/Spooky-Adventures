@@ -1,0 +1,32 @@
+{
+  "values": [
+    {
+      "id": "miners_delight:squid",
+      "required": false
+    },
+    {
+      "id": "miners_delight:glow_squid",
+      "required": false
+    },
+    {
+      "id": "miners_delight:tentacles",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:tentacles",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:raw_squid_tentacles",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:raw_glow_squid_tentacles",
+      "required": false
+    },
+    {
+      "id": "dumplings_delight:calamari",
+      "required": false
+    }
+  ]
+}

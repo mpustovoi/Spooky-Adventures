@@ -1,0 +1,21 @@
+{
+  "values": [
+    {
+      "id": "toughasdelight:cactus_cider",
+      "required": false
+    },
+    "minecraft:milk_bucket",
+    {
+      "id": "alexscavesdelight:acid_juice",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:licoroot_juice",
+      "required": false
+    },
+    {
+      "id": "alexscavesdelight:tree_star_juice",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"RRR",
+		"RSR",
+		"RRR"
+	],
+	"key": {
+		"R": {
+			"item": "randomium:randomium"
+		},
+		"S": {
+			"item": "minecraft:end_stone"
+		}
+	},
+	"result": {
+		"item": "randomium:randomium_ore_end",
+		"count": 1
+	}
+}

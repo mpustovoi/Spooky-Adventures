@@ -1,0 +1,33 @@
+{
+  "parent": "farlanders:root",
+  "display": {
+    "icon": {
+      "item": "farlanders:looter_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.farlanders.no_more_looting.title",
+      "fallback": "Stop the Daylight Robbery!"
+    },
+    "description": {
+      "translate": "advancements.farlanders.no_more_looting.descr",
+      "fallback": "Kill a Looter"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_looter": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "farlanders:looter"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

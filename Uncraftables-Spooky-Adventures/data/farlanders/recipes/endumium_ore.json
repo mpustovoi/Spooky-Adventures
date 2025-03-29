@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CSC",
+		"CCC"
+	],
+	"key": {
+		"C": {
+			"item": "farlanders:endumium_crystal"
+		},
+		"S": {
+			"item": "minecraft:stone"
+		}
+	},
+	"result": {
+		"item": "farlanders:endumium_ore",
+		"count": 1
+	}
+}

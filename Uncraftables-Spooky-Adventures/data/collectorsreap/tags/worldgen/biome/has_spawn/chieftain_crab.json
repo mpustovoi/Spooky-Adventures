@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#minecraft:is_beach",
+    {
+      "id": "#c:is_beach",
+      "required": false
+    },
+    {
+      "id": "terralith:gravel_beach",
+      "required": false
+    }
+  ]
+}

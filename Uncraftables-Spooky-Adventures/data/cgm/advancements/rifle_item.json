@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:root",
+  "display": {
+    "icon": {
+      "item": "cgm:rifle"
+    },
+    "title": {
+      "translate": "advancements.cgm.rifle.title",
+      "fallback": "The Infantryman"
+    },
+    "description": {
+      "translate": "advancements.cgm.rifle.descr",
+      "fallback": "Create a Rifle"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_rifle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:rifle"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

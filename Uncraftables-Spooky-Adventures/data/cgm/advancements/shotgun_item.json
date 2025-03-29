@@ -1,0 +1,35 @@
+{
+  "parent": "cgm:root",
+  "display": {
+    "icon": {
+      "item": "cgm:shotgun"
+    },
+    "title": {
+      "translate": "advancements.cgm.shotgun.title",
+      "fallback": "Boom Stick"
+    },
+    "description": {
+      "translate": "advancements.cgm.shotgun.descr",
+      "fallback": "Create a Shotgun"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_shotgun": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:shotgun"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp",
+    "#minecraft:is_forest",
+    {
+      "id": "#c:is_swamp",
+      "required": false
+    },
+    {
+      "id": "#c:is_forest",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_forests",
+      "required": false
+    }
+  ]
+}

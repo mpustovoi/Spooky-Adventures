@@ -1,0 +1,26 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:brush",
+    {
+      "id": "betterarcheology:iron_brush",
+      "required": false
+    },
+    {
+      "id": "betterarcheology:diamond_brush",
+      "required": false
+    },
+    {
+      "id": "betterarcheology:netherite_brush",
+      "required": false
+    },
+    {
+      "id": "#c:brushes",
+      "required": false
+    },
+    {
+      "id": "#c:brushitems",
+      "required": false
+    }
+  ]
+}

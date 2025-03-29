@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SSS",
+		"LEL",
+		"LLL"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		"L": [
+			{
+				"item": "minecraft:dark_oak_log"
+			},
+			{
+				"item": "minecraft:dark_oak_wood"
+			}
+		],
+		"S": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "endermanoverhaul:dark_oak_enderman_spawn_egg",
+		"count": 1
+	}
+}

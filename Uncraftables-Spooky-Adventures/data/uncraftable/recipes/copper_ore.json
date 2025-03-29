@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQQ",
+    "QNQ",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:raw_copper"
+    },
+    "N": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:copper_ore"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GJV", "PTP", "MLM"],
+  "key": {
+    "T": {
+      "item": "minecraft:creeper_spawn_egg"
+    },
+    "P": {
+      "item": "minecraft:gunpowder"
+    },
+    "M": {
+      "item": "minecraft:moss_block"
+    },
+    "J": {
+      "item": "minecraft:jungle_leaves"
+    },
+    "L": [
+      {
+        "item": "minecraft:jungle_log"
+      },
+      {
+        "item": "minecraft:jungle_wood"
+      }
+    ],
+    "V": {
+      "item": "minecraft:vine"
+    },
+    "G": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "creeperoverhaul:jungle_creeper_spawn_egg",
+    "count": 1
+  }
+}

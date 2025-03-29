@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "graveyard:dark_iron_door"
+		},
+		{
+			"tag": "minecraft:logs"
+		},
+		{
+			"tag": "minecraft:logs"
+		},
+		{
+			"tag": "minecraft:logs"
+		},
+		{
+			"tag": "minecraft:logs"
+		}
+	],
+	"result": {
+		"item": "minecraft:shield",
+		"count": 2
+	}
+}

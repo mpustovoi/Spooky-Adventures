@@ -1,0 +1,1 @@
+{"pools": [{"rolls": 3, "entries": [{"type": "minecraft:loot_table", "name": "tdp.509:sus_block", "weight": 2}, {"type": "minecraft:item", "name": "minecraft:sand"}, {"type": "minecraft:item", "name": "minecraft:gravel"}], "functions": [{"function": "minecraft:set_count", "count": {"min": 2, "max": 4}}]}]}

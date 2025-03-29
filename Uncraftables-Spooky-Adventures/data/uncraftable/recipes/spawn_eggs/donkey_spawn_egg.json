@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "CAC",
+        "G G"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:horse_spawn_egg"
+        },
+        "G": {
+            "item": "minecraft:leather"
+        },
+        "C": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+		"item": "minecraft:donkey_spawn_egg"
+	}
+}

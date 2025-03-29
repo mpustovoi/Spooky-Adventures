@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:adventure/trade",
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_sword"
+    },
+    "title": {
+      "translate": "advancements.guardvillagers.kill_guard.title",
+      "fallback": "You're Fired"
+    },
+    "description": {
+      "translate": "advancements.guardvillagers.kill_guard.descr",
+      "fallback": "Kill a Guard"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_guard": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "guardvillagers:guard"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

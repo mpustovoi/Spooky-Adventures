@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CBC",
+		"CEC",
+		"BCB"
+	],
+	"key": {
+		"C": {
+			"item": "graveyard:corruption"
+		},
+		"B": {
+			"item": "minecraft:bone"
+		},
+		"E": {
+			"item": "minecraft:creeper_spawn_egg"
+		}
+	},
+	"result": {
+		"item": "graveyard:skeleton_creeper_spawn_egg",
+		"count": 1
+	}
+}

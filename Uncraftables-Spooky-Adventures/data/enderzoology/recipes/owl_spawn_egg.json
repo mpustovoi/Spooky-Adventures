@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"FFF",
+		"FEF",
+		"FTF"
+	],
+	"key": {
+		"F": {
+			"item": "minecraft:feather"
+		},
+		"E": {
+			"item": "enderzoology:owl_egg"
+		},
+		"T": {
+			"item": "minecraft:ghast_tear"
+		}
+	},
+	"result": {
+		"item": "enderzoology:owl_spawn_egg",
+		"count": 1
+	}
+}

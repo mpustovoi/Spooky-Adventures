@@ -1,0 +1,31 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/black_concrete.png",
+    "icon": {
+      "item": "minecraft:black_concrete"
+    },
+    "title": {
+      "translate": "advancements.bro.enter_void_first_time.title",
+      "fallback": "§0Noclip out of reality"
+    },
+    "description": {
+      "translate": "advancements.bro.enter_void_first_time.descr",
+      "fallback": "Almost suffocate in Gravel"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },  
+  "criteria": {
+    "enter_void_first_time": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "bro:void"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

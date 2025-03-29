@@ -1,0 +1,66 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:swords",
+    {
+      "id": "#c:sword",
+      "required": false
+    },
+    {
+      "id": "#c:swords",
+      "required": false
+    },
+    {
+      "id": "#forge:swords",
+      "required": false
+    },
+    {
+      "id": "#forge:tools/swords",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:gilded_netherite_sword",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:rose_gold_sword",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:sharpened_dark_metal_sword",
+      "required": false
+    },
+    {
+      "id": "dungeonnowloading:spawner_sword",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:amethyst_sword",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:copper_sword",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_sword",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:obsidian_sword",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:ruby_sword",
+      "required": false
+    },
+    {
+      "id": "oxidized:rose_gold_sword",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_sweeper_sword",
+      "required": false
+    }
+  ]
+}

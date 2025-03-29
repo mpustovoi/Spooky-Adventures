@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CBC",
+		"BSB",
+		"CBC"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:ghast_tear"
+		},
+		"C": {
+			"item": "farlanders:endumium_crystal"
+		},
+		"B": {
+			"item": "farlanders:endumium_block"
+		}
+	},
+	"result": {
+		"item": "farlanders:farlander_spawn_egg",
+		"count": 1
+	}
+}

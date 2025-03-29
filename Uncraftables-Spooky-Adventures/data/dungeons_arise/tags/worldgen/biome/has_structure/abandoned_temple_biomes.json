@@ -1,0 +1,96 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_taiga",
+    "#minecraft:is_hill",
+    "#minecraft:is_mountain",
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#c:is_hill",
+      "required": false
+    },
+    {
+      "id": "#c:is_mountain",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/basalt_climb",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/crystallized_peaks",
+      "required": false
+    },
+    {
+      "id": "bro:saturated/verdant_spires",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/bamboo_valley",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/horsetail_tropics",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/polypore_plains",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/quicksand_springs",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/sweltering_swamp",
+      "required": false
+    },
+    {
+      "id": "bracken:panacea/wildflower_bog",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/kelp_cove",
+      "required": false
+    },
+    {
+      "id": "bracken:the_brine/sugar_sand_beach",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/clandestine_castlegrounds",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/darkthunder_thicket",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/dreamfall_dells",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/foison_fields",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/hidden_hamlet",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/malmsey_meadow",
+      "required": false
+    },
+    {
+      "id": "bracken:the_faewild/wanderlight_woods",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_taigas",
+      "required": false
+    }
+  ]
+}

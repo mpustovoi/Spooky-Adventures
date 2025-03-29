@@ -1,0 +1,35 @@
+{
+  "parent": "uncraftable:root",
+  "display": {
+    "icon": {
+      "item": "minecraft:bedrock"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.get_bedrock.title",
+      "fallback": "The Impossible Is Possible"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.get_bedrock.descr",
+      "fallback": "Get the Bedrock In Your Inventory"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_bedrock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:bedrock"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5000
+  }
+}

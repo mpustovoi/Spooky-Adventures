@@ -1,0 +1,35 @@
+{
+  "parent": "uncraftable:get_bedrock",
+  "display": {
+    "icon": {
+      "item": "minecraft:barrier"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.get_barrier.title",
+      "fallback": "Dense Air"
+    },
+    "description": {
+      "translate": "advancements.uncraftable.get_barrier.descr",
+      "fallback": "Create a Barrier Block"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_barrier": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:barrier"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5000
+  }
+}

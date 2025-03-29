@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "EBE",
+        "BAB",
+        "EBE"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ghast_tear"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        },
+        "B": {
+            "item": "minecraft:emerald_block"
+        }
+    },
+    "result": {
+		"item": "minecraft:villager_spawn_egg"
+	}
+}

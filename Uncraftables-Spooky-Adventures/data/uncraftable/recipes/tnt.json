@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:bamboo_block"
+      },
+      {
+        "item": "minecraft:stripped_bamboo_block"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:bamboo_block"
+      },
+      {
+        "item": "minecraft:stripped_bamboo_block"
+      }
+    ],
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "item": "minecraft:tnt",
+    "count": 2
+  }
+}

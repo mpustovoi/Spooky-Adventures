@@ -1,0 +1,52 @@
+{
+  "values": [
+    "minecraft:nether_wastes",
+    "minecraft:crimson_forest",
+    "minecraft:warped_forest",
+    "minecraft:basalt_deltas",
+    "minecraft:desert",
+    "minecraft:badlands",
+    "minecraft:wooded_badlands",
+    "minecraft:eroded_badlands",
+    {
+      "id": "#c:is_desert",
+      "required": false
+    },
+    {
+      "id": "#c:is_badlands",
+      "required": false
+    },
+    {
+      "id": "#c:is_hot",
+      "required": false
+    },
+    {
+      "id": "terralith:mantle_caves",
+      "required": false
+    },
+    {
+      "id": "incendium:infernal_dunes",
+      "required": false
+    },
+    {
+      "id": "incendium:inverted_forest",
+      "required": false
+    },
+    {
+      "id": "incendium:toxic_heap",
+      "required": false
+    },
+    {
+      "id": "incendium:volcanic_deltas",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:lost_caves",
+      "required": false
+    },
+    {
+      "id": "gardens_of_the_dead:whistling_woods",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"PEP",
+		"IPI"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:enderman_spawn_egg"
+		},
+		"I": {
+			"item": "minecraft:packed_ice"
+		},
+		"P": {
+			"item": "endermanoverhaul:icy_pearl"
+		}
+	},
+	"result": {
+		"item": "endermanoverhaul:ice_spikes_enderman_spawn_egg",
+		"count": 1
+	}
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "terralith:yellowstone",
+      "required": false
+    },
+    {
+      "id": "terralith:thermal_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:alpha_islands",
+      "required": false
+    },
+    {
+      "id": "terralith:alpha_islands_winter",
+      "required": false
+    }
+  ]
+}

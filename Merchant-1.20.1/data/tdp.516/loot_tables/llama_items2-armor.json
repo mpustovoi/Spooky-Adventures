@@ -1,0 +1,1 @@
+{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:loot_table", "name": "tdp.516:golden_armor", "weight": 4}, {"type": "minecraft:loot_table", "name": "tdp.516:chainmail_armor"}], "functions": [{"function": "minecraft:enchant_with_levels", "levels": {"min": 20, "max": 30}, "treasure": false, "conditions": [{"condition": "minecraft:random_chance", "chance": 0.05}]}]}]}

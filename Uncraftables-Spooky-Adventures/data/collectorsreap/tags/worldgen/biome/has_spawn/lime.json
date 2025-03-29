@@ -1,0 +1,29 @@
+{
+  "values": [
+    "minecraft:flower_forest",
+    {
+      "id": "terralith:blooming_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:lavender_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:lavender_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:lush_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:moonlight_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:sakura_valley",
+      "required": false
+    }
+  ]
+}

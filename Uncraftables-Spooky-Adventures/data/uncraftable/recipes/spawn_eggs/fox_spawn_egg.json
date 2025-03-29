@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_eggs",
+  "pattern": [
+  
+    "EHF",
+    "CGW",
+    "SLB"
+  ],
+  
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "H": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "F": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "C": {
+      "item": "minecraft:egg"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "S": {
+      "item": "minecraft:leather"
+    },
+    "L": {
+      "item": "minecraft:feather"
+    },
+    "B": {
+      "item": "minecraft:sweet_berries"
+    }    
+  },
+  
+  "result": {
+    "item": "minecraft:fox_spawn_egg"
+  }
+}
