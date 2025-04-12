@@ -210,7 +210,7 @@ key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_zoom_in:key.keyboard.equal
 key_gui.xaero_zoom_out:key.keyboard.minus
 key_gui.xaero_new_waypoint:key.keyboard.n
-key_gui.xaero_waypoints_key:key.keyboard.v
+key_gui.xaero_waypoints_key:key.keyboard.u
 key_gui.xaero_enlarge_map:key.keyboard.caps.lock
 key_gui.xaero_toggle_map:key.keyboard.comma
 key_gui.xaero_toggle_waypoints:key.keyboard.unknown
