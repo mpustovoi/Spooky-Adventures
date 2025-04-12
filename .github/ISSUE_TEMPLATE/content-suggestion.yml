@@ -1,0 +1,45 @@
+name: 💡 Content Suggestion / Предложение о контенте
+description: Suggest adding or removing content / Предложите добавить или удалить контент
+title: "[💡] "
+labels: [suggestion]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 💡 Content Suggestion / Предложение о контенте
+
+  - type: input
+    id: contentname
+    attributes:
+      label: Content Name / Название контента
+      placeholder: "Example: Additional Additions / Пример: Additional Additions"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: action
+    attributes:
+      label: Action / Действие
+      options:
+        - Add content / Добавить контент
+        - Remove content / Удалить контент
+      default: 0
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason / Причина
+      description: Explain why the content should be added or removed / Обоснуйте, почему контент должен быть добавлен или удалён
+      placeholder: "Example: Improves gameplay... / Пример: Улучшает игровой опыт..."
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Content Link (if the suggestion to add) / Ссылка на контент (если предложение на добавление)
+      placeholder: "https://modrinth.com/..."
+    validations:
+      required: false
