@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": {
+      "translate": "datapack.hordes.description",
+      "fallback": "§4The Hordes§r config data pack"
+    },
+    "pack_format": 15
+  }
+}
