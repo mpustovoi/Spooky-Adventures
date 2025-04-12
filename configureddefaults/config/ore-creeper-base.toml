@@ -1,0 +1,68 @@
+
+[General]
+	#Range: 0.0 ~ 100.0
+	"explosion radius" = 2.0
+
+["Spawn Chances"]
+
+	#Configure Mob spawn weight & min/max group size. Set weight to 0 to disable.
+	["Spawn Chances"."Coal Creeper"]
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 3.0
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Copper Creeper"]
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 2.0
+		#Range: -64 ~ 320
+		"max spawn Y level" = 112
+
+	["Spawn Chances"."Diamond Creeper"]
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 1.0
+		#Range: -64 ~ 320
+		"max spawn Y level" = 16
+
+	["Spawn Chances"."Emerald Creeper"]
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 2.5
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Gold Creeper"]
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 1.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 32
+
+	["Spawn Chances"."Iron Creeper"]
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 2.0
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Lapis Lazuli Creeper"]
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 2.5
+		#Range: -64 ~ 320
+		"max spawn Y level" = 64
+
+	["Spawn Chances"."Nether Gold Creeper"]
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 2.25
+		#Range: -64 ~ 320
+		"max spawn Y level" = 176
+
+	["Spawn Chances"."Nether Quartz Creeper"]
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 2.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 192
+
+	["Spawn Chances"."Redstone Creeper"]
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 2.5
+		#Range: -64 ~ 320
+		"max spawn Y level" = 16
+

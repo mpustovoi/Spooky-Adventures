@@ -1,13 +1,13 @@
 <details>
 <summary>RU</summary>
 
-## 1.11: Обновление «Знойный Мороз» и дальнейшие перестановки (на 2 мода больше)
+## 1.11: Обновление «Знойный Мороз» и дальнейшие перестановки (на 0 мода больше)
 
 Прошу прощения за поспешный предыдущий релиз 1.11, сломанный из-за невнимательности моей и автора мода **Tax Free Levels**.
 
 Принял решение отложить этот релиз, чтобы накопить побольше весомых изменений.
 
-### ➖ Удалено (47 модов):
+### ➖ Удалено (49 модов):
 - **[ESF] Entity Sound Features** — Не нужен/слишком незначителен. (Далее отсутствие пояснения будет означать это же)
 - **Acedium**
 - **AmbientSounds** (заменён)
@@ -32,6 +32,7 @@
 - **Just Enough Beacons Reforged**
 - **Kelp Fertilizer**
 - **LAN World Plug-n-Play (mcwifipnp)** (эксперимент провалился, заменён)
+- **Minium Stone**
 - **Mob Boss Bars** — В основном, моб, о котором он информирует находится где-то глубоко под землёй.
 - **Nature's Compass** — Та же причина, что и у **Explorer's Compass**.
 - **NetherPortalFix**
@@ -43,6 +44,7 @@
 - **Simple Magnets** (эксперимент провалился)
 - **Simple Voice Chat** (эксперимент провалился)
 - **Surface Mushrooms**
+- **The Lost Castle** — Кто-нибудь вообще когда-нибудь его находил??
 - **The Man From The Fog** (временно) — После его последнего обновления частота его появления, кажется, игнорирует значения в конфигурации, а анимации слишком сломанные. Он будет возвращён после того, как выйдет переработанная версия, анонсированная разработчиком (если она будет лучше, чем сейчас).
 - **The Midnight Lurker** (временно, надеюсь) — В последнее время с ним появилось множество проблем: слишком частое появление, несмотря на настройку в конфиге; зацикливание анимации исчезновения, которая приводит к сбою игры, если подойти к нему; постоянные лаги при преследовании. А пока что одним монстром стало меньше.
 - **Tiny Item Animations**
@@ -141,13 +143,13 @@
 
 </details>
 
-## 1.11: The 'Sultry Frost' update and further rearrangements (2 mods more)
+## 1.11: The 'Sultry Frost' update and further rearrangements (0 mods more)
 
 I apologize for the hasty previous release 1.11, which was broken due to the inattention of mine and **Tax Free Levels** mod's author.
 
 Decided to postpone this release to accumulate more significant changes.
 
-### ➖ Removed (47 mods):
+### ➖ Removed (49 mods):
 - **[ESF] Entity Sound Features** — Unnecessary/too insignificant. (Further, the absence of a explanation will mean the same thing)
 - **Acedium**
 - **AmbientSounds** (replaced)
@@ -173,6 +175,7 @@ Decided to postpone this release to accumulate more significant changes.
 - **Kelp Fertilizer**
 - **LAN World Plug-n-Play (mcwifipnp)** (experiment failed, replaced)
 - **Mob Boss Bars** — Mostly, the mob it informs about is somewhere deep underground.
+- **Minium Stone**
 - **Nature's Compass** — Same reason as **Explorer's Compass**.
 - **NetherPortalFix**
 - **Nutritious Milk**
@@ -183,6 +186,7 @@ Decided to postpone this release to accumulate more significant changes.
 - **Simple Magnets** (experiment failed)
 - **Simple Voice Chat** (experiment failed)
 - **Surface Mushrooms**
+- **The Lost Castle** — Has anyone ever found it?
 - **The Man From The Fog** (temporarily) — After its last update, his spawnrate seems to ignore the values in the configuration, and the animations are too broken. It will be returned after the rewrited version announced by the developer is released (if it's better than it's now).
 - **The Midnight Lurker** (temporarily, I hope) — Recently, a lot of issue have appeared with it: too frequent spawnrate, despite the configuration file settings; looping of the despawning animation, which leads to a game crash if you approach him; constant lags when chasing. In the meantime, there's one monster less.
 - **Tiny Item Animations**

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "forgottengraves:grave",
+      "required": false
+    },
+    {
+      "id": "forgottengraves:grave_old",
+      "required": false
+    },
+    {
+      "id": "forgottengraves:grave_weathered",
+      "required": false
+    },
+    {
+      "id": "forgottengraves:grave_forgotten",
+      "required": false
+    },
+    {
+      "id": "gravestone:gravestone",
+      "required": false
+    }
+  ]
+}

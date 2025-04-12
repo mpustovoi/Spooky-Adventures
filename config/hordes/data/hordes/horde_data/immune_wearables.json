@@ -100,6 +100,22 @@
     "multiplier": 0.8
   },
   {
+    "item": "minecraft:leather_horse_armor",
+    "multiplier": 0.95
+  },
+  {
+    "item": "minecraft:iron_horse_armor",
+    "multiplier": 0.9
+  },
+  {
+    "item": "minecraft:golden_horse_armor",
+    "multiplier": 0.9
+  },
+  {
+    "item": "minecraft:diamond_horse_armor",
+    "multiplier": 0.7
+  },
+  {
     "item": "additionaladditions:rose_gold_boots",
     "multiplier": 0.8
   },
@@ -277,19 +293,19 @@
   },
   {
     "item": "alexscaves:hazmat_boots",
-    "multiplier": 0.6
+    "multiplier": 0.4
   },
   {
     "item": "alexscaves:hazmat_leggings",
-    "multiplier": 0.6
+    "multiplier": 0.4
   },
   {
     "item": "alexscaves:hazmat_chestplate",
-    "multiplier": 0.6
+    "multiplier": 0.4
   },
   {
     "item": "alexscaves:hazmat_mask",
-    "multiplier": 0.6
+    "multiplier": 0.4
   },
   {
     "item": "alexscaves:diving_boots",
@@ -393,19 +409,19 @@
   },
   {
     "item": "easy_emerald:copper_boots",
-    "multiplier": 0.95
+    "multiplier": 0.85
   },
   {
     "item": "easy_emerald:copper_leggings",
-    "multiplier": 0.95
+    "multiplier": 0.85
   },
   {
     "item": "easy_emerald:copper_body",
-    "multiplier": 0.95
+    "multiplier": 0.85
   },
   {
     "item": "easy_emerald:copper_head",
-    "multiplier": 0.95
+    "multiplier": 0.85
   },
   {
     "item": "easy_emerald:emerald_boots",
@@ -470,5 +486,149 @@
   {
     "item": "easy_emerald:obsidian_head",
     "multiplier": 0.55
+  },
+  {
+    "item": "immersive_armors:bone_helmet",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:bone_chestplate",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:bone_leggings",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:bone_boots",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:wither_helmet",
+    "multiplier": 0.9
+  },
+  {
+    "item": "immersive_armors:wither_chestplate",
+    "multiplier": 0.9
+  },
+  {
+    "item": "immersive_armors:wither_leggings",
+    "multiplier": 0.9
+  },
+  {
+    "item": "immersive_armors:wither_boots",
+    "multiplier": 0.9
+  },
+  {
+    "item": "immersive_armors:divine_helmet",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:divine_chestplate",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:divine_leggings",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:divine_boots",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:heavy_helmet",
+    "multiplier": 0.5
+  },
+  {
+    "item": "immersive_armors:heavy_chestplate",
+    "multiplier": 0.5
+  },
+  {
+    "item": "immersive_armors:heavy_leggings",
+    "multiplier": 0.5
+  },
+  {
+    "item": "immersive_armors:heavy_boots",
+    "multiplier": 0.5
+  },
+  {
+    "item": "immersive_armors:warrior_helmet",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:warrior_chestplate",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:warrior_leggings",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:warrior_boots",
+    "multiplier": 0.95
+  },
+  {
+    "item": "immersive_armors:prismarine_helmet",
+    "multiplier": 0.75
+  },
+  {
+    "item": "immersive_armors:prismarine_chestplate",
+    "multiplier": 0.75
+  },
+  {
+    "item": "immersive_armors:prismarine_leggings",
+    "multiplier": 0.75
+  },
+  {
+    "item": "immersive_armors:prismarine_boots",
+    "multiplier": 0.75
+  },
+  {
+    "item": "immersive_armors:slime_helmet",
+    "multiplier": 0.85
+  },
+  {
+    "item": "immersive_armors:slime_chestplate",
+    "multiplier": 0.85
+  },
+  {
+    "item": "immersive_armors:slime_leggings",
+    "multiplier": 0.85
+  },
+  {
+    "item": "immersive_armors:slime_boots",
+    "multiplier": 0.85
+  },
+  {
+    "item": "immersive_armors:steampunk_helmet",
+    "multiplier": 0.8
+  },
+  {
+    "item": "immersive_armors:steampunk_chestplate",
+    "multiplier": 0.8
+  },
+  {
+    "item": "immersive_armors:steampunk_leggings",
+    "multiplier": 0.8
+  },
+  {
+    "item": "immersive_armors:steampunk_boots",
+    "multiplier": 0.8
+  },
+  {
+    "item": "immersive_armors:wooden_helmet",
+    "multiplier": 0.7
+  },
+  {
+    "item": "immersive_armors:wooden_chestplate",
+    "multiplier": 0.7
+  },
+  {
+    "item": "immersive_armors:wooden_leggings",
+    "multiplier": 0.7
+  },
+  {
+    "item": "immersive_armors:wooden_boots",
+    "multiplier": 0.7
   }
 ]

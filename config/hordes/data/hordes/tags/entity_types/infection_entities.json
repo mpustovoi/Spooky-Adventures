@@ -1,31 +1,6 @@
 {
   "replace": false,
   "values": [
-    "born_in_chaos_v1:barrel_zombie",
-    "born_in_chaos_v1:decaying_zombie_not_despawn",
-    "born_in_chaos_v1:decaying_zombie",
-    "born_in_chaos_v1:dire_hound_leader",
-    "born_in_chaos_v1:door_knight_not_despawn",
-    "born_in_chaos_v1:door_knight",
-    "born_in_chaos_v1:dread_hound",
-    "born_in_chaos_v1:fallen_chaos_knight",
-    "born_in_chaos_v1:swarmer",
-    "born_in_chaos_v1:zombie_bruiser",
-    "born_in_chaos_v1:zombie_clown_not_despawn",
-    "born_in_chaos_v1:zombie_clown",
-    "born_in_chaos_v1:zombie_fisherman",
-    "born_in_chaos_v1:zombie_lumberjack",
-    "endofherobrine:husk",
-    "endofherobrine:pigman",
-    "endofherobrine:zombie_villager",
-    "endofherobrine:zombie",
-    "graveyard:corrupted_pillager",
-    "graveyard:corrupted_vindicator",
-    "graveyard:ghoul",
-    "graveyard:nightmare",
-    "graveyard:revenant",
-    "hordes:drowned_player",
-    "hordes:zombie_player",
     "minecraft:drowned",
     "minecraft:giant",
     "minecraft:husk",
@@ -35,9 +10,129 @@
     "minecraft:zombie_villager",
     "minecraft:zombie",
     "minecraft:zombified_piglin",
-    "mutantmonsters:mutant_zombie",
-    "sculkhorde:sculk_zombie",
-    "variantsandventures:gelid",
-    "variantsandventures:thicket"
+    {
+      "id": "born_in_chaos_v1:barrel_zombie",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:decaying_zombie_not_despawn",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:decaying_zombie",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:dire_hound_leader",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:door_knight_not_despawn",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:door_knight",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:dread_hound",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:fallen_chaos_knight",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:swarmer",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:zombie_bruiser",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:zombie_clown_not_despawn",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:zombie_clown",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:zombie_fisherman",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:zombie_lumberjack",
+      "required": false
+    },
+    {
+      "id": "endofherobrine:husk",
+      "required": false
+    },
+    {
+      "id": "endofherobrine:pigman",
+      "required": false
+    },
+    {
+      "id": "endofherobrine:zombie_villager",
+      "required": false
+    },
+    {
+      "id": "endofherobrine:zombie",
+      "required": false
+    },
+    {
+      "id": "graveyard:corrupted_pillager",
+      "required": false
+    },
+    {
+      "id": "graveyard:corrupted_vindicator",
+      "required": false
+    },
+    {
+      "id": "graveyard:ghoul",
+      "required": false
+    },
+    {
+      "id": "graveyard:nightmare",
+      "required": false
+    },
+    {
+      "id": "graveyard:revenant",
+      "required": false
+    },
+    {
+      "id": "hordes:drowned_player",
+      "required": false
+    },
+    {
+      "id": "hordes:husk_player",
+      "required": false
+    },
+    {
+      "id": "hordes:zombie_player",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:mutant_zombie",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_zombie",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_phantom",
+      "required": false
+    },
+    {
+      "id": "variantsandventures:gelid",
+      "required": false
+    },
+    {
+      "id": "variantsandventures:thicket",
+      "required": false
+    }
   ]
 }

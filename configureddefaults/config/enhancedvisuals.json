@@ -1,0 +1,20 @@
+{
+  "messages": {
+    "deathMessages": [
+      "Do you really want to respawn? think of it again.",
+      "Life is hard. Deal with it.",
+      "Should have shot back...",
+      "Yep, that's messed up...",
+      "Rage incomming!",
+      "I think you dropped something.",
+      "Time for a break?",
+      "Damn it.",
+      "I'll be back.",
+      "Nice, I'm gonna kill everyone right now.",
+      "What a coincidence!",
+      "What just happened?... fuck.",
+      "Worth trying again."
+    ],
+    "enabled": true
+  }
+}
