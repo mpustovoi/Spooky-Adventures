@@ -1,0 +1,39 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:treasure_iron_tools"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:treasure_diamond_tools"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:treasure_chainmail_armor"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:treasure_fishing_rod"
+        },
+        { "type": "minecraft:loot_table", "name": "tdp.509:treasure_crossbow" },
+        { "type": "minecraft:loot_table", "name": "tdp.509:treasure_bow" },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:treasure_stone_tools"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:treasure_iron_armor"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:single_enchanted_book"
+        }
+      ]
+    }
+  ]
+}

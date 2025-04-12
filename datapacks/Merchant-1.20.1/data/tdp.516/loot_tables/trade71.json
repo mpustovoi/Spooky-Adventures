@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [{ "type": "minecraft:item", "name": "minecraft:emerald" }],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 3, "max": 5 } }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:pointed_dripstone" }
+      ],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 8, "max": 12 } }
+      ]
+    }
+  ]
+}

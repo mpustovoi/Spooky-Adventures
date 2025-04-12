@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:gold_nugget" },
+        { "type": "minecraft:item", "name": "minecraft:stick", "weight": 2 }
+      ],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 7, "max": 12 } }
+      ]
+    }
+  ]
+}

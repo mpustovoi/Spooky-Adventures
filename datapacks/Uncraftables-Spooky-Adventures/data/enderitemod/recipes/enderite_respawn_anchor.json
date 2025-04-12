@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "enderitemod:enderite_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:respawn_anchor"
+  },
+  "addition": {
+    "item": "enderitemod:enderite_ingot"
+  },
+  "result": {
+    "item": "enderitemod:enderite_respawn_anchor"
+  }
+}

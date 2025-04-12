@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_banner",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag:{Patterns:[{Pattern:\"gru\",Color:1},{Pattern:\"gru\",Color:14},{Pattern:\"gra\",Color:1},{Pattern:\"gra\",Color:14},{Pattern:\"bri\",Color:15},{Pattern:\"bri\",Color:14},{Pattern:\"mr\",Color:0},{Pattern:\"mr\",Color:0},{Pattern:\"mr\",Color:0},{Pattern:\"mr\",Color:5}]},display:{Name:'{\"italic\":false,\"color\":\"green\",\"text\":\"Nether Trading Banner\"}'},HideFlags:32,tdp.516:{FlagVariant:2}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

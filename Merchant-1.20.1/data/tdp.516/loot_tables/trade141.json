@@ -1,1 +1,0 @@
-{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:emerald"}], "functions": [{"function": "minecraft:set_count", "count": {"min": 2, "max": 6}}]}, {"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:beetroot_seeds"}], "functions": [{"function": "minecraft:set_count", "count": {"min": 14, "max": 28}}]}]}

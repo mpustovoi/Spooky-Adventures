@@ -1,0 +1,42 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cobblestone",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:furnace_smelt",
+              "conditions": [
+                { "condition": "minecraft:random_chance", "chance": 0.85 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cobbled_deepslate",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:furnace_smelt",
+              "conditions": [
+                { "condition": "minecraft:random_chance", "chance": 0.85 }
+              ]
+            }
+          ]
+        },
+        { "type": "minecraft:item", "name": "minecraft:dirt" },
+        { "type": "minecraft:item", "name": "minecraft:gravel" },
+        { "type": "minecraft:item", "name": "minecraft:iron_nugget" },
+        { "type": "minecraft:item", "name": "minecraft:gold_nugget" }
+      ],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 7, "max": 11 } }
+      ]
+    }
+  ]
+}

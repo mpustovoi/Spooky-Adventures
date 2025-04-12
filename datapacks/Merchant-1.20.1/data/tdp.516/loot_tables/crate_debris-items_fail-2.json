@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:gravel" },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherrack",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:furnace_smelt",
+              "conditions": [
+                { "condition": "minecraft:random_chance", "chance": 0.15 }
+              ]
+            }
+          ]
+        },
+        { "type": "minecraft:item", "name": "minecraft:blackstone" },
+        { "type": "minecraft:item", "name": "minecraft:basalt" }
+      ],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 7, "max": 11 } }
+      ]
+    }
+  ]
+}

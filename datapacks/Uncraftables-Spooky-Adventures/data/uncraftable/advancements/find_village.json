@@ -1,0 +1,102 @@
+{
+  "parent": "minecraft:story/upgrade_tools",
+  "display": {
+    "description": {
+      "translate": "advancements.uncraftable.find_village.descr",
+      "fallback": "Visit the First Village"
+    },
+    "icon": {
+      "item": "minecraft:filled_map"
+    },
+    "title": {
+      "translate": "advancements.uncraftable.find_village.title",
+      "fallback": "Finally, Some Civilization!"
+    }
+  },
+  "criteria": {
+    "plains": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "minecraft:village_plains"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "desert": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "minecraft:village_desert"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "savanna": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "minecraft:village_savanna"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "snowy": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "minecraft:village_snowy"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "taiga": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "minecraft:village_taiga"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [["plains", "desert", "savanna", "snowy", "taiga"]],
+  "rewards": {
+    "experience": 50
+  }
+}

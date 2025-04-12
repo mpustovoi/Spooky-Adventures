@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,BlockEntityTag:{Patterns:[{Pattern:tt,Color:10},{Pattern:bt,Color:13},{Pattern:bts,Color:5},{Pattern:tts,Color:6},{Pattern:cbo,Color:11},{Pattern:bo,Color:11},{Pattern:flo,Color:4},{Pattern:mc,Color:14}],Base:4}}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Old Shield",
+                "color": "yellow",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

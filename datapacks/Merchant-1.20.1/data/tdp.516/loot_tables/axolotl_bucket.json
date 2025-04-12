@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:axolotl_bucket",
+          "functions": [
+            { "function": "minecraft:set_nbt", "tag": "{Variant:0}" }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:axolotl_bucket",
+          "functions": [
+            { "function": "minecraft:set_nbt", "tag": "{Variant:1}" }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:axolotl_bucket",
+          "functions": [
+            { "function": "minecraft:set_nbt", "tag": "{Variant:2}" }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:axolotl_bucket",
+          "functions": [
+            { "function": "minecraft:set_nbt", "tag": "{Variant:3}" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade26",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade26:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade91",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade91:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade93",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade93:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade94",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade94:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade95",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade95:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade96",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade96:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade97",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade97:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade98",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade98:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade99",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade99:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade100",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade100:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade101",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade101:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade102",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade102:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade103",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade103:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade104",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade104:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade105",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade105:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade106",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade106:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade107",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade107:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade108",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade108:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade119",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade119:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade124",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade124:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade132",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade132:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

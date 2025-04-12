@@ -1,0 +1,21 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:loot_table", "name": "tdp.516:merchant" }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:dirt" },
+        { "type": "minecraft:item", "name": "minecraft:sand" },
+        { "type": "minecraft:item", "name": "minecraft:clay" }
+      ],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 2, "max": 4 } }
+      ]
+    }
+  ]
+}

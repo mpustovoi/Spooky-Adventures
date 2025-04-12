@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:fish_heads/cod/fishing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:fish_heads/salmon/fishing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:fish_heads/pufferfish/fishing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:fish_heads/tropical_fish/fishing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:fish_heads/drowned/fishing"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:fish_heads/squid/fishing"
+        }
+      ]
+    }
+  ]
+}

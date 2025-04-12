@@ -1,0 +1,44 @@
+{
+  "parent": "tdp.509:entry",
+  "display": {
+    "frame": "task",
+    "title": {
+      "translate": "advancements.tdp.509.milk_skips_bad_luck.title",
+      "fallback": "Bad Luck Skipper"
+    },
+    "description": {
+      "translate": "advancements.tdp.509.milk_skips_bad_luck.descr",
+      "fallback": "§aDrink some milk, it does your luck good"
+    },
+    "icon": {
+      "item": "minecraft:milk_bucket"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_task": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:milk_bucket"]
+        },
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "effects": {
+                "minecraft:unluck": {}
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 15
+  }
+}

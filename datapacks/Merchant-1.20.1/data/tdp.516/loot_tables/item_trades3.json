@@ -1,0 +1,144 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade109",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade109:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade112",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade112:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade113",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade113:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade114",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade114:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade115",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade115:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade116",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade116:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade117",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade117:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade118",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade118:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade126",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade126:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

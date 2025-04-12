@@ -1,0 +1,283 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "display": {
+    "description": {
+      "translate": "advancements.endermanoverhaul.kill_overhauled_enderman.descr",
+      "fallback": "Kill an Overhauled Enderman"
+    },
+    "icon": {
+      "item": "minecraft:ender_pearl"
+    },
+    "title": {
+      "translate": "advancements.endermanoverhaul.kill_overhauled_enderman.title",
+      "fallback": "Enderman Overhauled"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "endermanoverhaul:badlands_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:badlands_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:cave_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:cave_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:coral_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:coral_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:crimson_forest_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:crimson_forest_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:dark_oak_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:dark_oak_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:desert_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:desert_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:end_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:end_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:end_islands_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:end_islands_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:ice_spikes_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:ice_spikes_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:mushroom_fields_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:mushroom_fields_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:nether_wastes_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:nether_wastes_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:savanna_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:savanna_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:snowy_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:snowy_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:soulsand_valley_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:soulsand_valley_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:swamp_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:swamp_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:warped_forest_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:warped_forest_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "endermanoverhaul:windswept_hills_enderman": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "endermanoverhaul:windswept_hills_enderman"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "requirements": [
+    [
+      "endermanoverhaul:badlands_enderman",
+      "endermanoverhaul:cave_enderman",
+      "endermanoverhaul:coral_enderman",
+      "endermanoverhaul:crimson_forest_enderman",
+      "endermanoverhaul:dark_oak_enderman",
+      "endermanoverhaul:desert_enderman",
+      "endermanoverhaul:end_enderman",
+      "endermanoverhaul:end_islands_enderman",
+      "endermanoverhaul:ice_spikes_enderman",
+      "endermanoverhaul:mushroom_fields_enderman",
+      "endermanoverhaul:nether_wastes_enderman",
+      "endermanoverhaul:savanna_enderman",
+      "endermanoverhaul:snowy_enderman",
+      "endermanoverhaul:soulsand_valley_enderman",
+      "endermanoverhaul:swamp_enderman",
+      "endermanoverhaul:warped_forest_enderman",
+      "endermanoverhaul:windswept_hills_enderman"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
+}

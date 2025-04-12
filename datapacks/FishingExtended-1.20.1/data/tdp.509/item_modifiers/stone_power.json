@@ -1,0 +1,7 @@
+[
+  { "function": "minecraft:reference", "name": "tdp.509:enchant_power" },
+  {
+    "function": "minecraft:set_enchantments",
+    "enchantments": { "minecraft:vanishing_curse": 0 }
+  }
+]

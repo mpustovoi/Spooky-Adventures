@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CCB", "HTF", "FBH"],
+  "key": {
+    "T": {
+      "item": "minecraft:skeleton_spawn_egg"
+    },
+    "C": {
+      "item": "minecraft:seagrass"
+    },
+    "B": {
+      "item": "minecraft:bubble_coral"
+    },
+    "H": {
+      "item": "minecraft:horn_coral"
+    },
+    "F": {
+      "item": "minecraft:fire_coral"
+    }
+  },
+  "result": {
+    "item": "variantsandventures:murk_spawn_egg",
+    "count": 1
+  }
+}

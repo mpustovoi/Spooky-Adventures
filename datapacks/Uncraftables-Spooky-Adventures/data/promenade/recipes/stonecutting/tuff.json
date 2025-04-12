@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "promenade:moai"
+	},
+	"result": "minecraft:tuff",
+	"count": 1
+}

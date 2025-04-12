@@ -1,0 +1,38 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blackstone",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Low chance to be:",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "translate": "block.minecraft.gilded_blackstone",
+                  "color": "green",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": { "text": "Gildable Blackstone", "italic": false }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{tdp.516.placeholder:\"gildable_blackstone\",Enchantments:[{}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

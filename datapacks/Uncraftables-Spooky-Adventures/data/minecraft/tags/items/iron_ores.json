@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "universal_ores:granite_iron_ore",
+      "required": false
+    },
+    {
+      "id": "universal_ores:diorite_iron_ore",
+      "required": false
+    },
+    {
+      "id": "universal_ores:andesite_iron_ore",
+      "required": false
+    },
+    {
+      "id": "universal_ores:tuff_iron_ore",
+      "required": false
+    },
+    {
+      "id": "universal_ores:calcite_iron_ore",
+      "required": false
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:emerald"}], "functions": [{"function": "minecraft:set_count", "count": {"min": 18, "max": 22}}]}, {"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:amethyst_cluster"}], "functions": [{"function": "minecraft:set_count", "count": {"min": 6, "max": 10}}]}]}

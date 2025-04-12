@@ -1,0 +1,39 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade110",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade110:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.516:trade111",
+          "conditions": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": { "type": "minecraft:fixed", "name": ":trade111:" },
+                "score": "tdp.516.op"
+              },
+              "range": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

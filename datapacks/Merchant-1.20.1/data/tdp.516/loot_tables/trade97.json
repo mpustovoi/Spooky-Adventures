@@ -1,0 +1,18 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [{ "type": "minecraft:item", "name": "minecraft:emerald" }],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 12, "max": 18 } }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [{ "type": "minecraft:item", "name": "minecraft:ghast_tear" }],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 5, "max": 7 } }
+      ]
+    }
+  ]
+}

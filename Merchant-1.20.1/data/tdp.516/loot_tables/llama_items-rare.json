@@ -1,1 +1,0 @@
-{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:potion", "weight": 9, "functions": [{"function": "minecraft:set_potion", "id": "minecraft:invisibility"}]}, {"type": "minecraft:item", "name": "minecraft:milk_bucket"}]}]}

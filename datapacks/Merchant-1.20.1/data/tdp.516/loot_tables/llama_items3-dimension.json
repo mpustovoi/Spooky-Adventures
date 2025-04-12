@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:end_stone" },
+        { "type": "minecraft:item", "name": "minecraft:chorus_fruit" }
+      ],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 3, "max": 7 } }
+      ]
+    }
+  ]
+}

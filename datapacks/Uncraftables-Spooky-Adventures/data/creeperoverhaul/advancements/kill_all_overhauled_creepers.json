@@ -1,0 +1,251 @@
+{
+  "parent": "creeperoverhaul:kill_overhauled_creeper",
+  "display": {
+    "description": {
+      "translate": "advancements.creeperoverhaul.kill_all_overhauled_creepers.descr",
+      "fallback": "Kill all the Overhauled Creeper"
+    },
+    "icon": {
+      "item": "minecraft:creeper_head"
+    },
+    "title": {
+      "translate": "advancements.creeperoverhaul.kill_all_overhauled_creepers.title",
+      "fallback": "Creepers Overhauled"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "creeperoverhaul:badlands_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:badlands_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:bamboo_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:bamboo_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:beach_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:beach_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:cave_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:cave_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:dark_oak_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:dark_oak_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:desert_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:desert_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:dripstone_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:dripstone_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:hills_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:hills_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:jungle_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:jungle_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:mushroom_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:mushroom_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:ocean_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:ocean_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:savannah_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:savannah_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:snowy_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:snowy_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:spruce_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:spruce_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "creeperoverhaul:swamp_creeper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "creeperoverhaul:swamp_creeper"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "requirements": [
+    ["creeperoverhaul:badlands_creeper"],
+    ["creeperoverhaul:bamboo_creeper"],
+    ["creeperoverhaul:beach_creeper"],
+    ["creeperoverhaul:cave_creeper"],
+    ["creeperoverhaul:dark_oak_creeper"],
+    ["creeperoverhaul:desert_creeper"],
+    ["creeperoverhaul:dripstone_creeper"],
+    ["creeperoverhaul:hills_creeper"],
+    ["creeperoverhaul:jungle_creeper"],
+    ["creeperoverhaul:mushroom_creeper"],
+    ["creeperoverhaul:ocean_creeper"],
+    ["creeperoverhaul:savannah_creeper"],
+    ["creeperoverhaul:snowy_creeper"],
+    ["creeperoverhaul:spruce_creeper"],
+    ["creeperoverhaul:swamp_creeper"]
+  ],
+  "rewards": {
+    "experience": 750
+  }
+}

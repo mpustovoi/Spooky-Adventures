@@ -1,0 +1,16 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:netherrack" },
+        { "type": "minecraft:item", "name": "minecraft:soul_sand" },
+        { "type": "minecraft:item", "name": "minecraft:soul_soil" },
+        { "type": "minecraft:item", "name": "minecraft:basalt" }
+      ],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 3, "max": 7 } }
+      ]
+    }
+  ]
+}

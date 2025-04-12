@@ -1,0 +1,31 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "tdp.509:afk_master",
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "type_specific": {
+                      "type": "fishing_hook",
+                      "in_open_water": false
+                    }
+                  }
+                }
+              ]
+            },
+            { "type": "minecraft:loot_table", "name": "tdp.509:active_master" }
+          ]
+        }
+      ]
+    }
+  ]
+}

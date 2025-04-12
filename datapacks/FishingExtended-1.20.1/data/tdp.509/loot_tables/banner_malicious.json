@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lime_banner",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,BlockEntityTag:{Patterns:[{Pattern:tt,Color:15},{Pattern:flo,Color:15},{Pattern:bo,Color:15},{Pattern:hhb,Color:1},{Pattern:bs,Color:14},{Pattern:cbo,Color:15},{Pattern:bts,Color:15},{Pattern:cre,Color:15},{Pattern:mc,Color:15}]}}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Old Banner",
+                "color": "yellow",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

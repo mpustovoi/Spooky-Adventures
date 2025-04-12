@@ -1,1 +1,0 @@
-{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:loot_table", "name": "tdp.516:wood2", "functions": [{"function": "minecraft:set_count", "count": {"min": 2, "max": 4}}]}, {"type": "minecraft:item", "name": "minecraft:blackstone", "functions": [{"function": "minecraft:set_count", "count": {"min": 8, "max": 16}}]}]}]}

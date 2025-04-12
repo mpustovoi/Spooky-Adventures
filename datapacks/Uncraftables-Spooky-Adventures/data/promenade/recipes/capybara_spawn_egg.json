@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:carrot"
+		},
+		{
+			"item": "minecraft:carrot"
+		},
+		{
+			"item": "minecraft:carrot"
+		},
+		{
+			"item": "minecraft:carrot"
+		},
+		{
+			"item": "minecraft:ghast_tear"
+		},
+		{
+			"item": "minecraft:melon_slice"
+		},
+		{
+			"item": "minecraft:melon_slice"
+		},
+		{
+			"item": "minecraft:melon_slice"
+		},
+		{
+			"item": "minecraft:melon_slice"
+		}
+	],
+	"result": {
+		"item": "promenade:capybara_spawn_egg",
+		"count": 1
+	}
+}

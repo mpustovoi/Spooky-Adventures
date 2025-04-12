@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": {
+      "translate": "datapack.uncraftable.merchant.name",
+      "fallback": "§9Improved Wandering Trader!§r by §bTheDiamondPlayables"
+    },
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 26
+    }
+  }
+}

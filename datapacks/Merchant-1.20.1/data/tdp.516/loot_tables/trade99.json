@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [{ "type": "minecraft:item", "name": "minecraft:emerald" }],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 4, "max": 6 } }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:magma_block" }
+      ],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 36, "max": 44 } }
+      ]
+    }
+  ]
+}

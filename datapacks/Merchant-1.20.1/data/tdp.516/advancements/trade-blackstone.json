@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "buy_item": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "villager": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": { "team": "tdp.516.traders" }
+          }
+        ],
+        "item": { "items": ["minecraft:blackstone"] }
+      }
+    },
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "nbt": "{tdp.516.placeholder:\"gildable_blackstone\"}" }]
+      }
+    }
+  },
+  "requirements": [["buy_item", "has_item"]],
+  "rewards": { "function": "tdp.516:trade-blackstone" }
+}

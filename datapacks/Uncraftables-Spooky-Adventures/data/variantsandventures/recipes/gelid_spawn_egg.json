@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["SIS", "IAI", "SIS"],
+  "key": {
+    "A": {
+      "item": "minecraft:zombie_spawn_egg"
+    },
+    "I": {
+      "item": "minecraft:ice"
+    },
+    "S": {
+      "item": "minecraft:snow_block"
+    }
+  },
+  "result": {
+    "item": "variantsandventures:gelid_spawn_egg"
+  }
+}

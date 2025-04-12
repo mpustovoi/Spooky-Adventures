@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SC",
+		"CF"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:gravel"
+		},
+		"C": [
+			{
+				"item": "minecraft:coal"
+			},
+			{
+				"item": "minecraft:charcoal"
+			}
+		],
+		"F": {
+			"item": "minecraft:flint"
+		}
+	},
+	"result": {
+		"item": "promenade:asphalt",
+		"count": 2
+	}
+}

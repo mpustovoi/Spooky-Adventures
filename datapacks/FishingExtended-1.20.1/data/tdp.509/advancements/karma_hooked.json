@@ -1,0 +1,9 @@
+{
+    "criteria": {
+    "the_task": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": { "item": { "nbt": "{tdp.509:{event:\"fishing_karma\"}}" } }
+    }
+  },
+  "rewards": { "experience": 10, "function": "tdp.509:start_karma" }
+}

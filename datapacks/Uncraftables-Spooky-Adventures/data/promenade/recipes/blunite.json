@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SC",
+		"CF"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:deepslate"
+		},
+		"C": {
+			"item": "minecraft:clay_ball"
+		},
+		"F": {
+			"item": "minecraft:lapis_lazuli"
+		}
+	},
+	"result": {
+		"item": "promenade:blunite",
+		"count": 2
+	}
+}

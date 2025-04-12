@@ -1,0 +1,41 @@
+{
+  "parent": "tdp.509:entry",
+  "display": {
+    "frame": "goal",
+    "title": {
+      "translate": "advancements.tdp.509.catch_fish_in_the_end.title",
+      "fallback": "Fishy Finale"
+    },
+    "description": {
+      "translate": "advancements.tdp.509.catch_fish_in_the_end.descr",
+      "fallback": "§eProve that fish exists in §dthe End§e"
+    },
+    "icon": {
+      "item": "minecraft:end_stone"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_task": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "tag": "tdp.509:fish"
+        },
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "minecraft:the_end"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:barrel",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Fishing Crate",
+                "color": "#A000A0",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag:{LootTable:\"tdp.509:crate_items\"},Enchantments:[{}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

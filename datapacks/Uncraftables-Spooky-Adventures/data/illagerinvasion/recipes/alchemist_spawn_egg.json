@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"EBE",
+		"LGL",
+		"PBP"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:ghast_tear"
+		},
+		"P": {
+			"item": "minecraft:gunpowder"
+		},
+		"B": {
+			"item": "minecraft:glass_bottle"
+		},
+		"E": {
+			"item": "minecraft:emerald"
+		},
+		"L": {
+			"item": "minecraft:lingering_potion"
+		}
+	},
+	"result": {
+		"item": "illagerinvasion:alchemist_spawn_egg",
+		"count": 1
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "universal_ores:granite_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "universal_ores:diorite_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "universal_ores:andesite_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "universal_ores:tuff_lapis_ore",
+      "required": false
+    },
+    {
+      "id": "universal_ores:calcite_lapis_ore",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:loot_table", "name": "tdp.516:merchant" }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:end_stone",
+          "weight": 2
+        },
+        { "type": "minecraft:item", "name": "minecraft:popped_chorus_fruit" },
+        { "type": "minecraft:item", "name": "minecraft:purpur_block" }
+      ],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 2, "max": 4 } }
+      ]
+    }
+  ]
+}

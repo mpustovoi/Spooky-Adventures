@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["LVL", "VAV", "LVL"],
+  "key": {
+    "A": {
+      "item": "minecraft:zombie_spawn_egg"
+    },
+    "V": {
+      "item": "minecraft:vine"
+    },
+    "L": {
+      "item": "minecraft:jungle_leaves"
+    }
+  },
+  "result": {
+    "item": "variantsandventures:thicket_spawn_egg"
+  }
+}

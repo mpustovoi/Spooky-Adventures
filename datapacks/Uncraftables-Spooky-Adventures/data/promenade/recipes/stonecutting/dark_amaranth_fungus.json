@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "promenade:dark_amaranth_fungus"
+	},
+	"result": "minecraft:tuff",
+	"count": 1
+}

@@ -1,0 +1,16 @@
+{
+  "pools": [
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book",
+          "functions": [
+            { "function": "minecraft:reference", "name": "tdp.509:enchant_mid" }
+          ]
+        }
+      ]
+    }
+  ]
+}

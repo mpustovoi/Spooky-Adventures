@@ -1,1 +1,0 @@
-{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:dirt"}, {"type": "minecraft:item", "name": "minecraft:clay"}, {"type": "minecraft:item", "name": "minecraft:sand"}, {"type": "minecraft:item", "name": "minecraft:gravel"}], "functions": [{"function": "minecraft:set_count", "count": {"min": 3, "max": 7}}]}]}

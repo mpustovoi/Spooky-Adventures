@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:junk_items",
+          "weight": 11
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tdp.509:junk_tools",
+          "weight": 8
+        },
+        { "type": "minecraft:loot_table", "name": "tdp.509:bad_luck_potion" }
+      ]
+    }
+  ]
+}

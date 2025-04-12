@@ -1,1 +1,0 @@
-{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:loot_table", "name": "tdp.516:crate_debris-items_success"}, {"type": "minecraft:loot_table", "name": "tdp.516:crate_debris-items_fail", "weight": 19}]}]}

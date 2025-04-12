@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "XGX",
+    "EEE"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "X": {
+      "item": "minecraft:iron_axe"
+    }
+  },
+  "result": {
+    "item": "takesapillage:skirmisher_spawn_egg",
+    "count": 1
+  }
+}

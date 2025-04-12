@@ -1,0 +1,47 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": {
+        "min": 0,
+        "max": 1,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{note_block_sound:\"minecraft:entity.player.burp\"}}"
+            },
+            {
+              "function": "set_name",
+              "name": {
+                "translate": "item.uncraftable.steves_head",
+                "fallback": "Steve's Head",
+                "color": "yellow",
+                "italic": false
+              }
+            }
+          ]
+        },
+        {
+          "type": "empty",
+          "weight": 19
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+    }
+  ]
+}

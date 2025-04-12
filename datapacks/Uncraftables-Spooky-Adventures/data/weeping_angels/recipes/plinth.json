@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:quartz_block"
+    },
+    {
+      "item": "minecraft:quartz_pillar"
+    }
+  ],
+  "result": {
+    "item": "weeping_angels:plinth",
+    "count": 1
+  }
+}

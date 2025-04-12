@@ -1,0 +1,25 @@
+{
+  "parent": "tdp.main:source",
+  "display": {
+    "frame": "task",
+    "title": {
+      "translate": "advancements.tdp.509.entry.title",
+      "fallback": "Fishing Extended"
+    },
+    "description": {
+      "translate": "advancements.tdp.509.entry.descr",
+      "fallback": "§eMore items to Fish!"
+    },
+    "icon": {
+      "item": "minecraft:fishing_rod"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "entry": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

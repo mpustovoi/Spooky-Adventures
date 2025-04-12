@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Lucy Axolotl Head",
+                "color": "yellow",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-2034908965,1951090484,-1774767949,814773645],Properties:{textures:[{Signature:'{\"italic\":false,\"color\":\"yellow\",\"text\":\"Lucy Axolotl Head\"}',Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWMxMzhmNDAxYzY3ZmMyZTFlMzg3ZDljOTBhOTY5MTc3MmVlNDg2ZThkZGJmMmVkMzc1ZmM4MzQ4NzQ2ZjkzNiJ9fX0=\"},{Value:\"TDP511_V1\",Signature:\"tdp.511:sounds/axolotl\"},{Value:'{\"text\":\"Obtained from:\",\"color\":\"#888888\",\"italic\":false}',Signature:'{\"text\":\"Fishing Crate\",\"color\":\"#BB11BB\",\"italic\":false}'},{Value:\"TDP511_V1\",Signature:\"tdp.511:sounds/axolotl\"}]},Name:\"Lucy Axolotl\"},display:{Lore:['{\"text\":\"Obtained from:\",\"color\":\"#888888\",\"italic\":false}','{\"text\":\"Fishing Crate\",\"color\":\"#BB11BB\",\"italic\":false}']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

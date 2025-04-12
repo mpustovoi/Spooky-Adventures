@@ -1,1 +1,0 @@
-{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:axolotl_bucket", "functions": [{"function": "minecraft:set_nbt", "tag": "{tdp.516.placeholder:\"axolotl_bucket\"}"}]}]}]}

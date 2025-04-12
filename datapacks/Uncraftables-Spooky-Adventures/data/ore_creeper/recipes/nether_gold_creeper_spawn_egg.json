@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IBI",
+		"IEI",
+		"BIB"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:creeper_spawn_egg"
+		},
+		"B": {
+			"item": "minecraft:raw_gold_block"
+		},
+		"I": {
+			"item": "minecraft:raw_gold"
+		}
+	},
+	"result": {
+		"item": "ore_creeper:nether_gold_creeper_spawn_egg",
+		"count": 1
+	}
+}

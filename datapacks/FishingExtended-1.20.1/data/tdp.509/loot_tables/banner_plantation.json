@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gray_banner",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,BlockEntityTag:{Patterns:[{Pattern:cre,Color:6},{Pattern:hh,Color:7},{Pattern:tt,Color:5},{Pattern:cs,Color:12},{Pattern:bs,Color:2},{Pattern:ts,Color:5},{Pattern:cbo,Color:7},{Pattern:bo,Color:7}]}}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Old Banner",
+                "color": "yellow",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PMP", "REH", "MPM"],
+  "key": {
+    "E": {
+      "item": "minecraft:enderman_spawn_egg"
+    },
+    "R": {
+      "item": "minecraft:red_mushroom"
+    },
+    "H": {
+      "item": "minecraft:hanging_roots"
+    },
+    "M": {
+      "item": "minecraft:mud"
+    },
+    "P": {
+      "item": "endermanoverhaul:summoner_pearl"
+    }
+  },
+  "result": {
+    "item": "endermanoverhaul:swamp_enderman_spawn_egg",
+    "count": 1
+  }
+}

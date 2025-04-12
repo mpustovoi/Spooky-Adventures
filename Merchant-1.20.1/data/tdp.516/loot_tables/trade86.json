@@ -1,1 +1,0 @@
-{"pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:emerald"}], "functions": [{"function": "minecraft:set_count", "count": {"min": 2, "max": 4}}]}, {"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:sweet_berries"}], "functions": [{"function": "minecraft:set_count", "count": {"min": 15, "max": 21}}]}]}

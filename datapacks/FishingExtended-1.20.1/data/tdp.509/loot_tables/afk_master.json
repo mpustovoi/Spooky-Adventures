@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "tdp.509:afk_end",
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": { "dimension": "minecraft:the_end" }
+                }
+              ]
+            },
+            { "type": "minecraft:loot_table", "name": "tdp.509:afk_surface" }
+          ]
+        }
+      ]
+    }
+  ]
+}

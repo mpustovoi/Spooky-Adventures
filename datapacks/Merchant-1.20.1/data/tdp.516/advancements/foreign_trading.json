@@ -1,0 +1,101 @@
+{
+  "parent": "tdp.516:open_merchant_crate",
+  "display": {
+    "frame": "goal",
+    "title": {
+      "translate": "advancements.tdp.516.foreign_trading.title",
+      "fallback": "Foreign Trading"
+    },
+    "description": {
+      "translate": "advancements.tdp.516.foreign_trading.descr",
+      "fallback": "§eTrade with a §5Merchant§e that's out of their home dimension!"
+    },
+    "icon": {
+      "item": "minecraft:jungle_sapling",
+      "nbt": "{Enchantments:[{}]}"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "trade_with_merchant1": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "villager": {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "nbt": "{DeathLootTable:\"tdp.516:merchant1\"}"
+          }
+        },
+        "player": {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        }
+      }
+    },
+    "trade_with_merchant2": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "villager": {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "nbt": "{DeathLootTable:\"tdp.516:merchant2\"}"
+          }
+        },
+        "player": {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:the_nether"
+              }
+            }
+          }
+        }
+      }
+    },
+    "trade_with_merchant3": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "villager": {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "nbt": "{DeathLootTable:\"tdp.516:merchant3\"}"
+          }
+        },
+        "player": {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:the_end"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    ["trade_with_merchant1", "trade_with_merchant2", "trade_with_merchant3"]
+  ],
+  "rewards": {
+    "experience": 50
+  }
+}

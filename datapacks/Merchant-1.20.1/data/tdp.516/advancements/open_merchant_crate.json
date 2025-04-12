@@ -1,0 +1,106 @@
+{
+  "parent": "tdp.516:trade_with_merchant",
+  "display": {
+    "frame": "task",
+    "title": {
+      "translate": "advancements.tdp.516.open_merchant_crate.title",
+      "fallback": "I'm Feeling Lucky"
+    },
+    "description": {
+      "translate": "advancements.tdp.516.open_merchant_crate.descr",
+      "fallback": "§aTry your luck with a §eMerchant Crate§a!"
+    },
+    "icon": {
+      "item": "minecraft:chest"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "open_crate_debris": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_debris-items"
+      }
+    },
+    "open_crate_diamond": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_diamond-items"
+      }
+    },
+    "open_crate_elytra": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_elytra-items"
+      }
+    },
+    "open_crate_emerald": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_emerald-items"
+      }
+    },
+    "open_crate_golden_apple": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_golden_apple-items"
+      }
+    },
+    "open_crate_horse_gear": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_horse_gear-items"
+      }
+    },
+    "open_crate_oceanheart": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_oceanheart-items"
+      }
+    },
+    "open_crate_shulker_shell": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_shulker_shell-items"
+      }
+    },
+    "open_crate_totem": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_totem-items"
+      }
+    },
+    "open_crate_trident": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_trident-items"
+      }
+    },
+    "open_crate_relic_disc": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tdp.516:crate_relic_disc-items"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "open_crate_debris",
+      "open_crate_diamond",
+      "open_crate_elytra",
+      "open_crate_emerald",
+      "open_crate_golden_apple",
+      "open_crate_horse_gear",
+      "open_crate_oceanheart",
+      "open_crate_shulker_shell",
+      "open_crate_totem",
+      "open_crate_trident",
+      "open_crate_relic_disc"
+    ]
+  ],
+  "rewards": {
+    "experience": 20
+  }
+}

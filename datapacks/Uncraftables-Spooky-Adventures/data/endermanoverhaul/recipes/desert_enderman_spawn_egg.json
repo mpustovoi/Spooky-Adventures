@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["MLM", "SES", "LCL"],
+  "key": {
+    "E": {
+      "item": "minecraft:enderman_spawn_egg"
+    },
+    "L": [
+      {
+        "item": "minecraft:sandstone"
+      },
+      {
+        "item": "minecraft:chiseled_sandstone"
+      },
+      {
+        "item": "minecraft:cut_sandstone"
+      },
+      {
+        "item": "minecraft:smooth_sandstone"
+      }
+    ],
+    "S": {
+      "item": "minecraft:string"
+    },
+    "C": {
+      "item": "endermanoverhaul:scarab_spawn_egg"
+    },
+    "M": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "endermanoverhaul:desert_enderman_spawn_egg",
+    "count": 1
+  }
+}

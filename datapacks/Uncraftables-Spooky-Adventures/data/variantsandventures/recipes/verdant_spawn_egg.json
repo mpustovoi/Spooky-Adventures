@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "LVL",
+    "VAV",
+    "VLV"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:skeleton_spawn_egg"
+    },
+    "L": {
+      "item": "minecraft:jungle_leaves"
+    },
+    "V": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "variantsandventures:verdant_spawn_egg"
+  }
+}

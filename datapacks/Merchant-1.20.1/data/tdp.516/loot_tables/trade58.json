@@ -1,0 +1,18 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [{ "type": "minecraft:item", "name": "minecraft:emerald" }],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 2, "max": 4 } }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [{ "type": "minecraft:item", "name": "minecraft:kelp" }],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 13, "max": 17 } }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "values": [
+    "#minecraft:candle_cakes",
+    "#minecraft:candles",
+    "#minecraft:wool_carpets",
+    "minecraft:cactus",
+    "minecraft:cake",
+    "minecraft:carved_pumpkin",
+    "minecraft:honeycomb_block",
+    "minecraft:jack_o_lantern",
+    "minecraft:melon",
+    "minecraft:ochre_froglight",
+    "minecraft:pearlescent_froglight",
+    "minecraft:pumpkin",
+    "minecraft:verdant_froglight",
+    {
+      "id": "cratedelight:stacked_melons",
+      "required": false
+    },
+    {
+      "id": "cratedelight:stacked_pumpkins",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:cactus",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:bee",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:hay",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:melon",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:pumpkin",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:sponge",
+      "required": false
+    },
+    {
+      "id": "nukacraft:nukamelon",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:cultivated_pumpkin",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:evil_carved_pumpkin",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:flaming_evil_pumpkin",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:infernal_evil_pumpkin_s",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:infernal_evil_pumpkin",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:rotten_infernal_pumpkin",
+      "required": false
+    },
+    {
+      "id": "betterend:cave_pumpkin",
+      "required": false
+    },
+    {
+      "id": "stackedblocks:stacked_melons",
+      "required": false
+    },
+    {
+      "id": "stackedblocks:stacked_pumpkins",
+      "required": false
+    }
+  ]
+}

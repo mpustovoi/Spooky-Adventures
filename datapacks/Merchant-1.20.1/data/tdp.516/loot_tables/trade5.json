@@ -1,0 +1,18 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [{ "type": "minecraft:item", "name": "minecraft:emerald" }],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 4, "max": 8 } }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [{ "type": "minecraft:loot_table", "name": "tdp.516:corals" }],
+      "functions": [
+        { "function": "minecraft:set_count", "count": { "min": 12, "max": 18 } }
+      ]
+    }
+  ]
+}
