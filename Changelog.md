@@ -1,7 +1,7 @@
 <details>
 <summary>RU</summary>
 
-## 1.11: Обновление «Знойный Мороз» и дальнейшие перестановки (на 0 мода больше)
+## 1.11: Обновление «Знойный Мороз» и дальнейшие перестановки (на 1 мод меньше)
 
 Прошу прощения за поспешный предыдущий релиз 1.11, сломанный из-за невнимательности моей и автора мода **Tax Free Levels**.
 
@@ -58,7 +58,7 @@
 - **YOSBY** (заменён)
 - **Zoomify** (заменён)
 
-### ➕ Добавлено (49 модов):
+### ➕ Добавлено (48 модов):
 - [**[TaCZ] It's a Big Gun**](https://www.curseforge.com/minecraft/customization/tacz-it-a-big-gun) — Оружейный набор для **[TaCZ] Timeless and Classics Zero**. (С некоторыми балансными правками)
 - **Alex's Mobs Interaction** (возвращён)
 - **Amendments** (экспериментально)
@@ -100,7 +100,6 @@
 - **Screenshot Viewer**
 - **Sit's End Teleport Anchor**
 - **Sodium Dynamic Lights** (замена) — Интегрированный в меню **Embeddium** мод динамическое освещение.
-- **Sodium Options Mod Compat**
 - **StartInv** — Призван временно защитить от получения урона, находясь на экране загрузки при подключении к миру/серверу.
 - **Supplemental Patches** — Дополнение к **Euphoria Patches** и некоторых модов.
 - **Supplementaries Squared**
@@ -143,7 +142,7 @@
 
 </details>
 
-## 1.11: The 'Sultry Frost' update and further rearrangements (0 mods more)
+## 1.11: The 'Sultry Frost' update and further rearrangements (1 mods less)
 
 I apologize for the hasty previous release 1.11, which was broken due to the inattention of mine and **Tax Free Levels** mod's author.
 
@@ -200,7 +199,7 @@ Decided to postpone this release to accumulate more significant changes.
 - **YOSBY** (replaced)
 - **Zoomify** (replaced)
 
-### ➕ Added (49 mods):
+### ➕ Added (48 mods):
 - [**[TaCZ] It's a Big Gun**](https://www.curseforge.com/minecraft/customization/tacz-it-a-big-gun) — A gun pack for **[TaCZ] Timeless and Classics Zero**. (With some balance adjustments)
 - **Alex's Mobs Interaction** (readded)
 - **Amendments** (experimentally)
@@ -242,7 +241,6 @@ Decided to postpone this release to accumulate more significant changes.
 - **Screenshot Viewer**
 - **Sit's End Teleport Anchor**
 - **Sodium Dynamic Lights** (replacement) — Dynamic lighting mod integrated into the **Embeddium** menu.
-- **Sodium Options Mod Compat**
 - **StartInv** — Designed to temporarily protect against damage while on the loading screen when connected to the world/server.
 - **Supplemental Patches** — An addon to **Euphoria Patches** and some mods.
 - **Supplementaries Squared**
