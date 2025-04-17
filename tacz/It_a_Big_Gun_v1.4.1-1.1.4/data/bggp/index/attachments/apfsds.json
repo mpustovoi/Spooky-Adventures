@@ -1,0 +1,7 @@
+{
+  "name": "bggp.attachment.apfsds.name",
+  "display": "bggp:apfsds_display",
+  "data": "bggp:apfsds_data",
+  "tooltip": "bggp.attachment.apfsds.desc",
+  "type": "extended_mag"
+}

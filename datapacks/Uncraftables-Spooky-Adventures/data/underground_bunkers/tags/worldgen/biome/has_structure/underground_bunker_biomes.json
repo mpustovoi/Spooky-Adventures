@@ -12,7 +12,6 @@
     "minecraft:plains",
     "minecraft:snowy_plains",
     "minecraft:meadow",
-    "#minecraft:is_desert",
     {
       "id": "#c:is_plains",
       "required": false

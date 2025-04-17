@@ -1,0 +1,7 @@
+{
+  "name": "bggp.attachment.apcr.name",
+  "display": "bggp:apcr_display",
+  "data": "bggp:apcr_data",
+  "tooltip": "bggp.attachment.apcr.desc",
+  "type": "extended_mag"
+}

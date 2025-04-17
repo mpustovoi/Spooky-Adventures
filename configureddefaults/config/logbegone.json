@@ -1,0 +1,15 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "Failed to add slimed layer to entity",
+      "Molang is not supported: ",
+      "Reference map "
+    ],
+    "regex": [
+      ".*GL_INVALID_(OPERATION|VALUE) error generated.*",
+      ".*Could not apply (rainbow color|radiation glow) layer to.*"
+    ]
+  }
+}

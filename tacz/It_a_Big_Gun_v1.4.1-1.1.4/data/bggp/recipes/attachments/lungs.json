@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:enchanted_golden_apple"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "bggp:lungs"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

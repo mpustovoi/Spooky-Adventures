@@ -1,0 +1,14 @@
+{
+  "slot": "bggp:attachment/slot/monocular",
+  "model": "bggp:attachment/monocular_geo",
+  "texture": "bggp:attachment/uv/monocular",
+  "zoom": [
+    8
+  ],
+  "scope": true,
+  "fov": 30.0,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_d",
+    "uninstall": "tacz:attachments/scope_general_d"
+  }
+}

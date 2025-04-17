@@ -1,0 +1,7 @@
+{
+  "hidden": true,
+  "name": "bggp.attachment.monocular.name",
+  "display": "bggp:monocular_display",
+  "data": "bggp:monocular_data",
+  "type": "scope"
+}

@@ -1,0 +1,48 @@
+{
+    "pack.bggp.name": "It a Big Guns!",
+    "pack.bggp.desc": "Steve can carry about 4.5 billion kg. So, He sure can pick any cannon in the world and use it like notting...",
+
+    "bggp.gun.l44.name": "Rheinmetall Rh-120 L/44",
+    "bggp.gun.l44.desc": "The love from most west to far east.",
+
+    "bggp.gun.l44_crew.name": "Rheinmetall Rh-120 L/44 + Crew",
+    "bggp.gun.l44_crew.desc": "'Always better than carry it myself.'",
+
+    "bggp.gun.40bofors.name": "Bofors 40mm L/60 gun",
+    "bggp.gun.40bofors.desc": "From land to sea. It present",
+
+    "bggp.gun.ch120_26_man.name": "GIAT CN120-26 F1",
+    "bggp.gun.ch120_26_man.desc": "Mainly use for peacekeeping.",
+
+    "bggp.gun.ch120_26.name": "GIAT CN120-26 F1 + Autoloader",
+    "bggp.gun.ch120_26.desc": "Peacekeeping Faster!!",
+
+    "bggp.gun.m101.name": "M101 Howitzer",
+    "bggp.gun.m101.desc": "Slide like a Boss.",
+
+    "bggp.gun.m101_art.name": "M101 Howitzer Battery",
+    "bggp.gun.m101_art.desc": "'Attention to the Map!'",
+
+    "bggp.gun.blowgun.name": "Blowgun",
+    "bggp.gun.blowgun.desc": "Steve lungs are full of potential.",
+
+    "bggp.ammo.120x570nato.name": "§c120x570mm NATO",
+    "bggp.ammo.105x372r.name": "§c105x372mm R",
+    "bggp.ammo.40x365r.name": "§c40x365mm R",
+    "bggp.ammo.blowdart.name": "Blowdart",
+    "bggp.ammo.6x105_art.name": "§cM101 Howitzer munition battery set",
+
+    "bggp.attachment.monocular.name": "§cMonocular",
+    "bggp.attachment.monocular.desc": "Binocular but disabled.",
+
+    "bggp.attachment.apfsds.name": "§cAPFSDS",
+    "bggp.attachment.apfsds.desc": "Aka. Armour Piercing Fin Stabilized Discarding Sabot",
+    "bggp.attachment.apcr.name": "§eAPCR",
+    "bggp.attachment.apcr.desc": "Aka. Armour Piercing Composite Rigid",
+    "bggp.attachment.heat.name": "§cHEAT-FS",
+    "bggp.attachment.heat.desc": "Aka. High Explosive Anti Tank Fin Stabilised",
+    "bggp.attachment.he.name": "§cHE-FS",
+    "bggp.attachment.he.desc": "Aka. High Explosive Fin Stabilised",
+    "bggp.attachment.lungs.name": "§cEnchanted Golden Lungs",
+    "bggp.attachment.lungs.desc": "Steve have inhale the power of Enchanted Golden Apple\nNow your lungs are so powerful, you can blow a dart at speed of sound."
+}

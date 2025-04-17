@@ -1,0 +1,28 @@
+{
+  "weight": 1,
+  "armor_ignore": {
+    "multiplier": 0
+  },
+  "ammo_speed": {
+    "multiplier": 0.6
+  },
+  "damage": {
+    "multiplier": 0.25
+  },
+  "head_shot": {
+    "multiplier": 0.5
+  },
+  "explosion": {
+    "explode": true,
+    "knockback": true,
+    "destroy_block": true,
+    "radius": {
+      "multiplier": 1.25
+    },
+    "damage": {
+      "multiplier": 0.75
+    }
+  },
+  "ignite": true,
+  "extended_mag_level": 3
+}

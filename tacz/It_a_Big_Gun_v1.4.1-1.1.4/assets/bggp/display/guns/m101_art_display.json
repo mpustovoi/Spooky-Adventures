@@ -1,0 +1,46 @@
+{
+    "model": "bggp:gun/m101_art_geo",
+    "texture": "bggp:gun/uv/m101_art",
+    "slot": "bggp:gun/slot/m101_art",
+    "hud": "bggp:gun/hud/m101_art",
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.8,
+                0.8,
+                0.8
+            ],
+            "ground": [
+                0.8,
+                0.8,
+                0.8
+            ],
+            "fixed": [
+                0.8,
+                0.8,
+                0.8
+            ]
+        }
+    },
+    "offhand_show": {
+        "pos": [0, 15, -3.5],
+        "rotate": [0, 0, 10],
+        "scale": [0, 0, 0]
+    },
+    "hotbar_show": {
+        "0": {
+            "pos": [4, 24, 4],
+            "rotate": [-90, -5, -90],
+            "scale": [0, 0, 0]
+        }
+    },
+    "third_person_animation": "default",
+    "sounds": {
+    },
+    "muzzle_flash": {
+      "texture": "tacz:flash/common_muzzle_flash",
+      "scale": 0
+    },
+    "animation": "bggp:m101_art",
+    "use_default_animation": "rifle"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "bggp.gun.40bofors.name",
+    "display": "bggp:40bofors_display",
+    "data": "bggp:40bofors_data",
+    "tooltip": "bggp.gun.40bofors.desc",
+    "type": "rpg",
+    "item_type": "modern_kinetic",
+    "sort": 6002
+}

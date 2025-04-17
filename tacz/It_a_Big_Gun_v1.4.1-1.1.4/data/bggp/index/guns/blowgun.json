@@ -1,0 +1,9 @@
+{
+    "name": "bggp.gun.blowgun.name",
+    "display": "bggp:blowgun_display",
+    "data": "bggp:blowgun_data",
+    "tooltip": "bggp.gun.blowgun.desc",
+    "type": "rpg",
+    "item_type": "modern_kinetic",
+    "sort": 6005
+}

@@ -1,0 +1,16 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "minecraft:planks"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "bggp:blowdart",
+    "count": 16
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

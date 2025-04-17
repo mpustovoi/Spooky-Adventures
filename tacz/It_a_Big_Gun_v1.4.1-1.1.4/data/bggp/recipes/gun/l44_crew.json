@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "bggp:l44"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "tag": "forge:gems/amethyst"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 256
+    },
+    {
+      "item": {
+        "tag": "forge:crops"
+      },
+      "count": 512
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "tag": "forge:string"
+      },
+      "count": 128
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/green"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bggp:l44_crew"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

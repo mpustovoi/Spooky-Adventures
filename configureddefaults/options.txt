@@ -149,9 +149,6 @@ key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_key.shulkerboxslot.open.desc:key.keyboard.grave.accent
 key_key.fabrishot.screenshot:key.keyboard.unknown
 key_tcdcommons.key.refresh_current_screen:key.keyboard.unknown
-key_key.azurelib.reload:key.keyboard.unknown
-key_key.azurelib.scope:key.keyboard.unknown
-key_key.azurelib.fire:key.keyboard.unknown
 key_key.clientsort.group.sort:key.mouse.4
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.toggleVisualItemContents:key.keyboard.unknown
@@ -193,8 +190,6 @@ key_key.jei.toggleWildcardHideIngredient:key.keyboard.unknown
 key_key.cgm.reload:key.keyboard.r
 key_key.cgm.unload:key.keyboard.u
 key_key.cgm.attachments:key.keyboard.k
-key_key.chargeMiniumStone:key.keyboard.keypad.9
-key_key.openCraftingGrid:key.keyboard.keypad.6
 key_key.travelersbackpack.inventory:key.keyboard.x
 key_key.travelersbackpack.sort:key.keyboard.unknown
 key_key.travelersbackpack.ability:key.keyboard.unknown

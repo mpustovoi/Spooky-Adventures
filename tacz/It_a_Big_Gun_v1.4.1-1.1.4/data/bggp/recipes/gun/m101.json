@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 400
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 160
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 28
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 9
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 320
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bggp:m101"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

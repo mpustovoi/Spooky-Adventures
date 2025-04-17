@@ -1,0 +1,7 @@
+{
+  "name": "bggp.attachment.lungs.name",
+  "display": "bggp:lungs_display",
+  "data": "bggp:lungs_data",
+  "tooltip": "bggp.attachment.lungs.desc",
+  "type": "extended_mag"
+}

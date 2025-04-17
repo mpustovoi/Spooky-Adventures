@@ -1,0 +1,9 @@
+{
+    "name": "bggp.gun.l44_crew.name",
+    "display": "bggp:l44_crew_display",
+    "data": "bggp:l44_crew_data",
+    "tooltip": "bggp.gun.l44_crew.desc",
+    "type": "rpg",
+    "item_type": "modern_kinetic",
+    "sort": 6008
+}

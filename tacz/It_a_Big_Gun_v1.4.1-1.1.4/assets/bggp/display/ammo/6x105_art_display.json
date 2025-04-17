@@ -1,0 +1,9 @@
+{
+  "model": "bggp:ammo/6x105_art_geo",
+  "texture": "bggp:ammo/uv/6x105_art",
+  "slot": "bggp:ammo/slot/6x105_art",
+  "entity": {
+    "model": "bggp:ammo_entity/6x105_art_entity",
+    "texture": "bggp:ammo_entity/6x105_art_entity"
+  }
+}

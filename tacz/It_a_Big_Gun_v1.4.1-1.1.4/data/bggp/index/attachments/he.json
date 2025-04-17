@@ -1,0 +1,7 @@
+{
+  "name": "bggp.attachment.he.name",
+  "display": "bggp:he_display",
+  "data": "bggp:he_data",
+  "tooltip": "bggp.attachment.he.desc",
+  "type": "extended_mag"
+}

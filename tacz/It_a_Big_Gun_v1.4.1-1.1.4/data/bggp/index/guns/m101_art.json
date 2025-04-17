@@ -1,0 +1,9 @@
+{
+    "name": "bggp.gun.m101_art.name",
+    "display": "bggp:m101_art_display",
+    "data": "bggp:m101_art_data",
+    "tooltip": "bggp.gun.m101_art.desc",
+    "type": "rpg",
+    "item_type": "modern_kinetic",
+    "sort": 6010
+}

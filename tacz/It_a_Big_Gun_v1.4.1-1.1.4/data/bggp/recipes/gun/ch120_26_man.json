@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 860
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 250
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 80
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bggp:ch120_26_man"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

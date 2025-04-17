@@ -1,0 +1,6 @@
+{
+  "model": "bggp:ammo/120x570nato_geo",
+  "texture": "bggp:ammo/uv/120x570nato",
+  "slot": "bggp:ammo/slot/120x570nato",
+  "tracer_color": "#FFD700"
+  }

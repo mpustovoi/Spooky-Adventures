@@ -1,0 +1,9 @@
+{
+    "name": "bggp.gun.l44.name",
+    "display": "bggp:l44_display",
+    "data": "bggp:l44_data",
+    "tooltip": "bggp.gun.l44.desc",
+    "type": "rpg",
+    "item_type": "modern_kinetic",
+    "sort": 6001
+}

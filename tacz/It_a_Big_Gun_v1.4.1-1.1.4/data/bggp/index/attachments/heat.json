@@ -1,0 +1,7 @@
+{
+  "name": "bggp.attachment.heat.name",
+  "display": "bggp:heat_display",
+  "data": "bggp:heat_data",
+  "tooltip": "bggp.attachment.heat.desc",
+  "type": "extended_mag"
+}

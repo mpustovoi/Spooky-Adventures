@@ -1,0 +1,10 @@
+{
+    "version": "1.4.1",
+    "name": "pack.bggp.name",
+    "desc": "pack.bggp.desc",
+    "license": "CC BY-NC-ND 4.0",
+    "author": [
+      "MT"
+    ],
+    "date": "2024-10-17"
+  }

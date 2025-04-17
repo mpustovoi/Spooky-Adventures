@@ -1,0 +1,90 @@
+{
+  "ammo": "bggp:120x570nato",
+  "ammo_amount": 1,
+  "extended_mag_ammo_amount": [1, 1, 1],
+  "bolt": "open_bolt",
+  "rpm": 30,
+  "bullet": {
+    "life": 5.0,
+    "bullet_amount": 1,
+    "damage": 440,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.2,
+      "head_shot_multiplier": 3,
+      "damage_adjust": [
+        { "distance": 200, "damage": 440 },
+        { "distance": 400, "damage": 400 },
+        { "distance": "infinite", "damage": 360 }
+      ]
+    },
+    "speed": 1560,
+    "gravity": 0.098,
+    "knockback": 0,
+    "friction": 0.01,
+    "ignite": false,
+    "pierce": 32,
+    "explosion": {
+      "explode": false,
+      "damage": 150,
+      "radius": 4.5,
+      "knockback": true,
+      "destroy_block": false,
+      "delay": 1
+    }
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 4,
+      "tactical": 4
+    },
+    "cooldown": {
+      "empty": 8.25,
+      "tactical": 8.25
+    }
+  },
+  "draw_time": 2.75,
+  "put_away_time": 2.46,
+  "aim_time": 0.5,
+  "sprint_time": 0.75,
+  "weight": 35.55,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.8,
+    "reload": -1
+  },
+  "crawl_recoil_multiplier": 0.5,
+  "fire_mode": ["semi"],
+  "burst_data": {
+    "continuous_shoot": false,
+    "count": 2,
+    "bpm": 550,
+    "min_interval": 0.4
+  },
+  "recoil": {
+    "pitch": [
+      { "time": 0, "value": [8, 8] },
+      { "time": 0.82, "value": [8, 8] },
+      { "time": 1.33, "value": [-1.6, -1.6] },
+      { "time": 1.89, "value": [1.2, 1.2] },
+      { "time": 2.34, "value": [0, 0] },
+      { "time": 2.88, "value": [0, 0] }
+    ],
+    "yaw": [
+      { "time": 0, "value": [-8, -8] },
+      { "time": 0.82, "value": [-8, -8] },
+      { "time": 1.89, "value": [-1.2, -1.2] },
+      { "time": 2.34, "value": [0, 0] },
+      { "time": 2.88, "value": [0, 0] }
+    ]
+  },
+  "inaccuracy": {
+    "stand": 9,
+    "move": 12.5,
+    "sneak": 7.5,
+    "lie": 6,
+    "aim": 0.025
+  },
+  "allow_attachment_types": ["scope", "extended_mag"]
+}

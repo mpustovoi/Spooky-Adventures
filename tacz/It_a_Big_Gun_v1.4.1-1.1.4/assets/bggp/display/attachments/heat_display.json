@@ -1,0 +1,7 @@
+{
+  "slot": "bggp:attachment/slot/heat",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

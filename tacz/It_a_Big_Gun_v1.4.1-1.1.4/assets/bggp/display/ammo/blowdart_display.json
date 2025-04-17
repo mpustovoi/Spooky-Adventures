@@ -1,0 +1,5 @@
+{
+  "model": "bggp:ammo/blowdart_geo",
+  "texture": "bggp:ammo/uv/blowdart",
+  "slot": "bggp:ammo/slot/blowdart"
+  }

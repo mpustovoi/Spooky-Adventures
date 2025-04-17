@@ -1,0 +1,9 @@
+{
+    "name": "bggp.gun.ch120_26.name",
+    "display": "bggp:ch120_26_display",
+    "data": "bggp:ch120_26_data",
+    "tooltip": "bggp.gun.ch120_26.desc",
+    "type": "rpg",
+    "item_type": "modern_kinetic",
+    "sort": 6003
+}

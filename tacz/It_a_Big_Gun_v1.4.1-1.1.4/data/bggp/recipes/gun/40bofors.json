@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 640
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 160
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 78
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bggp:40bofors"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

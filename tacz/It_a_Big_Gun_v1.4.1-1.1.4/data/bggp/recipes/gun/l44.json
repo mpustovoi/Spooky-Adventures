@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 1080
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 280
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 120
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bggp:l44"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

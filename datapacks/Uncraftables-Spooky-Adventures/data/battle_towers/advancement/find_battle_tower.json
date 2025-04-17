@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:adventure/root",
+  "display": {
+    "title": {
+      "translate": "advancements.battle_towers.find_battle_tower.title",
+      "fallback": "Tower Defense"
+    },
+    "description": {
+      "translate": "advancements.battle_towers.find_battle_tower.descr",
+      "fallback": "Find a Battle Tower"
+    },
+    "icon": {
+      "item": "minecraft:mossy_cobblestone"
+    }
+  },
+  "criteria": {
+    "battle_tower": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "battle_towers:overworld"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "requirements": [["battle_tower"]],
+  "sends_telemetry_event": true,
+  "rewards": {
+    "experience": 50
+  }
+}

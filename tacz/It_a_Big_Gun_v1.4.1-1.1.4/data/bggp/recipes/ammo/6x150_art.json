@@ -1,0 +1,20 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "bggp:105x372r"
+        }
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "bggp:6x105_art",
+    "count": 1
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

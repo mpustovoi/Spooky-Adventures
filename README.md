@@ -1,94 +1,126 @@
 <details>
 <summary>RU</summary>
 
-⛰ Достаточно тяжёлый модпак.
+# ⛰ Достаточно тяжёлый **приключенческий** модпак с **жуткими** элементами для **Forge** 1.20.1
 
-ℹ️ Примечания:
-- 🤷🏻‍♂️ Я **не** гарантирую высокую производительность и стабильную работу модпака. Возможны случайные падения FPS и/или TPS, и я увы ничего не могу с этим поделать.
-- 📉 В сетевой игре производительность может сильно падать, особенно при нахождении игроков в различных измерениях и/или во время нескольких игровых событий.
-- ⏳ Созданию нового мира сопутствуют большие падения TPS в течении первых нескольких минут. Это связано с инициализацией большого количества вещей. В связи с этим, рекомендую дать игре некоторое время, чтобы загрузилась стартовая область мира.
-- 🛡 При создании нового мира стартовый набор лагает и забывает про броню. Единственное решение — кликнуть по любому слоту в инвентаре, чтобы обновить его таким образом.
+## ℹ️ Примечания:
 
-## 📃 Описание модпака:
-- 🧭 Генерации мира от **Tectonic**, **Terralith**, **Incendium** и **Nullscape**.
-- 🏰 Множество модов с различными структурами от мала до велика.
-- 🅾 Замена **OptiFine** с помощью **Embeddium** и **Oculus** для поддержки шейдеров, текстур и моделей, а также модов производительности.
-- 🏕️ Несколько шейдеров с предустановками по умолчанию для различных предпочтений визуального стиля.
-- 🏞 **Distant Horizons** с поддержкой шейдеров. (Возможно, вы захотите увеличить расстояние отрисовки чанков детализации по умолчанию)
-- 🧳 Утилиты вроде просмотра рецептов **EMI**, **Jade** информация о цели и **Mouse Tweaks**.
-- ⚙ Моды для **Fabric**, портированные с помощью **Sinytra Connector**, такие как **FastQuit** и **Better Statistics Screen** (обратите внимание, что при первом запуске **Connector**'у требуется некоторое время для динамической сборки модов).
-- ➕ Основные функции **Vanilla**+ вроде **Better Archaeology**, **Friends&Foes**, **Better Combat** и **Emotecraft**.
-- 🍳 Кухонное раздолье с **Farmer's Delight** и его популярными дополнениями.
-- 💧 Жажда из мода **Tough As Nails**. (Без температуры, так как она слишком несбалансированна)
-- 💀 Жуткие монстры из… лучше разобраться в этом самому.
-- ⚠ **MrCrayfish's Gun Mod** (на данный момент неофициальный порт), чтобы противостоять этим монстрам.
+- 🤷🏻‍♂️ Я **не гарантирую** высокую производительность или стабильность. Возможны случайные падения FPS и/или TPS, и, увы, с этим ничего не поделать.
+- 📉 В сетевой игре производительность может значительно снижаться, особенно если игроки находятся в разных измерениях или происходят несколько игровых событий одновременно.
+- ⏳ При создании нового мира TPS сильно проседает в первые минуты — происходит инициализация большого количества данных. Рекомендую подождать, пока загрузится стартовая область.
+- 🛡 Стартовый набор в новом мире **может забыть** про броню из-за лагов. Решение: кликните по любому слоту брони или инвентаря для обновления.
 
-Используйте `/worldhost ip|tempip` для получения IP-адреса, по которому другие игроки смогут подключиться к вашему локальному миру.
+## 📃 Что внутри:
 
-## 📝 Модпак содержит наборы данных и ресурсов, которые по умолчанию всегда загружаются с помощью **Paxi** и которые можно найти в папке `config/paxi`. Они не отображаются в списке содержимого модпака. Поэтому, вот список:
-### Наборы данных:
-- ☁ [Набор для совместимости **Sky Villages**](https://www.curseforge.com/minecraft/search?page=1&pageSize=50&sortBy=relevancy&class=texture-packs&search=Sky+Villages+Compat).
-- ⚔ Набор [**RPG Loot**](https://modrinth.com/datapack/rpg-loot).
-- ⛰ [**Larger Ore Veins**](https://modrinth.com/datapack/larger-ore-veins-deluxe) — Добавлено для облегчения преодоления трудностей (может быть слишком дизбалансным).
-- 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — Просто набор с туманом.
-- 🌳 [**Vanilla Tweaks**](https://vanillatweaks.net) — Рецепты и некоторые геймплейные наборы данных.
-- 🏘 [Наборы совместимости **Repurposed Structures** и модов **YUNG**'a](https://modrinth.com/datapacks?q=Repurposed+Structures+Better&v=1.20.1).
-- 💎 Несколько наборов данных [**TheDiamondPlayables**](https://www.planetminecraft.com/collection/148146/thediamondplayables-s-datapacks) с PlanetMinecraft.
-- 🔁 Пользовательский набор данных с некоторыми ребалансами, рецептами и несколькими достижениями (нуждается в наборе с переводами), который изначально был основан на [**Uncrafted**](https://modrinth.com/mod/uncrafted) и со временем значительно расширился. Сейчас в нём содержатся рецепты для создания яиц призыва (в основном с использованием слёз гаста) для всех ванильных мобов и из некоторых модов, система улучшения инструментов и брони с ответвлениями к модам, а также множество других дополнительных рецептов и исправлений.
+- 🧭 Обновлённая генерация мира от **Tectonic**, **Terralith**, **Incendium** и **Nullscape**, а также **Terrain Slabs**.
+- 🏞 Множество новых существ от мобов из **Alex's Mobs** и **Alex's Caves** до новых профессий селян.
+- 🏰 Масса структур — от мелких руин до крупных подземелий.
+- 🅾 Замена **OptiFine** с **Embeddium** и **Oculus** для поддержки шейдеров и другие моды для лучшей производительности.
+- 🏕️ Несколько предустановленных шейдеров для разных визуальных предпочтений.
+- 🏞 **Distant Horizons** с поддержкой шейдеров. (Возможно, вам захочется увеличить дальность прорисовки)
+- 🧳 Утилиты качества жизни: **EMI**, **Jade**, **Mouse Tweaks** и другие.
+- ⚰ Могилы, появляющиеся при смерти, чтобы ваши вещи не потерялись бесследно.
+- ⚙ Порты **Fabric**-модов через **Sinytra Connector** — **FastQuit**, **Better Statistics Screen** и другие. (При первом запуске возможна задержка из-за динамической сборки)
+- ➕ Расширения в стиле Vanilla+: **Better Archaeology**, **Better Combat**, **Friends&Foes**, **Emotecraft**, **Amendments** и **Supplementaries**.
+- 🎥 Улучшенные визуальные эффекты от **Particular ✨**, **Pretty Rain**, **EnhancedVisuals** и **Explosive Enhancement**.
+- 🎶 Переработка звука с **Sound Physics**, **Sounds**, **Cool Rain** и **Reactive Music**.
+- 🍳 **Farmer's Delight** и множество его дополнений — кухонное раздолье.
+- 💧 Механика жажды и температуры из **Tough as Nails** со сменяющимися сезонами года из **Serene Seasons**.
+- ⏳ Увеличенная до 30 минут продолжительность дня и ночи, чтобы на всё хватало времени.
+- 💀 Жуткие монстры из... лучше узнать самому.
+- 🔥 Огнестрел из **MrCrayfish's Gun Mod** и **Timeless and Classics Zero** — поверьте, оно вам пригодится.
 
-### Наборы ресурсов:
-- 🌟 [**Sparkles**](https://modrinth.com/resourcepack/sparkles/versions) — Набор ресурсов для **Incendium**.
-- 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — Ещё один набор с туманом, не берите в голову.
-- ⏹ Пользовательский набор ресурсов, в основном с языковыми корректировками многих модов модпака, а также с некоторыми иконками мобов, основанными на [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros). Также содержит [**3D Tankards**](https://www.curseforge.com/minecraft/texture-packs/brewin-and-chewin-3d-tankards), [**Forgotten Graves Redefined**](https://modrinth.com/resourcepack/forgotten-graves-redefined) и [**Unique Spawn Eggs**](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs) с его [**дополнением**](https://modrinth.com/resourcepack/unique-spawn-eggs-add-on).
+📡 Используйте `/worldhost ip|tempip`, чтобы другие игроки могли подключиться к вашему миру по локальной сети.
 
-### Дополнительные ссылки на переопределения:
+## 📝 Дополнительные данные и ресурсы (загружаются автоматически через **Paxi**, расположены в `config/paxi`, не отображаются в списке модов):
+
+### 📦 Наборы данных:
+
+- ☁ [Совместимости для **Sky Villages**](https://www.curseforge.com/minecraft/search?page=1&pageSize=50&sortBy=relevancy&class=texture-packs&search=Sky+Villages+Compat)
+- ⚔ [**RPG Loot**](https://modrinth.com/datapack/rpg-loot)
+- 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — атмосферный туман
+- 🌳 [**Vanilla Tweaks**](https://vanillatweaks.net) — рецепты и геймплейные улучшения
+- 🏘 [Совместимости **Repurposed Structures** и модов **YUNG**'а](https://modrinth.com/datapacks?q=Repurposed+Structures+Better&v=1.20.1)
+- 💎 Наборы от [**TheDiamondPlayables**](https://www.planetminecraft.com/collection/148146/thediamondplayables-s-datapacks)
+- 🔁 Пользовательский набор данных, содержащий:
+  - Рецепты яиц призыва (используя слёзы гаста)
+  - Расширенную систему кузнечных улучшений с поддержкой модов
+  - Пользовательские достижения (требуется встроенный набор ресурсов)
+  - Прочие интеграции и правки содержимого модпака
+
+### 📦 Наборы ресурсов:
+
+- 🌟 [**Sparkles**](https://modrinth.com/resourcepack/sparkles) — для **Incendium**
+- 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — ещё один набор с туманом, не обращайте внимания
+- ⏹ Пользовательский набор ресурсов с правками локализации и иконками мобов (основанными на [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros)), включающий:
+  - [**Unique Spawn Eggs**](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs)
+  - [**Unique Spawn Eggs Add-on**](https://modrinth.com/resourcepack/unique-spawn-eggs-add-on)
+
+### 🔗 Дополнительные упоминания:
+
 - [**Born in Chaos**](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos)
 - [**Human Companions**](https://www.curseforge.com/minecraft/mc-mods/human-companions)
 - [**More Villagers**](https://www.curseforge.com/minecraft/mc-mods/more-villagers)
-  
+
 </details>
 
-⛰ Quite a heavy modpack.
+# ⛰ A fairly heavyweight **adventure** modpack with **spooky** elements for **Forge** 1.20.1
 
-ℹ️ Notes:
-- 🤷🏻‍♂️ I **don't** guarantee high performance and stable operation of the modpack. Random FPS and/or TPS drops can occur and there's nothing I can do about it.
-- 📉 In multiplayer performance can drop dramatically, especially when players are in different dimensions and/or during multiple game events.
-- ⏳ The creation of a new world is accompanied by large drops of TPS during the first few minutes. This is due to the initialization of a large number of things. In this regard, I recommend giving the game some time to load the starting area of the world.
-- 🛡 When creating a new world, the starter kit lags and forgets about the armor. The only solution is to click on any slot in the inventory to update it this way.
+## ℹ️ Notes:
 
-## 📃 Modpack summary:
-- 🧭 Worldgen overhaul by **Tectonic**, **Terralith**, **Incendium** and **Nullscape**.
-- 🏰 A bunch of mods with various dungeons and structures from small to large.
-- 🅾 Replacement of **OptiFine** with **Embeddium** and **Oculus** for shaders, textures and models support as well as many performance mods.
-- 🏕️ Several shaders with default presets for different visual style preferences.
-- 🏞 **Distant Horizons** with shader support. (You may want to increase the default LODs rendering distance)
-- 🧳 QoL features like **EMI** recipe viewer, **Jade** target information and **Mouse Tweaks**.
-- ⚙ **Fabric** QoL mods ported using **Sinytra Connector** like **FastQuit** and **Better Statistics Screen** (note that at the first launch, the **Connector** needs some time to assemble mods).
-- ➕ Basic **Vanilla**+ features like **Better Archaeology**, **Friends&Foes**, **Better Combat** and **Emotecraft**.
-- 🍳 Kitchen sink with **Farmer's Delight** and its popular addons.
-- 💧 Thirst from the **Tough As Nails** mod. (Without temperature, as it is too unbalanced)
-- 💀 Spooky monsters from… it's better to find out for yourself.
-- ⚠ **MrCrayfish's Gun Mod** (unofficial port for now) to counter these monsters.
+- 🤷🏻‍♂️ High performance and stability are **not guaranteed**. Expect occasional FPS and/or TPS drops — it is what it is.
+- 📉 Multiplayer performance can decrease significantly, especially when players are in different dimensions or a lot is happening at once.
+- ⏳ TPS will drop for the first few minutes after world creation due to data initialization. Let the spawn area fully load before playing.
+- 🛡 Starter kit may **not equip properly** due to lag. Just click the armor or any inventory slot to fix it.
 
-Use `/worldhost ip|tempip` to get an IP address where other players can connect to your LAN world.
+## 📃 What's inside:
 
-## 📝 The modpack contains datapacks and resource packs, which are always loaded by default with **Paxi** and can be found in `config/paxi` folder. They aren't displayed in the modpack content list. So here are the credits:
-### Datapacks:
-- ☁ [**Sky Villages** compat packs](https://www.curseforge.com/minecraft/search?page=1&pageSize=50&sortBy=relevancy&class=texture-packs&search=Sky+Villages+Compat).
-- ⚔ [**RPG Loot**](https://modrinth.com/datapack/rpg-loot) pack.
-- ⛰ [**Larger Ore Veins**](https://modrinth.com/datapack/larger-ore-veins-deluxe) — Added for easier dealing with difficulties. (may be OP)
-- 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — Just a fog pack.
-- 🌳 [**Vanilla Tweaks**](https://vanillatweaks.net) — Recipes and some gameplay packs.
-- 🏘 [**Repurposed Structures** & **YUNG**'s mods compat packs](https://modrinth.com/datapacks?q=Repurposed+Structures+Better&v=1.20.1).
-- 💎 Several [**TheDiamondPlayables**'s packs](https://www.planetminecraft.com/collection/148146/thediamondplayables-s-datapacks) from PlanetMinecraft.
-- 🔁 Сustom datapack with with some rebalances, custom recipes and several advancements (needs translations pack), which was originally based on [**Uncrafted**](https://modrinth.com/mod/uncrafted) pack and has grown a lot over time. Currently it contains recipes for crafting spawn eggs (using a ghast tear mainly) of all vanilla mobs and some modded ones, a progression system of tools and armor with branches to modded ones, as well as many other additional recipes and fixes.
+- 🧭 Worldgen overhaul by **Tectonic**, **Terralith**, **Incendium** & **Nullscape**, as well as **Terrain Slabs**.
+- 🏞 Lots of new creatures from **Alex's Mobs** and **Alex's Caves** to new villager professions.
+- 🏰 Tons of structures — from small ruins to massive dungeons.
+- 🅾 **OptiFine** replaced by **Embeddium** & **Oculus** for shader support and other mods for better performance.
+- 🏕️ Several built-in shaders to choose from.
+- 🏞 **Distant Horizons** with shader support. (You might want to increase LOD render distance)
+- 🧳 QoL utilities: **EMI**, **Jade**, **Mouse Tweaks**, and more.
+- ⚰ Graves that appear upon death so that your stuff don't get lost without a trace.
+- ⚙ **Fabric** mod ports via **Sinytra Connector** — includes **FastQuit**, **Better Statistics Screen**, etc. (Expect longer load on first launch)
+- ➕ Vanilla+ style additions: **Better Archaeology**, **Better Combat**, **Friends&Foes**, **Emotecraft**, **Amendments** & **Supplementaries**.
+- 🎥 Improved visual effects with **Particular ✨**, **Pretty Rain**, **EnhancedVisuals** and **Explosive Enhancement**.
+- 🎶 Audio overhaul by **Sound Physics**, **Sounds**, **Cool Rain** and **Reactive Music**.
+- 🍳 **Farmer's Delight** and many addons — for the kitchen sink.
+- 💧 Thirst and temperature mechanics from **Tough as Nails** with changing **Serene Seasons**.
+- ⏳ Increased to 30 minutes length of the day and night, so that there is enough time for everything.
+- 💀 Spooky monsters from... well, you'll find out.
+- 🔥 Firearms from **MrCrayfish's Gun Mod** & **Timeless and Classics Zero** — trust me, you'll need it.
 
-### Resourcepacks:
-- 🌟 [**Sparkles**](https://modrinth.com/resourcepack/sparkles/versions) — An **Incendium** resourcepack.
-- 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — Another a fog pack, nvm.
-- ⏹ Custom resourcepack, mainly with language adjustments for many mods of the modpack, as well as some mob icons based on [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros) pack. It also contains [**3D Tankards**](https://www.curseforge.com/minecraft/texture-packs/brewin-and-chewin-3d-tankards), [**Forgotten Graves Redefined**](https://modrinth.com/resourcepack/forgotten-graves-redefined) and [**Unique Spawn Eggs**](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs) with its [**Addon**](https://modrinth.com/resourcepack/unique-spawn-eggs-add-on).
+📡 Use `/worldhost ip|tempip` to let others join your world via LAN.
 
-### Extra credits for overrides:
+## 📝 Additional datapacks and resourcepacks (autoloaded via **Paxi**, stored in `config/paxi`, won’t show up in the mod list):
+
+### 📦 Data packs:
+
+- ☁ [**Sky Villages** compatability](https://www.curseforge.com/minecraft/search?page=1&pageSize=50&sortBy=relevancy&class=texture-packs&search=Sky+Villages+Compat)
+- ⚔ [**RPG Loot**](https://modrinth.com/datapack/rpg-loot)
+- 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — adds an ambient fog effect
+- 🌳 [**Vanilla Tweaks**](https://vanillatweaks.net) — recipes and gameplay improvements
+- 🏘 [**Repurposed Structures** & **YUNG**'s mods compat](https://modrinth.com/datapacks?q=Repurposed+Structures+Better&v=1.20.1)
+- 💎 Packs by [**TheDiamondPlayables**](https://www.planetminecraft.com/collection/148146/thediamondplayables-s-datapacks) from PlanetMinecraft
+- 🔁 Сustom data pack, that contains:
+  - Spawn egg recipes (using ghast tears)
+  - Expanded mod-aware smithing upgrade system
+  - Custom advancements (requires embedded resource pack)
+  - Other integrations and modpack content tweaks
+
+### 📦 Resource packs:
+
+- 🌟 [**Sparkles**](https://modrinth.com/resourcepack/sparkles) — for **Incendium**
+- 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — again fog pack, just ignore it
+- ⏹ Custom resource pack with localization tweaks and mob icons (based on [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros)), that includes:
+  - [**Unique Spawn Eggs**](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs)
+  - [**Unique Spawn Eggs Add-on**](https://modrinth.com/resourcepack/unique-spawn-eggs-add-on)
+
+### 🔗 Extra credits:
+
 - [**Born in Chaos**](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos)
 - [**Human Companions**](https://www.curseforge.com/minecraft/mc-mods/human-companions)
 - [**More Villagers**](https://www.curseforge.com/minecraft/mc-mods/more-villagers)

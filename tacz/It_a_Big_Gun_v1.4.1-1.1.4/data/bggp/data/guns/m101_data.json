@@ -1,0 +1,90 @@
+{
+  "ammo": "bggp:105x372r",
+  "ammo_amount": 1,
+  "extended_mag_ammo_amount": [1, 1, 1],
+  "bolt": "open_bolt",
+  "rpm": 20,
+  "bullet": {
+    "life": 5.0,
+    "bullet_amount": 1,
+    "damage": 360,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0,
+      "head_shot_multiplier": 2,
+      "damage_adjust": [
+        { "distance": 100, "damage": 360 },
+        { "distance": 300, "damage": 330 },
+        { "distance": "infinite", "damage": 300 }
+      ]
+    },
+    "speed": 472,
+    "gravity": 0.098,
+    "knockback": 0,
+    "friction": 0.01,
+    "ignite": true,
+    "pierce": 0,
+    "explosion": {
+      "explode": true,
+      "damage": 140,
+      "radius": 4,
+      "knockback": true,
+      "destroy_block": true,
+      "delay": 1
+    }
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 8.25,
+      "tactical": 8.25
+    },
+    "cooldown": {
+      "empty": 11.5,
+      "tactical": 11.5
+    }
+  },
+  "draw_time": 2.75,
+  "put_away_time": 2.46,
+  "aim_time": 0.5,
+  "sprint_time": 0.75,
+  "weight": 37.9,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -1,
+    "reload": -1
+  },
+  "crawl_recoil_multiplier": 0.5,
+  "fire_mode": ["semi"],
+  "burst_data": {
+    "continuous_shoot": false,
+    "count": 2,
+    "bpm": 550,
+    "min_interval": 0.4
+  },
+  "recoil": {
+    "pitch": [
+      { "time": 0, "value": [6, 6] },
+      { "time": 0.82, "value": [6, 6] },
+      { "time": 1.33, "value": [-1.4, -1.4] },
+      { "time": 1.89, "value": [1.0, 1.0] },
+      { "time": 2.34, "value": [0, 0] },
+      { "time": 2.88, "value": [0, 0] }
+    ],
+    "yaw": [
+      { "time": 0, "value": [-6, -6] },
+      { "time": 0.82, "value": [-6, -6] },
+      { "time": 1.89, "value": [-1.0, -1.0] },
+      { "time": 2.34, "value": [0, 0] },
+      { "time": 2.88, "value": [0, 0] }
+    ]
+  },
+  "inaccuracy": {
+    "stand": 9,
+    "move": 12.5,
+    "sneak": 7.5,
+    "lie": 6,
+    "aim": 0.025
+  },
+  "allow_attachment_types": ["scope", "extended_mag"]
+}
