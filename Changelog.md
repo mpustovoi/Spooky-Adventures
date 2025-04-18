@@ -60,11 +60,11 @@
 - **YOSBY** (заменён)
 - **Zoomify** (заменён)
 
-### ➕ Добавлено (50 модов):
+### ➕ Добавлено (51 мод):
 
 - [**It's a Big Gun**](https://www.curseforge.com/minecraft/customization/tacz-it-a-big-gun) — Оружейный набор для **[TaCZ]**. (С некоторыми балансными правками)
 - **Alex's Mobs Interaction** (возвращён)
-- **Amendments** (экспериментально)
+- **Amendments**
 - **BadOptimizations**
 - **Battle Towers**
 - **BE Style Wither**
@@ -81,7 +81,7 @@
 - **Delightful Burgers**
 - **Delightful Sandwiches**
 - [**Distant Shaded Panoramas**](https://modrinth.com/resourcepack/karbin-panoramas) (набор ресурсов) — Надземный мир, ночь, дождливая погода.
-- **Environmental Creepers** (экспериментально) — Криперы теперь сбрасывают 90% взорванных блоков и имеют шанс в 0,1% вызвать цепную реакцию, если в радиусе 8 блоков находится другой крипер. Сила взрыва обычных криперов теперь на 16,67% меньше, а заряженных — на 25% больше.
+- **Environmental Creepers** — Криперы теперь сбрасывают 90% взорванных блоков и имеют шанс в 0,1% вызвать цепную реакцию, если в радиусе 8 блоков находится другой крипер. Сила взрыва обычных криперов теперь на 16,67% меньше, а заряженных — на 25% больше.
 - **Euphonium** (замена) — Новый мод звуков окружающей среды.
 - **Euphoria Patches** — Теперь шейдеры `ComplementaryUnbound/Reimagined + EuphoriaPatches` будут загружаться из этого мода.¹
 - **Exposure**
@@ -92,6 +92,7 @@
 - **Harvest with ease** (замена)
 - **Immersive Aircraft**
 - **Immersive Armors**
+- **Immersive Optimization** ⚠ (экспериментально)
 - **Immersive Snow** — Должен помочь при посещении биомов после зимнего сезона.
 - **It Takes a Pillage**
 - **Load My F\*\*\*ing Tags** — Исправит сломанные теги, которые невозможно исправить через набор ресурсов.
@@ -100,7 +101,7 @@
 - **Ok Zoomer** (замена)
 - **Particle Core** — Призван оптимизировать частицы.
 - **Particular ✨ Reforged**
-- **Pretty Rain** (экспериментально) — Также известный как **Particle Rain**. Призван улучшить ванильные эффекты погоды и придать им более шейдерный вид.
+- **Pretty Rain** — Также известный как **Particle Rain**. Призван улучшить ванильные эффекты погоды и придать им более шейдерный вид.
 - **Sawmill** — Преемник набора данных **Sawblade Recipes**, который был удалён ещё в версии 1.6.
 - **Screenshot Viewer**
 - **Sit's End Teleport Anchor**
@@ -243,11 +244,11 @@ Decided to postpone this release to accumulate more significant changes.
 - **YOSBY** (replaced)
 - **Zoomify** (replaced)
 
-### ➕ Added (50 mods):
+### ➕ Added (51 mods):
 
 - [**It's a Big Gun**](https://www.curseforge.com/minecraft/customization/tacz-it-a-big-gun) — A gun pack for **[TaCZ]**. (With some balance adjustments)
 - **Alex's Mobs Interaction** (readded)
-- **Amendments** (experimentally)
+- **Amendments**
 - **BadOptimizations**
 - **Battle Towers**
 - **BE Style Wither**
@@ -264,7 +265,7 @@ Decided to postpone this release to accumulate more significant changes.
 - **Delightful Burgers**
 - **Delightful Sandwiches**
 - [**Distant Shaded Panoramas**](https://modrinth.com/resourcepack/karbin-panoramas) (a resourcepack) — Overworld, night, rainy weather.
-- **Environmental Creepers** (experimentally) — Creepers now drop 90% of exploded blocks and have a 0.1% chance of triggering a chain reaction if there is another creeper within a radius of 8 blocks. The explosion power of common creepers is now 16.67% lower, and charged ones is 25% higher.
+- **Environmental Creepers** — Creepers now drop 90% of exploded blocks and have a 0.1% chance of triggering a chain reaction if there is another creeper within a radius of 8 blocks. The explosion power of common creepers is now 16.67% lower, and charged ones is 25% higher.
 - **Euphonium** (replacement) — A new ambient sounds mod.
 - **Euphoria Patches** — Now the `ComplementaryUnbound/Reimagined + EuphoriaPatches` shaders will be loaded from this mod.¹
 - **Exposure**
@@ -275,6 +276,7 @@ Decided to postpone this release to accumulate more significant changes.
 - **Harvest with ease** (replacement)
 - **Immersive Aircraft**
 - **Immersive Armors**
+- **Immersive Optimization** ⚠ (experimentally)
 - **Immersive Snow** — Should help when visiting biomes after the winter season.
 - **It Takes a Pillage**
 - **Load My F\*\*\*ing Tags** — Will fix broken tags that can't be fixed via data pack.
@@ -283,7 +285,7 @@ Decided to postpone this release to accumulate more significant changes.
 - **Ok Zoomer** (replacement)
 - **Particle Core** — Designed to optimize particles.
 - **Particular ✨ Reforged**
-- **Pretty Rain** (experimentally) — Also known as **Particle Rain**. Designed to improve vanilla weather effects and give them a more shader-like appearance.
+- **Pretty Rain** — Also known as **Particle Rain**. Designed to improve vanilla weather effects and give them a more shader-like appearance.
 - **Sawmill** — The successor to **Sawblade Recipes** data pack, which was removed back in v1.6.
 - **Screenshot Viewer**
 - **Sit's End Teleport Anchor**
