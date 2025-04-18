@@ -52,7 +52,7 @@
 
 - 🌟 [**Sparkles**](https://modrinth.com/resourcepack/sparkles) — для **Incendium**
 - 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — ещё один набор с туманом, не обращайте внимания
-- ⏹ Пользовательский набор ресурсов с правками локализации и иконками мобов (основанными на [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros)), включающий:
+- ⏹ [Пользовательский набор ресурсов](https://github.com/mpustovoi/Translations-For-Mods) с правками локализации и иконками мобов (основанными на [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros)), включающий:
   - [**Unique Spawn Eggs**](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs)
   - [**Unique Spawn Eggs Add-on**](https://modrinth.com/resourcepack/unique-spawn-eggs-add-on)
 
@@ -115,7 +115,7 @@
 
 - 🌟 [**Sparkles**](https://modrinth.com/resourcepack/sparkles) — for **Incendium**
 - 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — again fog pack, just ignore it
-- ⏹ Custom resource pack with localization tweaks and mob icons (based on [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros)), that includes:
+- ⏹ [Custom resource pack](https://github.com/mpustovoi/Translations-For-Mods) with localization tweaks and mob icons (based on [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros)), that includes:
   - [**Unique Spawn Eggs**](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs)
   - [**Unique Spawn Eggs Add-on**](https://modrinth.com/resourcepack/unique-spawn-eggs-add-on)
 
