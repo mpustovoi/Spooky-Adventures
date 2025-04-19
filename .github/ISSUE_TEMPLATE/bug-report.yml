@@ -10,14 +10,13 @@ body:
 
         Please fill out the form below as completely as possible. / Пожалуйста, заполните как можно подробнее.
 
-  - type: input
-    id: version
+  - type: checkboxes
+    id: latest_version
     attributes:
-      label: Modpack Version / Версия модпака
-      description: Enter the modpack version / Укажите версию модпака
-      placeholder: "1.0"
-    validations:
-      required: true
+      label: Are you using the latest version? / Используете ли вы последнюю версию?
+      description: Check this box if you're using the latest available version of modpack / Отметьте, если вы используете последнюю доступную версию модпака
+      options:
+        - label: Latest version / Последняя версия
 
   - type: textarea
     id: description
