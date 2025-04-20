@@ -1,0 +1,209 @@
+{
+  "parent": "minecraft:adventure/sleep_in_bed",
+  "display": {
+    "icon": {
+      "item": "the_anomaly:moon_phase_change"
+    },
+    "title": {
+      "translate": "advancements.the_anomaly.liquidate_anomaly.title",
+      "fallback": "§4§kAnomaly§r Liquidated..?"
+    },
+    "description": {
+      "translate": "advancements.the_anomaly.liquidate_anomaly.descr",
+      "fallback": "Destroy? an §4§kAnomaly§r"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "anomaly_attack_crawl": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_attack_crawl"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_attack": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_attack"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_behind": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_behind"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_deceitful": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_deceitful"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_escape": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_escape"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_shadow_stalker": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_shadow_stalker"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_shadow": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_shadow"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_trap": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_trap"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_viewer_attack": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_viewer_attack"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_viewer": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_viewer"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_visitor_2": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_visitor_2"
+            }
+          }
+        ]
+      }
+    },
+    "anomaly_visitor": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "the_anomaly:anomaly_visitor"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "anomaly_attack_crawl",
+      "anomaly_attack",
+      "anomaly_behind",
+      "anomaly_deceitful",
+      "anomaly_escape",
+      "anomaly_shadow_stalker",
+      "anomaly_shadow",
+      "anomaly_trap",
+      "anomaly_viewer_attack",
+      "anomaly_viewer",
+      "anomaly_visitor_2",
+      "anomaly_visitor"
+    ]
+  ],
+  "rewards": {
+    "experience": 7500
+  }
+}

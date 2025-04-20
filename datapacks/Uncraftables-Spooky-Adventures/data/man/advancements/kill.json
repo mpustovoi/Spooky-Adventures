@@ -1,0 +1,33 @@
+{
+  "parent": "man:manfromthefog",
+  "display": {
+    "icon": {
+      "item": "man:tearoftheman"
+    },
+    "title": {
+      "translate": "advancements.man.kill_man.title",
+      "fallback": "§4Thunder Rumbled"
+    },
+    "description": {
+      "translate": "advancements.man.kill_man.descr",
+      "fallback": "Kill the §4Thunderbolt§f"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_managresive": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "man:managgresive"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5000
+  }
+}

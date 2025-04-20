@@ -1,0 +1,28 @@
+{
+  "parent": "man:thetear",
+  "display": {
+    "icon": {
+      "item": "minecraft:enchanted_book"
+    },
+    "title": {
+      "translate": "advancements.man.get_fog_protection.title",
+      "fallback": "§4Foggy Protection"
+    },
+    "description": {
+      "translate": "advancements.man.get_fog_protection.descr",
+      "fallback": "§fSacrifice yourself to the §4Thunderbolt§f and receive a §4Foggy Protection§f enchantment, holding a book in your hand aand being next to its Tear"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_fog_protection": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 250
+  }
+}

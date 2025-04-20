@@ -1,0 +1,25 @@
+{
+  "display": {
+    "background": "man:textures/screens/banner.png",
+    "icon": {
+      "item": "man:tearoftheman"
+    },
+    "title": {
+      "translate": "advancements.man.feelingwatched.title",
+      "fallback": "§4Feeling Watched..."
+    },
+    "description": {
+      "translate": "advancements.man.feelingwatched.descr",
+      "fallback": "Catch the first appearance of §4Thunderbolt§f"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "feelingwatched": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

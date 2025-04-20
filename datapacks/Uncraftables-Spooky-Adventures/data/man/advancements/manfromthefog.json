@@ -1,0 +1,59 @@
+{
+  "parent": "man:feelingwatched",
+  "display": {
+    "icon": {
+      "item": "man:tearoftheman"
+    },
+    "title": {
+      "translate": "advancements.man.manfromthefog.title",
+      "fallback": "§4Preemptive Strike"
+    },
+    "description": {
+      "translate": "advancements.man.manfromthefog.descr",
+      "fallback": "Kill the §4Thunderbolt§f before the chase begins"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_manfromthefog": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "man:manfromthefog"
+            }
+          }
+        ]
+      }
+    },
+    "k_manfromthefogback": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "man:manfromthefogback"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "k_manfromthefog",
+      "k_manfromthefogback"
+    ]
+  ],
+  "rewards": {
+    "experience": 250
+  }
+}

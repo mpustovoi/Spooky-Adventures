@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "man:tearoftheman"
+    }
+  ],
+  "result": "minecraft:ghast_tear",
+  "count": 8
+}

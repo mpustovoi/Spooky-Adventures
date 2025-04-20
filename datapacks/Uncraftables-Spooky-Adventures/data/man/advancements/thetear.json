@@ -1,0 +1,35 @@
+{
+  "parent": "man:kill",
+  "display": {
+    "icon": {
+      "item": "man:tearoftheman"
+    },
+    "title": {
+      "translate": "advancements.man.get_tear.title",
+      "fallback": "§4Stingy Tears"
+    },
+    "description": {
+      "translate": "advancements.man.get_tear.descr",
+      "fallback": "Get §4Thunderbolt§f's Tear"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_tear": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["man:tearoftheman"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500
+  }
+}

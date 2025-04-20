@@ -1,0 +1,33 @@
+{
+  "parent": "man:manfromthefog",
+  "display": {
+    "icon": {
+      "item": "man:tearoftheman"
+    },
+    "title": {
+      "translate": "advancements.man.kill_hanging_man.title",
+      "fallback": "§4Thunder Spider"
+    },
+    "description": {
+      "translate": "advancements.man.kill_hanging_man.descr",
+      "fallback": "Kill the hanging §4Thunderbolt§f"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_managresive": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "man:mftfhang"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500
+  }
+}

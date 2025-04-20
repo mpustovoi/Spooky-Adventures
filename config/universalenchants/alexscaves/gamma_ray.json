@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 2,
-  "items": [
-    "$minecraft:raygun"
-  ],
-  "incompatible": [
-    "alexscaves:x_ray"
-  ]
-}

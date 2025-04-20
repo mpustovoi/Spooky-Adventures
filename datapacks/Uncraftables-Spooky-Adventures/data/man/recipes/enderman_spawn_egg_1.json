@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "man:manfromthefog_spawn_egg"
+    }
+  ],
+  "result": "minecraft:enderman_spawn_egg",
+  "count": 1
+}

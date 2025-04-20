@@ -3,7 +3,7 @@
   "display": {
     "description": {
       "translate": "advancements.creeperoverhaul.kill_all_overhauled_creepers.descr",
-      "fallback": "Kill all the Overhauled Creeper"
+      "fallback": "Kill all the Overhauled Creepers"
     },
     "icon": {
       "item": "minecraft:creeper_head"
