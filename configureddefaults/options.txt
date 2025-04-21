@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","Moonlight Mods Dynamic Assets","tacz_resources","distinguishedpotions:potion_overrides","tinyskeletons:main","hordes-config","Sparkles_1.21.x_v1.1.2.zip","file/VanillaTweaks-Textures-1.20.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Default-Dark-Mode-Expansion-1.19.0+-2025.4.5.zip","file/Default-Dark-Mode-Expansion-Further-1.19.0+-2025.4.20.zip","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","file/freshly-modded-1-5-10.zip","file/Pixelated_v1.3.4_EnhancedVisuals(nox_cgt).zip","builtin/add_pack_finders_test","file/Interface_Icons_v1.9.zip","file/§2Overworld§f_§9night§f_§7rainy§f.zip","file/TrailsAndTales.zip","§1From-the-Fog§f-1.20-v1.9.2.zip","Translations-For-Mods.zip"]
+resourcePacks:["vanilla","mod_resources","fabric","Moonlight Mods Dynamic Assets","tacz_resources","distinguishedpotions:potion_overrides","tinyskeletons:main","hordes-config","Sparkles_1.21.x_v1.1.2.zip","file/VanillaTweaks-Textures-1.20.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Default-Dark-Mode-Expansion-1.19.0+-2025.5.1-beta.zip","file/Default-Dark-Mode-Expansion-Further-1.19.0+-2025.4.20.zip","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","file/freshly-modded-1-5-10.zip","file/Pixelated_v1.3.4_EnhancedVisuals(nox_cgt).zip","builtin/add_pack_finders_test","file/Interface_Icons_v1.9.zip","file/§2Overworld§f_§9night§f_§7rainy§f.zip","file/TrailsAndTales.zip","§1From-the-Fog§f-1.20-v1.9.2.zip","Translations-For-Mods.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
