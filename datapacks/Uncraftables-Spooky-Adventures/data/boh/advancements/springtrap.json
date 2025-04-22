@@ -1,0 +1,33 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "boh:document_springtrap"
+    },
+    "title": {
+      "translate": "advancements.boh.springtrap.title",
+      "fallback": "It Was a Trap"
+    },
+    "description": {
+      "translate": "advancements.boh.springtrap.descr",
+      "fallback": "Defeat the Springtrap"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_springtrap": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:springtrap"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "boh:simonhenriksson",
+  "display": {
+    "icon": {
+      "item": "boh:the_great_knife"
+    },
+    "title": {
+      "translate": "advancements.boh.pyramid_head.title",
+      "fallback": "Egyptian Power!"
+    },
+    "description": {
+      "translate": "advancements.boh.pyramid_head.descr",
+      "fallback": "Defeat the Pyramid Head"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_pyramid_head": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:pyramid_head"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 150
+  }
+}

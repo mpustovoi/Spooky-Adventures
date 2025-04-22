@@ -1,0 +1,33 @@
+{
+  "parent": "boh:souichi",
+  "display": {
+    "icon": {
+      "item": "minecraft:ghast_tear"
+    },
+    "title": {
+      "translate": "advancements.boh.seed_eater.title",
+      "fallback": "Taste my Seed!"
+    },
+    "description": {
+      "translate": "advancements.boh.seed_eater.descr",
+      "fallback": "Finish off the Seed Eater"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_seed_eater": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:seed_eater"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 125
+  }
+}

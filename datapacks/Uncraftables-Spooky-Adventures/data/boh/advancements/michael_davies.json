@@ -1,0 +1,33 @@
+{
+  "parent": "boh:souichi",
+  "display": {
+    "icon": {
+      "item": "minecraft:lightning_rod"
+    },
+    "title": {
+      "translate": "advancements.boh.michael_davies.title",
+      "fallback": "Another Anime Brat"
+    },
+    "description": {
+      "translate": "advancements.boh.michael_davies.descr",
+      "fallback": "Kill Michael Davies"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_michael_davies": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:michael_davies"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 80
+  }
+}

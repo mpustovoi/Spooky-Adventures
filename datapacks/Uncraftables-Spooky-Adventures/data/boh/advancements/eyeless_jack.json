@@ -1,0 +1,33 @@
+{
+  "parent": "boh:souichi",
+  "display": {
+    "icon": {
+      "item": "minecraft:skeleton_skull"
+    },
+    "title": {
+      "translate": "advancements.boh.eyeless_jack.title",
+      "fallback": "You Lost Your Sight"
+    },
+    "description": {
+      "translate": "advancements.boh.eyeless_jack.descr",
+      "fallback": "Kill Eyeless Jack"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_eyeless_jack": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:eyeless_jack"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 75
+  }
+}

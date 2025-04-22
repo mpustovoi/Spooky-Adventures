@@ -1,0 +1,33 @@
+{
+  "parent": "boh:simonhenriksson",
+  "display": {
+    "icon": {
+      "item": "minecraft:andesite"
+    },
+    "title": {
+      "translate": "advancements.boh.james_sunderland.title",
+      "fallback": "Silent Hill Again"
+    },
+    "description": {
+      "translate": "advancements.boh.james_sunderland.descr",
+      "fallback": "Kill James Sunderland"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_james_sunderland": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:james_sunderland"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

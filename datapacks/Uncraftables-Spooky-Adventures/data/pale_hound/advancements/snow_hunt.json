@@ -21,9 +21,15 @@
     "k_pale_hound": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "pale_hound:pale_hound"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "pale_hound:pale_hound"
+            }
+          }
+        ]
       }
     }
   },

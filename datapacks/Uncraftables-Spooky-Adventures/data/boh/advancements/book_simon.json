@@ -1,0 +1,33 @@
+{
+  "parent": "boh:simonhenriksson",
+  "display": {
+    "icon": {
+      "item": "boh:massacre_axe"
+    },
+    "title": {
+      "translate": "advancements.boh.book_simon.title",
+      "fallback": "No Yetarianing Anymore"
+    },
+    "description": {
+      "translate": "advancements.boh.book_simon.descr",
+      "fallback": "Kill Bloody Simon"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_book_simon": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:book_simon"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 150
+  }
+}

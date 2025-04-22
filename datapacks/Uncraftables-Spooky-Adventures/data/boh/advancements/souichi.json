@@ -1,0 +1,33 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "boh:document_suichi"
+    },
+    "title": {
+      "translate": "advancements.boh.souichi.title",
+      "fallback": "Sorry, That Was Intentional"
+    },
+    "description": {
+      "translate": "advancements.boh.souichi.descr",
+      "fallback": "Brutally Kill Souichi"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_souichi": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:souichi"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

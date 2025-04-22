@@ -1,0 +1,33 @@
+{
+  "parent": "boh:slender_gift",
+  "display": {
+    "icon": {
+      "item": "boh:drawing_slender"
+    },
+    "title": {
+      "translate": "advancements.boh.slender_man.title",
+      "fallback": "Obscurantists"
+    },
+    "description": {
+      "translate": "advancements.boh.slender_man.descr",
+      "fallback": "Destroy Slender, if it's Possible"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_slender_man": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:slender_man"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 250
+  }
+}

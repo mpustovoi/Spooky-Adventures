@@ -1,0 +1,33 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "boh:document_baldi"
+    },
+    "title": {
+      "translate": "advancements.boh.baldi.title",
+      "fallback": "Balding"
+    },
+    "description": {
+      "translate": "advancements.boh.baldi.descr",
+      "fallback": "Beat up Baldi"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_baldi": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:baldi"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

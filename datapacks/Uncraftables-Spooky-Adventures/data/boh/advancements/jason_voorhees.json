@@ -1,0 +1,47 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "minecraft:light_gray_stained_glass_pane"
+    },
+    "title": {
+      "translate": "advancements.boh.jason_voorhees.title",
+      "fallback": "The End of the Massacre"
+    },
+    "description": {
+      "translate": "advancements.boh.jason_voorhees.descr",
+      "fallback": "Kill Jason"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_jason_mask": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:jason_mask"
+        }
+      }
+    },
+    "k_jason_voorhees": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:jason_voorhees"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "k_jason_mask",
+      "k_jason_voorhees"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  }
+}

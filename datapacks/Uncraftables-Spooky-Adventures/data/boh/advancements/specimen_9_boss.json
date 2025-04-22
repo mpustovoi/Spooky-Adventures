@@ -1,0 +1,33 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "boh:painted_sword"
+    },
+    "title": {
+      "translate": "advancements.boh.specimen_9_boss.title",
+      "fallback": "A Failed Experiment"
+    },
+    "description": {
+      "translate": "advancements.boh.specimen_9_boss.descr",
+      "fallback": "Kill the Specimen #9"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_specimen_9_boss": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:specimen_9_boss"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2500
+  }
+}

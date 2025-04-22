@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SSS", "SBS", "SSS"],
+  "key": {
+    "B": {
+      "item": "minecraft:stone"
+    },
+    "S": {
+      "item": "boh:spinel"
+    }
+  },
+  "result": {
+    "item": "boh:spinel_ore",
+    "count": 1
+  }
+}

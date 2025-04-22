@@ -1,0 +1,33 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "boh:lifeform_growth"
+    },
+    "title": {
+      "translate": "advancements.boh.lifeform.title",
+      "fallback": "Escaped the Backrooms"
+    },
+    "description": {
+      "translate": "advancements.boh.lifeform.descr",
+      "fallback": "Neutralize the Chaotic Entity"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_backrooms": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:lifeform"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 150
+  }
+}

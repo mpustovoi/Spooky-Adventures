@@ -1,0 +1,33 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "boh:document_mothman"
+    },
+    "title": {
+      "translate": "advancements.boh.mothman.title",
+      "fallback": "Moth Swatter"
+    },
+    "description": {
+      "translate": "advancements.boh.mothman.descr",
+      "fallback": "Swat the Mothman"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_rexy": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:mothman"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200
+  }
+}

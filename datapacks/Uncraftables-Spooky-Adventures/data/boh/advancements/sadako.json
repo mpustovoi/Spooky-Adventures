@@ -1,0 +1,33 @@
+{
+  "parent": "boh:souichi",
+  "display": {
+    "icon": {
+      "item": "boh:analogtvsadakoc"
+    },
+    "title": {
+      "translate": "advancements.boh.sadako.title",
+      "fallback": "You Shouldn't Have Come Out of There"
+    },
+    "description": {
+      "translate": "advancements.boh.sadako.descr",
+      "fallback": "Kill Sadako"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_sadako": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:sadako"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 128
+  }
+}

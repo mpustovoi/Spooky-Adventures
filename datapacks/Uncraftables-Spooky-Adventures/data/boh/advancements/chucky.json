@@ -1,0 +1,59 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "boh:document_chucky"
+    },
+    "title": {
+      "translate": "advancements.boh.chucky.title",
+      "fallback": "Better 4k Chuck"
+    },
+    "description": {
+      "translate": "advancements.boh.chucky.descr",
+      "fallback": "Kill Chucky"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_chucky": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:chucky"
+            }
+          }
+        ]
+      }
+    },
+    "k_chucky_grab": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:chucky_grab"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "k_chucky",
+      "k_chucky_grab"
+    ]
+  ],
+  "rewards": {
+    "experience": 150
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "boh:chestburster",
+  "display": {
+    "icon": {
+      "item": "boh:document_xenomorph"
+    },
+    "title": {
+      "translate": "advancements.boh.xenomorph.title",
+      "fallback": "Like a Predator"
+    },
+    "description": {
+      "translate": "advancements.boh.xenomorph.descr",
+      "fallback": "Neutralize the Xenomorph"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_predator": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:xenomorph"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 250
+  }
+}

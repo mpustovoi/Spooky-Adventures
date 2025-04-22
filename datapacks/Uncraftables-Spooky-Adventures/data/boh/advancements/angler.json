@@ -1,24 +1,24 @@
 {
-  "parent": "man:manfromthefog",
+  "parent": "boh:grimm_start",
   "display": {
     "icon": {
-      "item": "man:tearoftheman"
+      "item": "boh:document_angler"
     },
     "title": {
-      "translate": "advancements.man.kill_man.title",
-      "fallback": "§4Thunder Rumbled"
+      "translate": "advancements.boh.angler.title",
+      "fallback": "Deepland Horizon"
     },
     "description": {
-      "translate": "advancements.man.kill_man.descr",
-      "fallback": "Kill the §4Thunderbolt§f"
+      "translate": "advancements.boh.angler.descr",
+      "fallback": "Defeat Angler"
     },
-    "frame": "challenge",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": true
   },
   "criteria": {
-    "k_managresive": {
+    "k_angler": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -26,7 +26,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "man:managgresive"
+              "type": "boh:angler"
             }
           }
         ]
@@ -34,6 +34,6 @@
     }
   },
   "rewards": {
-    "experience": 5000
+    "experience": 150
   }
 }

@@ -1,0 +1,33 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "boh:analog_tv_six"
+    },
+    "title": {
+      "translate": "advancements.boh.six.title",
+      "fallback": "Sus or Six?"
+    },
+    "description": {
+      "translate": "advancements.boh.six.descr",
+      "fallback": "Kill the Six"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_six": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:six"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

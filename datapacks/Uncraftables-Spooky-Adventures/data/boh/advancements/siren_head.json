@@ -1,0 +1,33 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "minecraft:goat_horn"
+    },
+    "title": {
+      "translate": "advancements.boh.siren_head.title",
+      "fallback": "Signal Loss"
+    },
+    "description": {
+      "translate": "advancements.boh.siren_head.descr",
+      "fallback": "Kill the Siren Head"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_siren_head": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:siren_head"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500
+  }
+}

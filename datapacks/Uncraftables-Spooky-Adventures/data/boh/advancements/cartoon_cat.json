@@ -1,0 +1,33 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "boh:document_cartooncat"
+    },
+    "title": {
+      "translate": "advancements.boh.cartoon_cat.title",
+      "fallback": "Catoon Network"
+    },
+    "description": {
+      "translate": "advancements.boh.cartoon_cat.descr",
+      "fallback": "Kill the Cartoon Cat"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_cartoon_cat": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:cartoon_cat"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200
+  }
+}

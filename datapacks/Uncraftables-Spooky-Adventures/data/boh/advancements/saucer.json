@@ -1,0 +1,33 @@
+{
+  "parent": "boh:gray_alien",
+  "display": {
+    "icon": {
+      "item": "minecraft:glass"
+    },
+    "title": {
+      "translate": "advancements.boh.saucer.title",
+      "fallback": "Premature"
+    },
+    "description": {
+      "translate": "advancements.boh.saucer.descr",
+      "fallback": "Destroy the Saucer"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_saucer": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:saucer"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500
+  }
+}

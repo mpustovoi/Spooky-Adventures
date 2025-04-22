@@ -1,0 +1,33 @@
+{
+  "parent": "boh:grimm_start",
+  "display": {
+    "icon": {
+      "item": "minecraft:bundle"
+    },
+    "title": {
+      "translate": "advancements.boh.little_sister.title",
+      "fallback": "Omaigoto Not Incienso"
+    },
+    "description": {
+      "translate": "advancements.boh.little_sister.descr",
+      "fallback": "Kill the Little Sister"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "k_little_sister": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "boh:little_sister"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}
