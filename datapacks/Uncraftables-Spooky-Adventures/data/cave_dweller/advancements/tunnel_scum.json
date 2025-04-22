@@ -21,9 +21,15 @@
     "k_cave_dweller": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "cave_dweller:cave_dweller"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "cave_dweller:cave_dweller"
+            }
+          }
+        ]
       }
     }
   },

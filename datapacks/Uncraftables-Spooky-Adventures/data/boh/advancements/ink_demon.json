@@ -21,9 +21,15 @@
     "k_ink_demon": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "boh:ink_demon"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:ink_demon"
+            }
+          }
+        ]
       }
     }
   },

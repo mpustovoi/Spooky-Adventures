@@ -21,9 +21,15 @@
     "k_baldi": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "boh:baldi"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:baldi"
+            }
+          }
+        ]
       }
     }
   },

@@ -21,9 +21,15 @@
     "k_fanmade": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "farlanders:fanmade_enderman"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "farlanders:fanmade_enderman"
+            }
+          }
+        ]
       }
     }
   },

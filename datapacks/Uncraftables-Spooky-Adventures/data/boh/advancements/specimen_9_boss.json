@@ -21,9 +21,15 @@
     "k_specimen_9_boss": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "boh:specimen_9_boss"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:specimen_9_boss"
+            }
+          }
+        ]
       }
     }
   },

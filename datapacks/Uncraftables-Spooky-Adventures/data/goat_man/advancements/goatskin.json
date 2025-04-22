@@ -21,9 +21,15 @@
     "k_goat_man": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "goat_man:goat_man"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "goat_man:goat_man"
+            }
+          }
+        ]
       }
     }
   },

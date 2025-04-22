@@ -21,9 +21,15 @@
     "k_gray_alien": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "boh:gray_alien"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:gray_alien"
+            }
+          }
+        ]
       }
     }
   },

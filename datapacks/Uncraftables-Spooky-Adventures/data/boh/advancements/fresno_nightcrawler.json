@@ -21,9 +21,15 @@
     "k_fresno_nightcrawler": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "boh:fresno_nightcrawler"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:fresno_nightcrawler"
+            }
+          }
+        ]
       }
     }
   },

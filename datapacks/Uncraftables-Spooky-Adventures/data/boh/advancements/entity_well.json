@@ -21,9 +21,15 @@
     "k_entity_well": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "boh:entity_well"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:entity_well"
+            }
+          }
+        ]
       }
     }
   },

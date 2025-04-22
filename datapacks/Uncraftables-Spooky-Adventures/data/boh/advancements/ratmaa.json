@@ -21,9 +21,15 @@
     "k_raatma": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "boh:raatma"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:raatma"
+            }
+          }
+        ]
       }
     }
   },

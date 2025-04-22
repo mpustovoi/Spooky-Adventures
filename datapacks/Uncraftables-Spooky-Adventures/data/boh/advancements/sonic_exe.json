@@ -21,9 +21,15 @@
     "k_sonic_exe": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "boh:sonic_exe"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:sonic_exe"
+            }
+          }
+        ]
       }
     }
   },

@@ -21,9 +21,15 @@
     "k_springtrap": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "boh:springtrap"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "boh:springtrap"
+            }
+          }
+        ]
       }
     }
   },

@@ -21,9 +21,15 @@
     "k_goblin_trader": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "goblintraders:goblin_trader"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "goblintraders:goblin_trader"
+            }
+          }
+        ]
       }
     }
   }

@@ -21,9 +21,15 @@
     "kill_marauder_with_hatchet": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "illagerinvasion:marauder"
-        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "illagerinvasion:marauder"
+            }
+          }
+        ],
         "killing_blow": {
           "source_entity": {
             "type": "minecraft:player",
@@ -33,6 +39,10 @@
       }
     }
   },
-  "requirements": [["kill_marauder_with_hatchet"]],
+  "requirements": [
+    [
+      "kill_marauder_with_hatchet"
+    ]
+  ],
   "sends_telemetry_event": true
 }

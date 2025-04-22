@@ -21,9 +21,15 @@
     "k_elder_farlander": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "farlanders:elder_farlander"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "farlanders:elder_farlander"
+            }
+          }
+        ]
       }
     }
   }
