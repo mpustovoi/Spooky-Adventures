@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["III", "III", "III"],
+  "key": {
+    "I": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "cratedelight:golden_apple_crate",
+    "count": 1
+  }
+}

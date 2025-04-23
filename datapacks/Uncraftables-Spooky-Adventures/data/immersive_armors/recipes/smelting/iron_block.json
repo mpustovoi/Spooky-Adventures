@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_block",
+  "ingredient": [
+    {
+      "item": "immersive_armors:heavy_helmet"
+    },
+    {
+      "item": "immersive_armors:heavy_chestplate"
+    },
+    {
+      "item": "immersive_armors:heavy_leggings"
+    },
+    {
+      "item": "immersive_armors:heavy_boots"
+    }
+  ],
+  "result": "minecraft:iron_block",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

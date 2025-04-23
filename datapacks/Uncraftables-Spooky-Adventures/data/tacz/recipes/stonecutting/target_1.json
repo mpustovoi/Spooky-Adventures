@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "tacz:target_minecart"
+    }
+  ],
+  "result": "tacz:target",
+  "count": 1
+}

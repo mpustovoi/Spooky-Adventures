@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "group": "scarlet_neodymium_ingot",
+  "ingredient": [
+    {
+      "item": "alexscaves:galena_gauntlet"
+    },
+    {
+      "item": "alexscaves:scarlet_magnet"
+    }
+  ],
+  "result": "alexscaves:scarlet_neodymium_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

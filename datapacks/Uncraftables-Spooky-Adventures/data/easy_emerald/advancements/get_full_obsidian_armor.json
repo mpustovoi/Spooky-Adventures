@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:story/form_obsidian",
+  "display": {
+    "icon": {
+      "item": "easy_emerald:obsidian_chestplate"
+    },
+    "title": {
+      "translate": "advancements.easy_emerald.get_full_obsidian_armor.title",
+      "fallback": "Wrap Me in Obsidian"
+    },
+    "description": {
+      "translate": "advancements.easy_emerald.get_full_obsidian_armor.descr",
+      "fallback": "Get a full set of Obsidian armor"
+    },
+    "frame": "challenge",
+    "hidden": true
+  },
+  "criteria": {
+    "obsidian_armor": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:obsidian_helmet"]
+          },
+          {
+            "items": ["easy_emerald:obsidian_chestplate"]
+          },
+          {
+            "items": ["easy_emerald:obsidian_leggings"]
+          },
+          {
+            "items": ["easy_emerald:obsidian_boots"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [["obsidian_armor"]],
+  "rewards": {
+    "experience": 125
+  },
+  "sends_telemetry_event": true
+}

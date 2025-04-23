@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "immersive_armors:warrior_boots"
+  },
+  "addition": {
+    "item": "minecraft:iron_nugget"
+  },
+  "result": {
+    "item": "immersive_armors:heavy_boots"
+  },
+  "template": {
+    "item": "minecraft:iron_nugget"
+  }
+}

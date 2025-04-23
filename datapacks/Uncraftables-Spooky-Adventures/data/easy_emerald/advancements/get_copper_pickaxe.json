@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:story/upgrade_tools",
+  "display": {
+    "icon": {
+      "item": "easy_emerald:copper_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.easy_emerald.get_copper_pickaxe.title",
+      "fallback": "Intermediate Point"
+    },
+    "description": {
+      "translate": "advancements.easy_emerald.get_copper_pickaxe.descr",
+      "fallback": "Switch to a Copper Pickaxe"
+    }
+  },
+  "criteria": {
+    "copper_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:copper_pickaxe"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [["copper_pickaxe"]],
+  "sends_telemetry_event": true
+}

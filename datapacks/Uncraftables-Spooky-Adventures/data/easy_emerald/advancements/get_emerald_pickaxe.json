@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:story/iron_tools",
+  "display": {
+    "icon": {
+      "item": "easy_emerald:emerald_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.easy_emerald.get_emerald_pickaxe.title",
+      "fallback": "Monetary Tool"
+    },
+    "description": {
+      "translate": "advancements.easy_emerald.get_emerald_pickaxe.descr",
+      "fallback": "Upgrade your Pickaxe alternatively"
+    }
+  },
+  "criteria": {
+    "emerald_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:emerald_pickaxe"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [["emerald_pickaxe"]],
+  "sends_telemetry_event": true
+}

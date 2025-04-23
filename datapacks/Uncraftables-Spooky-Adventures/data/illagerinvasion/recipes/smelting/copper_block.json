@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_block",
+  "ingredient": [
+    {
+      "item": "illagerinvasion:imbuing_table"
+    }
+  ],
+  "result": "minecraft:copper_block",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

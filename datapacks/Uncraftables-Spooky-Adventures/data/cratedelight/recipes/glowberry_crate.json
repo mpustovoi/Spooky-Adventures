@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["III", "III", "III"],
+  "key": {
+    "I": {
+      "item": "minecraft:glow_berries"
+    }
+  },
+  "result": {
+    "item": "cratedelight:glowberry_crate",
+    "count": 1
+  }
+}

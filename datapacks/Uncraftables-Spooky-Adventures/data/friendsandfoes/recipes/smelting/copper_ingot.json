@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "ingredient": [
+    {
+      "item": "friendsandfoes:exposed_lightning_rod"
+    },
+    {
+      "item": "friendsandfoes:weathered_lightning_rod"
+    },
+    {
+      "item": "friendsandfoes:oxidized_lightning_rod"
+    },
+    {
+      "item": "friendsandfoes:waxed_lightning_rod"
+    },
+    {
+      "item": "friendsandfoes:waxed_exposed_lightning_rod"
+    },
+    {
+      "item": "friendsandfoes:waxed_weathered_lightning_rod"
+    },
+    {
+      "item": "friendsandfoes:waxed_oxidized_lightning_rod"
+    }
+  ],
+  "result": "minecraft:copper_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

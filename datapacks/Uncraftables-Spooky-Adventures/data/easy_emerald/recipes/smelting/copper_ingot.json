@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "ingredient": {
+    "item": "easy_emerald:copper_treeaxe"
+  },
+  "result": "minecraft:copper_ingot",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

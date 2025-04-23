@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "supplementaries:dispenser_minecart"
+    }
+  ],
+  "result": "minecraft:dispenser",
+  "count": 1
+}

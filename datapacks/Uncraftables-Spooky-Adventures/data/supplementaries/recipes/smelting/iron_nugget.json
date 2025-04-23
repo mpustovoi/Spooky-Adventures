@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "supplementaries:bubble_blower"
+    }
+  ],
+  "result": "minecraft:iron_nugget",
+  "experience": 0.0,
+  "cookingtime": 20
+}

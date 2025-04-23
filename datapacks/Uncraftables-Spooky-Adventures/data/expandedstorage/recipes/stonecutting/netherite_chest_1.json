@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "expandedstorage:netherite_chest_minecart"
+    }
+  ],
+  "result": "expandedstorage:netherite_chest",
+  "count": 1
+}

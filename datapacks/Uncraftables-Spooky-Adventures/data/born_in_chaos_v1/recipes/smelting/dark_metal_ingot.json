@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:smelting",
+  "group": "pileof_dark_metal",
+  "ingredient": [
+    {
+      "item": "born_in_chaos_v1:dark_metal_armor_helmet"
+    },
+    {
+      "item": "born_in_chaos_v1:dark_metal_armor_chestplate"
+    },
+    {
+      "item": "born_in_chaos_v1:dark_metal_armor_leggings"
+    },
+    {
+      "item": "born_in_chaos_v1:dark_metal_armor_boots"
+    },
+    {
+      "item": "born_in_chaos_v1:sharpened_dark_metal_sword"
+    }
+  ],
+  "result": "born_in_chaos_v1:dark_metal_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

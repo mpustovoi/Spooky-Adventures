@@ -1,0 +1,67 @@
+{
+  "parent": "minecraft:story/obtain_armor",
+  "display": {
+    "icon": {
+      "item": "easy_emerald:emerald_chestplate"
+    },
+    "title": {
+      "translate": "advancements.easy_emerald.get_emerald_armor.title",
+      "fallback": "Looking Rich"
+    },
+    "description": {
+      "translate": "advancements.easy_emerald.get_emerald_armor.descr",
+      "fallback": "Put on armor literally made of currency"
+    }
+  },
+  "criteria": {
+    "emerald_helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:emerald_helmet"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "emerald_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:emerald_chestplate"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "emerald_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:emerald_leggings"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "emerald_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:emerald_boots"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "emerald_helmet",
+      "emerald_chestplate",
+      "emerald_leggings",
+      "emerald_boots"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

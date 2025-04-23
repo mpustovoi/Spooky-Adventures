@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_ingot",
+  "ingredient": [
+    {
+      "item": "suppsquared:gold_plaque"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_black"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_blue"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_brown"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_cyan"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_gray"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_green"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_light_blue"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_light_gray"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_lime"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_magenta"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_orange"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_pink"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_purple"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_red"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_white"
+    },
+    {
+      "item": "suppsquared:gold_candle_holder_yellow"
+    }
+  ],
+  "result": "minecraft:gold_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

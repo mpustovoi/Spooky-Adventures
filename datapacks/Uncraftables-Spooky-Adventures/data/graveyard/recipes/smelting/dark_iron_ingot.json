@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_ingot",
+  "ingredient": [
+    {
+      "item": "graveyard:dark_iron_ingot"
+    },
+    {
+      "item": "graveyard:sarcophagus"
+    },
+    {
+      "item": "graveyard:oak_coffin"
+    },
+    {
+      "item": "graveyard:dark_oak_coffin"
+    },
+    {
+      "item": "graveyard:spruce_coffin"
+    },
+    {
+      "item": "graveyard:birch_coffin"
+    },
+    {
+      "item": "graveyard:jungle_coffin"
+    },
+    {
+      "item": "graveyard:acacia_coffin"
+    },
+    {
+      "item": "graveyard:warped_coffin"
+    },
+    {
+      "item": "graveyard:crimson_coffin"
+    },
+    {
+      "item": "graveyard:mangrove_coffin"
+    },
+    {
+      "item": "graveyard:dark_iron_door"
+    },
+    {
+      "item": "graveyard:dark_iron_trapdoor"
+    },
+    {
+      "item": "graveyard:candle_holder"
+    },
+    {
+      "item": "graveyard:black_urn"
+    },
+    {
+      "item": "graveyard:fire_brazier"
+    },
+    {
+      "item": "graveyard:soul_fire_brazier"
+    },
+    {
+      "item": "graveyard:ossuary"
+    }
+  ],
+  "result": "graveyard:dark_iron_ingot",
+  "experience": 0.2,
+  "cookingtime": 200
+}

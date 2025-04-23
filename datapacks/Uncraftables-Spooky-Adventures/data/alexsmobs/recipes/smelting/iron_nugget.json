@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "alexsmobs:moose_headgear"
+    }
+  ],
+  "result": "minecraft:iron_nugget",
+  "experience": 0.0,
+  "cookingtime": 20
+}

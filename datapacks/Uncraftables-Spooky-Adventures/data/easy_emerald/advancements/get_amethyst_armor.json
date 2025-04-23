@@ -1,0 +1,67 @@
+{
+  "parent": "minecraft:story/obtain_armor",
+  "display": {
+    "icon": {
+      "item": "easy_emerald:amethyst_chestplate"
+    },
+    "title": {
+      "translate": "advancements.easy_emerald.get_amethyst_armor.title",
+      "fallback": "Glass Warrior"
+    },
+    "description": {
+      "translate": "advancements.easy_emerald.get_amethyst_armor.descr",
+      "fallback": "Put on the Crystal armor"
+    }
+  },
+  "criteria": {
+    "amethyst_helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:amethyst_helmet"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "amethyst_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:amethyst_chestplate"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "amethyst_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:amethyst_leggings"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "amethyst_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:amethyst_boots"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "amethyst_helmet",
+      "amethyst_chestplate",
+      "amethyst_leggings",
+      "amethyst_boots"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

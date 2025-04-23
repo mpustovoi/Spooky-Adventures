@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:leather_boots"
+  },
+  "addition": {
+    "item": "minecraft:bone"
+  },
+  "result": {
+    "item": "immersive_armors:warrior_boots"
+  },
+  "template": {
+    "item": "minecraft:leather"
+  }
+}

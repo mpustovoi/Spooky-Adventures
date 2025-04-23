@@ -1,0 +1,96 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_ingot",
+  "ingredient": [
+    {
+      "item": "supplementaries:iron_gate"
+    },
+    {
+      "item": "supplementaries:faucet"
+    },
+    {
+      "item": "supplementaries:wind_vane"
+    },
+    {
+      "item": "supplementaries:spring_launcher"
+    },
+    {
+      "item": "supplementaries:cannon"
+    },
+    {
+      "item": "supplementaries:relayer"
+    },
+    {
+      "item": "supplementaries:dispenser_minecart"
+    },
+    {
+      "item": "supplementaries:cannonball"
+    },
+    {
+      "item": "supplementaries:lock_block"
+    },
+    {
+      "item": "supplementaries:pulley_block"
+    },
+    {
+      "item": "supplementaries:goblet"
+    },
+    {
+      "item": "supplementaries:cage"
+    },
+    {
+      "item": "supplementaries:candle_holder"
+    },
+    {
+      "item": "supplementaries:candle_holder_black"
+    },
+    {
+      "item": "supplementaries:candle_holder_blue"
+    },
+    {
+      "item": "supplementaries:candle_holder_brown"
+    },
+    {
+      "item": "supplementaries:candle_holder_cyan"
+    },
+    {
+      "item": "supplementaries:candle_holder_gray"
+    },
+    {
+      "item": "supplementaries:candle_holder_green"
+    },
+    {
+      "item": "supplementaries:candle_holder_light_blue"
+    },
+    {
+      "item": "supplementaries:candle_holder_light_gray"
+    },
+    {
+      "item": "supplementaries:candle_holder_lime"
+    },
+    {
+      "item": "supplementaries:candle_holder_magenta"
+    },
+    {
+      "item": "supplementaries:candle_holder_orange"
+    },
+    {
+      "item": "supplementaries:candle_holder_pink"
+    },
+    {
+      "item": "supplementaries:candle_holder_purple"
+    },
+    {
+      "item": "supplementaries:candle_holder_red"
+    },
+    {
+      "item": "supplementaries:candle_holder_white"
+    },
+    {
+      "item": "supplementaries:candle_holder_yellow"
+    }
+  ],
+  "result": "minecraft:iron_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "expandedstorage:bamboo_chest_minecart"
+    }
+  ],
+  "result": "expandedstorage:bamboo_chest",
+  "count": 1
+}

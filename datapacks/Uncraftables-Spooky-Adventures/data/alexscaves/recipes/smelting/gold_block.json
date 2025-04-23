@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_block",
+  "ingredient": {
+    "item": "alexscaves:conversion_crucible"
+  },
+  "result": "minecraft:gold_block",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

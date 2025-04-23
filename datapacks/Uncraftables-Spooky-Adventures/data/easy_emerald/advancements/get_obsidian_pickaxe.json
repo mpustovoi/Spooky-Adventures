@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:story/form_obsidian",
+  "display": {
+    "icon": {
+      "item": "easy_emerald:obsidian_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.easy_emerald.get_obsidian_pickaxe.title",
+      "fallback": "The Tool of the End of Time"
+    },
+    "description": {
+      "translate": "advancements.easy_emerald.get_obsidian_pickaxe.descr",
+      "fallback": "Obtain an Obsidian Pickaxe"
+    },
+    "frame": "challenge",
+    "hidden": true
+  },
+  "criteria": {
+    "obsidian_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:obsidian_pickaxe"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [["obsidian_pickaxe"]],
+  "rewards": {
+    "experience": 50
+  },
+  "sends_telemetry_event": true
+}

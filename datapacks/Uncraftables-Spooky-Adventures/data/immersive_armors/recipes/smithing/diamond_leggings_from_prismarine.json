@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "immersive_armors:prismarine_leggings"
+  },
+  "addition": {
+    "item": "minecraft:diamond_block"
+  },
+  "result": {
+    "item": "minecraft:diamond_leggings"
+  },
+  "template": {
+    "item": "minecraft:diamond"
+  }
+}

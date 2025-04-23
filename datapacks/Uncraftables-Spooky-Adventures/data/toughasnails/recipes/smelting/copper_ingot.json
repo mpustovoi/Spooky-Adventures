@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "ingredient": [
+    {
+      "item": "toughasnails:empty_copper_canteen"
+    },
+    {
+      "item": "toughasnails:copper_dirty_water_canteen"
+    },
+    {
+      "item": "toughasnails:copper_water_canteen"
+    },
+    {
+      "item": "toughasnails:copper_purified_water_canteen"
+    },
+    {
+      "item": "toughasnails:water_purifier"
+    },
+    {
+      "item": "toughasnails:thermometer"
+    }
+  ],
+  "result": "minecraft:copper_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

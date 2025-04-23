@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "ingredient": [
+    {
+      "item": "minecraft:brush"
+    },
+    {
+      "item": "minecraft:spyglass"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    }
+  ],
+  "result": "minecraft:copper_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

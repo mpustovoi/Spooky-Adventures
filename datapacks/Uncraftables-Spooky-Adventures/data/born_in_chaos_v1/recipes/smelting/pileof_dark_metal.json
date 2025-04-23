@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "pileof_dark_metal",
+  "ingredient": [
+    {
+      "item": "born_in_chaos_v1:dark_upgrade"
+    }
+  ],
+  "result": "born_in_chaos_v1:pileof_dark_metal",
+  "experience": 0.1,
+  "cookingtime": 200
+}

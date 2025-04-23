@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:golden_chestplate"
+  },
+  "addition": {
+    "item": "immersive_armors:steampunk_chestplate"
+  },
+  "result": {
+    "item": "immersive_armors:steampunk_chestplate"
+  },
+  "template": {
+    "item": "minecraft:gold_nugget"
+  }
+}

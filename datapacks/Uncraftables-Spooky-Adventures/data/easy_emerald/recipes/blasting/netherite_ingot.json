@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "netherite_ingot",
+  "ingredient": {
+    "item": "easy_emerald:netherite_treeaxe"
+  },
+  "result": "minecraft:netherite_ingot",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

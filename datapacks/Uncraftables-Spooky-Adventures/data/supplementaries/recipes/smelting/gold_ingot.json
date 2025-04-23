@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_ingot",
+  "ingredient": [
+    {
+      "item": "supplementaries:gold_gate"
+    },
+    {
+      "item": "supplementaries:gold_door"
+    },
+    {
+      "item": "supplementaries:gold_trapdoor"
+    }
+  ],
+  "result": "minecraft:gold_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

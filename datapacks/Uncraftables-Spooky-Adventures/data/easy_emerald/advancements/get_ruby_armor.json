@@ -1,0 +1,62 @@
+{
+  "parent": "easy_emerald:get_emerald_armor",
+  "display": {
+    "icon": {
+      "item": "easy_emerald:ruby_chestplate"
+    },
+    "title": {
+      "translate": "advancements.easy_emerald.get_ruby_armor.title",
+      "fallback": "The Red Oligarchy"
+    },
+    "description": {
+      "translate": "advancements.easy_emerald.get_ruby_armor.descr",
+      "fallback": "Put on the Ruby armor"
+    }
+  },
+  "criteria": {
+    "ruby_helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:ruby_helmet"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "ruby_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:ruby_chestplate"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "ruby_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:ruby_leggings"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "ruby_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:ruby_boots"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    ["ruby_helmet", "ruby_chestplate", "ruby_leggings", "ruby_boots"]
+  ],
+  "sends_telemetry_event": true
+}

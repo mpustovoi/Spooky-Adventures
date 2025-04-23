@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_ingot",
+  "ingredient": [
+    {
+      "item": "immersive_aircraft:hull"
+    },
+    {
+      "item": "immersive_aircraft:engine"
+    },
+    {
+      "item": "immersive_aircraft:propeller"
+    },
+    {
+      "item": "immersive_aircraft:gyrodyne"
+    },
+    {
+      "item": "immersive_aircraft:heavy_crossbow"
+    },
+    {
+      "item": "immersive_aircraft:bomb_bay"
+    },
+    {
+      "item": "immersive_aircraft:industrial_gears"
+    },
+    {
+      "item": "immersive_aircraft:gyroscope"
+    },
+    {
+      "item": "immersive_aircraft:improved_landing_gear"
+    }
+  ],
+  "result": "minecraft:iron_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

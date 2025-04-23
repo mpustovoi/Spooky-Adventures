@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_block",
+  "ingredient": [
+    {
+      "item": "immersive_aircraft:steel_boiler"
+    },
+    {
+      "item": "immersive_aircraft:hull_reinforcement"
+    },
+    {
+      "item": "immersive_aircraft:airship"
+    },
+    {
+      "item": "immersive_aircraft:cargo_airship"
+    },
+    {
+      "item": "immersive_aircraft:warship"
+    },
+    {
+      "item": "immersive_aircraft:biplane"
+    },
+    {
+      "item": "immersive_aircraft:quadrocopter"
+    }
+  ],
+  "result": "minecraft:iron_block",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

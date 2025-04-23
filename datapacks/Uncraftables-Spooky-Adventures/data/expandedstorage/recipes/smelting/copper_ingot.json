@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "ingredient": [
+    {
+      "item": "expandedstorage:wood_to_copper_conversion_kit"
+    },
+    {
+      "item": "expandedstorage:copper_barrel"
+    },
+    {
+      "item": "expandedstorage:exposed_copper_barrel"
+    },
+    {
+      "item": "expandedstorage:weathered_copper_barrel"
+    },
+    {
+      "item": "expandedstorage:oxidized_copper_barrel"
+    },
+    {
+      "item": "expandedstorage:waxed_copper_barrel"
+    },
+    {
+      "item": "expandedstorage:waxed_exposed_copper_barrel"
+    },
+    {
+      "item": "expandedstorage:waxed_weathered_copper_barrel"
+    },
+    {
+      "item": "expandedstorage:waxed_oxidized_copper_barrel"
+    }
+  ],
+  "result": "minecraft:copper_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

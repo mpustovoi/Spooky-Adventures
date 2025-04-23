@@ -1,13 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "result": {
-    "item": "tacz:gun_smith_table"
-  },
-  "pattern": [
-    "LNL",
-    "BWB",
-    "I I"
-  ],
+  "pattern": ["LNL", "BWB", "ISI"],
   "key": {
     "L": {
       "tag": "minecraft:logs"
@@ -23,6 +16,12 @@
     },
     "N": {
       "item": "minecraft:netherite_ingot"
+    },
+    "S": {
+      "item": "minecraft:netherite_scrap"
     }
+  },
+  "result": {
+    "item": "tacz:gun_smith_table"
   }
 }

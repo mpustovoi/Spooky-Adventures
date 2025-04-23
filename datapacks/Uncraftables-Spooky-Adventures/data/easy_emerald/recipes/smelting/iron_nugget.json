@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "easy_emerald:iron_excavator"
+    },
+    {
+      "item": "easy_emerald:iron_hammer"
+    },
+    {
+      "item": "easy_emerald:iron_paxel"
+    },
+    {
+      "item": "easy_emerald:emerald_bow"
+    },
+    {
+      "item": "easy_emerald:ruby_bow"
+    },
+    {
+      "item": "easy_emerald:obsidian_bow"
+    },
+    {
+      "item": "easy_emerald:copper_bow"
+    },
+    {
+      "item": "easy_emerald:amethyst_bow"
+    }
+  ],
+  "result": "minecraft:iron_nugget",
+  "experience": 0.1,
+  "cookingtime": 200
+}

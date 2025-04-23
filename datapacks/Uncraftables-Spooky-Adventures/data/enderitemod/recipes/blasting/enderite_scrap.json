@@ -1,0 +1,60 @@
+{
+  "type": "minecraft:blasting",
+  "group": "enderite_scrap",
+  "ingredient": [
+    {
+      "item": "enderitemod:enderite_helmet"
+    },
+    {
+      "item": "enderitemod:enderite_chestplate"
+    },
+    {
+      "item": "enderitemod:enderite_leggings"
+    },
+    {
+      "item": "enderitemod:enderite_boots"
+    },
+    {
+      "item": "enderitemod:enderite_sword"
+    },
+    {
+      "item": "enderitemod:enderite_axe"
+    },
+    {
+      "item": "enderitemod:enderite_pickaxe"
+    },
+    {
+      "item": "enderitemod:enderite_shovel"
+    },
+    {
+      "item": "enderitemod:enderite_hoe"
+    },
+    {
+      "item": "enderitemod:enderite_respawn_anchor"
+    },
+    {
+      "item": "enderitemod:enderite_shulker_box"
+    },
+    {
+      "item": "enderitemod:enderite_crossbow"
+    },
+    {
+      "item": "enderitemod:enderite_bow"
+    },
+    {
+      "item": "enderitemod:enderite_shield"
+    },
+    {
+      "item": "enderitemod:enderite_shears"
+    },
+    {
+      "item": "enderitemod:enderite_elytra"
+    },
+    {
+      "item": "enderitemod:enderite_elytra_seperated"
+    }
+  ],
+  "result": "enderitemod:enderite_scrap",
+  "experience": 0.1,
+  "cookingtime": 400
+}

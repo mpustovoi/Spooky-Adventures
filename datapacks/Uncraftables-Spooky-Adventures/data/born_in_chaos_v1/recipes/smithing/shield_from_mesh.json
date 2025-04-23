@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "born_in_chaos_v1:mesh_door"
+	},
+	"addition": {
+		"item": "minecraft:iron_nugget"
+	},
+	"result": {
+		"item": "minecraft:shield"
+	},
+	"template": {
+		"item": "minecraft:iron_nugget"
+	}
+}

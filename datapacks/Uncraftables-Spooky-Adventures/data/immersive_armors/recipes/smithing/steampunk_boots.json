@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:golden_boots"
+  },
+  "addition": {
+    "item": "immersive_armors:steampunk_boots"
+  },
+  "result": {
+    "item": "immersive_armors:steampunk_boots"
+  },
+  "template": {
+    "item": "minecraft:gold_nugget"
+  }
+}

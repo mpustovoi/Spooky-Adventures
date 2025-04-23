@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_ingot",
+  "ingredient": [
+    {
+      "item": "toughasnails:empty_iron_canteen"
+    },
+    {
+      "item": "toughasnails:iron_dirty_water_canteen"
+    },
+    {
+      "item": "toughasnails:iron_water_canteen"
+    },
+    {
+      "item": "toughasnails:iron_purified_water_canteen"
+    },
+    {
+      "item": "toughasnails:thermoregulator"
+    }
+  ],
+  "result": "minecraft:iron_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

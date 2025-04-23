@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_boots"
+  },
+  "addition": {
+    "item": "minecraft:iron_block"
+  },
+  "result": {
+    "item": "immersive_armors:heavy_boots"
+  },
+  "template": {
+    "item": "minecraft:iron_block"
+  }
+}

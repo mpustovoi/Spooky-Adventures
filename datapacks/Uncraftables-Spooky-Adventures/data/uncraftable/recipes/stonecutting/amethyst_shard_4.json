@@ -1,13 +1,13 @@
 {
-	"type": "minecraft:stonecutting",
-	"ingredient": [
-		{
-			"item": "minecraft:amethyst_block"
-		},
-		{
-			"item": "minecraft:budding_amethyst"
-		}
-	],
-	"result": "minecraft:amethyst_shard",
-	"count": 4
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:amethyst_block"
+    },
+    {
+      "item": "minecraft:budding_amethyst"
+    }
+  ],
+  "result": "minecraft:amethyst_shard",
+  "count": 4
 }

@@ -1,5 +1,6 @@
 {
   "type": "minecraft:smelting",
+  "group": "gold_block",
   "ingredient": {
     "item": "minecraft:raw_gold_block"
   },

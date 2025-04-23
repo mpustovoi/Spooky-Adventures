@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_block",
+  "ingredient": [
+    {
+      "item": "alexscaves:heart_of_iron"
+    },
+    {
+      "item": "alexscaves:resistor_shield"
+    },
+    {
+      "item": "alexscaves:quarry"
+    }
+  ],
+  "result": "minecraft:iron_block",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

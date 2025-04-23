@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:story/iron_tools",
+  "display": {
+    "icon": {
+      "item": "easy_emerald:amethyst_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.easy_emerald.get_amethyst_pickaxe.title",
+      "fallback": "Careful, Fragile"
+    },
+    "description": {
+      "translate": "advancements.easy_emerald.get_amethyst_pickaxe.descr",
+      "fallback": "Obtain a Crystal Pickaxe"
+    }
+  },
+  "criteria": {
+    "amethyst_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:amethyst_pickaxe"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [["amethyst_pickaxe"]],
+  "sends_telemetry_event": true
+}

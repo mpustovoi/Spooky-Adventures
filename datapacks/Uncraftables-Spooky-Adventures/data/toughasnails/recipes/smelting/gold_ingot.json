@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_ingot",
+  "ingredient": [
+    {
+      "item": "toughasnails:empty_gold_canteen"
+    },
+    {
+      "item": "toughasnails:gold_dirty_water_canteen"
+    },
+    {
+      "item": "toughasnails:gold_water_canteen"
+    },
+    {
+      "item": "toughasnails:gold_purified_water_canteen"
+    }
+  ],
+  "result": "minecraft:gold_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

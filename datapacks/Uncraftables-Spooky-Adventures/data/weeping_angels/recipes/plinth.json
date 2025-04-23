@@ -8,8 +8,6 @@
       "item": "minecraft:quartz_pillar"
     }
   ],
-  "result": {
-    "item": "weeping_angels:plinth",
-    "count": 1
-  }
+  "result": "weeping_angels:plinth",
+  "count": 1
 }

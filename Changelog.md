@@ -62,7 +62,7 @@
 
 ### ➕ Добавлено (52 мода):
 
-- [**Distant Shaded Panoramas**](https://modrinth.com/resource pack/karbin-panoramas) (набор ресурсов) — Надземный мир, ночь, дождливая погода.
+- [**Distant Shaded Panoramas**](https://modrinth.com/resourcepack/karbin-panoramas) (набор ресурсов) — Надземный мир, ночь, дождливая погода.
 - [**It's a Big Gun**](https://www.curseforge.com/minecraft/customization/tacz-it-a-big-gun) — Оружейный набор для **[TaCZ]**. (С некоторыми балансными правками)
 - **Alex's Mobs Interaction** (возвращён)
 - **Amendments**
@@ -248,7 +248,7 @@ Decided to postpone this release to accumulate more significant changes.
 
 ### ➕ Added (52 mods):
 
-- [**Distant Shaded Panoramas**](https://modrinth.com/resource pack/karbin-panoramas) (a resource pack) — Overworld, night, rainy weather.
+- [**Distant Shaded Panoramas**](https://modrinth.com/resourcepack/karbin-panoramas) (a resource pack) — Overworld, night, rainy weather.
 - [**It's a Big Gun**](https://www.curseforge.com/minecraft/customization/tacz-it-a-big-gun) — A gun pack for **[TaCZ]**. (With some balance adjustments)
 - **Alex's Mobs Interaction** (readded)
 - **Amendments**

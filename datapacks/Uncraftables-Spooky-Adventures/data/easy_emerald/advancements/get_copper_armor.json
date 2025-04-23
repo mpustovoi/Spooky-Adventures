@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:story/upgrade_tools",
+  "display": {
+    "icon": {
+      "item": "easy_emerald:copper_chestplate"
+    },
+    "title": {
+      "translate": "advancements.easy_emerald.get_copper_armor.title",
+      "fallback": "Intermediate Stage"
+    },
+    "description": {
+      "translate": "advancements.easy_emerald.get_copper_armor.descr",
+      "fallback": "Still less than Iron"
+    }
+  },
+  "criteria": {
+    "copper_helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:copper_helmet"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "copper_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:copper_chestplate"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "copper_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:copper_leggings"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "copper_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["easy_emerald:copper_boots"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    ["copper_helmet", "copper_chestplate", "copper_leggings", "copper_boots"]
+  ],
+  "sends_telemetry_event": true
+}
