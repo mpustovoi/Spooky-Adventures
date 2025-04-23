@@ -3,13 +3,40 @@
     "phrases": [
       "Disconnecting VANILLA connection attempt",
       "Channels ",
-      "Failed to add slimed layer to entity",
-      "Molang is not supported: ",
-      "Reference map "
+      "Molang is not supported",
+      "Reference map ",
+      "Registering config factory",
+      "GL_INVALID_OPERATION",
+      "GL_INVALID_VALUE",
+      "add slimed layer",
+      "Skipping loading recipe",
+      "apply rainbow color layer",
+      "apply radiation glow layer",
+      "ecologics:beetroot_soup_from_coconut_husk",
+      "ecologics:mushroom_stew_from_coconut_husk",
+      "ecologics:rabbit_stew_from_brown_mushroom_and_coconut_husk",
+      "ecologics:rabbit_stew_from_red_mushroom_and_coconut_husk",
+      "loot_tables:mynethersdelight:blocks/blackstone_cooking_pot",
+      "fzzyhmstrs.emi_loot.mixins.SetAttributesLootFunctionAccessor"
     ],
     "regex": [
-      ".*GL_INVALID_(OPERATION|VALUE) error generated.*",
-      ".*Could not apply (rainbow color|radiation glow) layer to.*"
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "Molang is not supported",
+      "Reference map ",
+      "Registering config factory",
+      "GL_INVALID_OPERATION",
+      "GL_INVALID_VALUE",
+      "add slimed layer",
+      "Skipping loading recipe",
+      "apply rainbow color layer",
+      "apply radiation glow layer",
+      "ecologics:beetroot_soup_from_coconut_husk",
+      "ecologics:mushroom_stew_from_coconut_husk",
+      "ecologics:rabbit_stew_from_brown_mushroom_and_coconut_husk",
+      "ecologics:rabbit_stew_from_red_mushroom_and_coconut_husk",
+      "loot_tables:mynethersdelight:blocks/blackstone_cooking_pot",
+      "fzzyhmstrs.emi_loot.mixins.SetAttributesLootFunctionAccessor"
     ]
   }
 }

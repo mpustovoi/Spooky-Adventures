@@ -60,7 +60,7 @@
 - **YOSBY** (заменён)
 - **Zoomify** (заменён)
 
-### ➕ Добавлено (51 мод):
+### ➕ Добавлено (52 мода):
 
 - [**Distant Shaded Panoramas**](https://modrinth.com/resource pack/karbin-panoramas) (набор ресурсов) — Надземный мир, ночь, дождливая погода.
 - [**It's a Big Gun**](https://www.curseforge.com/minecraft/customization/tacz-it-a-big-gun) — Оружейный набор для **[TaCZ]**. (С некоторыми балансными правками)
@@ -81,6 +81,7 @@
 - **Custom LAN** (возвращён)
 - **Delightful Burgers**
 - **Delightful Sandwiches**
+- **Delightful**
 - **Environmental Creepers** — Криперы теперь сбрасывают 90% взорванных блоков и имеют шанс в 0,1% вызвать цепную реакцию, если в радиусе 8 блоков находится другой крипер. Сила взрыва обычных криперов теперь на 16,67% меньше, а заряженных — на 25% больше.
 - **Euphonium** (замена) — Новый мод звуков окружающей среды.
 - **Euphoria Patches** — Теперь шейдеры `ComplementaryUnbound/Reimagined + EuphoriaPatches` будут загружаться из этого мода.¹
@@ -245,7 +246,7 @@ Decided to postpone this release to accumulate more significant changes.
 - **YOSBY** (replaced)
 - **Zoomify** (replaced)
 
-### ➕ Added (51 mods):
+### ➕ Added (52 mods):
 
 - [**Distant Shaded Panoramas**](https://modrinth.com/resource pack/karbin-panoramas) (a resource pack) — Overworld, night, rainy weather.
 - [**It's a Big Gun**](https://www.curseforge.com/minecraft/customization/tacz-it-a-big-gun) — A gun pack for **[TaCZ]**. (With some balance adjustments)
@@ -266,6 +267,7 @@ Decided to postpone this release to accumulate more significant changes.
 - **Custom LAN** (readded)
 - **Delightful Burgers**
 - **Delightful Sandwiches**
+- **Delightful**
 - **Environmental Creepers** — Creepers now drop 90% of exploded blocks and have a 0.1% chance of triggering a chain reaction if there is another creeper within a radius of 8 blocks. The explosion power of common creepers is now 16.67% lower, and charged ones is 25% higher.
 - **Euphonium** (replacement) — A new ambient sounds mod.
 - **Euphoria Patches** — Now the `ComplementaryUnbound/Reimagined + EuphoriaPatches` shaders will be loaded from this mod.¹
