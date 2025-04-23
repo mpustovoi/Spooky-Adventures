@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident",
+    "supplementaries:slingshot",
+    "dungeons_plus:warped_axe",
+    "hunters_return:boomerang"
+  ],
+  "incompatible": ["minecraft:riptide"]
+}

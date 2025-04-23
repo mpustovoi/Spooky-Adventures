@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "hunters_return:boomerang",
+    "$minecraft:trident",
+    "$minecraft:bow"
+  ],
+  "incompatible": []
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "mutantmonsters:endersoul_hand",
+    "farmersdelight:skillet"
+  ],
+  "incompatible": [
+    "supplementaries:lumisene_fire_aspect",
+    "minecraft:fire_aspect"
+  ]
+}

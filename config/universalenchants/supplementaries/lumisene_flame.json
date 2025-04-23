@@ -1,0 +1,5 @@
+{
+  "schemaVersion": 2,
+  "items": ["$minecraft:bow"],
+  "incompatible": ["minecraft:soul_flame", "minecraft:flame"]
+}
