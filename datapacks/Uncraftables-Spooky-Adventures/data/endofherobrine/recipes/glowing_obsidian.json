@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["RSR", "ROR", "ROR"],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:silverfish_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "endofherobrine:glowing_obsidian"
+  }
+}

@@ -1,10 +1,21 @@
 {
   "values": [
-    "minecraft:packed_ice",
     "minecraft:blue_ice",
+    "minecraft:echo_shard",
+    "minecraft:end_crystal",
+    "minecraft:packed_ice",
     "minecraft:powder_snow_bucket",
+    "minecraft:recovery_compass",
+    "minecraft:slime_ball",
+    "minecraft:slime_block",
+    "minecraft:slime_spawn_egg",
+    "minecraft:warden_spawn_egg",
     {
       "id": "terrainslabs:packed_ice_slab",
+      "required": false
+    },
+    {
+      "id": "echochest:echo_chest",
       "required": false
     },
     {
@@ -69,6 +80,66 @@
     },
     {
       "id": "cavebiomesdelight:icicle_knife",
+      "required": false
+    },
+    {
+      "id": "delightful:warden_knife",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_carapace",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_upgrade_smithing_template",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_sword",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_axe",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_pickaxe",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_shovel",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_hoe",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:reinforced_echo_shard",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:sculk_centipede_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:stalker_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:dormant_heart_of_the_horde",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_sweeper_sword",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:dev_node_spawner",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:warden",
       "required": false
     },
     {
@@ -137,6 +208,30 @@
     },
     {
       "id": "enderitemod:enderite_upgrade_smithing_template",
+      "required": false
+    },
+    {
+      "id": "structure_gel:red_gel",
+      "required": false
+    },
+    {
+      "id": "structure_gel:blue_gel",
+      "required": false
+    },
+    {
+      "id": "structure_gel:green_gel",
+      "required": false
+    },
+    {
+      "id": "structure_gel:cyan_gel",
+      "required": false
+    },
+    {
+      "id": "structure_gel:orange_gel",
+      "required": false
+    },
+    {
+      "id": "structure_gel:yellow_gel",
       "required": false
     }
   ]

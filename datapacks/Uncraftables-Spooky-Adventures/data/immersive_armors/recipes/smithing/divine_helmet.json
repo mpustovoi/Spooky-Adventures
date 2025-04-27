@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "immersive_armors:robe_helmet"
+  },
+  "addition": {
+    "item": "minecraft:light_weighted_pressure_plate"
+  },
+  "result": {
+    "item": "immersive_armors:divine_helmet"
+  },
+  "template": {
+    "item": "minecraft:emerald"
+  }
+}

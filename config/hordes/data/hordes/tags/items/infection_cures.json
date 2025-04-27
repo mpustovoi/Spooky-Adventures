@@ -4,6 +4,26 @@
     "minecraft:enchanted_golden_apple",
     "minecraft:golden_apple",
     {
+      "id": "delightful:matcha",
+      "required": false
+    },
+    {
+      "id": "delightful:matcha_latte",
+      "required": false
+    },
+    {
+      "id": "delightful:berry_matcha_latte",
+      "required": false
+    },
+    {
+      "id": "delightful:matcha_gummy",
+      "required": false
+    },
+    {
+      "id": "delightful:field_salad",
+      "required": false
+    },
+    {
       "id": "brewinandchewin:egg_grog",
       "required": false
     },

@@ -24,7 +24,7 @@
                 {"item": "minecraft:black_glazed_terracotta"}
             ],
         "O": {
-            "tag": "universal_dyeing:dyes/blue_dye"
+            "tag": "vanilla_tweaks:dyes/blue_dye"
         }
     },
     "result": {

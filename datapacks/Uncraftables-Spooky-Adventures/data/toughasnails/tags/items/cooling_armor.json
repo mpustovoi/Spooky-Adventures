@@ -1,9 +1,9 @@
 {
   "values": [
-    "toughasnails:leaf_helmet",
-    "toughasnails:leaf_chestplate",
-    "toughasnails:leaf_leggings",
     "toughasnails:leaf_boots",
+    "toughasnails:leaf_chestplate",
+    "toughasnails:leaf_helmet",
+    "toughasnails:leaf_leggings",
     {
       "id": "create:netherite_diving_helmet",
       "required": false
@@ -30,6 +30,22 @@
     },
     {
       "id": "farlanders:nightfall_boots",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_helmet",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_chestplate",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_leggings",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:warden_boots",
       "required": false
     },
     {
@@ -86,6 +102,22 @@
     },
     {
       "id": "mutantmonsters:mutant_skeleton_boots",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:bone_helmet",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:bone_chestplate",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:bone_leggings",
+      "required": false
+    },
+    {
+      "id": "immersive_armors:bone_boots",
       "required": false
     },
     {

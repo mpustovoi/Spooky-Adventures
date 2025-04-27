@@ -1,26 +1,37 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"EYE",
-		"ETE",
-		"PEP"
-	],
-	"key": {
-		"E": {
-			"item": "minecraft:ender_pearl"
-		},
-		"Y": {
-			"item": "minecraft:ender_eye"
-		},
-		"T": {
-			"item": "minecraft:totem_of_undying"
-		},
-		"P": {
-			"item": "minecraft:potion"
-		}
-	},
-	"result": {
-		"item": "friendsandfoes:totem_of_illusion",
-		"count": 1
-	}
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["illagerinvasion"]
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "illagerinvasion"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "illagerinvasion"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["EYE", "YTY", "YYY"],
+  "key": {
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "Y": {
+      "item": "illagerinvasion:illusionary_dust"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:totem_of_illusion",
+    "count": 1
+  }
 }

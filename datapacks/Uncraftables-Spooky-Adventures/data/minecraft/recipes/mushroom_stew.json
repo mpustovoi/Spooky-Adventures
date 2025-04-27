@@ -1,5 +1,6 @@
 {
   "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
   "container": {
     "item": "minecraft:bowl"
   },
@@ -13,8 +14,8 @@
       "item": "minecraft:red_mushroom"
     }
   ],
-  "recipe_book_tab": "meals",
   "result": {
     "item": "minecraft:mushroom_stew"
   }
+
 }

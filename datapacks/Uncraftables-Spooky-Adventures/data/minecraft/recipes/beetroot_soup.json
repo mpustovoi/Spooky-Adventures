@@ -1,5 +1,6 @@
 {
   "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
   "container": {
     "item": "minecraft:bowl"
   },
@@ -16,8 +17,8 @@
       "item": "minecraft:beetroot"
     }
   ],
-  "recipe_book_tab": "meals",
   "result": {
     "item": "minecraft:beetroot_soup"
   }
+
 }

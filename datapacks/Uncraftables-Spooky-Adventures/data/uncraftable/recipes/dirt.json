@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SC", "WG"],
+  "key": {
+    "C": {
+      "item": "minecraft:clay"
+    },
+    "S": {
+      "item": "minecraft:sand"
+    },
+    "G": {
+      "item": "minecraft:gravel"
+    },
+    "W": {
+      "tag": "minecraft:logs_that_burn"
+    }
+  },
+  "result": {
+    "item": "minecraft:dirt",
+    "count": 8
+  }
+}

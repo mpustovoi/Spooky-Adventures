@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["FAA", "BWT", "SWW"],
+  "key": {
+    "W": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "minecraft:bow"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "T": {
+      "item": "minecraft:target"
+    }
+  },
+  "result": {
+    "item": "minecraft:fletching_table"
+  },
+  "show_notification": true
+}

@@ -3,10 +3,16 @@
   "group": "gold_ingot",
   "ingredient": [
     {
+      "item": "minecraft:bell"
+    },
+    {
       "item": "minecraft:gilded_blackstone"
     },
     {
       "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "minecraft:light_weighted_pressure_plate"
     }
   ],
   "result": "minecraft:gold_ingot",

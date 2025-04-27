@@ -2,7 +2,7 @@
   "parent": "minecraft:story/obtain_armor",
   "display": {
     "icon": {
-      "item": "easy_emerald:amethyst_chestplate"
+      "item": "easy_emerald:amethyst_body"
     },
     "title": {
       "translate": "advancements.easy_emerald.get_amethyst_armor.title",
@@ -14,21 +14,21 @@
     }
   },
   "criteria": {
-    "amethyst_helmet": {
+    "amethyst_head": {
       "conditions": {
         "items": [
           {
-            "items": ["easy_emerald:amethyst_helmet"]
+            "items": ["easy_emerald:amethyst_head"]
           }
         ]
       },
       "trigger": "minecraft:inventory_changed"
     },
-    "amethyst_chestplate": {
+    "amethyst_body": {
       "conditions": {
         "items": [
           {
-            "items": ["easy_emerald:amethyst_chestplate"]
+            "items": ["easy_emerald:amethyst_body"]
           }
         ]
       },
@@ -57,8 +57,8 @@
   },
   "requirements": [
     [
-      "amethyst_helmet",
-      "amethyst_chestplate",
+      "amethyst_head",
+      "amethyst_body",
       "amethyst_leggings",
       "amethyst_boots"
     ]

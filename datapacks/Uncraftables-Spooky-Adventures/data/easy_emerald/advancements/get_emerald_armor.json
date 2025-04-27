@@ -2,7 +2,7 @@
   "parent": "minecraft:story/obtain_armor",
   "display": {
     "icon": {
-      "item": "easy_emerald:emerald_chestplate"
+      "item": "easy_emerald:emerald_body"
     },
     "title": {
       "translate": "advancements.easy_emerald.get_emerald_armor.title",
@@ -14,21 +14,21 @@
     }
   },
   "criteria": {
-    "emerald_helmet": {
+    "emerald_head": {
       "conditions": {
         "items": [
           {
-            "items": ["easy_emerald:emerald_helmet"]
+            "items": ["easy_emerald:emerald_head"]
           }
         ]
       },
       "trigger": "minecraft:inventory_changed"
     },
-    "emerald_chestplate": {
+    "emerald_body": {
       "conditions": {
         "items": [
           {
-            "items": ["easy_emerald:emerald_chestplate"]
+            "items": ["easy_emerald:emerald_body"]
           }
         ]
       },
@@ -57,8 +57,8 @@
   },
   "requirements": [
     [
-      "emerald_helmet",
-      "emerald_chestplate",
+      "emerald_head",
+      "emerald_body",
       "emerald_leggings",
       "emerald_boots"
     ]

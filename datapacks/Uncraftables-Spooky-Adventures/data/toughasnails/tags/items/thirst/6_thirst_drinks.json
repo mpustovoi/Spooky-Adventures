@@ -4,6 +4,14 @@
     "toughasnails:pumpkin_juice",
     "toughasnails:sweet_berry_juice",
     {
+      "id": "delightful:cactus_soup",
+      "required": false
+    },
+    {
+      "id": "delightful:sinigang",
+      "required": false
+    },
+    {
       "id": "farmersdelight:hot_cocoa",
       "required": false
     },

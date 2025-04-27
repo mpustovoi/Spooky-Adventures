@@ -8,6 +8,14 @@
     "toughasnails:diamond_purified_water_canteen",
     "toughasnails:netherite_purified_water_canteen",
     {
+      "id": "delightful:cactus_soup",
+      "required": false
+    },
+    {
+      "id": "delightful:sinigang",
+      "required": false
+    },
+    {
       "id": "ends_delight:chorus_flower_tea",
       "required": false
     },

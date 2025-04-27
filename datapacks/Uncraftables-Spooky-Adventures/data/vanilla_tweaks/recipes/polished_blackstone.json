@@ -10,7 +10,7 @@
             "item": "minecraft:polished_basalt"
         },
         "$": {
-            "tag": "craftable_blackstone:coal_charcoal"
+            "tag": "vanilla_tweaks:coal_charcoal"
         }
     },
     "result": {

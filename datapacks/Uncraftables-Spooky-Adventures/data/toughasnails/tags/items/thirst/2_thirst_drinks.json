@@ -86,6 +86,18 @@
       "required": false
     },
     {
+      "id": "delightful:cactus_chunk",
+      "required": false
+    },
+    {
+      "id": "delightful:ender_nectar",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe_slice",
+      "required": false
+    },
+    {
       "id": "collectorsreap:lime_ice_cream",
       "required": false
     },

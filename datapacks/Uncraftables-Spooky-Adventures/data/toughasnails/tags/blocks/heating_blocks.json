@@ -1,14 +1,32 @@
 {
   "values": [
-    "minecraft:fire",
+    "minecraft:ancient_debris",
+    "minecraft:bedrock",
     "minecraft:campfire",
-    "minecraft:lantern",
-    "minecraft:jack_o_lantern",
-    "minecraft:lava",
+    "minecraft:chain_command_block",
+    "minecraft:command_block",
+    "minecraft:fire",
     "minecraft:glowstone",
-    "minecraft:shroomlight",
-    "minecraft:magma_block",
+    "minecraft:jack_o_lantern",
+    "minecraft:lantern",
     "minecraft:lava_cauldron",
+    "minecraft:lava",
+    "minecraft:magma_block",
+    "minecraft:netherite_block",
+    "minecraft:repeating_command_block",
+    "minecraft:shroomlight",
+    {
+      "id": "supplementaries:netherite_door",
+      "required": false
+    },
+    {
+      "id": "supplementaries:netherite_trapdoor",
+      "required": false
+    },
+    {
+      "id": "supplementaries:safe",
+      "required": false
+    },
     {
       "id": "piglinproliferation:stone_fire_ring",
       "required": false
@@ -166,11 +184,39 @@
       "required": false
     },
     {
+      "id": "netherchested:nether_chest",
+      "required": false
+    },
+    {
+      "id": "expandedstorage:netherite_chest",
+      "required": false
+    },
+    {
+      "id": "expandedstorage:old_netherite_chest",
+      "required": false
+    },
+    {
+      "id": "expandedstorage:netherite_barrel",
+      "required": false
+    },
+    {
+      "id": "expandedstorage:netherite_mini_chest",
+      "required": false
+    },
+    {
+      "id": "expandedstorage:netherite_mini_barrel",
+      "required": false
+    },
+    {
       "id": "travelersbackpack:magma_cube",
       "required": false
     },
     {
       "id": "travelersbackpack:nether",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:netherite",
       "required": false
     },
     {

@@ -1,6 +1,7 @@
 {
   "values": [
     "minecraft:sea_lantern",
+    "minecraft:slime_block",
     "minecraft:soul_fire",
     "minecraft:soul_campfire",
     "minecraft:soul_lantern",
@@ -94,6 +95,22 @@
     },
     {
       "id": "travelersbackpack:dragon",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:warden",
+      "required": false
+    },
+    {
+      "id": "silentsdelight:plated_warden_heart",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:ancient_sculk_node",
+      "required": false
+    },
+    {
+      "id": "sculkhorde:sculk_node",
       "required": false
     },
     {

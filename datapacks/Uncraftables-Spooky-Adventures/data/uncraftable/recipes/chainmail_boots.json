@@ -1,20 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "X X",
-    "# #"
-  ],
-  
+  "pattern": ["C C", "I I"],
   "key": {
-    "X": {
+    "C": {
       "item": "minecraft:chain"
     },
-    "#": {
+    "I": {
       "item": "minecraft:iron_nugget"
-    }    
+    }
   },
-  
-  
   "result": {
     "item": "minecraft:chainmail_boots"
   }

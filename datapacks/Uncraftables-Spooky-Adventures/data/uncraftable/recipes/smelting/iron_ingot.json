@@ -3,10 +3,52 @@
   "group": "iron_ingot",
   "ingredient": [
     {
+      "item": "minecraft:blast_furnace"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "minecraft:cauldron"
+    },
+    {
+      "item": "minecraft:chain"
+    },
+    {
       "item": "minecraft:compass"
     },
     {
+      "item": "minecraft:crossbow"
+    },
+    {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "item": "minecraft:hopper"
+    },
+    {
+      "item": "minecraft:iron_door"
+    },
+    {
+      "item": "minecraft:iron_trapdoor"
+    },
+    {
+      "item": "minecraft:minecart"
+    },
+    {
+      "item": "minecraft:piston"
+    },
+    {
       "item": "minecraft:recovery_compass"
+    },
+    {
+      "item": "minecraft:shears"
+    },
+    {
+      "item": "minecraft:smithing_table"
+    },
+    {
+      "item": "minecraft:sticky_piston"
     }
   ],
   "result": "minecraft:iron_ingot",

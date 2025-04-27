@@ -55,6 +55,42 @@
       "required": false
     },
     {
+      "id": "delightful:salmonberries",
+      "required": false
+    },
+    {
+      "id": "delightful:matcha_milkshake",
+      "required": false
+    },
+    {
+      "id": "delightful:salmonberry_milkshake",
+      "required": false
+    },
+    {
+      "id": "delightful:salmonberry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "delightful:pumpkin_pie_slice",
+      "required": false
+    },
+    {
+      "id": "delightful:ender_nectar",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe_slice",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe_bread",
+      "required": false
+    },
+    {
+      "id": "delightful:wrapped_cantaloupe",
+      "required": false
+    },
+    {
       "id": "collectorsreap:pomegranate_cake_slice",
       "required": false
     },

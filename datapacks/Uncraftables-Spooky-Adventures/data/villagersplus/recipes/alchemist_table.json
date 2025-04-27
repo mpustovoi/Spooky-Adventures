@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "minecraft:polished_deepslate_slab"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "W": {
+      "tag": "minecraft:wooden_fences"
+    }
+  },
+  "pattern": [
+    "GTI",
+    "GWI",
+    "DDD"
+  ],
+  "result": {
+    "item": "villagersplus:alchemist_table"
+  }
+}

@@ -1,13 +1,13 @@
 {
   "values": [
-    "toughasnails:ice_cream",
+    "minecraft:blue_ice",
     "minecraft:ice",
     "minecraft:packed_ice",
-    "minecraft:blue_ice",
-    "minecraft:snowball",
-    "minecraft:snow",
-    "minecraft:snow_block",
     "minecraft:powder_snow_bucket",
+    "minecraft:snow_block",
+    "minecraft:snow",
+    "minecraft:snowball",
+    "toughasnails:ice_cream",
     {
       "id": "terrainslabs:packed_ice_slab",
       "required": false

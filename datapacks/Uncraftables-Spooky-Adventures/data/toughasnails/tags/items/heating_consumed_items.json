@@ -144,6 +144,10 @@
     {
       "id": "alexscavesdelight:hot_chocolate_bottle",
       "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:elixirof_wither_resistance",
+      "required": false
     }
   ]
 }

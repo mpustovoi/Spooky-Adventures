@@ -1,17 +1,17 @@
 {
   "values": [
-    "toughasnails:charc_os",
-    "minecraft:magma_block",
-    "minecraft:magma_cream",
     "minecraft:blaze_powder",
     "minecraft:blaze_rod",
-    "minecraft:fire_charge",
-    "minecraft:coal",
+    "minecraft:blaze_spawn_egg",
     "minecraft:charcoal",
     "minecraft:coal_block",
+    "minecraft:coal",
+    "minecraft:fire_charge",
     "minecraft:lava_bucket",
+    "minecraft:magma_block",
+    "minecraft:magma_cream",
     "minecraft:magma_cube_spawn_egg",
-    "minecraft:blaze_spawn_egg",
+    "toughasnails:charc_os",
     {
       "id": "alexsmobs:lava_bootle",
       "required": false

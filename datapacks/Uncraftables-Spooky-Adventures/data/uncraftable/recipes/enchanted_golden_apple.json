@@ -1,15 +1,24 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["GBG", "BAB", "GBG"],
+  "pattern": ["LGS", "GAG", "EGP"],
   "key": {
     "A": {
       "item": "minecraft:apple"
     },
     "G": {
-      "item": "minecraft:gold_ingot"
-    },
-    "B": {
       "item": "minecraft:gold_block"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "S": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "P": {
+      "item": "minecraft:prismarine_crystals"
     }
   },
   "result": {

@@ -3,6 +3,10 @@
     "toughasnails:cactus_juice",
     "toughasnails:melon_juice",
     {
+      "id": "delightful:stuffed_cantaloupe",
+      "required": false
+    },
+    {
       "id": "farmersdelight:chicken_soup",
       "required": false
     },

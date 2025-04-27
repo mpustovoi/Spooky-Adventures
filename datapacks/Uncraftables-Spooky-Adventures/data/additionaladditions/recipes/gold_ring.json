@@ -1,20 +1,16 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"GGG",
-		"GPG",
-		"GGG"
-	],
-	"key": {
-		"G": {
-			"item": "minecraft:gold_ingot"
-		},
-		"P": {
-			"item": "minecraft:piglin_banner_pattern"
-		}
-	},
-	"result": {
-		"item": "additionaladditions:gold_ring",
-		"count": 4
-	}
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GGG", "GPG", "GGG"],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "P": {
+      "item": "minecraft:piglin_banner_pattern"
+    }
+  },
+  "result": {
+    "item": "additionaladditions:gold_ring",
+    "count": 2
+  }
 }

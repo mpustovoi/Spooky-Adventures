@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###", "###", "###"],
+  "key": {
+    "#": {
+      "tag": "vanilla_tweaks:dead_fire_coral"
+    }
+  },
+  "result": {
+    "item": "minecraft:dead_fire_coral_block",
+    "count": 1
+  },
+  "group": "coral_blocks"
+}

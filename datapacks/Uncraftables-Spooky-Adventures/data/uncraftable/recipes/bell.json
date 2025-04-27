@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SWS",
+    "SGS",
+    "SNS"],
+  "key": {
+    "S": {
+      "item": "minecraft:stone_slab"
+    },
+    "W": {
+      "tag": "minecraft:logs"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "N": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:bell"
+  },
+  "show_notification": true
+}

@@ -1,11 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "BNB",
-    "BDB",
-    "BNB"
-  ],
-  
+  "pattern": ["BDB", "BOB", "BDB"],
   "key": {
     "B": {
       "item": "minecraft:bone_block"
@@ -13,11 +8,10 @@
     "D": {
       "item": "minecraft:deepslate"
     },
-		"N": {
-      "item": "minecraft:netherite_ingot"
+    "O": {
+      "item": "minecraft:obsidian"
     }
   },
-  
   "result": {
     "item": "minecraft:reinforced_deepslate"
   }

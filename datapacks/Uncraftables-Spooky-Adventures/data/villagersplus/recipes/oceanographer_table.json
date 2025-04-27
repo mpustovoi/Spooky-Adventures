@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "W": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "S": {
+      "tag": "minecraft:sand"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "G G",
+    "WSW"
+  ],
+  "result": {
+    "item": "villagersplus:oceanographer_table"
+  }
+}

@@ -3,10 +3,13 @@
   "group": "gold_nugget",
   "ingredient": [
     {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    {
       "item": "minecraft:golden_carrot"
     },
     {
-      "item": "minecraft:glistering_melon_slice"
+      "item": "minecraft:powered_rail"
     }
   ],
   "result": "minecraft:gold_nugget",

@@ -1,5 +1,25 @@
 [
   {
+    "item": "delightful:matcha",
+    "duration": 10
+  },
+  {
+    "item": "delightful:field_salad",
+    "duration": 10
+  },
+  {
+    "item": "delightful:matcha_latte",
+    "duration": 40
+  },
+  {
+    "item": "delightful:berry_matcha_latte",
+    "duration": 40
+  },
+  {
+    "item": "delightful:matcha_gummy",
+    "duration": 40
+  },
+  {
     "item": "ends_delight:assorted_salad",
     "duration": 20
   },

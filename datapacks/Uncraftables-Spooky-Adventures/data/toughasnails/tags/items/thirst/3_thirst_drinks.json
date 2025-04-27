@@ -9,6 +9,22 @@
     "toughasnails:netherite_water_canteen",
     "minecraft:beetroot_soup",
     {
+      "id": "delightful:cactus_soup_cup",
+      "required": false
+    },
+    {
+      "id": "delightful:matcha_latte",
+      "required": false
+    },
+    {
+      "id": "delightful:nut_butter_bottle",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe_popsicle",
+      "required": false
+    },
+    {
       "id": "collectorsreap:lime_popsicle",
       "required": false
     },

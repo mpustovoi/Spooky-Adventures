@@ -2,7 +2,7 @@
   "parent": "easy_emerald:get_emerald_armor",
   "display": {
     "icon": {
-      "item": "easy_emerald:ruby_chestplate"
+      "item": "easy_emerald:ruby_body"
     },
     "title": {
       "translate": "advancements.easy_emerald.get_ruby_armor.title",
@@ -14,21 +14,21 @@
     }
   },
   "criteria": {
-    "ruby_helmet": {
+    "ruby_head": {
       "conditions": {
         "items": [
           {
-            "items": ["easy_emerald:ruby_helmet"]
+            "items": ["easy_emerald:ruby_head"]
           }
         ]
       },
       "trigger": "minecraft:inventory_changed"
     },
-    "ruby_chestplate": {
+    "ruby_body": {
       "conditions": {
         "items": [
           {
-            "items": ["easy_emerald:ruby_chestplate"]
+            "items": ["easy_emerald:ruby_body"]
           }
         ]
       },
@@ -56,7 +56,7 @@
     }
   },
   "requirements": [
-    ["ruby_helmet", "ruby_chestplate", "ruby_leggings", "ruby_boots"]
+    ["ruby_head", "ruby_body", "ruby_leggings", "ruby_boots"]
   ],
   "sends_telemetry_event": true
 }

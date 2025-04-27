@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "immersive_armors:bone_chestplate"
+  },
+  "addition": {
+    "item": "minecraft:nether_bricks"
+  },
+  "result": {
+    "item": "immersive_armors:wither_chestplate"
+  },
+  "template": {
+    "item": "minecraft:nether_bricks"
+  }
+}

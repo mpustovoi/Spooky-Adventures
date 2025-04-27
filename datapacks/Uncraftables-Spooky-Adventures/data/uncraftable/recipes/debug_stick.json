@@ -1,13 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "X",
-    "#",
-    "S"
-  ],
-  
+  "pattern": ["  C", " W ", "S  "],
   "key": {
-    "X": [
+    "C": [
       {
         "item": "minecraft:command_block"
       },
@@ -18,16 +13,15 @@
         "item": "minecraft:repeating_command_block"
       }
     ],
-    "#": {
-      "tag": "minecraft:logs"
+    "W": {
+      "item": "minecraft:stick"
     },
-		"S": {
+    "S": {
       "item": "minecraft:structure_block"
     }
   },
-  
   "result": {
     "item": "minecraft:debug_stick",
-		"count": 1
+    "count": 1
   }
 }

@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["EAE", "TAT", "TGT"],
+  "key": {
+    "A": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "minecraft:totem_of_undying",
+    "count": 1
+  }
+}

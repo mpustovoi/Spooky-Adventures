@@ -1,10 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#I#",
-    "IOI",
-    "#B#"
-  ],
+  "pattern": ["#I#", "IOI", "#B#"],
   "key": {
     "#": {
       "item": "minecraft:redstone_block"
@@ -17,7 +13,7 @@
     },
     "B": {
       "item": "minecraft:bedrock"
-    }  
+    }
   },
   "result": {
     "item": "minecraft:command_block"

@@ -14,6 +14,14 @@
       "required": false
     },
     {
+      "id": "delightful:salmonberry_pie",
+      "required": false
+    },
+    {
+      "id": "delightful:berry_matcha_latte",
+      "required": false
+    },
+    {
       "id": "collectorsreap:portobello_quiche",
       "required": false
     },
@@ -47,6 +55,18 @@
     },
     {
       "id": "mynethersdelight:rock_soup",
+      "required": false
+    },
+    {
+      "id": "alexscaves:vanilla_ice_cream",
+      "required": false
+    },
+    {
+      "id": "alexscaves:chocolate_ice_cream",
+      "required": false
+    },
+    {
+      "id": "alexscaves:sweetberry_ice_cream",
       "required": false
     },
     {

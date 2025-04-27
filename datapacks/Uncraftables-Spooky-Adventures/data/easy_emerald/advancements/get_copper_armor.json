@@ -2,7 +2,7 @@
   "parent": "minecraft:story/upgrade_tools",
   "display": {
     "icon": {
-      "item": "easy_emerald:copper_chestplate"
+      "item": "easy_emerald:copper_body"
     },
     "title": {
       "translate": "advancements.easy_emerald.get_copper_armor.title",
@@ -14,21 +14,21 @@
     }
   },
   "criteria": {
-    "copper_helmet": {
+    "copper_head": {
       "conditions": {
         "items": [
           {
-            "items": ["easy_emerald:copper_helmet"]
+            "items": ["easy_emerald:copper_head"]
           }
         ]
       },
       "trigger": "minecraft:inventory_changed"
     },
-    "copper_chestplate": {
+    "copper_body": {
       "conditions": {
         "items": [
           {
-            "items": ["easy_emerald:copper_chestplate"]
+            "items": ["easy_emerald:copper_body"]
           }
         ]
       },
@@ -56,7 +56,7 @@
     }
   },
   "requirements": [
-    ["copper_helmet", "copper_chestplate", "copper_leggings", "copper_boots"]
+    ["copper_head", "copper_body", "copper_leggings", "copper_boots"]
   ],
   "sends_telemetry_event": true
 }

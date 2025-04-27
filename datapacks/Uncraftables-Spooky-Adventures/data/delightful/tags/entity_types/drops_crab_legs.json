@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "ecologics:coconut_crab",
+      "required": false
+    },
+    {
+      "id": "friendsandfoes:crab",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:thornshell_crab",
+      "required": false
+    }
+  ]
+}

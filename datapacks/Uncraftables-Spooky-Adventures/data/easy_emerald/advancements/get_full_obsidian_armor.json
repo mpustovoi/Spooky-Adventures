@@ -2,7 +2,7 @@
   "parent": "minecraft:story/form_obsidian",
   "display": {
     "icon": {
-      "item": "easy_emerald:obsidian_chestplate"
+      "item": "easy_emerald:obsidian_body"
     },
     "title": {
       "translate": "advancements.easy_emerald.get_full_obsidian_armor.title",
@@ -20,10 +20,10 @@
       "conditions": {
         "items": [
           {
-            "items": ["easy_emerald:obsidian_helmet"]
+            "items": ["easy_emerald:obsidian_head"]
           },
           {
-            "items": ["easy_emerald:obsidian_chestplate"]
+            "items": ["easy_emerald:obsidian_body"]
           },
           {
             "items": ["easy_emerald:obsidian_leggings"]

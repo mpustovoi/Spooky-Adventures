@@ -14,6 +14,38 @@
       "required": false
     },
     {
+      "id": "sculkhorde:warden_beef",
+      "required": false
+    },
+    {
+      "id": "silentsdelight:sculk_sensor_sprinkles",
+      "required": false
+    },
+    {
+      "id": "silentsdelight:warden_ear",
+      "required": false
+    },
+    {
+      "id": "silentsdelight:cut_warden_ear",
+      "required": false
+    },
+    {
+      "id": "silentsdelight:warden_ear_on_a_stick",
+      "required": false
+    },
+    {
+      "id": "silentsdelight:warden_heart",
+      "required": false
+    },
+    {
+      "id": "silentsdelight:minced_warden_heart",
+      "required": false
+    },
+    {
+      "id": "silentsdelight:plate_of_warden_heart",
+      "required": false
+    },
+    {
       "id": "cavebiomesdelight:icicle",
       "required": false
     },

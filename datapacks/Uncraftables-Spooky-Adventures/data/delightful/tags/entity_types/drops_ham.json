@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "naturalist:boar",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:tusklin",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:spider_pig",
+      "required": false
+    },
+    {
+      "id": "endofherobrine:pig",
+      "required": false
+    }
+  ]
+}

@@ -1,5 +1,25 @@
 {
   "values": [
+    "minecraft:netherite_boots",
+    "minecraft:netherite_chestplate",
+    "minecraft:netherite_helmet",
+    "minecraft:netherite_leggings",
+    {
+      "id": "additionaladditions:gilded_netherite_helmet",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:gilded_netherite_chestplate",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:gilded_netherite_leggings",
+      "required": false
+    },
+    {
+      "id": "additionaladditions:gilded_netherite_boots",
+      "required": false
+    },
     "toughasnails:wool_helmet",
     "toughasnails:wool_chestplate",
     "toughasnails:wool_leggings",

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:barrier"
+  },
+  "result": "minecraft:structure_void",
+  "count": 8
+}

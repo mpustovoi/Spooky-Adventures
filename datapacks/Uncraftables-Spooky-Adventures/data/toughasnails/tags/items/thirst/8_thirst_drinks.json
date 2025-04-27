@@ -2,6 +2,10 @@
     "values": [
       "toughasnails:apple_juice",
       {
+        "id": "delightful:stuffed_cantaloupe",
+        "required": false
+      },
+      {
         "id": "farmersdelight:melon_juice",
         "required": false
       },

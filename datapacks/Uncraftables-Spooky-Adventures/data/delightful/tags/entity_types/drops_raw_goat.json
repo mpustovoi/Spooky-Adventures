@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:goat",
+    {
+      "id": "goat_man:goat_man",
+      "required": false
+    },
+    {
+      "id": "goated:geep",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "category": "misc",
+  "pattern": ["LPP", "SPP", "LPP"],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:book",
+    "count": 1
+  }
+}
+
+
+
+

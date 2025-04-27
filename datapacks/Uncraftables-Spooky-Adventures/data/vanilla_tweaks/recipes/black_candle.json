@@ -24,7 +24,7 @@
                 {"item": "minecraft:red_candle"}
             ],
         "O": {
-            "tag": "universal_dyeing:dyes/black_dye"
+            "tag": "vanilla_tweaks:dyes/black_dye"
         }
     },
     "result": {

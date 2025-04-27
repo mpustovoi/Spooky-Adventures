@@ -1,25 +1,21 @@
 {
-	"type": "crafting_shaped",
-	"pattern": [
-		"WTP",
-		"TET",
-		"PTW"
-	],
-	"key": {
-		"E": {
-			"item": "minecraft:guardian_spawn_egg"
-		},
-		"W": {
-			"item": "minecraft:wet_sponge"
-		},
-		"P": {
-			"item": "minecraft:prismarine_shard"
-		},
-		"T": {
-			"item": "bettertridents:trident_fragment"
-		}
-	},
-	"result": {
-		"item": "minecraft:elder_guardian_spawn_egg"
-	}
+  "type": "crafting_shaped",
+  "pattern": ["WTP", "TET", "PTW"],
+  "key": {
+    "E": {
+      "item": "minecraft:guardian_spawn_egg"
+    },
+    "W": {
+      "item": "minecraft:wet_sponge"
+    },
+    "P": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "T": {
+      "item": "bettertridents:trident_fragment"
+    }
+  },
+  "result": {
+    "item": "minecraft:elder_guardian_spawn_egg"
+  }
 }
