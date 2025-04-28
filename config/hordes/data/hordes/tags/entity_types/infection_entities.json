@@ -11,6 +11,10 @@
     "minecraft:zombie",
     "minecraft:zombified_piglin",
     {
+      "id": "alexscaves:brainiac",
+      "required": false
+    },
+    {
       "id": "born_in_chaos_v1:barrel_zombie",
       "required": false
     },
@@ -43,6 +47,10 @@
       "required": false
     },
     {
+      "id": "born_in_chaos_v1:pumpkin_bruiser",
+      "required": false
+    },
+    {
       "id": "born_in_chaos_v1:swarmer",
       "required": false
     },
@@ -64,6 +72,14 @@
     },
     {
       "id": "born_in_chaos_v1:zombie_lumberjack",
+      "required": false
+    },
+    {
+      "id": "cave_dweller:cave_dweller",
+      "required": false
+    },
+    {
+      "id": "dweller_dweller:dweller_dweller",
       "required": false
     },
     {
@@ -115,7 +131,27 @@
       "required": false
     },
     {
+      "id": "man:managgresive",
+      "required": false
+    },
+    {
+      "id": "man:manfromthefog",
+      "required": false
+    },
+    {
+      "id": "man:manfromthefogback",
+      "required": false
+    },
+    {
+      "id": "man:mftfhang",
+      "required": false
+    },
+    {
       "id": "mutantmonsters:mutant_zombie",
+      "required": false
+    },
+    {
+      "id": "pale_hound:pale_hound",
       "required": false
     },
     {

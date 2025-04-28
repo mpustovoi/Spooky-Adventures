@@ -1,10 +1,8 @@
 {
   "values": [
     "minecraft:ancient_debris",
-    "minecraft:bedrock",
     "minecraft:campfire",
-    "minecraft:chain_command_block",
-    "minecraft:command_block",
+    "minecraft:end_rod",
     "minecraft:fire",
     "minecraft:glowstone",
     "minecraft:jack_o_lantern",
@@ -12,19 +10,16 @@
     "minecraft:lava_cauldron",
     "minecraft:lava",
     "minecraft:magma_block",
-    "minecraft:netherite_block",
-    "minecraft:repeating_command_block",
+    "minecraft:potted_torchflower",
     "minecraft:shroomlight",
+    "minecraft:torchflower_crop",
+    "minecraft:torchflower",
     {
-      "id": "supplementaries:netherite_door",
+      "id": "suppsquared:copper_lantern",
       "required": false
     },
     {
-      "id": "supplementaries:netherite_trapdoor",
-      "required": false
-    },
-    {
-      "id": "supplementaries:safe",
+      "id": "suppsquared:crimson_lantern",
       "required": false
     },
     {
@@ -116,6 +111,10 @@
       "required": false
     },
     {
+      "id": "mynethersdelight:powdery_torch",
+      "required": false
+    },
+    {
       "id": "mynethersdelight:nether_stove",
       "required": false
     },
@@ -188,26 +187,6 @@
       "required": false
     },
     {
-      "id": "expandedstorage:netherite_chest",
-      "required": false
-    },
-    {
-      "id": "expandedstorage:old_netherite_chest",
-      "required": false
-    },
-    {
-      "id": "expandedstorage:netherite_barrel",
-      "required": false
-    },
-    {
-      "id": "expandedstorage:netherite_mini_chest",
-      "required": false
-    },
-    {
-      "id": "expandedstorage:netherite_mini_barrel",
-      "required": false
-    },
-    {
       "id": "travelersbackpack:magma_cube",
       "required": false
     },
@@ -216,15 +195,7 @@
       "required": false
     },
     {
-      "id": "travelersbackpack:netherite",
-      "required": false
-    },
-    {
       "id": "travelersbackpack:blaze",
-      "required": false
-    },
-    {
-      "id": "travelersbackpack:wither",
       "required": false
     },
     {

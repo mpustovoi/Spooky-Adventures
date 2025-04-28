@@ -1,14 +1,15 @@
 {
   "values": [
-    "minecraft:sea_lantern",
-    "minecraft:slime_block",
-    "minecraft:soul_fire",
-    "minecraft:soul_campfire",
-    "minecraft:soul_lantern",
+    "minecraft:blue_ice",
     "minecraft:ice",
     "minecraft:packed_ice",
-    "minecraft:blue_ice",
     "minecraft:powder_snow_cauldron",
+    "minecraft:powder_snow",
+    "minecraft:sea_lantern",
+    "minecraft:slime_block",
+    "minecraft:soul_campfire",
+    "minecraft:soul_fire",
+    "minecraft:soul_lantern",
     {
       "id": "terrainslabs:packed_ice_slab",
       "required": false
@@ -106,7 +107,7 @@
       "required": false
     },
     {
-      "id": "sculkhorde:ancient_sculk_node",
+      "id": "sculkhorde:sculk_ancient_node",
       "required": false
     },
     {

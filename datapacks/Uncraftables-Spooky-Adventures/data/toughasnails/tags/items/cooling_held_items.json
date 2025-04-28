@@ -3,11 +3,7 @@
     "minecraft:blue_ice",
     "minecraft:echo_shard",
     "minecraft:end_crystal",
-    "minecraft:packed_ice",
-    "minecraft:powder_snow_bucket",
     "minecraft:recovery_compass",
-    "minecraft:slime_ball",
-    "minecraft:slime_block",
     "minecraft:slime_spawn_egg",
     "minecraft:warden_spawn_egg",
     {
@@ -168,26 +164,6 @@
     },
     {
       "id": "enderitemod:enderite_sword",
-      "required": false
-    },
-    {
-      "id": "enderitemod:enderite_block",
-      "required": false
-    },
-    {
-      "id": "enderitemod:enderite_ore",
-      "required": false
-    },
-    {
-      "id": "enderitemod:cracked_enderite_ore",
-      "required": false
-    },
-    {
-      "id": "enderitemod:enderite_respawn_anchor",
-      "required": false
-    },
-    {
-      "id": "enderitemod:enderite_shulker_box",
       "required": false
     },
     {

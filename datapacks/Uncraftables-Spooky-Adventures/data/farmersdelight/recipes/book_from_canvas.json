@@ -4,7 +4,7 @@
   "pattern": ["LPP", "SPP", "LPP"],
   "key": {
     "L": {
-      "item": "minecraft:leather"
+      "item": "farmersdelight:canvas"
     },
     "P": {
       "item": "minecraft:paper"
