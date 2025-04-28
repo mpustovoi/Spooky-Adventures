@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "collectorsreap:lime_cake"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "collectorsreap:cutting/lime_cake"
+    ]
+  },
+  "requirements": [
+    [
+      "unlock"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "collectorsreap:portobello_colony"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "collectorsreap:cutting/portobello_colony"
+    ]
+  },
+  "requirements": [
+    [
+      "unlock"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

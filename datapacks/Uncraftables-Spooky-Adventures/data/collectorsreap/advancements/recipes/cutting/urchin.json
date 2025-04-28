@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "collectorsreap:urchin"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "collectorsreap:cutting/urchin"
+    ]
+  },
+  "requirements": [
+    [
+      "unlock"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
