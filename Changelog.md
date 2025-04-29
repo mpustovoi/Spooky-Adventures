@@ -1,13 +1,15 @@
 <details>
 <summary>RU</summary>
 
-## 1.11: Обновление «Знойный Мороз» и дальнейшие перестановки
+## 2.0: Обновление «Знойный Мороз» и дальнейшие перестановки
+
+Самое большое обновление модпака по списку изменений.
 
 Прошу прощения за поспешный предыдущий релиз 1.11, сломанный из-за невнимательности моей и автора мода **Tax Free Levels**.
 
-Принял решение отложить этот релиз, чтобы накопить побольше весомых изменений.
+Принял решение отложить его, чтобы накопить побольше весомых изменений.
 
-### ➖ Удалено (50 модов):
+### ➖ Удалено:
 
 - **[ESF] Entity Sound Features** — Не нужен/слишком незначителен. (Далее отсутствие пояснения будет означать это же)
 - **Acedium**
@@ -60,7 +62,7 @@
 - **YOSBY** (заменён)
 - **Zoomify** (заменён)
 
-### ➕ Добавлено (52 мода):
+### ➕ Добавлено:
 
 - [**Distant Shaded Panoramas**](https://modrinth.com/resourcepack/karbin-panoramas) (набор ресурсов) — Надземный мир, ночь, дождливая погода.
 - [**It's a Big Gun**](https://www.curseforge.com/minecraft/customization/tacz-it-a-big-gun) — Оружейный набор для **[TaCZ]**. (С некоторыми балансными правками)
@@ -187,13 +189,15 @@
 
 </details>
 
-## 1.11: The 'Sultry Frost' update and further rearrangements
+## 2.0: The 'Sultry Frost' update and further rearrangements
+
+The biggest modpack update in terms of the changelog.
 
 I apologize for the hasty previous release 1.11, which was broken due to the inattention of mine and **Tax Free Levels** mod's author.
 
-Decided to postpone this release to accumulate more significant changes.
+Decided to postpone this one to accumulate more significant changes.
 
-### ➖ Removed (50 mods):
+### ➖ Removed:
 
 - **[ESF] Entity Sound Features** — Unnecessary/too insignificant. (Further, the absence of a explanation will mean the same thing)
 - **Acedium**
@@ -246,7 +250,7 @@ Decided to postpone this release to accumulate more significant changes.
 - **YOSBY** (replaced)
 - **Zoomify** (replaced)
 
-### ➕ Added (52 mods):
+### ➕ Added:
 
 - [**Distant Shaded Panoramas**](https://modrinth.com/resourcepack/karbin-panoramas) (a resource pack) — Overworld, night, rainy weather.
 - [**It's a Big Gun**](https://www.curseforge.com/minecraft/customization/tacz-it-a-big-gun) — A gun pack for **[TaCZ]**. (With some balance adjustments)
