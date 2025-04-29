@@ -5,6 +5,8 @@
 
 Самое большое обновление модпака по списку изменений.
 
+ℹ Эта версия была протестирована на успешность подключения клиента к хосту.
+
 Прошу прощения за поспешный предыдущий релиз 1.11, сломанный из-за невнимательности моей и автора мода **Tax Free Levels**.
 
 Принял решение отложить его, чтобы накопить побольше весомых изменений.
@@ -181,6 +183,7 @@
   - Пока что, я не вижу способов как-то организованно локализовать это, кроме как вручную, чего я делать не хочу из-за невероятно огромного количества таких тегов.
   - Эта проблема не исчезла при добавлении локализации всех имеющихся на данный момент common-тегов (`#c:...`), потому что многие моды используют теги `#forge:...`, либо свои локальные теги.
 - Стартовый набор не выдаётся автоматически новым игрокам, присоединяющимся к локальному миру.
+  - Используйте `/starterkit give <игрок> default`, пока автор мода не решит эту проблему.
 - Мод **Fog** не будет возвращён, так как поддержка 1.20.1 прекращена, поэтому у него уже не появится поддержка **Distant Horizons**.
 
 ### 📋 Долгосрочные планы
@@ -192,6 +195,8 @@
 ## 2.0: The 'Sultry Frost' update and further rearrangements
 
 The biggest modpack update in terms of the changelog.
+
+ℹ This version has been tested for successful connection of the client to the host.
 
 I apologize for the hasty previous release 1.11, which was broken due to the inattention of mine and **Tax Free Levels** mod's author.
 
@@ -369,6 +374,7 @@ Decided to postpone this one to accumulate more significant changes.
   - For now, I don't see any way to localize this in an organized way, except manually, which I don't want to do because of the incredibly huge number of such tags.
   - This problem didn't disappear when localization of all currently available common tags (`#c:...`) was added, because many mods use `#forge:...` tags or their own local tags.
 - The starter kit isn't automatically given to new players joining the LAN world.
+  - Use `/starterkit give <player> default` until the mod author resolves this issue.
 - The **Fog** mod won't be readded, as support for 1.20.1 has been discontinued, so it will no longer have support for **Distant Horizons**.
 
 ### 📋 Long-term plans

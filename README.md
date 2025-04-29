@@ -9,6 +9,7 @@
 - 📉 В сетевой игре производительность может значительно снижаться, особенно если игроки находятся в разных измерениях или происходят несколько игровых событий одновременно.
 - ⏳ При создании нового мира TPS сильно проседает в первые минуты — происходит инициализация большого количества данных. Рекомендую подождать, пока загрузится стартовая область.
 - 🛡 Стартовый набор в новом мире **может забыть** про броню из-за лагов. Решение: кликните по любому слоту брони или инвентаря для обновления.
+  - При игре по локальной сети для выдачи стартового набора другим игрокам хосту следует вручную использовать `/starterkit give <игрок> default`. Это проблема мода, которую автор уже давно игнорирует.
 
 ## 📃 Что внутри:
 
@@ -52,9 +53,7 @@
 
 - 🌟 [**Sparkles**](https://modrinth.com/resourcepack/sparkles) — для **Incendium**
 - 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — ещё один набор с туманом, не обращайте внимания
-- ⏹ [Пользовательский набор ресурсов](https://github.com/mpustovoi/Translations-For-Mods) с правками локализации и иконками мобов (основанными на [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros)), включающий:
-  - [**Unique Spawn Eggs**](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs)
-  - [**Unique Spawn Eggs Add-on**](https://modrinth.com/resourcepack/unique-spawn-eggs-add-on)
+- ⏹ [Пользовательский набор ресурсов](https://github.com/mpustovoi/Translations-For-Mods) с правками локализации и иконками мобов.
 
 ### 🔗 Дополнительные упоминания:
 
@@ -72,6 +71,7 @@
 - 📉 Multiplayer performance can decrease significantly, especially when players are in different dimensions or a lot is happening at once.
 - ⏳ TPS will drop for the first few minutes after world creation due to data initialization. Let the spawn area fully load before playing.
 - 🛡 Starter kit may **not equip properly** due to lag. Just click the armor or any inventory slot to fix it.
+  - When playing via LAN, the host should manually use `/starterkit give <player> default` to give the starter kit to other players. This is an issue of the mod that the author has been ignoring for a long time.
 
 ## 📃 What's inside:
 
@@ -115,9 +115,7 @@
 
 - 🌟 [**Sparkles**](https://modrinth.com/resourcepack/sparkles) — for **Incendium**
 - 🌫 [**From The Fog**](https://modrinth.com/datapack/from-the-fog) — again fog pack, just ignore it
-- ⏹ [Custom resource pack](https://github.com/mpustovoi/Translations-For-Mods) with localization tweaks and mob icons (based on [**Icon Xaero's**](https://modrinth.com/resourcepack/icon-xaeros)), that includes:
-  - [**Unique Spawn Eggs**](https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs)
-  - [**Unique Spawn Eggs Add-on**](https://modrinth.com/resourcepack/unique-spawn-eggs-add-on)
+- ⏹ [Custom resource pack](https://github.com/mpustovoi/Translations-For-Mods) with localization tweaks and mob icons.
 
 ### 🔗 Extra credits:
 
