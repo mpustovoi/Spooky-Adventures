@@ -14,7 +14,7 @@
 	#Number of ticks to delay taking damage when icy or hot.
 	extremity_damage_delay = 600
 	#Number of ticks for the duration of Climate Clemency.
-	climate_clemency_duration = 18000
+	climate_clemency_duration = 36000
 	#Whether or not Climate Clemency should be granted when respawning.
 	climate_clemency_respawning = false
 	#Number of ticks to delay changing the player's temperature after their temperature changes from consuming a heating or cooling item.

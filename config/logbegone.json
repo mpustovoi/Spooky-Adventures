@@ -18,21 +18,6 @@
       "Ignored advancement",
       "Looking up donators"
     ],
-    "regex": [
-      ".*Disconnecting VANILLA connection attempt.*",
-      ".*Channels.*",
-      ".*Molang is not supported.*",
-      ".*Reference map.*",
-      ".*Registering config factory.*",
-      ".*GL_INVALID.*",
-      ".*add slimed layer.*",
-      ".*Skipping loading recipe.*",
-      ".*apply (rainbow|radiation) color layer.*",
-      ".*SetAttributesLootFunctionAccessor.*",
-      ".*Invalid statistic.*",
-      ".*Tried to load unrecognized recipe.*",
-      ".*Ignored advancement.*",
-      ".*Looking up donators.*"
-    ]
+    "regex": []
   }
 }
