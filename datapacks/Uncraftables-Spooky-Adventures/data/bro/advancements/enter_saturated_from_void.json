@@ -10,7 +10,7 @@
     },
     "description": {
       "translate": "advancements.bro.enter_saturated_from_void.descr",
-      "fallback": "Visit an Another Place"
+      "fallback": "Visit an another Place"
     },
     "frame": "goal",
     "show_toast": true,

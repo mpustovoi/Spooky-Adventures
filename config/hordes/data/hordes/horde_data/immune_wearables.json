@@ -108,6 +108,18 @@
     "multiplier": 0.9
   },
   {
+    "item": "endermanoverhaul:badlands_hood",
+    "multiplier": 0.93
+  },
+  {
+    "item": "endermanoverhaul:savanna_hood",
+    "multiplier": 0.93
+  },
+  {
+    "item": "endermanoverhaul:snowy_hood",
+    "multiplier": 0.93
+  },
+  {
     "item": "minecraft:golden_horse_armor",
     "multiplier": 0.9
   },
@@ -330,6 +342,22 @@
   {
     "item": "alexscaves:cloak_of_darkness",
     "multiplier": 0.85
+  },
+  {
+    "item": "deeperdarker:resonarium_boots",
+    "multiplier": 0.75
+  },
+  {
+    "item": "deeperdarker:resonarium_leggings",
+    "multiplier": 0.75
+  },
+  {
+    "item": "deeperdarker:resonarium_chestplate",
+    "multiplier": 0.75
+  },
+  {
+    "item": "deeperdarker:resonarium_helmet",
+    "multiplier": 0.75
   },
   {
     "item": "deeperdarker:warden_boots",

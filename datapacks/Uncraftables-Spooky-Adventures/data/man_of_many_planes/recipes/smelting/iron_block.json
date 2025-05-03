@@ -3,16 +3,10 @@
   "group": "iron_block",
   "ingredient": [
     {
-      "item": "minecraft:anvil"
+      "item": "man_of_many_planes:scarlet_biplane"
     },
     {
-      "item": "minecraft:chipped_anvil"
-    },
-    {
-      "item": "minecraft:damaged_anvil"
-    },
-    {
-      "item": "minecraft:iron_golem_spawn_egg"
+      "item": "immersive_aircraft:economy_plane"
     }
   ],
   "result": "minecraft:iron_block",

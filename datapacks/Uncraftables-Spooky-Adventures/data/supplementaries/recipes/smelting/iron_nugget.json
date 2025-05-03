@@ -3,6 +3,9 @@
   "group": "iron_nugget",
   "ingredient": [
     {
+      "item": "supplementaries:iron_gate"
+    },
+    {
       "item": "supplementaries:bubble_blower"
     }
   ],

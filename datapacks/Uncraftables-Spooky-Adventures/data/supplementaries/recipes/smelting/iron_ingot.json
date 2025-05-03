@@ -3,9 +3,6 @@
   "group": "iron_ingot",
   "ingredient": [
     {
-      "item": "supplementaries:iron_gate"
-    },
-    {
       "item": "supplementaries:faucet"
     },
     {

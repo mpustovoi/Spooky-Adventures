@@ -6,7 +6,7 @@
     },
     "title": {
       "translate": "advancements.bro.find_liminal.title",
-      "fallback": "§eLiminal spaces"
+      "fallback": "§eLiminal Spaces"
     },
     "description": {
       "translate": "advancements.bro.find_liminal.descr",

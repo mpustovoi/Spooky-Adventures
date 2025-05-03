@@ -6,7 +6,8 @@
     },
     "title": {
       "translate": "advancements.weeping_angels.kill_angel.title",
-      "fallback": "§7Abnormality Eliminated"
+      "fallback": "Abnormality Eliminated",
+      "color": "gray"
     },
     "description": {
       "translate": "advancements.weeping_angels.kill_angel.descr",

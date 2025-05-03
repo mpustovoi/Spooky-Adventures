@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["VV", "VV"],
+  "key": {
+    "V": {
+      "item": "minecraft:sculk_vein"
+    }
+  },
+  "result": {
+    "item": "minecraft:sculk"
+  }
+}

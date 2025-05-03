@@ -6,7 +6,16 @@
       "item": "minecraft:activator_rail"
     },
     {
+      "item": "minecraft:bucket"
+    },
+    {
       "item": "minecraft:compass"
+    },
+    {
+      "item": "minecraft:chain"
+    },
+    {
+      "item": "minecraft:crossbow"
     },
     {
       "item": "minecraft:detector_rail"
@@ -21,16 +30,25 @@
       "item": "minecraft:lantern"
     },
     {
+      "item": "minecraft:piston"
+    },
+    {
       "item": "minecraft:rail"
     },
     {
       "item": "minecraft:recovery_compass"
     },
     {
+      "item": "minecraft:shears"
+    },
+    {
       "item": "minecraft:shield"
     },
     {
       "item": "minecraft:soul_lantern"
+    },
+    {
+      "item": "minecraft:sticky_piston"
     },
     {
       "item": "minecraft:stonecutter"

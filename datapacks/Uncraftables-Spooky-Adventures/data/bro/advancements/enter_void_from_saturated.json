@@ -6,11 +6,11 @@
     },
     "title": {
       "translate": "advancements.bro.enter_void_from_saturated.title",
-      "fallback": "§0Here We Go Again"
+      "fallback": "§0Here We Are Again"
     },
     "description": {
       "translate": "advancements.bro.enter_void_from_saturated.descr",
-      "fallback": "Come Back Where You Came From"
+      "fallback": "Come back where you came from"
     },
     "frame": "goal",
     "show_toast": true,

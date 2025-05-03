@@ -6,7 +6,8 @@
     },
     "title": {
       "translate": "advancements.human_reborn.kill_steve.title",
-      "fallback": "§bSorry, Legend"
+      "fallback": "I Am Steve",
+      "color": "aqua"
     },
     "description": {
       "translate": "advancements.human_reborn.kill_steve.descr",

@@ -6,7 +6,7 @@
     },
     "title": {
       "translate": "advancements.bro.enter_void_first_time.title",
-      "fallback": "§0Noclip out of reality"
+      "fallback": "§0Noclip Out of Reality"
     },
     "description": {
       "translate": "advancements.bro.enter_void_first_time.descr",
