@@ -1,29 +1,26 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"PPP",
-		"BTB",
-		"ITG"
-	],
-	"key": {
-		"B": {
-			"item": "minecraft:bundle"
-		},
-		"P": {
-			"item": "minecraft:iron_pickaxe"
-		},
-		"I": {
-			"item": "minecraft:iron_ore"
-		},
-		"G": {
-			"item": "minecraft:gold_ore"
-		},
-		"T": {
-			"item": "minecraft:ghast_tear"
-		}
-	},
-	"result": {
-		"item": "friendsandfoes:rascal_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PPP", "BTB", "ITG"],
+  "key": {
+    "B": {
+      "item": "minecraft:bundle"
+    },
+    "P": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "I": {
+      "item": "minecraft:iron_ore"
+    },
+    "G": {
+      "item": "minecraft:gold_ore"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:rascal_spawn_egg",
+    "count": 1
+  }
 }

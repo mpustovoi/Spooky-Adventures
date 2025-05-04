@@ -1,29 +1,26 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"FCF",
-		"SES",
-		"FRF"
-	],
-	"key": {
-		"C": {
-			"item": "friendsandfoes:wildfire_crown"
-		},
-		"F": {
-			"item": "friendsandfoes:wildfire_crown_fragment"
-		},
-		"S": {
-			"item": "minecraft:shield"
-		},
-		"R": {
-			"item": "minecraft:blaze_rod"
-		},
-		"E": {
-			"item": "minecraft:blaze_spawn_egg"
-		}
-	},
-	"result": {
-		"item": "friendsandfoes:wildfire_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["FCF", "SES", "FRF"],
+  "key": {
+    "C": {
+      "item": "friendsandfoes:wildfire_crown"
+    },
+    "F": {
+      "item": "friendsandfoes:wildfire_crown_fragment"
+    },
+    "S": {
+      "item": "minecraft:shield"
+    },
+    "R": {
+      "item": "minecraft:blaze_rod"
+    },
+    "E": {
+      "item": "minecraft:blaze_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:wildfire_spawn_egg",
+    "count": 1
+  }
 }

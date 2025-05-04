@@ -1,22 +1,19 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        " G ",
-        "ESE",
-        " E "
-    ],
-    "key": {
-        "S": {
-            "item": "minecraft:silverfish_spawn_egg"
-        },
-        "E": {
-            "item": "minecraft:ender_pearl"
-        },
-        "G": {
-            "item": "minecraft:ghast_tear"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": [" G ", "ESE", " E "],
+  "key": {
+    "S": {
+      "item": "minecraft:silverfish_spawn_egg"
     },
-    "result": {
-		"item": "minecraft:endermite_spawn_egg"
-	}
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "minecraft:endermite_spawn_egg"
+  }
 }

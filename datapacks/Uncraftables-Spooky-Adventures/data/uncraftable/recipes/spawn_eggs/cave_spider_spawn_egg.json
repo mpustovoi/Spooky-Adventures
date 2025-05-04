@@ -1,25 +1,22 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "GTG",
-        "EAE",
-        "GTG"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:spider_spawn_egg"
-        },
-        "G": {
-            "item": "minecraft:cobweb"
-        },
-        "E": {
-            "item": "minecraft:spider_eye"
-        },
-        "T": {
-            "item": "minecraft:ghast_tear"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["GTG", "EAE", "GTG"],
+  "key": {
+    "A": {
+      "item": "minecraft:spider_spawn_egg"
     },
-    "result": {
-		"item": "minecraft:cave_spider_spawn_egg"
-	}
+    "G": {
+      "item": "minecraft:cobweb"
+    },
+    "E": {
+      "item": "minecraft:spider_eye"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "minecraft:cave_spider_spawn_egg"
+  }
 }

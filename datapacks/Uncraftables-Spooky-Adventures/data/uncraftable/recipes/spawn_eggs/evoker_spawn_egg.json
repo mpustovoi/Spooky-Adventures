@@ -1,25 +1,22 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "VTV",
-        "TAT",
-        "TET"
-    ],
-    "key": {
-      "A": {
-        "item": "minecraft:pillager_spawn_egg"
-      },
-			"V": {
-        "item": "minecraft:vex_spawn_egg"
-      },
-      "E": {
-        "item": "minecraft:emerald"
-      },
-			"T": {
-				"item": "minecraft:totem_of_undying"
-			}
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["VTV", "TAT", "TET"],
+  "key": {
+    "A": {
+      "item": "minecraft:pillager_spawn_egg"
     },
-    "result": {
-		"item": "minecraft:evoker_spawn_egg"
-	}
+    "V": {
+      "item": "minecraft:vex_spawn_egg"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "result": {
+    "item": "minecraft:evoker_spawn_egg"
+  }
 }

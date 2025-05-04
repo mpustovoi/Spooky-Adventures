@@ -1,29 +1,26 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"ECE",
-		"STS",
-		"BSB"
-	],
-	"key": {
-		"T": {
-			"item": "minecraft:ghast_tear"
-		},
-		"C": {
-			"item": "deeperdarker:soul_crystal"
-		},
-		"B": {
-			"item": "deeperdarker:sculk_bone"
-		},
-		"S": {
-			"item": "minecraft:sculk"
-		},
-		"E": {
-			"item": "minecraft:echo_shard"
-		}
-	},
-	"result": {
-		"item": "deeperdarker:stalker_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ECE", "STS", "BSB"],
+  "key": {
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "C": {
+      "item": "deeperdarker:soul_crystal"
+    },
+    "B": {
+      "item": "deeperdarker:sculk_bone"
+    },
+    "S": {
+      "item": "minecraft:sculk"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "result": {
+    "item": "deeperdarker:stalker_spawn_egg",
+    "count": 1
+  }
 }

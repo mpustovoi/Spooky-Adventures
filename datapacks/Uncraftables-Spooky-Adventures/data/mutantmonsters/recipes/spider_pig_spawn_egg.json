@@ -1,20 +1,17 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"SPS",
-		"PPP",
-		"SSS"
-	],
-	"key": {
-		"S": {
-			"item": "minecraft:spider_spawn_egg"
-		},
-		"P": {
-			"item": "minecraft:pig_spawn_egg"
-		}
-	},
-	"result": {
-		"item": "mutantmonsters:spider_pig_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SPS", "PPP", "SSS"],
+  "key": {
+    "S": {
+      "item": "minecraft:spider_spawn_egg"
+    },
+    "P": {
+      "item": "minecraft:pig_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "mutantmonsters:spider_pig_spawn_egg",
+    "count": 1
+  }
 }

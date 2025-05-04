@@ -1,25 +1,22 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "ERE",
-				"CAC",
-				"ERE"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:ghast_tear"
-        },
-        "C": {
-            "item": "minecraft:crossbow"
-        },
-        "E": {
-            "item": "minecraft:emerald"
-        },
-        "R": {
-            "item": "minecraft:arrow"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["ERE", "CAC", "ERE"],
+  "key": {
+    "A": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-		"item": "minecraft:pillager_spawn_egg"
-	}
+    "C": {
+      "item": "minecraft:crossbow"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "R": {
+      "item": "minecraft:arrow"
+    }
+  },
+  "result": {
+    "item": "minecraft:pillager_spawn_egg"
+  }
 }

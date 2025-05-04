@@ -1,10 +1,7 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-	  "EEE",
-	  "BGB",
-	  "EEE"
-  ],
+  "pattern": ["EEE", "BGB", "EEE"],
   "key": {
     "G": {
       "item": "minecraft:ghast_tear"

@@ -1,20 +1,16 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "GGG",
-        "GAG",
-        "GGG"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:horse_spawn_egg"
-        },
-        "G": {
-            "item": "minecraft:bone"
-        }
-
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["GGG", "GAG", "GGG"],
+  "key": {
+    "A": {
+      "item": "minecraft:horse_spawn_egg"
     },
-    "result": {
-        "item": "minecraft:skeleton_horse_spawn_egg"
+    "G": {
+      "item": "minecraft:bone"
     }
+  },
+  "result": {
+    "item": "minecraft:skeleton_horse_spawn_egg"
+  }
 }

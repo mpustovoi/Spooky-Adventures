@@ -1,0 +1,9 @@
+{
+  "group": "spawn_egg",
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "farlanders:mystic_enderminion_spawn_egg"
+  },
+  "result": "farlanders:enderminion_spawn_egg",
+  "count": 1
+}

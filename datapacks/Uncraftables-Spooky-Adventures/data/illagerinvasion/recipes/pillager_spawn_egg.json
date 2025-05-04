@@ -1,25 +1,22 @@
 {
-	"type": "crafting_shaped",
-	"pattern": [
-		"PEP",
-		"CTC",
-		"PEP"
-	],
-	"key": {
-		"T": {
-			"item": "minecraft:ghast_tear"
-		},
-		"C": {
-			"item": "minecraft:crossbow"
-		},
-		"E": {
-			"item": "minecraft:emerald"
-		},
-		"P": {
-			"item": "illagerinvasion:platinum_chunk"
-		}
-	},
-	"result": {
-		"item": "minecraft:pillager_spawn_egg"
-	}
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["PEP", "CTC", "PEP"],
+  "key": {
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "C": {
+      "item": "minecraft:crossbow"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "P": {
+      "item": "illagerinvasion:platinum_chunk"
+    }
+  },
+  "result": {
+    "item": "minecraft:pillager_spawn_egg"
+  }
 }

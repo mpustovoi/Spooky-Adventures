@@ -17,6 +17,7 @@
       "modid": "illagerinvasion"
     }
   ],
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
   "pattern": ["PBP", "TGT", "EPE"],
   "key": {

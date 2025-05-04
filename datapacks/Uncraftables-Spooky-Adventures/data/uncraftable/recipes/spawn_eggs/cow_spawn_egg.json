@@ -1,22 +1,19 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "GBG",
-        "BAB",
-        "GBG"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:ghast_tear"
-        },
-        "B": {
-            "item": "minecraft:beef"
-        },
-		"G": {
-			"item": "minecraft:leather"
-		}
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["GBG", "BAB", "GBG"],
+  "key": {
+    "A": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-		"item": "minecraft:cow_spawn_egg"
-	}
+    "B": {
+      "item": "minecraft:beef"
+    },
+    "G": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:cow_spawn_egg"
+  }
 }

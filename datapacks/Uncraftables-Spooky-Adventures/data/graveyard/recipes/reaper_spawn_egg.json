@@ -1,26 +1,23 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"CSC",
-		"BEB",
-		" C "
-	],
-	"key": {
-		"C": {
-			"item": "graveyard:corruption"
-		},
-		"B": {
-			"item": "minecraft:bone"
-		},
-		"S": {
-			"item": "minecraft:soul_sand"
-		},
-		"E": {
-			"item": "minecraft:ghast_tear"
-		}
-	},
-	"result": {
-		"item": "graveyard:reaper_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CSC", "BEB", " C "],
+  "key": {
+    "C": {
+      "item": "graveyard:corruption"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "E": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "graveyard:reaper_spawn_egg",
+    "count": 1
+  }
 }

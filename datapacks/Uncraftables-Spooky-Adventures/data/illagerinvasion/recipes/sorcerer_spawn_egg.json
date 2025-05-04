@@ -1,29 +1,26 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"EBE",
-		"DGD",
-		"FFF"
-	],
-	"key": {
-		"G": {
-			"item": "minecraft:ghast_tear"
-		},
-		"B": {
-			"item": "minecraft:book"
-		},
-		"D": {
-			"item": "illagerinvasion:unusual_dust"
-		},
-		"E": {
-			"item": "minecraft:emerald"
-		},
-		"F": {
-			"item": "illagerinvasion:magical_fire_charge"
-		}
-	},
-	"result": {
-		"item": "illagerinvasion:sorcerer_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["EBE", "DGD", "FFF"],
+  "key": {
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "B": {
+      "item": "minecraft:book"
+    },
+    "D": {
+      "item": "illagerinvasion:unusual_dust"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "F": {
+      "item": "illagerinvasion:magical_fire_charge"
+    }
+  },
+  "result": {
+    "item": "illagerinvasion:sorcerer_spawn_egg",
+    "count": 1
+  }
 }

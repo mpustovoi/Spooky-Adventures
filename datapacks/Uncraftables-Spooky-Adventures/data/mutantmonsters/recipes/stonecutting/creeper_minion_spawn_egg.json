@@ -1,8 +1,9 @@
 {
-	"type": "minecraft:stonecutting",
-	"ingredient": {
-		"item": "minecraft:creeper_spawn_egg"
-	},
-	"result": "mutantmonsters:creeper_minion_spawn_egg",
-	"count": 4
+  "group": "spawn_egg",
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:creeper_spawn_egg"
+  },
+  "result": "mutantmonsters:creeper_minion_spawn_egg",
+  "count": 4
 }

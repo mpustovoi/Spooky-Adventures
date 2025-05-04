@@ -1,20 +1,21 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "farlanders:enderminion_spawn_egg"
-		},
-		[
-			{
-				"item": "farlanders:mystic_wand_fire_small"
-			},
-			{
-				"item": "farlanders:mystic_wand_fire_large"
-			}
-		]
-	],
-	"result": {
-		"item": "farlanders:mystic_enderminion_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farlanders:enderminion_spawn_egg"
+    },
+    [
+      {
+        "item": "farlanders:mystic_wand_fire_small"
+      },
+      {
+        "item": "farlanders:mystic_wand_fire_large"
+      }
+    ]
+  ],
+  "result": {
+    "item": "farlanders:mystic_enderminion_spawn_egg",
+    "count": 1
+  }
 }

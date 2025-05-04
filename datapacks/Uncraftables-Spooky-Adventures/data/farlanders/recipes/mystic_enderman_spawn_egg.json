@@ -1,31 +1,32 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"ingredients": [
-		[
-			{
-				"item": "minecraft:enderman_spawn_egg"
-			},
-			{
-				"item": "farlanders:classic_enderman_spawn_egg"
-			}
-		],
-		[
-			{
-				"item": "farlanders:mystic_wand_ore"
-			},
-			{
-				"item": "farlanders:mystic_wand_teleport"
-			},
-			{
-				"item": "farlanders:mystic_wand_regen"
-			},
-			{
-				"item": "farlanders:mystic_wand_invisible"
-			}
-		]
-	],
-	"result": {
-		"item": "farlanders:mystic_enderman_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:enderman_spawn_egg"
+      },
+      {
+        "item": "farlanders:classic_enderman_spawn_egg"
+      }
+    ],
+    [
+      {
+        "item": "farlanders:mystic_wand_ore"
+      },
+      {
+        "item": "farlanders:mystic_wand_teleport"
+      },
+      {
+        "item": "farlanders:mystic_wand_regen"
+      },
+      {
+        "item": "farlanders:mystic_wand_invisible"
+      }
+    ]
+  ],
+  "result": {
+    "item": "farlanders:mystic_enderman_spawn_egg",
+    "count": 1
+  }
 }

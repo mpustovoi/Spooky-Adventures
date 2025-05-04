@@ -6,10 +6,7 @@
       "item": "deeperdarker:bloom_planks"
     }
   },
-  "pattern": [
-    "###",
-    "###"
-  ],
+  "pattern": ["###", "###"],
   "result": {
     "count": 12,
     "item": "deeperdarker:bloom_trapdoor"

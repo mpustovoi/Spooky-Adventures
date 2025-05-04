@@ -1,23 +1,20 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"FDF",
-		"DTD",
-		"FDF"
-	],
-	"key": {
-		"T": {
-			"item": "minecraft:ghast_tear"
-		},
-		"F": {
-			"item": "minecraft:feather"
-		},
-		"D": {
-			"item": "promenade:duck"
-		}
-	},
-	"result": {
-		"item": "promenade:duck_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["FDF", "DTD", "FDF"],
+  "key": {
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "D": {
+      "item": "promenade:duck"
+    }
+  },
+  "result": {
+    "item": "promenade:duck_spawn_egg",
+    "count": 1
+  }
 }

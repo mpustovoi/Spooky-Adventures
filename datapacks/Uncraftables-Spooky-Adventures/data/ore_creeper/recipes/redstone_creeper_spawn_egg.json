@@ -1,20 +1,17 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"BBB",
-		"BEB",
-		"BBB"
-	],
-	"key": {
-		"E": {
-			"item": "minecraft:creeper_spawn_egg"
-		},
-		"B": {
-			"item": "minecraft:redstone_block"
-		}
-	},
-	"result": {
-		"item": "ore_creeper:redstone_creeper_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BBB", "BEB", "BBB"],
+  "key": {
+    "E": {
+      "item": "minecraft:creeper_spawn_egg"
+    },
+    "B": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "ore_creeper:redstone_creeper_spawn_egg",
+    "count": 1
+  }
 }

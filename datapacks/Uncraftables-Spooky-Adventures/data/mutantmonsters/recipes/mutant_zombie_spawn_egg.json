@@ -1,18 +1,19 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:zombie_spawn_egg"
-		},
-		{
-			"item": "mutantmonsters:hulk_hammer"
-		},
-		{
-			"item": "mutantmonsters:hulk_hammer"
-		}
-	],
-	"result": {
-		"item": "mutantmonsters:mutant_zombie_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:zombie_spawn_egg"
+    },
+    {
+      "item": "mutantmonsters:hulk_hammer"
+    },
+    {
+      "item": "mutantmonsters:hulk_hammer"
+    }
+  ],
+  "result": {
+    "item": "mutantmonsters:mutant_zombie_spawn_egg",
+    "count": 1
+  }
 }

@@ -1,25 +1,22 @@
 {
-	"type": "crafting_shaped",
-	"pattern": [
-		"HSH",
-		"WTW",
-		"WSW"
-	],
-	"key": {
-		"H": {
-			"item": "minecraft:goat_horn"
-		},
-		"S": {
-			"item": "minecraft:string"
-		},
-		"W": {
-			"item": "minecraft:white_wool"
-		},
-		"T": {
-			"item": "minecraft:ghast_tear"
-		}
-	},
-	"result": {
-		"item": "minecraft:goat_spawn_egg"
-	}
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["HSH", "WTW", "WSW"],
+  "key": {
+    "H": {
+      "item": "minecraft:goat_horn"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "minecraft:goat_spawn_egg"
+  }
 }

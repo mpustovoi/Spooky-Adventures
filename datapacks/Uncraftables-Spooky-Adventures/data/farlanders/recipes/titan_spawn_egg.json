@@ -1,20 +1,17 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"PPP",
-		"SPS",
-		"PPP"
-	],
-	"key": {
-		"S": {
-			"item": "farlanders:ender_golem_spawn_egg"
-		},
-		"P": {
-			"item": "farlanders:titan_hide"
-		}
-	},
-	"result": {
-		"item": "farlanders:titan_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PPP", "SPS", "PPP"],
+  "key": {
+    "S": {
+      "item": "farlanders:ender_golem_spawn_egg"
+    },
+    "P": {
+      "item": "farlanders:titan_hide"
+    }
+  },
+  "result": {
+    "item": "farlanders:titan_spawn_egg",
+    "count": 1
+  }
 }

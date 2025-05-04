@@ -1,20 +1,16 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		" C ",
-		"CDC",
-		" C "
-	],
-	"key": {
-		"C": {
-			"item": "graveyard:corruption"
-		},
-		"D": {
-			"item": "minecraft:deepslate"
-		}
-	},
-	"result": {
-		"item": "graveyard:altar_center",
-		"count": 1
-	}
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" C ", "CDC", " C "],
+  "key": {
+    "C": {
+      "item": "graveyard:corruption"
+    },
+    "D": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "item": "graveyard:altar_center",
+    "count": 1
+  }
 }

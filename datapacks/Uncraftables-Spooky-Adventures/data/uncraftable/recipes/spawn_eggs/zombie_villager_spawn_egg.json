@@ -1,4 +1,5 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
@@ -9,6 +10,6 @@
     }
   ],
   "result": {
-		"item": "minecraft:zombie_villager_spawn_egg"
+    "item": "minecraft:zombie_villager_spawn_egg"
   }
 }

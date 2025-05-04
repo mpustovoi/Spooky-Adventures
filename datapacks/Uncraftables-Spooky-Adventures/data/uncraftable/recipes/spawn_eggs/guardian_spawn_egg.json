@@ -1,25 +1,22 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "SFS",
-        "CAC",
-        "SFS"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:ghast_tear"
-        },
-        "C": {
-            "item": "minecraft:prismarine_crystals"
-        },
-        "F": {
-            "item": "minecraft:cod"
-        },
-        "S": {
-            "item": "minecraft:prismarine_shard"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["SFS", "CAC", "SFS"],
+  "key": {
+    "A": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-		"item": "minecraft:guardian_spawn_egg"
-	}
+    "C": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "F": {
+      "item": "minecraft:cod"
+    },
+    "S": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:guardian_spawn_egg"
+  }
 }

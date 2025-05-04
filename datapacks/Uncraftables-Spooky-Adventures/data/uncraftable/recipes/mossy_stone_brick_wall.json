@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "mossy_stone_brick_wall",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_brick_wall"
+    },
+    [
+      {
+        "item": "minecraft:moss_block"
+      },
+      {
+        "item": "minecraft:vine"
+      }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:mossy_stone_brick_wall"
+  }
+}

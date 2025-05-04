@@ -1,13 +1,7 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
-  "group": "spawn_eggs",
-  "pattern": [
-  
-    "XXX",
-    "P#P",
-    "XXX"
-  ],
-  
+  "pattern": ["XXX", "P#P", "XXX"],
   "key": {
     "X": {
       "item": "minecraft:feather"
@@ -19,8 +13,6 @@
       "item": "minecraft:phantom_membrane"
     }
   },
-  
-  
   "result": {
     "item": "minecraft:bat_spawn_egg"
   }

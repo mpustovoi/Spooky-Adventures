@@ -1,38 +1,35 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"CSR",
-		"BTB",
-		"PMB"
-	],
-	"key": {
-		"B": {
-			"item": "hunters_return:boomerang"
-		},
-		"P": {
-			"item": "minecraft:porkchop"
-		},
-		"B": {
-			"item": "minecraft:beef"
-		},
-		"C": {
-			"item": "minecraft:chicken"
-		},
-		"R": {
-			"item": "minecraft:rabbit"
-		},
-		"M": {
-			"item": "minecraft:mutton"
-		},
-		"S": {
-			"item": "minecraft:sweet_berries"
-		},
-		"T": {
-			"item": "minecraft:pillager_spawn_egg"
-		}
-	},
-	"result": {
-		"item": "hunters_return:spawnegg_hunter",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CSR", "BTB", "PMB"],
+  "key": {
+    "B": {
+      "item": "hunters_return:boomerang"
+    },
+    "P": {
+      "item": "minecraft:porkchop"
+    },
+    "B": {
+      "item": "minecraft:beef"
+    },
+    "C": {
+      "item": "minecraft:chicken"
+    },
+    "R": {
+      "item": "minecraft:rabbit"
+    },
+    "M": {
+      "item": "minecraft:mutton"
+    },
+    "S": {
+      "item": "minecraft:sweet_berries"
+    },
+    "T": {
+      "item": "minecraft:pillager_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "hunters_return:spawnegg_hunter",
+    "count": 1
+  }
 }

@@ -1,26 +1,23 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"DBD",
-		"BEB",
-		"DMD"
-	],
-	"key": {
-		"D": {
-			"item": "minecraft:dandelion"
-		},
-		"B": {
-			"item": "friendsandfoes:buttercup"
-		},
-		"E": {
-			"item": "minecraft:cow_spawn_egg"
-		},
-		"M": {
-			"item": "minecraft:bone_meal"
-		}
-	},
-	"result": {
-		"item": "friendsandfoes:moobloom_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["DBD", "BEB", "DMD"],
+  "key": {
+    "D": {
+      "item": "minecraft:dandelion"
+    },
+    "B": {
+      "item": "friendsandfoes:buttercup"
+    },
+    "E": {
+      "item": "minecraft:cow_spawn_egg"
+    },
+    "M": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "friendsandfoes:moobloom_spawn_egg",
+    "count": 1
+  }
 }

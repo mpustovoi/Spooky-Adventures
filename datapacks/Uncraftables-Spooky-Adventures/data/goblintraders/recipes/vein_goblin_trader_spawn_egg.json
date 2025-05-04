@@ -1,35 +1,32 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"nNn",
-		"BTP",
-		"WUW"
-	],
-	"key": {
-		"n": {
-			"item": "minecraft:netherite_scrap"
-		},
-		"N": {
-			"item": "minecraft:netherite_ingot"
-		},
-		"P": {
-			"item": "minecraft:potion"
-		},
-		"U": {
-			"item": "minecraft:totem_of_undying"
-		},
-		"B": {
-			"item": "minecraft:enchanted_book"
-		},
-		"W": {
-			"item": "minecraft:nether_wart_block"
-		},
-		"T": {
-			"item": "goblintraders:goblin_trader_spawn_egg"
-		}
-	},
-	"result": {
-		"item": "goblintraders:vein_goblin_trader_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["nNn", "BTP", "WUW"],
+  "key": {
+    "n": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "P": {
+      "item": "minecraft:potion"
+    },
+    "U": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "B": {
+      "item": "minecraft:enchanted_book"
+    },
+    "W": {
+      "item": "minecraft:nether_wart_block"
+    },
+    "T": {
+      "item": "goblintraders:goblin_trader_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "goblintraders:vein_goblin_trader_spawn_egg",
+    "count": 1
+  }
 }

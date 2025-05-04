@@ -1,32 +1,29 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"CLC",
-		"ATA",
-		"BMB"
-	],
-	"key": {
-		"T": {
-			"item": "minecraft:creeper_spawn_egg"
-		},
-		"C": {
-			"item": "minecraft:moss_carpet"
-		},
-		"M": {
-			"item": "minecraft:moss_block"
-		},
-		"L": {
-			"item": "minecraft:big_dripleaf"
-		},
-		"A": {
-			"item": "minecraft:flowering_azalea_leaves"
-		},
-		"B": {
-			"item": "minecraft:bone_meal"
-		}
-	},
-	"result": {
-		"item": "promenade:lush_creeper_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CLC", "ATA", "BMB"],
+  "key": {
+    "T": {
+      "item": "minecraft:creeper_spawn_egg"
+    },
+    "C": {
+      "item": "minecraft:moss_carpet"
+    },
+    "M": {
+      "item": "minecraft:moss_block"
+    },
+    "L": {
+      "item": "minecraft:big_dripleaf"
+    },
+    "A": {
+      "item": "minecraft:flowering_azalea_leaves"
+    },
+    "B": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "promenade:lush_creeper_spawn_egg",
+    "count": 1
+  }
 }

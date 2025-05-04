@@ -1,15 +1,25 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:skeleton_spawn_egg"
-		},
-		{
-			"item": "minecraft:vex_spawn_egg"
-		}
-	],
-	"result": {
-		"item": "illagerinvasion:surrendered_spawn_egg",
-		"count": 2
-	}
+  "group": "spawn_egg",
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "illagerinvasion:invoker_spawn_egg"
+    },
+    {
+      "item": "minecraft:vex_spawn_egg"
+    },
+    {
+      "item": "minecraft:vex_spawn_egg"
+    },
+    {
+      "item": "minecraft:vex_spawn_egg"
+    },
+    {
+      "item": "minecraft:vex_spawn_egg"
+    }
+  ],
+  "result": {
+    "item": "illagerinvasion:surrendered_spawn_egg",
+    "count": 4
+  }
 }

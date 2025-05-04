@@ -1,25 +1,22 @@
 {
-	"type": "crafting_shaped",
-	"pattern": [
-		"WWW",
-		"SNS",
-		"BSB"
-	],
-	"key": {
-		"W": {
-			"item": "minecraft:wither_skeleton_skull"
-		},
-		"S": {
-			"item": "minecraft:soul_sand"
-		},
-		"N": {
-			"item": "minecraft:nether_star"
-		},
-		"B": {
-			"item": "minecraft:bedrock"
-		}
-	},
-	"result": {
-		"item": "minecraft:wither_spawn_egg"
-	}
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["WWW", "SNS", "BSB"],
+  "key": {
+    "W": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "minecraft:bedrock"
+    }
+  },
+  "result": {
+    "item": "minecraft:wither_spawn_egg"
+  }
 }

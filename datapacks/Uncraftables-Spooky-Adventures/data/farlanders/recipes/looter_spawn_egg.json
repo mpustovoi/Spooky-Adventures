@@ -1,18 +1,17 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"BEB"
-	],
-	"key": {
-		"E": {
-			"item": "farlanders:farlander_spawn_egg"
-		},
-		"B": {
-			"item": "minecraft:bundle"
-		}
-	},
-	"result": {
-		"item": "farlanders:looter_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BEB"],
+  "key": {
+    "E": {
+      "item": "farlanders:farlander_spawn_egg"
+    },
+    "B": {
+      "item": "minecraft:bundle"
+    }
+  },
+  "result": {
+    "item": "farlanders:looter_spawn_egg",
+    "count": 1
+  }
 }

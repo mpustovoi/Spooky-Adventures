@@ -1,25 +1,22 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "GBG",
-        "XAX",
-        "GBG"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:piglin_spawn_egg"
-        },
-        "X": {
-            "item": "minecraft:golden_axe"
-				},
-        "G": {
-            "item": "minecraft:gold_ingot"
-				},
-				"B": {
-            "item": "minecraft:gold_block"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["GBG", "XAX", "GBG"],
+  "key": {
+    "A": {
+      "item": "minecraft:piglin_spawn_egg"
     },
-    "result": {
-		"item": "minecraft:piglin_brute_spawn_egg"
-	}
+    "X": {
+      "item": "minecraft:golden_axe"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:piglin_brute_spawn_egg"
+  }
 }

@@ -1,28 +1,25 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "ASA",
-        "BTB",
-        "OAO"
-    ],
-    "key": {
-        "T": {
-            "item": "minecraft:ghast_tear"
-        },
-        "A": {
-            "item": "minecraft:arrow"
-        },
-        "B": {
-            "item": "minecraft:bow"
-        },
-        "O": {
-            "item": "minecraft:bone"
-        },
-        "S": {
-            "item": "minecraft:skeleton_skull"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["ASA", "BTB", "OAO"],
+  "key": {
+    "T": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-		"item": "minecraft:skeleton_spawn_egg"
-	}
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "B": {
+      "item": "minecraft:bow"
+    },
+    "O": {
+      "item": "minecraft:bone"
+    },
+    "S": {
+      "item": "minecraft:skeleton_skull"
+    }
+  },
+  "result": {
+    "item": "minecraft:skeleton_spawn_egg"
+  }
 }

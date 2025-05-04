@@ -1,4 +1,5 @@
 {
+  "group": "spawn_egg",
   "type": "crafting_shaped",
   "pattern": ["SIS", "IAI", "SIS"],
   "key": {

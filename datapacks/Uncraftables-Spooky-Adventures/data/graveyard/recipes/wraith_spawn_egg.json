@@ -1,20 +1,17 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"PPP",
-		"PEP",
-		"PPP"
-	],
-	"key": {
-		"P": {
-			"item": "minecraft:phantom_membrane"
-		},
-		"E": {
-			"item": "graveyard:reaper_spawn_egg"
-		}
-	},
-	"result": {
-		"item": "graveyard:wraith_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PPP", "PEP", "PPP"],
+  "key": {
+    "P": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "E": {
+      "item": "graveyard:reaper_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "graveyard:wraith_spawn_egg",
+    "count": 1
+  }
 }

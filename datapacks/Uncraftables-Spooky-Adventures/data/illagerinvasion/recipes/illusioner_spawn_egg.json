@@ -17,6 +17,7 @@
       "modid": "friendsandfoes"
     }
   ],
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
   "pattern": ["DBD", "DGD", "ETE"],
   "key": {

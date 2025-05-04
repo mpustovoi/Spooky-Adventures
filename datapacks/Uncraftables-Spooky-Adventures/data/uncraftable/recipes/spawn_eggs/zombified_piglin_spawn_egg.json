@@ -1,24 +1,21 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "GGG",
-        "GAG",
-        "GGG"
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["GGG", "GAG", "GGG"],
+  "key": {
+    "A": [
+      {
+        "item": "minecraft:piglin_spawn_egg"
+      },
+      {
+        "item": "minecraft:piglin_brute_spawn_egg"
+      }
     ],
-    "key": {
-        "A": [
-					{
-            "item": "minecraft:piglin_spawn_egg"
-        	},
-					{
-            "item": "minecraft:piglin_brute_spawn_egg"
-        	}
-				],
-        "G": {
-            "item": "minecraft:rotten_flesh"
-        }
-    },
-    "result": {
-		"item": "minecraft:zombified_piglin_spawn_egg"
-	}
+    "G": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "result": {
+    "item": "minecraft:zombified_piglin_spawn_egg"
+  }
 }

@@ -1,25 +1,22 @@
 {
-	"type": "crafting_shaped",
-	"pattern": [
-		"MMM",
-		"MEM",
-		"STS"
-	],
-	"key": {
-		"T": {
-			"item": "minecraft:ghast_tear"
-		},
-		"M": {
-			"item": "minecraft:moss_block"
-		},
-		"S": {
-			"item": "minecraft:torchflower_seeds"
-		},
-		"E": {
-			"item": "minecraft:sniffer_egg"
-		}
-	},
-	"result": {
-		"item": "minecraft:sniffer_spawn_egg"
-	}
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["MMM", "MEM", "STS"],
+  "key": {
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "M": {
+      "item": "minecraft:moss_block"
+    },
+    "S": {
+      "item": "minecraft:torchflower_seeds"
+    },
+    "E": {
+      "item": "minecraft:sniffer_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:sniffer_spawn_egg"
+  }
 }

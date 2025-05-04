@@ -6,10 +6,7 @@
       "item": "deeperdarker:echo_planks"
     }
   },
-  "pattern": [
-    "###",
-    "###"
-  ],
+  "pattern": ["###", "###"],
   "result": {
     "count": 12,
     "item": "deeperdarker:echo_trapdoor"

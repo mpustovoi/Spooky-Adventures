@@ -1,30 +1,27 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "HHH",
-        "WAW",
-        "CCC"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:skeleton_spawn_egg"
-        },
-        "W": {
-            "item": "minecraft:stone_sword"
-        },
-        "H": {
-            "item": "minecraft:wither_skeleton_skull"
-        },
-        "C": [
-					{
-            "item": "minecraft:coal"
-        	},
-					{
-            "item": "minecraft:charcoal"
-        	}
-				]
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["HHH", "WAW", "CCC"],
+  "key": {
+    "A": {
+      "item": "minecraft:skeleton_spawn_egg"
     },
-    "result": {
-		"item": "minecraft:wither_skeleton_spawn_egg"
-	}
+    "W": {
+      "item": "minecraft:stone_sword"
+    },
+    "H": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "C": [
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:wither_skeleton_spawn_egg"
+  }
 }

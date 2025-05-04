@@ -1,12 +1,7 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
-  "group": "spawn_eggs",
-  "pattern": [
-    "HCH",
-    "S#S",
-    "KBK"
-  ],
-  
+  "pattern": ["HCH", "S#S", "KBK"],
   "key": {
     "C": {
       "item": "minecraft:sculk_sensor"
@@ -25,9 +20,8 @@
     },
     "B": {
       "item": "minecraft:bone_block"
-    }        
+    }
   },
-  
   "result": {
     "item": "minecraft:warden_spawn_egg"
   }

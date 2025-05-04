@@ -1,22 +1,19 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-		"CCC",
-		"SAS",
-		"SSS"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:skeleton_spawn_egg"
-        },
-        "C": {
-            "item": "minecraft:snow"
-        },
-		"S": {
-			"item": "minecraft:snow_block"
-		}
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["CCC", "SAS", "SSS"],
+  "key": {
+    "A": {
+      "item": "minecraft:skeleton_spawn_egg"
     },
-    "result": {
-		"item": "minecraft:stray_spawn_egg"
-	}
+    "C": {
+      "item": "minecraft:snow"
+    },
+    "S": {
+      "item": "minecraft:snow_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:stray_spawn_egg"
+  }
 }

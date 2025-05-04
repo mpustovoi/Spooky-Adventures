@@ -1,10 +1,7 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "HMH",
-    "BEB",
-    "MMM"
-  ],
+  "pattern": ["HMH", "BEB", "MMM"],
   "key": {
     "E": {
       "item": "minecraft:goat_spawn_egg"

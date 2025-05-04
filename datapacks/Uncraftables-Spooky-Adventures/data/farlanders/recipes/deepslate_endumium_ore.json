@@ -1,20 +1,16 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"CCC",
-		"CSC",
-		"CCC"
-	],
-	"key": {
-		"C": {
-			"item": "farlanders:endumium_crystal"
-		},
-		"S": {
-			"item": "minecraft:deepslate"
-		}
-	},
-	"result": {
-		"item": "farlanders:deepslate_endumium_ore",
-		"count": 1
-	}
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CCC", "CSC", "CCC"],
+  "key": {
+    "C": {
+      "item": "farlanders:endumium_crystal"
+    },
+    "S": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "item": "farlanders:deepslate_endumium_ore",
+    "count": 1
+  }
 }

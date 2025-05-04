@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "minecraft:elytra"
-	},
-	"addition": {
-		"item": "deeperdarker:soul_elytra"
-	},
-	"result": {
-		"item": "deeperdarker:soul_elytra"
-	},
-	"template": {
-		"item": "minecraft:phantom_membrane"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:elytra"
+  },
+  "addition": {
+    "item": "deeperdarker:soul_elytra"
+  },
+  "result": {
+    "item": "deeperdarker:soul_elytra"
+  },
+  "template": {
+    "item": "minecraft:phantom_membrane"
+  }
 }

@@ -1,23 +1,19 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"MEM",
-		"MSM",
-		"MMM"
-	],
-	"key": {
-		"M": {
-			"item": "minecraft:diamond"
-		},
-		"S": {
-			"item": "minecraft:sculk"
-		},
-		"E": {
-			"item": "deeperdarker:reinforced_echo_shard"
-		}
-	},
-	"result": {
-		"item": "deeperdarker:warden_upgrade_smithing_template",
-		"count": 1
-	}
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["MEM", "MSM", "MMM"],
+  "key": {
+    "M": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:sculk"
+    },
+    "E": {
+      "item": "deeperdarker:reinforced_echo_shard"
+    }
+  },
+  "result": {
+    "item": "deeperdarker:warden_upgrade_smithing_template",
+    "count": 1
+  }
 }

@@ -1,13 +1,7 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
-  "group": "spawn_eggs",
-  "pattern": [
-  
-    "EHF",
-    "CGW",
-    "SLB"
-  ],
-  
+  "pattern": ["EHF", "CGW", "SLB"],
   "key": {
     "E": {
       "item": "minecraft:emerald"
@@ -35,9 +29,8 @@
     },
     "B": {
       "item": "minecraft:sweet_berries"
-    }    
+    }
   },
-  
   "result": {
     "item": "minecraft:fox_spawn_egg"
   }

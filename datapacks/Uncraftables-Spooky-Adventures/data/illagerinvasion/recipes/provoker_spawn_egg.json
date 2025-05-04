@@ -1,32 +1,29 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"ABA",
-		"PGS",
-		"EAE"
-	],
-	"key": {
-		"G": {
-			"item": "minecraft:ghast_tear"
-		},
-		"A": {
-			"item": "minecraft:arrow"
-		},
-		"B": {
-			"item": "minecraft:bow"
-		},
-		"E": {
-			"item": "minecraft:emerald"
-		},
-		"P": {
-			"item": "minecraft:blaze_powder"
-		},
-		"S": {
-			"item": "minecraft:sugar"
-		}
-	},
-	"result": {
-		"item": "illagerinvasion:provoker_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ABA", "PGS", "EAE"],
+  "key": {
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "B": {
+      "item": "minecraft:bow"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "P": {
+      "item": "minecraft:blaze_powder"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "illagerinvasion:provoker_spawn_egg",
+    "count": 1
+  }
 }

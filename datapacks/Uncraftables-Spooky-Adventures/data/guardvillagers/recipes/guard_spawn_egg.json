@@ -1,36 +1,37 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:crossbow"
-		},
-		{
-			"item": "minecraft:shield"
-		},
-		{
-			"item": "minecraft:iron_sword"
-		},
-		{
-			"item": "minecraft:bread"
-		},
-		{
-			"item": "minecraft:villager_spawn_egg"
-		},
-		{
-			"item": "minecraft:bread"
-		},
-		{
-			"item": "minecraft:bread"
-		},
-		{
-			"item": "minecraft:shield"
-		},
-		{
-			"item": "minecraft:bread"
-		}
-	],
-	"result": {
-		"item": "guardvillagers:guard_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:crossbow"
+    },
+    {
+      "item": "minecraft:shield"
+    },
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "minecraft:villager_spawn_egg"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "minecraft:shield"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "guardvillagers:guard_spawn_egg",
+    "count": 1
+  }
 }

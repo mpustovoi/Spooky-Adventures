@@ -1,22 +1,19 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "GGG",
-        "LAL",
-        "GGG"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:ghast_tear"
-        },
-        "G": {
-            "item": "minecraft:porkchop"
-        },
-        "L": {
-            "item": "minecraft:leather"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["GGG", "LAL", "GGG"],
+  "key": {
+    "A": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-		"item": "minecraft:hoglin_spawn_egg"
-	}
+    "G": {
+      "item": "minecraft:porkchop"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:hoglin_spawn_egg"
+  }
 }

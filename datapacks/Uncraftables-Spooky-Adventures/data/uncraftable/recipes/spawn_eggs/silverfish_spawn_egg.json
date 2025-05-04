@@ -1,25 +1,22 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "CIC",
-        "IAI",
-        "CSC"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:ghast_tear"
-        },
-				"S": {
-            "tag": "minecraft:stone_bricks"
-        },
-        "C": {
-            "item": "minecraft:chain"
-        },
-        "I": {
-            "item": "minecraft:iron_ingot"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["CIC", "IAI", "CSC"],
+  "key": {
+    "A": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-		"item": "minecraft:silverfish_spawn_egg"
-	}
+    "S": {
+      "tag": "minecraft:stone_bricks"
+    },
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:silverfish_spawn_egg"
+  }
 }

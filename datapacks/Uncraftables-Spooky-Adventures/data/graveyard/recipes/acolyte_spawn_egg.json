@@ -1,23 +1,20 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"CCC",
-		"DED",
-		"CCC"
-	],
-	"key": {
-		"C": {
-			"item": "graveyard:corruption"
-		},
-		"D": {
-			"item": "graveyard:bone_dagger"
-		},
-		"E": {
-			"item": "minecraft:vindicator_spawn_egg"
-		}
-	},
-	"result": {
-		"item": "graveyard:acolyte_spawn_egg",
-		"count": 1
-	}
+  "group": "spawn_egg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CCC", "DED", "CCC"],
+  "key": {
+    "C": {
+      "item": "graveyard:corruption"
+    },
+    "D": {
+      "item": "graveyard:bone_dagger"
+    },
+    "E": {
+      "item": "minecraft:vindicator_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "graveyard:acolyte_spawn_egg",
+    "count": 1
+  }
 }

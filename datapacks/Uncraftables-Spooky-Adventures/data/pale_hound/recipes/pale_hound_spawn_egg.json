@@ -1,10 +1,7 @@
 {
+  "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "SIA",
-    "AEI",
-    "SIS"
-  ],
+  "pattern": ["SIA", "AEI", "SIS"],
   "key": {
     "E": {
       "item": "cave_dweller:cave_dweller_spawn_egg"

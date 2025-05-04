@@ -1,19 +1,16 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "GGG",
-        "GAG",
-        "G G"
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:ghast_tear"
-        },
-        "G": {
-            "item": "minecraft:bone"
-        }
+  "group": "spawn_egg",
+  "type": "crafting_shaped",
+  "pattern": ["GGG", "GAG", "G G"],
+  "key": {
+    "A": {
+      "item": "minecraft:ghast_tear"
     },
-    "result": {
-		"item": "minecraft:wolf_spawn_egg"
-	}
+    "G": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "minecraft:wolf_spawn_egg"
+  }
 }
