@@ -1,20 +1,16 @@
-
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "$#",
-        "#$"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:polished_basalt"
-        },
-        "$": {
-            "tag": "vanilla_tweaks:coal_charcoal"
-        }
+  "type": "crafting_shaped",
+  "pattern": ["$#", "#$"],
+  "key": {
+    "#": {
+      "item": "minecraft:polished_basalt"
     },
-    "result": {
-        "item": "minecraft:polished_blackstone",
-        "count": 4
+    "$": {
+      "tag": "minecraft:coals"
     }
+  },
+  "result": {
+    "item": "minecraft:polished_blackstone",
+    "count": 4
+  }
 }

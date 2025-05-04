@@ -1,6 +1,3 @@
 {
-    "values": [
-		"minecraft:ink_sac",
-		"minecraft:black_dye"
-    ]
+  "values": ["minecraft:ink_sac", "minecraft:black_dye", "#minecraft:coals"]
 }

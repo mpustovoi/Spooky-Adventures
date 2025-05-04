@@ -1,6 +1,3 @@
 {
-    "values": [
-		"minecraft:bone_meal",
-		"minecraft:white_dye"
-    ]
+  "values": ["minecraft:bone_meal", "minecraft:white_dye"]
 }

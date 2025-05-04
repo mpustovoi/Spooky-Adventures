@@ -1,6 +1,3 @@
 {
-    "values": [
-		"minecraft:cocoa_beans",
-		"minecraft:brown_dye"
-    ]
+  "values": ["minecraft:cocoa_beans", "minecraft:brown_dye"]
 }
