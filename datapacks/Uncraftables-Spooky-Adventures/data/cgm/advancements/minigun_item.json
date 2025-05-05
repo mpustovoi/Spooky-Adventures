@@ -5,12 +5,12 @@
       "item": "cgm:mini_gun"
     },
     "title": {
-      "translate": "advancements.cgm.minigun.title",
-      "fallback": "Get a Minigun"
+      "translate": "advancements.cgm.get_minigun.title",
+      "fallback": "I'll be Back"
     },
     "description": {
-      "translate": "advancements.cgm.minigun.descr",
-      "fallback": "I'll be Back"
+      "translate": "advancements.cgm.get_minigun.descr",
+      "fallback": "Make a Minigun"
     },
     "frame": "challenge",
     "show_toast": true,

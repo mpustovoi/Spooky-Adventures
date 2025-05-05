@@ -1,16 +1,16 @@
 {
-  "parent": "tacz:root",
+  "parent": "tacz:get_any_ammo",
   "display": {
     "icon": {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:gunpowder"
     },
     "title": {
-      "translate": "advancements.tacz.get_any_modern_kinetic_gun.title",
-      "fallback": "Enjoy the Quality"
+      "translate": "advancements.tacz.get_any_attachment.title",
+      "fallback": "Quality of Life Deprivation"
     },
     "description": {
-      "translate": "advancements.tacz.get_any_modern_kinetic_gun.descr",
-      "fallback": "Assemble any Modern Kinetic Gun"
+      "translate": "advancements.tacz.get_any_attachment.descr",
+      "fallback": "Create any Attachment"
     },
     "frame": "goal",
     "show_toast": true,
@@ -18,12 +18,12 @@
     "hidden": true
   },
   "criteria": {
-    "get_modern_kinetic_gun": {
+    "get_attachment": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["tacz:modern_kinetic_gun"]
+            "items": ["tacz:attachment"]
           }
         ]
       }

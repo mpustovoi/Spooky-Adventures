@@ -1,0 +1,51 @@
+{
+  "parent": "tacz:get_any_ammo",
+  "display": {
+    "icon": {
+      "item": "tacz:target"
+    },
+    "title": {
+      "translate": "advancements.tacz.get_target.title",
+      "fallback": "Target Practice"
+    },
+    "description": {
+      "translate": "advancements.tacz.get_target.descr",
+      "fallback": "Make a Target to practice shooting skills"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_target": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["tacz:target"]
+          }
+        ]
+      }
+    },
+    "get_target_minecart": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["tacz:target_minecart"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_target",
+      "get_target_minecart"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
+}

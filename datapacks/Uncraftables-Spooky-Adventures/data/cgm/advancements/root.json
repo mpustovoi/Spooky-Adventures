@@ -10,12 +10,12 @@
     },
     "description": {
       "translate": "advancements.cgm.root.descr",
-      "fallback": "Get an Iron Workbench"
+      "fallback": "Make a Weapons Workbench"
     },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
-    "hidden": true
+    "hidden": false
   },
   "criteria": {
     "get_workbench": {

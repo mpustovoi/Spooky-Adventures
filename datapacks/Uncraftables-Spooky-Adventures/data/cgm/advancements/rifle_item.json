@@ -5,12 +5,12 @@
       "item": "cgm:rifle"
     },
     "title": {
-      "translate": "advancements.cgm.rifle.title",
+      "translate": "advancements.cgm.get_rifle.title",
       "fallback": "The Infantryman"
     },
     "description": {
-      "translate": "advancements.cgm.rifle.descr",
-      "fallback": "Create a Rifle"
+      "translate": "advancements.cgm.get_rifle.descr",
+      "fallback": "Assemble a Rifle"
     },
     "frame": "goal",
     "show_toast": true,

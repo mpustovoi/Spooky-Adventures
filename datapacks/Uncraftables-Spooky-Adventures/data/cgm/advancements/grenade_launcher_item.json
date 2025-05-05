@@ -5,12 +5,12 @@
       "item": "cgm:grenade_launcher"
     },
     "title": {
-      "translate": "advancements.cgm.grenade_launcher.title",
+      "translate": "advancements.cgm.get_grenade_launcher.title",
       "fallback": "Grenade Jump"
     },
     "description": {
-      "translate": "advancements.cgm.grenade_launcher.descr",
-      "fallback": "Get a Grenade Launcher"
+      "translate": "advancements.cgm.get_grenade_launcher.descr",
+      "fallback": "Make a Grenade Launcher"
     },
     "frame": "goal",
     "show_toast": true,

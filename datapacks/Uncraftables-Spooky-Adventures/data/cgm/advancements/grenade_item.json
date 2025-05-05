@@ -5,12 +5,12 @@
       "item": "cgm:grenade"
     },
     "title": {
-      "translate": "advancements.cgm.grenade.title",
+      "translate": "advancements.cgm.get_grenade.title",
       "fallback": "You Have Three Seconds"
     },
     "description": {
-      "translate": "advancements.cgm.grenade.descr",
-      "fallback": "Get a Grenade"
+      "translate": "advancements.cgm.get_grenade.descr",
+      "fallback": "Make a Grenade"
     },
     "frame": "goal",
     "show_toast": true,

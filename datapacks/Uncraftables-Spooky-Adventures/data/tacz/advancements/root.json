@@ -6,7 +6,7 @@
     },
     "title": {
       "translate": "advancements.tacz.root.title",
-      "fallback": "How could it be more interesting?"
+      "fallback": "How Could It Be More Interesting?"
     },
     "description": {
       "translate": "advancements.tacz.root.descr",
@@ -15,7 +15,7 @@
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
-    "hidden": true
+    "hidden": false
   },
   "criteria": {
     "get_gun_smith_table": {

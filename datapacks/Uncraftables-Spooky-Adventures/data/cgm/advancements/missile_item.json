@@ -1,16 +1,16 @@
 {
-  "parent": "cgm:root",
+  "parent": "cgm:ammo_item",
   "display": {
     "icon": {
-      "item": "cgm:shotgun"
+      "item": "cgm:missile"
     },
     "title": {
-      "translate": "advancements.cgm.get_shotgun.title",
-      "fallback": "Boom Stick"
+      "translate": "advancements.cgm.get_missile.title",
+      "fallback": "A Boom Wherever You Point"
     },
     "description": {
-      "translate": "advancements.cgm.get_shotgun.descr",
-      "fallback": "Assemble a Shotgun"
+      "translate": "advancements.cgm.get_missile.descr",
+      "fallback": "Make a Missile"
     },
     "frame": "goal",
     "show_toast": true,
@@ -18,18 +18,18 @@
     "hidden": true
   },
   "criteria": {
-    "get_shotgun": {
+    "get_missile": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["cgm:shotgun"]
+            "items": ["cgm:missile"]
           }
         ]
       }
     }
   },
   "rewards": {
-    "experience": 20
+    "experience": 10
   }
 }

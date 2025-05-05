@@ -17,7 +17,14 @@
 
 ### 🔁 Обновлено:
 
-- Правка.
+- Обновлены текстуры в пользовательском наборе-дополнении **Default Dark Mode: Further**.
+- **The Hordes**:
+  - Деловой торговец из **Supplementaries** теперь имеет особую текстуру при зомбифицировании.
+- Набор данных **Uncraftables**:
+  - Добавлено несколько рецептов из **The Creeper's Code**.
+  - Переработаны рецепты переработки для **MrCrayfish's Gun Mod**, уменьшен их выход. Добавлено два новых достижения. Корневое достижение более не является скрытым.
+  - Добавлено несколько новых достижений для **[TaCZ]**. Корневое достижение более не является скрытым.
+  - Убраны многие дублирующиеся рецепты.
 
 ### ⚠ Примечания и известные проблемы:
 
@@ -51,7 +58,14 @@ Description.
 
 ### 🔁 Updated:
 
-- Edits.
+- Updated textures in custom **Default Dark Mode: Further** add-on pack.
+- **The Hordes**:
+  - The Red Merchant from **Supplementaries** now has his own texture when zombified.
+- **Uncraftables** data pack:
+  - Added several recipes from **The Creeper's Code**.
+  - Reworked and nerfed **MrCrayfish's Gun Mod**'s recycling recipes. Added two new advancements. The root advancement is no longer hidden.
+  - Added some new advancements for **[TaCZ]**. The root advancement is no longer hidden.
+  - Removed many duplicate recipes.
 
 ### ⚠ Notes and known issues:
 

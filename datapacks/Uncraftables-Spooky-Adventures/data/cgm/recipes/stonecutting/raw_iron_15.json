@@ -1,8 +1,0 @@
-{
-	"type": "minecraft:stonecutting",
-	"ingredient": {
-		"item": "cgm:revolver"
-	},
-	"result": "minecraft:raw_iron",
-	"count": 15
-}

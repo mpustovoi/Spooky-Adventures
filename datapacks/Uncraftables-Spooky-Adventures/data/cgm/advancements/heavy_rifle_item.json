@@ -5,12 +5,12 @@
       "item": "cgm:heavy_rifle"
     },
     "title": {
-      "translate": "advancements.cgm.heavy_rifle.title",
+      "translate": "advancements.cgm.get_heavy_rifle.title",
       "fallback": "Sniper Elite"
     },
     "description": {
-      "translate": "advancements.cgm.heavy_rifle.descr",
-      "fallback": "Create a Sniper Rifle Mk. II"
+      "translate": "advancements.cgm.get_heavy_rifle.descr",
+      "fallback": "Assemble a Sniper Rifle Mk. II"
     },
     "frame": "goal",
     "show_toast": true,

@@ -1,0 +1,73 @@
+{
+  "parent": "cgm:root",
+  "display": {
+    "icon": {
+      "item": "cgm:shell"
+    },
+    "title": {
+      "translate": "advancements.cgm.get_ammo.title",
+      "fallback": "Powder to Power"
+    },
+    "description": {
+      "translate": "advancements.cgm.get_ammo.descr",
+      "fallback": "Make any common Ammo"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "get_basic_bullet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:basic_bullet"]
+          }
+        ]
+      }
+    },
+    "get_medium_bullet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:medium_bullet"]
+          }
+        ]
+      }
+    },
+    "get_advanced_bullet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:advanced_bullet"]
+          }
+        ]
+      }
+    },
+    "get_shell": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["cgm:shell"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_basic_bullet",
+      "get_medium_bullet",
+      "get_advanced_bullet",
+      "get_shell"
+    ]
+  ],
+  "rewards": {
+    "experience": 10
+  }
+}

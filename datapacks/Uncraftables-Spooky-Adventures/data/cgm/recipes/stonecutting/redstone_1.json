@@ -1,10 +1,16 @@
 {
-	"type": "minecraft:stonecutting",
-	"ingredient": [
-		{
-			"item": "cgm:dot_sight"
-		}
-	],
-	"result": "minecraft:redstone",
-	"count": 1
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "cgm:dot_sight"
+    },
+    {
+      "item": "cgm:short_scope"
+    },
+    {
+      "item": "cgm:medium_scope"
+    }
+  ],
+  "result": "minecraft:redstone",
+  "count": 1
 }

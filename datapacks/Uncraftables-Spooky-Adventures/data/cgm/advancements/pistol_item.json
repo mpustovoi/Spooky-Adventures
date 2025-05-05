@@ -5,12 +5,12 @@
       "item": "cgm:pistol"
     },
     "title": {
-      "translate": "advancements.cgm.pistol.title",
+      "translate": "advancements.cgm.get_pistol.title",
       "fallback": "Bang Bang"
     },
     "description": {
-      "translate": "advancements.cgm.pistol.descr",
-      "fallback": "Create a Pistol"
+      "translate": "advancements.cgm.get_pistol.descr",
+      "fallback": "Assemble a Pistol"
     },
     "frame": "goal",
     "show_toast": true,

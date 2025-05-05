@@ -1,0 +1,90 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "cgm:marksman_stock"
+    },
+    {
+      "item": "cgm:weighted_stock"
+    },
+    {
+      "item": "cgm:flash_hider"
+    },
+    {
+      "item": "cgm:dot_sight"
+    },
+    {
+      "item": "cgm:short_scope"
+    },
+    {
+      "item": "cgm:short_stock"
+    },
+    {
+      "item": "cgm:silencer"
+    },
+    {
+      "item": "cgm:medium_scope"
+    },
+    {
+      "item": "cgm:light_grip"
+    },
+    {
+      "item": "cgm:muzzle_brake"
+    },
+    {
+      "item": "cgm:long_scope"
+    },
+    {
+      "item": "cgm:light_stock"
+    },
+    {
+      "item": "cgm:horizontal_grip"
+    },
+    {
+      "item": "cgm:marksman_stock"
+    },
+    {
+      "item": "cgm:extended_barrel"
+    },
+    {
+      "item": "cgm:specialised_grip"
+    },
+    {
+      "item": "cgm:ballistic_scope"
+    },
+    {
+      "item": "cgm:tactical_stock"
+    },
+    {
+      "item": "cgm:dyeable_tactical_stock"
+    },
+    {
+      "item": "cgm:stabilizing_stock"
+    },
+    {
+      "item": "cgm:carbine_stock"
+    },
+    {
+      "item": "cgm:solid_stock"
+    },
+    {
+      "item": "cgm:stabilizing_stock"
+    },
+    {
+      "item": "cgm:carbine_stock"
+    },
+    {
+      "item": "cgm:solid_stock"
+    },
+    {
+      "item": "cgm:marksman_stock"
+    },
+    {
+      "item": "cgm:weighted_stock"
+    }
+  ],
+  "result": "minecraft:iron_nugget",
+  "experience": 0.0,
+  "cookingtime": 100
+}

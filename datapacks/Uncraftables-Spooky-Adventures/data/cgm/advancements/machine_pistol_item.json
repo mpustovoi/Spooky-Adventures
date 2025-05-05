@@ -5,12 +5,12 @@
       "item": "cgm:machine_pistol"
     },
     "title": {
-      "translate": "advancements.cgm.machine_pistol.title",
+      "translate": "advancements.cgm.get_machine_pistol.title",
       "fallback": "Rapid Bang Bang"
     },
     "description": {
-      "translate": "advancements.cgm.machine_pistol.descr",
-      "fallback": "Create a Machine Pistol"
+      "translate": "advancements.cgm.get_machine_pistol.descr",
+      "fallback": "Assemble a Machine Pistol"
     },
     "frame": "goal",
     "show_toast": true,

@@ -51,6 +51,7 @@
   "entity.hordes.ZombiePlayer.chat": "Zombie %1$s",
   "entity.hordes.ZombiePlayer.name": "Zombie Player",
   "entity.hordes.ZombieProvoker.name": "Zombie Provoker",
+  "entity.hordes.ZombieRedMerchant.name": "Zombie Red Merchant",
   "entity.hordes.ZombieSkirmisher.name": "Zombie Skirmisher",
   "entity.hordes.ZombieSorcerer.name": "Zombie Sorcerer",
   "entity.hordes.ZombieSteve.name": "Zombie Steve",

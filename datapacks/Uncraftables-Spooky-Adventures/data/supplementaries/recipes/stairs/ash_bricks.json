@@ -1,0 +1,40 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "supplementaries:flag",
+      "flag": "ash_bricks"
+    }
+  ],
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "ash_bricks"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "ash_bricks"
+    }
+  ],
+  "type": "crafting_shapeless",
+  "group": "stairs_to_blocks",
+  "ingredients": [
+    {
+      "item": "supplementaries:ash_bricks_stairs"
+    },
+    {
+      "item": "supplementaries:ash_bricks_stairs"
+    },
+    {
+      "item": "supplementaries:ash_bricks_stairs"
+    },
+    {
+      "item": "supplementaries:ash_bricks_stairs"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:ash_bricks",
+    "count": 3
+  }
+}

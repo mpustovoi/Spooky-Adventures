@@ -1,0 +1,57 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_ingot",
+  "ingredient": [
+    {
+      "item": "cgm:pistol"
+    },
+    {
+      "item": "cgm:revolver"
+    },
+    {
+      "item": "cgm:bolt_action_rifle"
+    },
+    {
+      "item": "cgm:uzi"
+    },
+    {
+      "item": "cgm:hunting_shotgun"
+    },
+    {
+      "item": "cgm:machine_pistol"
+    },
+    {
+      "item": "cgm:double_barreled_shotgun"
+    },
+    {
+      "item": "cgm:hunting_rifle"
+    },
+    {
+      "item": "cgm:submachine_gun"
+    },
+    {
+      "item": "cgm:infantry_rifle"
+    },
+    {
+      "item": "cgm:rapid_smg"
+    },
+    {
+      "item": "cgm:shotgun"
+    },
+    {
+      "item": "cgm:rifle"
+    },
+    {
+      "item": "cgm:pump_shotgun"
+    },
+    {
+      "item": "cgm:automatic_sniper_rifle"
+    },
+    {
+      "item": "cgm:sniper_rifle"
+    }
+  ],
+  "result": "minecraft:iron_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

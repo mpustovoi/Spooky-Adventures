@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_block",
+  "ingredient": [
+    {
+      "item": "cgm:workbench"
+    },
+    {
+      "item": "cgm:battle_rifle"
+    },
+    {
+      "item": "cgm:assault_rifle"
+    },
+    {
+      "item": "cgm:automatic_shotgun"
+    },
+    {
+      "item": "cgm:machine_gun"
+    },
+    {
+      "item": "cgm:grenade_launcher"
+    },
+    {
+      "item": "cgm:mini_gun"
+    },
+    {
+      "item": "cgm:bazooka"
+    }
+  ],
+  "result": "minecraft:iron_block",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

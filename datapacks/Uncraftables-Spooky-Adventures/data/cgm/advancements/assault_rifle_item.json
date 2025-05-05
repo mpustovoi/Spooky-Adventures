@@ -5,12 +5,12 @@
       "item": "cgm:assault_rifle"
     },
     "title": {
-      "translate": "advancements.cgm.assault_rifle.title",
+      "translate": "advancements.cgm.get_assault_rifle.title",
       "fallback": "Stormtrooper"
     },
     "description": {
-      "translate": "advancements.cgm.assault_rifle.descr",
-      "fallback": "Create an Assault Rifle"
+      "translate": "advancements.cgm.get_assault_rifle.descr",
+      "fallback": "Assemble an Assault Rifle"
     },
     "frame": "goal",
     "show_toast": true,

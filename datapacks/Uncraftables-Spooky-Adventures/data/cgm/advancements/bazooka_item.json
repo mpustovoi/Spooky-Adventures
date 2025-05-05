@@ -1,16 +1,16 @@
 {
-  "parent": "cgm:root",
+  "parent": "cgm:missile_item",
   "display": {
     "icon": {
       "item": "cgm:bazooka"
     },
     "title": {
-      "translate": "advancements.cgm.bazooka.title",
+      "translate": "advancements.cgm.get_bazooka.title",
       "fallback": "The Demon's Trumpet"
     },
     "description": {
-      "translate": "advancements.cgm.bazooka.descr",
-      "fallback": "Get a Bazooka"
+      "translate": "advancements.cgm.get_bazooka.descr",
+      "fallback": "Make a Bazooka"
     },
     "frame": "challenge",
     "show_toast": true,

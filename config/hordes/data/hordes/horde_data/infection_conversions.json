@@ -20,13 +20,13 @@
   {
     "entity": "minecraft:piglin_brute",
     "converts_to": "minecraft:zombified_piglin",
-    "chance": 1.0,
+    "chance": 0.9,
     "nbt": "{chat_name:\"entity.hordes.ZombifiedPiglinBrute.name\", CustomName:'{\"translate\":\"entity.hordes.ZombifiedPiglinBrute.name\",\"fallback\":\"Zombified Piglin Brute\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:50}], texture:\"hordes:textures/entity/zombified_piglin_brute.png\"}"
   },
   {
     "entity": "piglinproliferation:piglin_alchemist",
     "converts_to": "minecraft:zombified_piglin",
-    "chance": 1.0,
+    "chance": 0.8,
     "nbt": "{chat_name:\"entity.hordes.ZombifiedPiglinAlchemist.name\", CustomName:'{\"translate\":\"entity.hordes.ZombifiedPiglinAlchemist.name\",\"fallback\":\"Zombified Piglin Alchemist\",\"italic\":false}', ActiveEffects:[{Id:5,Amplifier:1b,Duration:-1,ShowParticles:0b},{Id:10,Amplifier:1b,Duration:-1,ShowParticles:0b}], texture:\"hordes:textures/entity/zombified_piglin_alchemist.png\"}"
   },
   {
@@ -43,79 +43,79 @@
   {
     "entity": "minecraft:enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.75,
     "nbt": "{Health:40f, Attributes:[{Name:generic.max_health,Base:40}]}"
   },
   {
     "entity": "farlanders:classic_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.75,
     "nbt": "{Health:40f, Attributes:[{Name:generic.max_health,Base:40}]}"
   },
   {
     "entity": "farlanders:mystic_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.6,
     "nbt": "{Health:40f, ActiveEffects:[{Id:28,Amplifier:0b,Duration:-1,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:40}]}"
   },
   {
     "entity": "farlanders:fanmade_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.75,
     "nbt": "{Health:40f, Attributes:[{Name:generic.max_health,Base:40}]}"
   },
   {
     "entity": "endermanoverhaul:axolotl_pet_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.85,
     "nbt": "{Health:30f, Attributes:[{Name:generic.max_health,Base:30}]}"
   },
   {
     "entity": "endermanoverhaul:badlands_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.85,
     "nbt": "{Health:40f, Attributes:[{Name:generic.max_health,Base:40}]}"
   },
   {
     "entity": "endermanoverhaul:end_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.7,
     "nbt": "{Health:40f, Attributes:[{Name:generic.max_health,Base:40}]}"
   },
   {
     "entity": "endermanoverhaul:end_islands_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.7,
     "nbt": "{ActiveEffects:[{Id:6,Amplifier:19b,Duration:9}], Attributes:[{Name:generic.max_health,Base:80}]}"
   },
   {
     "entity": "endermanoverhaul:hammerhead_pet_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.85,
     "nbt": "{Health:50f, Attributes:[{Name:generic.max_health,Base:50}]}"
   },
   {
     "entity": "endermanoverhaul:pet_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.8,
     "nbt": "{Health:40f, Attributes:[{Name:generic.max_health,Base:40}]}"
   },
   {
     "entity": "endermanoverhaul:savanna_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.85,
     "nbt": "{Health:40f, Attributes:[{Name:generic.max_health,Base:40}]}"
   },
   {
     "entity": "endermanoverhaul:snowy_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.85,
     "nbt": "{Health:35f, Attributes:[{Name:generic.max_health,Base:35}]}"
   },
   {
     "entity": "mutantmonsters:mutant_enderman",
     "converts_to": "graveyard:nightmare",
-    "chance": 1.0,
+    "chance": 0.25,
     "nbt": "{ActiveEffects:[{Id:4,Amplifier:1b,Duration:-1,ShowParticles:0b},{Id:6,Amplifier:19b,Duration:9}], Attributes:[{Name:generic.max_health,Base:200}]}"
   },
   {
@@ -144,43 +144,49 @@
   {
     "entity": "minecraft:evoker",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.75,
     "nbt": "{chat_name:\"entity.hordes.ZombieEvoker.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieEvoker.name\",\"fallback\":\"Zombie Evoker\",\"italic\":false}', HandItems:[{},{id:\"minecraft:totem_of_undying\",Count:1b}], ActiveEffects:[{Id:1,Amplifier:1b,Duration:-1,ShowParticles:0b},{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:24}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_evoker.png\"}"
   },
   {
     "entity": "minecraft:illusioner",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.8,
     "nbt": "{chat_name:\"entity.hordes.ZombieIllusioner.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieIllusioner.name\",\"fallback\":\"Zombie Illusioner\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:32}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_illusioner.png\"}"
   },
   {
     "entity": "minecraft:witch",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.8,
     "nbt": "{chat_name:\"entity.hordes.ZombieWitch.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieWitch.name\",\"fallback\":\"Zombie Witch\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b},{Id:10,Amplifier:0b,Duration:-1,ShowParticles:0b},{Id:12,Amplifier:0b,Duration:-1,ShowParticles:0b},{Id:13,Amplifier:0b,Duration:-1,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:26}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_witch.png\"}"
   },
   {
     "entity": "alexscaves:licowitch",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.75,
     "nbt": "{chat_name:\"entity.hordes.ZombieWitch.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieWitch.name\",\"fallback\":\"Zombie Witch\",\"italic\":false}', ActiveEffects:[{Id:1,Amplifier:1b,Duration:-1,ShowParticles:0b},{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b},{Id:12,Amplifier:0b,Duration:-1,ShowParticles:0b},{Id:13,Amplifier:0b,Duration:-1,ShowParticles:0b},{Id:28,Amplifier:0b,Duration:-1,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:40}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_witch.png\"}"
+  },
+  {
+    "entity": "supplementaries:red_merchant",
+    "converts_to": "minecraft:zombie_villager",
+    "chance": 1.0,
+    "nbt": "{chat_name:\"entity.hordes.ZombieRedMerchant.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieRedMerchant.name\",\"fallback\":\"Zombie Red Merchant\",\"italic\":false}', texture:\"hordes:textures/entity/zombie_red_merchant.png\"}"
   },
   {
     "entity": "friendsandfoes:iceologer",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.8,
     "nbt": "{chat_name:\"entity.hordes.ZombieIceologer.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieIceologer.name\",\"fallback\":\"Zombie Iceologer\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:40}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_iceologer.png\"}"
   },
   {
     "entity": "hunters_return:hunter",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.85,
     "nbt": "{chat_name:\"entity.hordes.ZombieHunter.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieHunter.name\",\"fallback\":\"Zombie Hunter\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], HandItems:[{id:\"minecraft:wooden_sword\",Count:1b,tag:{Enchantments:[{id:\"minecraft:looting\",lvl:5s}],AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Name:\"generic.attack_damage\",Amount:7,Operation:0,UUID:[I;-1145616496,1688095340,-1124657205,-1526722111],Slot:\"mainhand\"},{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:-2.1,Operation:0,UUID:[I;-813791178,5327586,-1468092284,548836142],Slot:\"mainhand\"}]}},{id:\"hunters_return:boomerang\",Count:1b,tag:{Enchantments:[{id:\"hunters_return:boomerang\",lvl:3s}]}}], Attributes:[{Name:generic.max_health,Base:26}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_iceologer.png\"}"
   },
   {
     "entity": "illagerinvasion:alchemist",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.8,
     "nbt": "{chat_name:\"entity.hordes.ZombieAlchemist.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieAlchemist.name\",\"fallback\":\"Zombie Alchemist\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:24}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_alchemist.png\"}"
   },
   {
@@ -192,25 +198,25 @@
   {
     "entity": "illagerinvasion:basher",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.9,
     "nbt": "{chat_name:\"entity.hordes.ZombieBasher.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieBasher.name\",\"fallback\":\"Zombie Basher\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:32}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_basher.png\"}"
   },
   {
     "entity": "illagerinvasion:firecaller",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.8,
     "nbt": "{chat_name:\"entity.hordes.ZombieFirecaller.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieFirecaller.name\",\"fallback\":\"Zombie Firecaller\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:32}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_firecaller.png\"}"
   },
   {
     "entity": "illagerinvasion:inquisitor",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.75,
     "nbt": "{chat_name:\"entity.hordes.ZombieInquisitor.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieInquisitor.name\",\"fallback\":\"Zombie Inquisitor\",\"italic\":false}', ActiveEffects:[{Id:5,Amplifier:2b,Duration:-1,ShowParticles:0b},{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:80},{Name:generic.armor,Base:4}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_inquisitor.png\"}"
   },
   {
     "entity": "illagerinvasion:invoker",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.6,
     "nbt": "{chat_name:\"entity.hordes.ZombieInvoker.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieInvoker.name\",\"fallback\":\"Zombie Invoker\",\"italic\":false}', HandItems:[{id:\"minecraft:totem_of_undying\",Count:1b},{id:\"minecraft:totem_of_undying\",Count:1b}], ActiveEffects:[{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b},{Id:28,Amplifier:0b,Duration:-1,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:250}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_invoker.png\"}"
   },
   {
@@ -228,7 +234,7 @@
   {
     "entity": "illagerinvasion:sorcerer",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.8,
     "nbt": "{chat_name:\"entity.hordes.ZombieSorcerer.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieSorcerer.name\",\"fallback\":\"Zombie Sorcerer\",\"italic\":false}', ActiveEffects:[{Id:1,Amplifier:0b,Duration:-1,ShowParticles:0b},{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:32}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_sorcerer.png\"}"
   },
   {
@@ -246,7 +252,7 @@
   {
     "entity": "takesapillage:legioner",
     "converts_to": "minecraft:zombie_villager",
-    "chance": 1.0,
+    "chance": 0.75,
     "nbt": "{chat_name:\"entity.hordes.ZombieLegioner.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieLegioner.name\",\"fallback\":\"Zombie Legioner\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9,ShowParticles:0b}], Attributes:[{Name:generic.max_health,Base:40},{Name:generic.armor,Base:8}], VillagerData:{type:none}, texture:\"hordes:textures/entity/zombie_legioner.png\"}"
   },
   {

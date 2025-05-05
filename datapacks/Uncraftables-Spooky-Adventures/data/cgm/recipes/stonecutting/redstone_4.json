@@ -1,13 +1,13 @@
 {
-	"type": "minecraft:stonecutting",
-	"ingredient": [
-		{
-			"item": "cgm:bazooka"
-		},
-		{
-			"item": "cgm:medium_scope"
-		}
-	],
-	"result": "minecraft:redstone",
-	"count": 4
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "cgm:bazooka"
+    },
+    {
+      "item": "cgm:medium_scope"
+    }
+  ],
+  "result": "minecraft:redstone",
+  "count": 4
 }

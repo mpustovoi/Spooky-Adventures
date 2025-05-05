@@ -5,12 +5,12 @@
       "item": "cgm:stun_grenade"
     },
     "title": {
-      "translate": "advancements.cgm.stun_grenade.title",
+      "translate": "advancements.cgm.get_stun_grenade.title",
       "fallback": "Cover Your Eyes and Close Your Ears!"
     },
     "description": {
-      "translate": "advancements.cgm.stun_grenade.descr",
-      "fallback": "Get a Stun Grenade"
+      "translate": "advancements.cgm.get_stun_grenade.descr",
+      "fallback": "Make a Stun Grenade"
     },
     "frame": "goal",
     "show_toast": true,

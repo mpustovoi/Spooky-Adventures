@@ -5,12 +5,12 @@
       "item": "cgm:sniper_rifle"
     },
     "title": {
-      "translate": "advancements.cgm.sniper_rifle.title",
+      "translate": "advancements.cgm.get_sniper_rifle.title",
       "fallback": "Beginner Sniper"
     },
     "description": {
-      "translate": "advancements.cgm.sniper_rifle.descr",
-      "fallback": "Create a Sniper Rifle"
+      "translate": "advancements.cgm.get_sniper_rifle.descr",
+      "fallback": "Assemble a Sniper Rifle"
     },
     "frame": "goal",
     "show_toast": true,
