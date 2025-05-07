@@ -3,13 +3,7 @@
   "group": "netherite_scrap",
   "ingredient": [
     {
-      "item": "supplementaries:safe"
-    },
-    {
-      "item": "supplementaries:netherite_door"
-    },
-    {
-      "item": "supplementaries:netherite_trapdoor"
+      "item": "farmersdelight:netherite_knife"
     }
   ],
   "result": "minecraft:netherite_scrap",

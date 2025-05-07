@@ -3,12 +3,6 @@
   "group": "copper_ingot",
   "ingredient": [
     {
-      "item": "minecraft:brush"
-    },
-    {
-      "item": "minecraft:spyglass"
-    },
-    {
       "item": "minecraft:lightning_rod"
     }
   ],

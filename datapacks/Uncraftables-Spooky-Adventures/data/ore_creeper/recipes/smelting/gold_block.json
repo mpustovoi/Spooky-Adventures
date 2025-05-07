@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_block",
+  "ingredient": [
+    {
+      "item": "ore_creeper:gold_creeper_spawn_egg"
+    },
+    {
+      "item": "ore_creeper:nether_gold_creeper_spawn_egg"
+    }
+  ],
+  "result": "minecraft:gold_block",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

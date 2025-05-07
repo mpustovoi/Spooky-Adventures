@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_block",
+  "ingredient": [
+    {
+      "item": "ore_creeper:iron_creeper_spawn_egg"
+    }
+  ],
+  "result":  "minecraft:iron_block",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

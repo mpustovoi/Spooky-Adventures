@@ -4,6 +4,15 @@
   "ingredient": [
     {
       "item": "suppsquared:iron_plaque"
+    },
+    {
+      "item": "suppsquared:metal_frame"
+    },
+    {
+      "item": "suppsquared:metal_brace"
+    },
+    {
+      "item": "suppsquared:metal_cross_brace"
     }
   ],
   "result": "minecraft:iron_nugget",

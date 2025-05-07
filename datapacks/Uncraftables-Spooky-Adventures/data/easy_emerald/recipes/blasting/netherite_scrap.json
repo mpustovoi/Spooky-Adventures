@@ -10,6 +10,9 @@
     },
     {
       "item": "easy_emerald:netherite_paxel"
+    },
+    {
+      "item": "easy_emerald:netherite_treeaxe"
     }
   ],
   "result": "minecraft:netherite_scrap",

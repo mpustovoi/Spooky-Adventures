@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "easy_emeralds",
+  "key": {
+    "a": {
+      "item": "minecraft:netherite_axe"
+    },
+    "b": {
+      "item": "minecraft:netherite_shovel"
+    },
+    "c": {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "d": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": ["abc", " d ", " d "],
+  "result": {
+    "count": 1,
+    "item": "easy_emerald:netherite_paxel"
+  }
+}

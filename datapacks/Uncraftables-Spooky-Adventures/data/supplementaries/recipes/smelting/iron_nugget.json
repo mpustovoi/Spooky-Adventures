@@ -6,6 +6,18 @@
       "item": "supplementaries:iron_gate"
     },
     {
+      "item": "supplementaries:wind_vane"
+    },
+    {
+      "item": "supplementaries:pulley_block"
+    },
+    {
+      "item": "supplementaries:goblet"
+    },
+    {
+      "item": "supplementaries:relayer"
+    },
+    {
       "item": "supplementaries:bubble_blower"
     }
   ],

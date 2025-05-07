@@ -71,6 +71,7 @@
   "message.hordes.EventStart": "Поблизости слышится вой бродячей орды",
   "message.hordes.title": "Бродячие орды",
   "message.hordes.TrySleep": "Чувство надвигающегося ужаса мешает вам заснуть",
+  "tag.item.hordes.infection_cures": "Лечит зомби-инфекцию",
   "tooltip.hordes.cure": "Лечит зомби-инфекцию",
   "tooltip.hordes.wearableProtection": "Устойчивость к зомби-инфекции"
 }

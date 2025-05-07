@@ -4,6 +4,9 @@
   "ingredient": [
     {
       "item": "suppsquared:gold_plaque"
+    },
+    {
+      "item": "suppsquared:crimson_lantern"
     }
   ],
   "result": "minecraft:gold_nugget",
