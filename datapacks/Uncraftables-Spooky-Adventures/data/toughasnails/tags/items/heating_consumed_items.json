@@ -30,6 +30,10 @@
       "required": false
     },
     {
+      "id": "mynethersdelight:enchanted_golden_egg",
+      "required": false
+    },
+    {
       "id": "mynethersdelight:hot_cream",
       "required": false
     },

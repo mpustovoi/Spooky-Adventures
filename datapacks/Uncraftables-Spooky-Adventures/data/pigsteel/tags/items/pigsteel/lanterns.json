@@ -1,0 +1,12 @@
+{
+  "values": [
+    "pigsteel:pigsteel_lantern",
+    "pigsteel:infected_pigsteel_lantern",
+    "pigsteel:corrupted_pigsteel_lantern",
+    "pigsteel:zombified_pigsteel_lantern",
+    "pigsteel:waxed_pigsteel_lantern",
+    "pigsteel:waxed_infected_pigsteel_lantern",
+    "pigsteel:waxed_corrupted_pigsteel_lantern",
+    "pigsteel:waxed_zombified_pigsteel_lantern"
+  ]
+}

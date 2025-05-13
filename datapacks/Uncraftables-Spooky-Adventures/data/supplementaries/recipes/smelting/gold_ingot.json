@@ -3,9 +3,6 @@
   "group": "gold_ingot",
   "ingredient": [
     {
-      "item": "supplementaries:gold_gate"
-    },
-    {
       "item": "supplementaries:gold_door"
     },
     {

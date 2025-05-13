@@ -6,13 +6,16 @@
       "item": "travelersbackpack:iron"
     },
     {
-      "item": "travelersbackpack:backpack_tank"
-    },
-    {
-      "item": "travelersbackpack:hose_nozzle"
+      "item": "travelersbackpack:iron_golem"
     },
     {
       "item": "travelersbackpack:iron_tier_upgrade"
+    },
+    {
+      "item": "travelersbackpack:blast_furnace_upgrade"
+    },
+    {
+      "item": "travelersbackpack:pickup_upgrade"
     }
   ],
   "result": "minecraft:iron_ingot",

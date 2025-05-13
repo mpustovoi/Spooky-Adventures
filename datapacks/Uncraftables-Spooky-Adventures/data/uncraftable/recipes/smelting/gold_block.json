@@ -4,6 +4,9 @@
   "ingredient": [
     {
       "item": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "item": "minecraft:piglin_brute_spawn_egg"
     }
   ],
   "result": "minecraft:gold_block",

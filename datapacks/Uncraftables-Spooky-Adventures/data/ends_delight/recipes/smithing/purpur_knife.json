@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "ends_delight:end_stone_knife"
-	},
-	"addition": {
-		"item": "minecraft:popped_chorus_fruit"
-	},
-	"result": {
-		"item": "ends_delight:purpur_knife"
-	},
-	"template": {
-		"item": "minecraft:popped_chorus_fruit"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "ends_delight:end_stone_knife"
+  },
+  "addition": {
+    "item": "minecraft:popped_chorus_fruit"
+  },
+  "result": {
+    "item": "ends_delight:purpur_knife"
+  },
+  "template": {
+    "item": "minecraft:popped_chorus_fruit"
+  }
 }

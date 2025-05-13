@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "pigsteel:refined_pigsteel"
+    }
+  ],
+  "result": "pigsteel:pigsteel_chunk",
+  "count": 4
+}

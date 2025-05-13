@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_nugget",
+  "ingredient": [
+    {
+      "item": "exposure:color_film"
+    },
+    {
+      "item": "exposure:high_sensitivity_color_film"
+    },
+    {
+      "item": "exposure:developed_color_film"
+    }
+  ],
+  "result": "minecraft:gold_nugget",
+  "experience": 0.0,
+  "cookingtime": 200
+}

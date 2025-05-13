@@ -3,28 +3,7 @@
   "group": "gold_ingot",
   "ingredient": [
     {
-      "item": "immersive_armors:steampunk_helmet"
-    },
-    {
-      "item": "immersive_armors:steampunk_chestplate"
-    },
-    {
-      "item": "immersive_armors:steampunk_leggings"
-    },
-    {
-      "item": "immersive_armors:steampunk_boots"
-    },
-    {
-      "item": "immersive_armors:divine_helmet"
-    },
-    {
       "item": "immersive_armors:divine_chestplate"
-    },
-    {
-      "item": "immersive_armors:divine_leggings"
-    },
-    {
-      "item": "immersive_armors:divine_boots"
     }
   ],
   "result": "minecraft:gold_ingot",

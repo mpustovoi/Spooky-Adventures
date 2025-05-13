@@ -1,5 +1,5 @@
 {
-  "parent": "tacz:get_any_ammo",
+  "parent": "tacz:get_any_gun",
   "display": {
     "icon": {
       "item": "tacz:statue"

@@ -7,11 +7,14 @@
 
 ### ➖ Удалено:
 
+- 🌫 **BSL Shaders** (заменён) — Никогда не подходили этому модпаку.
+- 🌫 **Complementary Shaders - Reimagined** — Та же причина.
 - **Mod 1** (причина) — Пояснение. (Далее отсутствие пояснения будет означать это же)
 - **Mod 2**
 
 ### ➕ Добавлено:
 
+- 🌫 **Hysteria Shaders** (замена) — Преемник **Insanity Shaders**, о которой я недавно узнал и которая работает с **Distant Horizons**.
 - **Mod 1** (причина) — Пояснение. (Далее отсутствие пояснения будет означать это же)
 - **Mod 2**
 
@@ -22,6 +25,7 @@
   - Деловой торговец из **Supplementaries** теперь имеет особую текстуру при зомбифицировании.
 - Набор данных **Uncraftables**:
   - Добавлено несколько рецептов из **The Creeper's Code**.
+  - Переработаны (ухудшены) многие рецепты переработки в печи. Добавлено несколько новых.
   - Переработаны рецепты переработки для **MrCrayfish's Gun Mod**, уменьшен их выход. Добавлено два новых достижения. Корневое достижение более не является скрытым.
   - Добавлено несколько новых достижений для **[TaCZ]**. Корневое достижение более не является скрытым.
   - Убраны многие дублирующиеся рецепты.
@@ -47,11 +51,14 @@ Description.
 
 ### ➖ Removed:
 
+- 🌫 **BSL Shaders** (replaced) — Never suited this modpack.
+- 🌫 **Complementary Shaders - Reimagined** — The same reason.
 - **Mod 1** (reason) — Explanation. (Further, the absence of a explanation will mean the same thing)
 - **Mod 2**
 
 ### ➕ Added:
 
+- 🌫 **Hysteria Shaders** (replacement) — A successor of **Insanity Shaders**, which I recently learned about and which works with **Distant Horizons**.
 - **Mod 1** (reason) — Explanation. (Further, the absence of a explanation will mean the same thing)
 - **Mod 2**
 
@@ -62,6 +69,7 @@ Description.
   - The Red Merchant from **Supplementaries** now has his own texture when zombified.
 - **Uncraftables** data pack:
   - Added several recipes from **The Creeper's Code**.
+  - Reworked (nerfed) many furnace recycling recipes. Added some new ones.
   - Reworked and nerfed **MrCrayfish's Gun Mod**'s recycling recipes. Added two new advancements. The root advancement is no longer hidden.
   - Added some new advancements for **[TaCZ]**. The root advancement is no longer hidden.
   - Removed many duplicate recipes.

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "weeping_angels:timey_wimey_detector"
+    }
+  ],
+  "result": "minecraft:iron_nugget",
+  "experience": 0.0,
+  "cookingtime": 200
+}

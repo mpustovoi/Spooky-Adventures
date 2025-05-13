@@ -4,8 +4,12 @@
 	HoldToAim = true
 	#True if you want to hold the crawl button to crawl
 	HoldToCrawl = false
+	#Try to reload automatically when the gun is empty
+	AutoReload = false
 
 [render]
+	#Whether or not apply fadeout effect on the laser beam. Close this may improve laser performance under some shaders.
+	EnableLaserFadeOut = true
 	#How far to display the lod model, 0 means always display
 	#Range: > 0
 	GunLodRenderDistance = 0
@@ -39,9 +43,11 @@
 	DisableInteractHudText = false
 	#Max time the damage counter will reset
 	#Range: > 10
-	DamageCounterResetTime = 1200
+	DamageCounterResetTime = 2000
 	#Disable the fov effect from the movement speed attribute while holding a gun
 	DisableMovementAttributeFov = true
+	#Enable the display of the TACZ ID in the tooltip when Advanced Tooltip is enabled
+	EnableTaczIdInTooltip = true
 
 [Zoom]
 	#Screen distance coefficient for zoom, using MDV standard, default is MDV133
@@ -50,4 +56,3 @@
 	#Zoom sensitivity is multiplied by this factor
 	#Range: 0.0 ~ 2.0
 	ZoomSensitivityBaseMultiplier = 1.0
-

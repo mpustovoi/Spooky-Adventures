@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "travelersbackpack:backpack_tank"
+    },
+    {
+      "item": "travelersbackpack:hose_nozzle"
+    },
+    {
+      "item": "travelersbackpack:hose"
+    },
+    {
+      "item": "travelersbackpack:tanks_upgrade"
+    },
+    {
+      "item": "travelersbackpack:magnet_upgrade"
+    }
+  ],
+  "result": "minecraft:iron_nugget",
+  "experience": 0.0,
+  "cookingtime": 200
+}

@@ -3,15 +3,6 @@
   "group": "iron_block",
   "ingredient": [
     {
-      "item": "minecraft:anvil"
-    },
-    {
-      "item": "minecraft:chipped_anvil"
-    },
-    {
-      "item": "minecraft:damaged_anvil"
-    },
-    {
       "item": "minecraft:iron_golem_spawn_egg"
     }
   ],

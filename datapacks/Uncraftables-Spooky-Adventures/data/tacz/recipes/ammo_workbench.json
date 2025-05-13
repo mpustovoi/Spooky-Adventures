@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CNC", "BWB", "IXI"],
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:copper_block"
+      },
+      {
+        "item": "minecraft:waxed_copper_block"
+      }
+    ],
+    "N": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "W": {
+      "item": "cgm:workbench"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "X": {
+      "item": "tacz:ammo_box"
+    }
+  },
+  "result": {
+    "item": "tacz:workbench_a",
+    "nbt": {
+      "BlockId": "tacz:ammo_workbench"
+    }
+  }
+}

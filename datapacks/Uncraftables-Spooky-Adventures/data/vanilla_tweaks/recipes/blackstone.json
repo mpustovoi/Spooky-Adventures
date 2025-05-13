@@ -6,11 +6,11 @@
       "item": "minecraft:basalt"
     },
     "$": {
-      "tag": "minecraft:coals"
+      "item": "minecraft:coal"
     }
   },
   "result": {
     "item": "minecraft:blackstone",
-    "count": 4
+    "count": 2
   }
 }

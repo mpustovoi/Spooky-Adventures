@@ -1,0 +1,35 @@
+{
+  "parent": "tacz:root",
+  "display": {
+    "icon": {
+      "item": "tacz:ammo_workbench"
+    },
+    "title": {
+      "translate": "advancements.tacz.get_ammo_workbench.title",
+      "fallback": "There is no 'Too Much Ammo'"
+    },
+    "description": {
+      "translate": "advancements.tacz.get_ammo_workbench.descr",
+      "fallback": "Create an Ammo Assembly Table"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_ammo_workbench": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["tacz:ammo_workbench"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

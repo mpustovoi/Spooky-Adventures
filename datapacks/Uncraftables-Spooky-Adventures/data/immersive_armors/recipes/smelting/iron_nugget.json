@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smelting",
+  "group": "iron_nugget",
+  "ingredient": [
+    {
+      "item": "immersive_armors:warrior_helmet"
+    },
+    {
+      "item": "immersive_armors:warrior_chestplate"
+    },
+    {
+      "item": "immersive_armors:warrior_leggings"
+    },
+    {
+      "item": "immersive_armors:warrior_boots"
+    }
+  ],
+  "result": "minecraft:iron_nugget",
+  "experience": 0.0,
+  "cookingtime": 200
+}

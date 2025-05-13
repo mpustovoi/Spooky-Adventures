@@ -4,9 +4,6 @@
   "ingredient": [
     {
       "item": "exposure:camera"
-    },
-    {
-      "item": "exposure:black_and_white_film"
     }
   ],
   "result": "minecraft:iron_ingot",

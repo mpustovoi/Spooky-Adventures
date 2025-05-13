@@ -1,10 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "QQQ",
-    "QNQ",
-    "QQQ"
-  ],
+  "pattern": ["QQQ", "QNQ", "QQQ"],
   "key": {
     "Q": {
       "item": "minecraft:quartz"

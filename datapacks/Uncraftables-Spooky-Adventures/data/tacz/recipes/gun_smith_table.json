@@ -1,12 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": ["LNL", "BWB", "ISI"],
+  "pattern": ["LSL", "BWB", "INI"],
   "key": {
     "L": {
       "tag": "minecraft:logs"
     },
-    "I": {
-      "tag": "forge:ingots/iron"
+    "S": {
+      "item": "minecraft:netherite_scrap"
     },
     "B": {
       "item": "minecraft:iron_block"
@@ -14,11 +14,11 @@
     "W": {
       "item": "cgm:workbench"
     },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
     "N": {
       "item": "minecraft:netherite_ingot"
-    },
-    "S": {
-      "item": "minecraft:netherite_scrap"
     }
   },
   "result": {

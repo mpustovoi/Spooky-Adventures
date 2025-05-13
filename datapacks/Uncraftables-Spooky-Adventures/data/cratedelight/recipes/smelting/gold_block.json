@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_block",
+  "ingredient": [
+    {
+      "item": "cratedelight:golden_apple_crate"
+    }
+  ],
+  "result": "minecraft:gold_block",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

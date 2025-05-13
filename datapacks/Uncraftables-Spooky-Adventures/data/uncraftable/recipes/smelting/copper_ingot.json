@@ -3,7 +3,7 @@
   "group": "copper_ingot",
   "ingredient": [
     {
-      "item": "minecraft:lightning_rod"
+      "tag": "uncraftable:copper/lightning_rods"
     }
   ],
   "result": "minecraft:copper_ingot",

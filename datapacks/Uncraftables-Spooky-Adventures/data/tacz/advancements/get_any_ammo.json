@@ -1,5 +1,5 @@
 {
-  "parent": "tacz:get_any_gun",
+  "parent": "tacz:get_ammo_workbench",
   "display": {
     "icon": {
       "item": "minecraft:gunpowder"

@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:egg",
+    {
+      "id": "friendsandfoes:crab_egg",
+      "required": false
+    }
+  ]
+}

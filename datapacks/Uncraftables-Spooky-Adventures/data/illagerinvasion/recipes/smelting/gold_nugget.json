@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_nugget",
+  "ingredient": [
+    {
+      "item": "illagerinvasion:horn_of_sight"
+    }
+  ],
+  "result": "minecraft:gold_nugget",
+  "experience": 0.0,
+  "cookingtime": 200
+}

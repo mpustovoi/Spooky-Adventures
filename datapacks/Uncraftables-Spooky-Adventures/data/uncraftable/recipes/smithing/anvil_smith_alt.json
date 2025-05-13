@@ -4,12 +4,12 @@
     "item": "minecraft:damaged_anvil"
   },
   "addition": {
-    "item": "minecraft:iron_block"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
-    "item": "minecraft:anvil"
+    "item": "minecraft:chipped_anvil"
   },
   "template": {
-    "item": "minecraft:iron_ingot"
+    "item": "minecraft:iron_nugget"
   }
 }

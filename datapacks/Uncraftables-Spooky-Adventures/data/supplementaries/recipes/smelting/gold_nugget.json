@@ -3,10 +3,16 @@
   "group": "gold_nugget",
   "ingredient": [
     {
+      "item": "supplementaries:gold_gate"
+    },
+    {
+      "item": "supplementaries:hourglass"
+    },
+    {
       "item": "supplementaries:key"
     }
   ],
   "result": "minecraft:gold_nugget",
   "experience": 0.0,
-  "cookingtime": 20
+  "cookingtime": 200
 }

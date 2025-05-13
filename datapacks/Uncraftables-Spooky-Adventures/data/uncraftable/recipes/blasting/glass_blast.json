@@ -1,14 +1,14 @@
 {
   "type": "minecraft:blasting",
   "ingredient": [
-		{
-    	"item": "minecraft:red_sand"
-  	},
-		{
-			"item": "minecraft:sand"
-		}
-	],
+    {
+      "item": "minecraft:red_sand"
+    },
+    {
+      "item": "minecraft:sand"
+    }
+  ],
   "result": "minecraft:glass",
   "experience": 0.1,
-  "cookingtime": 80
+  "cookingtime": 100
 }

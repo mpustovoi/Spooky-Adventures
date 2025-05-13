@@ -1,6 +1,9 @@
 {
   "logbegone": {
     "phrases": [
+      "Found mod file",
+      "Found library file",
+      "Fabric mod and cannot be loaded",
       "Disconnecting VANILLA connection attempt",
       "Channels ",
       "Molang is not supported",
@@ -12,7 +15,6 @@
       "Skipping loading recipe",
       "apply rainbow color layer",
       "apply radiation glow layer",
-      "SetAttributesLootFunctionAccessor",
       "Invalid statistic",
       "Tried to load unrecognized recipe",
       "Ignored advancement",
