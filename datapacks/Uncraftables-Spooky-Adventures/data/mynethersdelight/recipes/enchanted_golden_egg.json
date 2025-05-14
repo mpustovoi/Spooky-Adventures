@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "E": {
+      "item": "mynethersdelight:golden_egg"
+    },
+    "H": {
+      "tag": "mynethersdelight:hot_spice"
+    }
+  },
+  "pattern": [
+    "HGH",
+    "GEG",
+    "HGH"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mynethersdelight:enchanted_golden_egg"
+  }
+}
