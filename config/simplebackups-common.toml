@@ -28,7 +28,7 @@ sendMessages = true
 #Valid storage types: B, KB, MB, GB, TB
 maxDiskSize = "12 GB"
 #Used to define the output path.
-outputPath = "simple_backups"
+outputPath = "simplebackups"
 #Create backups, even if nobody is online
 noPlayerBackups = false
 #Should sub-directories be generated for each world?

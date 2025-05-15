@@ -3,20 +3,16 @@
 
 ## 2.1: Обновление «Полировка Горизонтов»
 
-Описание.
+⚠ Пожалуйста, выполните команду `/simplebackups backup start`, чтобы выполнить принудительную полную резервную копию вашего мира для правильной работы мода **Simple Backups**. Новые резервные копии будут храниться в папке `simplebackups`, а старые вы можете найти в `simple_backups`.
 
-### ➖ Удалено:
+### ➖ Удалено (0 модов):
 
 - 🌫 **BSL Shaders** (заменён) — Никогда не подходили этому модпаку.
 - 🌫 **Complementary Shaders - Reimagined** — Та же причина.
-- **Mod 1** (причина) — Пояснение. (Далее отсутствие пояснения будет означать это же)
-- **Mod 2**
 
-### ➕ Добавлено:
+### ➕ Добавлено (0 модов):
 
 - 🌫 **Hysteria Shaders** (замена) — Преемник **Insanity Shaders**, о которой я недавно узнал и которая работает с **Distant Horizons**.
-- **Mod 1** (причина) — Пояснение. (Далее отсутствие пояснения будет означать это же)
-- **Mod 2**
 
 ### 🔁 Обновлено:
 
@@ -53,20 +49,16 @@
 
 ## 2.1: The "Polishing Horizons" update
 
-Description.
+⚠ Please run the `/simplebackups backup start` command to force a full backup of your world for proper operation of **Simple Backups** mod. The new backups will be stored in the `simplebackups` folder, and you can find the old ones in `simple_backups` one.
 
-### ➖ Removed:
+### ➖ Removed (0 mods):
 
 - 🌫 **BSL Shaders** (replaced) — Never suited this modpack.
 - 🌫 **Complementary Shaders - Reimagined** — The same reason.
-- **Mod 1** (reason) — Explanation. (Further, the absence of a explanation will mean the same thing)
-- **Mod 2**
 
-### ➕ Added:
+### ➕ Added (0 mods):
 
 - 🌫 **Hysteria Shaders** (replacement) — A successor of **Insanity Shaders**, which I recently learned about and which works with **Distant Horizons**.
-- **Mod 1** (reason) — Explanation. (Further, the absence of a explanation will mean the same thing)
-- **Mod 2**
 
 ### 🔁 Updated:
 
