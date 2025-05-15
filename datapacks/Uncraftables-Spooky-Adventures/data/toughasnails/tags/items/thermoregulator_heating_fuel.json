@@ -51,7 +51,7 @@
     {
       "id": "brewinandchewin:heating_cask",
       "required": false
-    },  
+    },
     {
       "id": "brewinandchewin:fiery_fondue_pot",
       "required": false
@@ -62,6 +62,14 @@
     },
     {
       "id": "travelersbackpack:magma_cube",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:nether",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:blaze",
       "required": false
     },
     {

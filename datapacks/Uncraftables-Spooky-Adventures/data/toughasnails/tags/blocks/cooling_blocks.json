@@ -103,6 +103,10 @@
       "required": false
     },
     {
+      "id": "travelersbackpack:enderman",
+      "required": false
+    },
+    {
       "id": "silentsdelight:plated_warden_heart",
       "required": false
     },
@@ -112,10 +116,6 @@
     },
     {
       "id": "sculkhorde:sculk_node",
-      "required": false
-    },
-    {
-      "id": "travelersbackpack:enderman",
       "required": false
     },
     {
@@ -140,6 +140,30 @@
     },
     {
       "id": "enderitemod:enderite_shulker_box",
+      "required": false
+    },
+    {
+      "id": "structure_gel:red_gel",
+      "required": false
+    },
+    {
+      "id": "structure_gel:blue_gel",
+      "required": false
+    },
+    {
+      "id": "structure_gel:green_gel",
+      "required": false
+    },
+    {
+      "id": "structure_gel:cyan_gel",
+      "required": false
+    },
+    {
+      "id": "structure_gel:orange_gel",
+      "required": false
+    },
+    {
+      "id": "structure_gel:yellow_gel",
       "required": false
     }
   ]

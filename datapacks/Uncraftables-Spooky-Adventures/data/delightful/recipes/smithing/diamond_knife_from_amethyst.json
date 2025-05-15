@@ -1,13 +1,13 @@
 {
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "additionaladditions:rose_gold_leggings"
+    "item": "delightful:amethyst_knife"
   },
   "addition": {
-    "item": "minecraft:diamond"
+    "item": "minecraft:diamond_block"
   },
   "result": {
-    "item": "minecraft:diamond_leggings"
+    "item": "farmersdelight:diamond_knife"
   },
   "template": {
     "item": "minecraft:diamond"

@@ -1,13 +1,13 @@
 {
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "minecraft:crossbow"
+    "item": "delightful:copper_knife"
   },
   "addition": {
-    "item": "minecraft:spyglass"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
-    "item": "additionaladditions:crossbow_with_spyglass"
+    "item": "farmersdelight:iron_knife"
   },
   "template": {
     "item": "minecraft:iron_ingot"

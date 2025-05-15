@@ -2,7 +2,7 @@
   "parent": "tacz:root",
   "display": {
     "icon": {
-      "item": "tacz:ammo_workbench"
+      "item": "tacz:gun_smith_table"
     },
     "title": {
       "translate": "advancements.tacz.get_ammo_workbench.title",
@@ -18,12 +18,12 @@
     "hidden": true
   },
   "criteria": {
-    "get_ammo_workbench": {
+    "get_workbench_a": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": ["tacz:ammo_workbench"]
+            "items": ["tacz:workbench_a"]
           }
         ]
       }

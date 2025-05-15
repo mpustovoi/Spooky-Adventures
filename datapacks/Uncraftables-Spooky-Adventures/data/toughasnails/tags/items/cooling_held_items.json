@@ -185,30 +185,6 @@
     {
       "id": "enderitemod:enderite_upgrade_smithing_template",
       "required": false
-    },
-    {
-      "id": "structure_gel:red_gel",
-      "required": false
-    },
-    {
-      "id": "structure_gel:blue_gel",
-      "required": false
-    },
-    {
-      "id": "structure_gel:green_gel",
-      "required": false
-    },
-    {
-      "id": "structure_gel:cyan_gel",
-      "required": false
-    },
-    {
-      "id": "structure_gel:orange_gel",
-      "required": false
-    },
-    {
-      "id": "structure_gel:yellow_gel",
-      "required": false
     }
   ]
 }

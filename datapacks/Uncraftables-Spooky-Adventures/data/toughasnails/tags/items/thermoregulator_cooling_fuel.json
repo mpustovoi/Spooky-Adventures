@@ -65,6 +65,10 @@
       "required": false
     },
     {
+      "id": "travelersbackpack:snow",
+      "required": false
+    },
+    {
       "id": "brewinandchewin:ice_crate",
       "required": false
     }

@@ -1,13 +1,13 @@
 {
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "minecraft:redstone_lamp"
+    "item": "farmersdelight:golden_knife"
   },
   "addition": {
     "item": "minecraft:amethyst_shard"
   },
   "result": {
-    "item": "additionaladditions:amethyst_lamp"
+    "item": "delightful:amethyst_knife"
   },
   "template": {
     "item": "minecraft:amethyst_shard"

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["BBB", "BBB", "BBB"],
+  "key": {
+    "B": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "born_in_chaos_v1:bundle_of_bones"
+  }
+}

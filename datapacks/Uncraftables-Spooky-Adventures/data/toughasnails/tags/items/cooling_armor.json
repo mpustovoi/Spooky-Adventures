@@ -13,6 +13,26 @@
       "required": false
     },
     {
+      "id": "travelersbackpack:snow",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:end",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:dragon",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:warden",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:enderman",
+      "required": false
+    },
+    {
       "id": "create:netherite_diving_boots",
       "required": false
     },

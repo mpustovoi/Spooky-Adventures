@@ -44,6 +44,7 @@
 - 🏘 [Совместимости **Repurposed Structures** и модов **YUNG**'а](https://modrinth.com/datapacks?q=Repurposed+Structures+Better&v=1.20.1)
 - 💎 Наборы от [**TheDiamondPlayables**](https://www.planetminecraft.com/collection/148146/thediamondplayables-s-datapacks)
 - 🔁 Пользовательский набор данных, содержащий:
+  - Многочисленные рецепты переработки металлических предметов в печи
   - Рецепты яиц призыва (используя слёзы гаста)
   - Расширенную систему кузнечных улучшений с поддержкой модов
   - Пользовательские достижения (требуется встроенный набор ресурсов)
@@ -106,6 +107,7 @@
 - 🏘 [**Repurposed Structures** & **YUNG**'s mods compat](https://modrinth.com/datapacks?q=Repurposed+Structures+Better&v=1.20.1)
 - 💎 Packs by [**TheDiamondPlayables**](https://www.planetminecraft.com/collection/148146/thediamondplayables-s-datapacks) from PlanetMinecraft
 - 🔁 Сustom data pack, that contains:
+  - Numerous furnace recycling recipes for metal stuff
   - Spawn egg recipes (using ghast tears)
   - Expanded mod-aware smithing upgrade system
   - Custom advancements (requires embedded resource pack)

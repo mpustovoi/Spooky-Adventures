@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "additionaladditions:rose_gold_chestplate"
-	},
-	"addition": {
-		"item": "minecraft:diamond"
-	},
-	"result": {
-		"item": "minecraft:diamond_chestplate"
-	},
-	"template": {
-		"item": "minecraft:iron_nugget"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "additionaladditions:rose_gold_chestplate"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "template": {
+    "item": "minecraft:diamond"
+  }
 }

@@ -1,13 +1,13 @@
 {
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "minecraft:bucket"
+    "item": "farmersdelight:golden_knife"
   },
   "addition": {
-    "item": "minecraft:copper_block"
+    "item": "minecraft:copper_ingot"
   },
   "result": {
-    "item": "additionaladditions:watering_can"
+    "item": "delightful:copper_knife"
   },
   "template": {
     "item": "minecraft:copper_ingot"

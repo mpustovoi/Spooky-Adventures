@@ -1,28 +1,24 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"RBR",
-		"RCR",
-		"RRR"
-	],
-	"key": {
-		"R": {
-			"item": "minecraft:iron_ingot"
-		},
-		"C": {
-			"item": "minecraft:stone"
-		},
-		"B": [
-			{
-				"item": "minecraft:copper_block"
-			},
-			{
-				"item": "minecraft:waxed_copper_block"
-			}
-		]
-	},
-	"result": {
-		"item": "additionaladditions:rose_gold_upgrade",
-		"count": 1
-	}
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["RBR", "RCR", "RRR"],
+  "key": {
+    "R": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:stone"
+    },
+    "B": [
+      {
+        "item": "minecraft:copper_block"
+      },
+      {
+        "item": "minecraft:waxed_copper_block"
+      }
+    ]
+  },
+  "result": {
+    "item": "additionaladditions:rose_gold_upgrade",
+    "count": 1
+  }
 }

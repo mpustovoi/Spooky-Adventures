@@ -1,14 +1,14 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:bundle"
-		},
-		{
-			"item": "minecraft:emerald_block"
-		}
-	],
-	"result": {
-		"item": "additionaladditions:mysterious_bundle"
-	}
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bundle"
+    },
+    {
+      "item": "minecraft:emerald_block"
+    }
+  ],
+  "result": {
+    "item": "additionaladditions:mysterious_bundle"
+  }
 }

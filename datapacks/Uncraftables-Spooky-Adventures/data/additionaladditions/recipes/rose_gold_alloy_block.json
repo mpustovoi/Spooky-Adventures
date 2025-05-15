@@ -1,33 +1,33 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:gold_block"
-		},
-		{
-			"item": "minecraft:gold_block"
-		},
-		{
-			"item": "minecraft:gold_block"
-		},
-		{
-			"item": "minecraft:gold_block"
-		},
-		{
-			"item": "minecraft:copper_block"
-		},
-		{
-			"item": "minecraft:copper_block"
-		},
-		{
-			"item": "minecraft:copper_block"
-		},
-		{
-			"item": "minecraft:copper_block"
-		}
-	],
-	"result": {
-		"item": "additionaladditions:rose_gold_alloy",
-		"count": 36
-	}
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:copper_block"
+    },
+    {
+      "item": "minecraft:copper_block"
+    },
+    {
+      "item": "minecraft:copper_block"
+    },
+    {
+      "item": "minecraft:copper_block"
+    }
+  ],
+  "result": {
+    "item": "additionaladditions:rose_gold_alloy",
+    "count": 36
+  }
 }
