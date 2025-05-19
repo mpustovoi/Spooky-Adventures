@@ -22,10 +22,15 @@
   - Интервал между резервным копированием уменьшен с двух часов до одного.
   - Резервные копии больше не включают файлы **Distant Horizons** и станут создаваться намного быстрее для больших миров.
 - Возвращена отрисовка облаков из **Distant Horizons**.
+- Обновлён набор ресурсов **Vanilla Tweaks**:
+  - Удалены 3D солнце и луна.
+  - Удалён конфликтующее с **Embeddium** и **Embeddium Extra** исправление облаков за пределами ванильной дальности прорисовки.
+  - Обновлена вся остальная часть набора.
 - Обновлены текстуры в пользовательском наборе-дополнении **Default Dark Mode: Further**.
 - **The Hordes**:
   - Деловой торговец из **Supplementaries** теперь имеет собственную текстуру при зомбифицировании.
 - Набор данных **Uncraftables**:
+  - Лабиринты из **Dungeon Now Loading** теперь генерируются ещё реже и больше не появляются в океанах. (Забыл сделать раньше.)
   - Добавлено несколько рецептов из **The Creeper's Code**.
   - Переработаны (ухудшены) многие рецепты переработки в печи. Добавлено несколько новых.
   - Переработаны рецепты переработки для **MrCrayfish's Gun Mod**, уменьшен их выход. Добавлено два новых достижения. Корневое достижение более не является скрытым.
@@ -67,11 +72,16 @@
   - Increased the number of stored backups to 5 & disk space to 12 GB.
   - Reduced the interval between backups from two hours to one.
   - Backups no longer include **Distant Horizons** files and will be created much faster for larger worlds.
+- Updated **Vanilla Tweaks** resource pack:
+  - Removed 3D sun and moon.
+  - Removed cloud fix for ones beyond vanilla render distance that was conflicting with **Embeddium** and **Embeddium Extra**.
+  - Updated the rest of the pack.
 - Re-enabled **Distant Horizons**' cloud rendering.
 - Updated textures in custom **Default Dark Mode: Further** add-on pack.
 - **The Hordes**:
   - The Red Merchant from **Supplementaries** now has his own texture when zombified.
 - **Uncraftables** data pack:
+  - The labyrinths from **Dungeon Now Loading** now generate even rarer and no longer spawn in oceans. (Forgot to do it earlier.)
   - Added several recipes from **The Creeper's Code**.
   - Reworked (nerfed) many furnace recycling recipes. Added some new ones.
   - Reworked and nerfed **MrCrayfish's Gun Mod**'s recycling recipes. Added two new advancements. The root advancement is no longer hidden.

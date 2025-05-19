@@ -20,7 +20,7 @@
 
 	["Spawn Chances"."Diamond Creeper"]
 		#Range: 0.0 ~ 100.0
-		"explosion radius" = 1.0
+		"explosion radius" = 1.25
 		#Range: -64 ~ 320
 		"max spawn Y level" = 16
 
@@ -50,13 +50,13 @@
 
 	["Spawn Chances"."Nether Gold Creeper"]
 		#Range: 0.0 ~ 100.0
-		"explosion radius" = 2.25
+		"explosion radius" = 2.5
 		#Range: -64 ~ 320
-		"max spawn Y level" = 176
+		"max spawn Y level" = 184
 
 	["Spawn Chances"."Nether Quartz Creeper"]
 		#Range: 0.0 ~ 100.0
-		"explosion radius" = 2.75
+		"explosion radius" = 3.25
 		#Range: -64 ~ 320
 		"max spawn Y level" = 192
 
