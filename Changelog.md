@@ -13,7 +13,7 @@
 ### ➕ Добавлено:
 
 - **Mod 1** (причина) — Пояснение. (Далее отсутствие пояснения будет означать это же)
-- **Mod 2**
+- **Shut Up GL Error**
 
 ### 🔁 Обновлено:
 
@@ -47,7 +47,7 @@ Description.
 ### ➕ Added:
 
 - **Mod 1** (reason) — Explanation. (Further, the absence of a explanation will mean the same thing)
-- **Mod 2**
+- **Shut Up GL Error**
 
 ### 🔁 Updated:
 
