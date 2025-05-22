@@ -1,18 +1,19 @@
 <details>
 <summary>RU</summary>
 
-## 2.2: Обновление 
+## 2.2: Обновление конфигураций
 
 Описание.
 
-### ➖ Удалено:
+### ➖ Удалено (0 модов):
 
 - **Mod 1** (причина) — Пояснение. (Далее отсутствие пояснения будет означать это же)
 - **Mod 2**
 
-### ➕ Добавлено:
+### ➕ Добавлено (2 мода):
 
 - **Mod 1** (причина) — Пояснение. (Далее отсутствие пояснения будет означать это же)
+- **Global Server Config** — Потому что система серверных конфигов **Forge** — просто мусор.
 - **Shut Up GL Error**
 
 ### 🔁 Обновлено:
@@ -35,18 +36,19 @@
 
 </details>
 
-## 2.1: The  update
+## 2.1: The Config update
 
 Description.
 
-### ➖ Removed:
+### ➖ Removed (0 mods):
 
 - **Mod 1** (reason) — Explanation. (Further, the absence of a explanation will mean the same thing)
 - **Mod 2**
 
-### ➕ Added:
+### ➕ Added (2 mods):
 
 - **Mod 1** (reason) — Explanation. (Further, the absence of a explanation will mean the same thing)
+- **Global Server Config** — Because the **Forge** server config system is crap.
 - **Shut Up GL Error**
 
 ### 🔁 Updated:
