@@ -148,10 +148,10 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.f9
 key_iris.keybind.shaderPackSelection:key.keyboard.f10
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
-key_key.shulkerboxslot.open.desc:key.keyboard.grave.accent
+key_key.shulkerboxslot.open.desc:key.keyboard.grave.accent:CONTROL
 key_key.fabrishot.screenshot:key.keyboard.unknown
 key_tcdcommons.key.refresh_current_screen:key.keyboard.unknown
-key_key.clientsort.group.sort:key.mouse.4
+key_key.clientsort.group.sort:key.keyboard.x
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.toggleVisualItemContents:key.keyboard.unknown
 key_key.toggleSelectedItemTooltips:key.keyboard.unknown
@@ -192,7 +192,7 @@ key_key.jei.transferRecipeBookmark:key.keyboard.unknown
 key_key.cgm.reload:key.keyboard.r
 key_key.cgm.unload:key.keyboard.u
 key_key.cgm.attachments:key.keyboard.k
-key_key.travelersbackpack.inventory:key.keyboard.x
+key_key.travelersbackpack.inventory:key.keyboard.grave.accent:SHIFT
 key_key.travelersbackpack.sort:key.keyboard.unknown
 key_key.travelersbackpack.ability:key.keyboard.unknown
 key_key.travelersbackpack.cycle_tool:key.keyboard.period
@@ -235,7 +235,7 @@ key_key.immersive_aircraft.fallback_control_pull:key.keyboard.unknown
 key_key.immersive_aircraft.fallback_control_push:key.keyboard.unknown
 key_key.immersive_aircraft.fallback_use:key.keyboard.unknown
 key_key.immersive_aircraft.dismount:key.keyboard.r
-key_key.immersive_aircraft.boost:key.mouse.4
+key_key.immersive_aircraft.boost:key.keyboard.x
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
@@ -248,11 +248,11 @@ key_key.ok_zoomer.increase_zoom:key.keyboard.unknown
 key_key.ok_zoomer.reset_zoom:key.keyboard.unknown
 key_key.expandedstorage.config:key.keyboard.unknown
 key_desc.seasonhud.keybind.options:key.keyboard.unknown
-key_key.deeperdarker.boost:key.mouse.4
+key_key.deeperdarker.boost:key.keyboard.x
 key_key.deeperdarker.transmit:key.keyboard.t:ALT
 key_key.clickthrough.toggle:key.keyboard.unknown
 key_servertabinfo.keys.show:key.keyboard.keypad.0
-key_key.tacz.inspect.desc:key.keyboard.g
+key_key.tacz.inspect.desc:key.keyboard.j
 key_key.tacz.reload.desc:key.keyboard.r
 key_key.tacz.shoot.desc:key.mouse.left
 key_key.tacz.interact.desc:key.keyboard.tab
