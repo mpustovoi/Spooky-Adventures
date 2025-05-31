@@ -13,7 +13,9 @@
 ### ➕ Добавлено (2 мода):
 
 - **Mod 1** (причина) — Пояснение. (Далее отсутствие пояснения будет означать это же)
+- **Chat Animation [Smooth Chat]**
 - **Global Server Config** — Потому что система серверных конфигов **Forge** — просто мусор.
+- **Minecraft Cursor**
 - **Shut Up GL Error**
 
 ### 🔁 Обновлено:
@@ -48,7 +50,9 @@ Description.
 ### ➕ Added (2 mods):
 
 - **Mod 1** (reason) — Explanation. (Further, the absence of a explanation will mean the same thing)
+- **Chat Animation [Smooth Chat]**
 - **Global Server Config** — Because the **Forge** server config system is crap.
+- **Minecraft Cursor**
 - **Shut Up GL Error**
 
 ### 🔁 Updated:
