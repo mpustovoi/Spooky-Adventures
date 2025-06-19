@@ -2,14 +2,12 @@
   "type": "minecraft:crafting_shapeless",
   "group": "monster_egg",
   "ingredients": [
-  
     {
       "item": "minecraft:mud_bricks"
     },
     {
-    "item": "minecraft:silverfish_spawn_egg"
+      "item": "minecraft:silverfish_spawn_egg"
     }
-    
   ],
   "result": {
     "item": "betterarcheology:infested_mud_bricks"

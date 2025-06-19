@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "born_in_chaos_v1:scorched_planks_door"
-	},
-	"addition": {
-		"item": "minecraft:iron_ingot"
-	},
-	"result": {
-		"item": "minecraft:shield"
-	},
-	"template": {
-		"item": "minecraft:iron_nugget"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "born_in_chaos_v1:scorched_planks_door"
+  },
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "minecraft:shield"
+  },
+  "template": {
+    "item": "minecraft:iron_nugget"
+  }
 }

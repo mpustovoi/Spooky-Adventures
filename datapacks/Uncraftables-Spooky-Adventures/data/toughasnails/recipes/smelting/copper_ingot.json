@@ -3,18 +3,6 @@
   "group": "copper_ingot",
   "ingredient": [
     {
-      "item": "toughasnails:empty_copper_canteen"
-    },
-    {
-      "item": "toughasnails:copper_dirty_water_canteen"
-    },
-    {
-      "item": "toughasnails:copper_water_canteen"
-    },
-    {
-      "item": "toughasnails:copper_purified_water_canteen"
-    },
-    {
       "item": "toughasnails:water_purifier"
     },
     {
@@ -23,5 +11,5 @@
   ],
   "result": "minecraft:copper_ingot",
   "experience": 0.1,
-  "cookingtime": 100
+  "cookingtime": 200
 }

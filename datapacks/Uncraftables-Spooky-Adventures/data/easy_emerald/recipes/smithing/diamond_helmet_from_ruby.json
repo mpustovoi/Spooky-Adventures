@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "easy_emerald:ruby_head"
-	},
-	"addition": {
-		"item": "minecraft:diamond"
-	},
-	"result": {
-		"item": "minecraft:diamond_helmet"
-	},
-	"template": {
-		"item": "minecraft:diamond"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "easy_emerald:ruby_head"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "template": {
+    "item": "minecraft:diamond"
+  }
 }

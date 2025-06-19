@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "addition": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "item": "easy_emerald:obsidian_head"
+  },
+  "template": {
+    "item": "minecraft:crying_obsidian"
+  }
+}

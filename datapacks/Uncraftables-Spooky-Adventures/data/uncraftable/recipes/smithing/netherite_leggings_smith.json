@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "minecraft:iron_leggings"
-	},
-	"addition": {
-		"item": "minecraft:netherite_block"
-	},
-	"result": {
-		"item": "minecraft:netherite_leggings"
-	},
-	"template": {
-		"item": "minecraft:netherite_upgrade_smithing_template"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_leggings"
+  },
+  "addition": {
+    "item": "minecraft:netherite_block"
+  },
+  "result": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
 }

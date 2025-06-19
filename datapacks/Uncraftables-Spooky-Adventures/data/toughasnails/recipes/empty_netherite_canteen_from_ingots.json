@@ -5,11 +5,7 @@
       "item": "minecraft:netherite_ingot"
     }
   },
-  "pattern": [
-    " N ",
-    "N N",
-    " N "
-  ],
+  "pattern": [" N ", "N N", " N "],
   "result": {
     "count": 1,
     "item": "toughasnails:empty_netherite_canteen"

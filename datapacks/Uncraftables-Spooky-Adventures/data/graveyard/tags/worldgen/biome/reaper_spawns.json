@@ -1,6 +1,4 @@
 {
   "replace": false,
-  "values": [
-	{"id": "terralith:caldera", "required": false}
-  ]
+  "values": [{ "id": "terralith:caldera", "required": false }]
 }

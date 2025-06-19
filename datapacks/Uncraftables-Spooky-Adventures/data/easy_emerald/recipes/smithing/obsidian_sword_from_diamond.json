@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "item": "easy_emerald:obsidian_sword"
+  },
+  "template": {
+    "item": "minecraft:crying_obsidian"
+  }
+}

@@ -4,11 +4,39 @@
     "minecraft:enchanted_golden_apple",
     "minecraft:golden_apple",
     {
-      "id": "delightful:matcha",
+      "id": "alexsdelight:maggot_salad",
       "required": false
     },
     {
-      "id": "delightful:matcha_latte",
+      "id": "brewinandchewin:egg_grog",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:steel_toe_stout",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:strongroot_ale",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:beetroot_gummy",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:land_and_sea_burger",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:melon_gummy",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:stygian_pomegranate",
+      "required": false
+    },
+    {
+      "id": "collectorsreap:yellow_tea_gummy",
       "required": false
     },
     {
@@ -16,7 +44,19 @@
       "required": false
     },
     {
-      "id": "delightful:matcha_gummy",
+      "id": "delightful:cantaloupe_bread",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe_gummy",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe_popsicle",
+      "required": false
+    },
+    {
+      "id": "delightful:cantaloupe_slice",
       "required": false
     },
     {
@@ -24,7 +64,55 @@
       "required": false
     },
     {
-      "id": "brewinandchewin:egg_grog",
+      "id": "delightful:green_tea_leaf",
+      "required": false
+    },
+    {
+      "id": "delightful:matcha_gummy",
+      "required": false
+    },
+    {
+      "id": "delightful:matcha_ice_cream",
+      "required": false
+    },
+    {
+      "id": "delightful:matcha_latte",
+      "required": false
+    },
+    {
+      "id": "delightful:matcha",
+      "required": false
+    },
+    {
+      "id": "delightful:source_berry_cookie",
+      "required": false
+    },
+    {
+      "id": "delightful:source_berry_gummy",
+      "required": false
+    },
+    {
+      "id": "delightful:source_berry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "delightful:source_berry_milkshake",
+      "required": false
+    },
+    {
+      "id": "delightful:source_berry_pie_slice",
+      "required": false
+    },
+    {
+      "id": "delightful:stuffed_cantaloupe",
+      "required": false
+    },
+    {
+      "id": "delightful:wrapped_cantaloupe",
+      "required": false
+    },
+    {
+      "id": "easy_emerald:emerald_potato",
       "required": false
     },
     {
@@ -41,6 +129,10 @@
     },
     {
       "id": "ends_delight:dragon_breath_and_chorus_soup",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_breath_soda",
       "required": false
     },
     {
@@ -124,15 +216,31 @@
       "required": false
     },
     {
-      "id": "mynethersdelight:ghast_salad",
-      "required": false
-    },
-    {
       "id": "moredelight:chicken_salad",
       "required": false
     },
     {
       "id": "moredelight:potato_salad",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:enchanted_golden_egg",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:ghast_salad",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:golden_egg",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:hotdog_with_mixed_salad",
+      "required": false
+    },
+    {
+      "id": "silentsdelight:heartburger",
       "required": false
     },
     {

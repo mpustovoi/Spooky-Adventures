@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "easy_emerald:copper_hammer"
-	},
-	"addition": {
-		"item": "minecraft:iron_ingot"
-	},
-	"result": {
-		"item": "easy_emerald:iron_hammer"
-	},
-	"template": {
-		"item": "minecraft:iron_ingot"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "easy_emerald:copper_hammer"
+  },
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "easy_emerald:iron_hammer"
+  },
+  "template": {
+    "item": "minecraft:iron_ingot"
+  }
 }

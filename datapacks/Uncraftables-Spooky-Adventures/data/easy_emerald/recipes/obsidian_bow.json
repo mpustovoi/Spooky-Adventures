@@ -1,22 +1,18 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-	  " IS",
-	  "A S",
-	  " IS"
-	],
-	"key": {
-	  "S": {
-		"item": "minecraft:string"
-	  },
-	  "I": {
-		"item": "minecraft:iron_ingot"
-	  },
-      "A": {
-        "item": "minecraft:obsidian"
-      }
-	},
-	"result": {
-	  "item": "easy_emerald:obsidian_bow"
-	}
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" IS", "A S", " IS"],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "easy_emerald:obsidian_bow"
   }
+}

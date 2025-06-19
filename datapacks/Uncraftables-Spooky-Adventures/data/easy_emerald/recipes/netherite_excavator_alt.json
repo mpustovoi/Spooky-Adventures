@@ -3,14 +3,14 @@
   "category": "misc",
   "group": "easy_emeralds",
   "key": {
-    "a": {
+    "N": {
       "item": "minecraft:netherite_ingot"
     },
-    "b": {
+    "S": {
       "item": "minecraft:stick"
     }
   },
-  "pattern": [" aa", " ba", "b  "],
+  "pattern": [" NN", " SN", "S  "],
   "result": {
     "count": 1,
     "item": "easy_emerald:netherite_excavator"

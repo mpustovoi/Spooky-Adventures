@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "easy_emerald:amethyst_body"
-	},
-	"addition": {
-		"item": "minecraft:diamond_block"
-	},
-	"result": {
-		"item": "minecraft:diamond_chestplate"
-	},
-	"template": {
-		"item": "minecraft:diamond"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "easy_emerald:amethyst_body"
+  },
+  "addition": {
+    "item": "minecraft:diamond_block"
+  },
+  "result": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "template": {
+    "item": "minecraft:diamond"
+  }
 }

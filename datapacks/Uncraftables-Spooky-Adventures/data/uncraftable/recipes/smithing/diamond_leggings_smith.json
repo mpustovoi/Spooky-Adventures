@@ -1,15 +1,15 @@
 {
-    "type": "minecraft:smithing_transform",
-    "base": {
-        "item": "minecraft:iron_leggings"
-    },
-    "addition": {
-        "item": "minecraft:diamond_block"
-    },
-    "result": {
-        "item": "minecraft:diamond_leggings"
-    },
-	"template": {
-		"item": "minecraft:iron_nugget"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_leggings"
+  },
+  "addition": {
+    "item": "minecraft:diamond_block"
+  },
+  "result": {
+    "item": "minecraft:diamond_leggings"
+  },
+  "template": {
+    "item": "minecraft:diamond"
+  }
 }

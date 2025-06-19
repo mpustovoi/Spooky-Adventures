@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smithing_transform",
   "base": {
-      "item": "minecraft:melon_slice"
-   },
-  "addition": {  
-      "item": "minecraft:gold_ingot"
-   },
+    "item": "minecraft:melon_slice"
+  },
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
   "result": {
     "item": "minecraft:glistering_melon_slice"
   },
-	"template": {
-		"item": "minecraft:gold_nugget"
-	}
+  "template": {
+    "item": "minecraft:gold_nugget"
+  }
 }

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "battle_towers:nether",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 23456734,
+    "spacing": 24,
+    "separation": 16
+  }
+}

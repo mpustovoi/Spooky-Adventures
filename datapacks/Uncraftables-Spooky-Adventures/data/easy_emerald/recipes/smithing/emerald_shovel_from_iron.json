@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "minecraft:iron_shovel"
-	},
-	"addition": {
-		"item": "minecraft:emerald"
-	},
-	"result": {
-		"item": "easy_emerald:emerald_shovel"
-	},
-	"template": {
-		"item": "minecraft:emerald"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_shovel"
+  },
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "item": "easy_emerald:emerald_shovel"
+  },
+  "template": {
+    "item": "minecraft:emerald"
+  }
 }

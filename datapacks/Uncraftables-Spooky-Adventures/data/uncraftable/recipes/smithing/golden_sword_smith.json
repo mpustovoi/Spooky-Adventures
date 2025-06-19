@@ -1,15 +1,15 @@
 {
-    "type": "minecraft:smithing_transform",
-    "base": {
-        "item": "minecraft:wooden_sword"
-    },
-    "addition": {
-        "item": "minecraft:gold_ingot"
-    },
-    "result": {
-        "item": "minecraft:golden_sword"
-    },
-	"template": {
-		"item": "minecraft:gold_nugget"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_sword"
+  },
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": {
+    "item": "minecraft:golden_sword"
+  },
+  "template": {
+    "item": "minecraft:gold_nugget"
+  }
 }

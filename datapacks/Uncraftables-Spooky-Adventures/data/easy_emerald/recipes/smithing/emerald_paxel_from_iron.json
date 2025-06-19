@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "easy_emerald:iron_paxel"
-	},
-	"addition": {
-		"item": "minecraft:emerald"
-	},
-	"result": {
-		"item": "easy_emerald:emerald_paxel"
-	},
-	"template": {
-		"item": "minecraft:emerald"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "easy_emerald:iron_paxel"
+  },
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "item": "easy_emerald:emerald_paxel"
+  },
+  "template": {
+    "item": "minecraft:emerald"
+  }
 }

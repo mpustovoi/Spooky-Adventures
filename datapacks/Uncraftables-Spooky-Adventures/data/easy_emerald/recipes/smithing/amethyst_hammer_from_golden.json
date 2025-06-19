@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "easy_emerald:gold_hammer"
-	},
-	"addition": {
-		"item": "minecraft:amethyst_shard"
-	},
-	"result": {
-		"item": "easy_emerald:amethyst_hammer"
-	},
-	"template": {
-		"item": "minecraft:amethyst_shard"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "easy_emerald:gold_hammer"
+  },
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "item": "easy_emerald:amethyst_hammer"
+  },
+  "template": {
+    "item": "minecraft:amethyst_shard"
+  }
 }

@@ -2,10 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
+      "tag": "minecraft:swords"
+    },
+    {
       "item": "minecraft:barrier"
     }
   ],
   "result": {
-    "item": "minecraft:barrier"
+    "item": "easy_emerald:sword_template"
   }
 }

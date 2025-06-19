@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smithing_transform",
   "base": {
-      "item": "minecraft:command_block"
-   },
+    "item": "minecraft:command_block"
+  },
   "addition": {
-			"item": "minecraft:chain"
-		},
+    "item": "minecraft:chain"
+  },
   "result": {
     "item": "minecraft:chain_command_block"
-   },
-	"template": {
-		"item": "minecraft:iron_nugget"
-	}
+  },
+  "template": {
+    "item": "minecraft:chain"
+  }
 }

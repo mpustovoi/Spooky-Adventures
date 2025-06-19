@@ -1,25 +1,41 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["SWS", "WCW", "MEM"],
-  "key": {
-    "C": {
-      "item": "minecraft:cooked_chicken"
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["farmersdelight"]
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "ingredients": [
+    {
+      "item": "minecraft:chicken"
     },
-    "E": {
-      "item": "minecraft:egg"
-    },
-    "M": {
-      "item": "minecraft:bone_meal"
-    },
-    "W": {
+    {
       "item": "minecraft:wheat"
     },
-    "S": {
-      "item": "minecraft:wheat_seeds"
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:egg"
     }
-  },
+  ],
+  "recipe_book_tab": "meals",
   "result": {
-    "item": "additionaladditions:chicken_nugget",
-    "count": 8
+    "item": "additionaladditions:chicken_nugget"
   }
 }

@@ -4,12 +4,12 @@
     "item": "minecraft:chainmail_chestplate"
   },
   "addition": {
-  	"item": "minecraft:iron_ingot"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
-	"item": "minecraft:iron_chestplate"
+    "item": "minecraft:iron_chestplate"
   },
-	"template": {
-		"item": "minecraft:iron_ingot"
-	}
+  "template": {
+    "item": "minecraft:iron_ingot"
+  }
 }

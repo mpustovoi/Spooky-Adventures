@@ -1,6 +1,4 @@
 {
   "replace": false,
-  "values": [
-	{"id": "terralith:mirage_isles", "required": false}
-  ]
+  "values": [{ "id": "terralith:mirage_isles", "required": false }]
 }

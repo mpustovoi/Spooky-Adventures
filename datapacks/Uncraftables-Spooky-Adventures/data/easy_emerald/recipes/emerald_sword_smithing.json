@@ -2,6 +2,9 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
+      "item": "easy_emerald:emerald_sword"
+    },
+    {
       "item": "minecraft:barrier"
     }
   ],

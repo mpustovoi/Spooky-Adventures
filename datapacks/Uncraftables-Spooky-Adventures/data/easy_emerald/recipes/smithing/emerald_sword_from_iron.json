@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "minecraft:iron_sword"
-	},
-	"addition": {
-		"item": "minecraft:emerald"
-	},
-	"result": {
-		"item": "easy_emerald:emerald_sword"
-	},
-	"template": {
-		"item": "minecraft:emerald"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "item": "easy_emerald:emerald_sword"
+  },
+  "template": {
+    "item": "minecraft:emerald"
+  }
 }

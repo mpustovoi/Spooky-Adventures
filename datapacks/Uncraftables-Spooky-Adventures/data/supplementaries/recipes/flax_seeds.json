@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "supplementaries:flax"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:flax_seeds",
+    "count": 2
+  }
+}

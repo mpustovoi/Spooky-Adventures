@@ -38,13 +38,13 @@
 	obsidianToolDurability = 2539
 	#Obsidian Tool efficiency [1.0-15.0, default: 5.5]
 	#Range: 0.0 ~ 15.0
-	obsidianToolEfficiency = 6.5
+	obsidianToolEfficiency = 7.0
 	#Obsidian attack damage [1-40, default: 3.0]
 	#Range: 0.0 ~ 40.0
-	obsidianAttackDamage = 7.0
+	obsidianAttackDamage = 4.5
 	#Obsidian tool enchantability [1-30, default: 18]
 	#Range: 1 ~ 30
-	obsidianEnchantability = 8
+	obsidianEnchantability = 12
 
 #Copper Tool Material
 [copper_tool_material]
@@ -71,7 +71,7 @@
 	amethystToolEfficiency = 10.5
 	#Amethyst attack damage [1-40, default: 5.0]
 	#Range: 0.0 ~ 40.0
-	amethystAttackDamage = 3.0
+	amethystAttackDamage = 3.25
 	#Amethyst tool enchantability [1-30, default: 25]
 	#Range: 1 ~ 30
 	amethystEnchantability = 30
@@ -137,25 +137,25 @@
 	obsidianArmorDurabilityMultiplier = 48
 	#Obsidian armor enchantability [1-31, default: 13]
 	#Range: 1 ~ 31
-	obsidianArmorEnchantability = 8
+	obsidianArmorEnchantability = 12
 	#Obsidian armor toughness [0.0-4.0, default: 1.0]
 	#Range: 0.0 ~ 4.0
 	obsidianArmorToughness = 4.0
 	#Obsidian armor knockback resistance [0.0-4.0, default: 0.0]
 	#Range: 0.0 ~ 4.0
-	obsidianArmorKnockbackResistance = 0.4
+	obsidianArmorKnockbackResistance = 0.5
 	#Obsidian armor protection head [1-50, default: 3]
 	#Range: 1 ~ 50
-	obsidianArmorProtectionHead = 5
+	obsidianArmorProtectionHead = 2
 	#Obsidian armor protection body [1-50, default: 8]
 	#Range: 1 ~ 50
-	obsidianArmorProtectionBody = 10
+	obsidianArmorProtectionBody = 6
 	#Obsidian armor protection leggings [1-50, default: 6]
 	#Range: 1 ~ 50
-	obsidianArmorProtectionLeggings = 8
+	obsidianArmorProtectionLeggings = 5
 	#Obsidian armor protection feet [1-50, default: 3]
 	#Range: 1 ~ 50
-	obsidianArmorProtectionFeet = 4
+	obsidianArmorProtectionFeet = 2
 
 #Copper Armor Material
 [copper_armor_material]

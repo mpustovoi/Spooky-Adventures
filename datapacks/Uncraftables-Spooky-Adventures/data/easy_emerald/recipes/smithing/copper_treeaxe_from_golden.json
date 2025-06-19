@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "easy_emerald:gold_treeaxe"
-	},
-	"addition": {
-		"item": "minecraft:copper_ingot"
-	},
-	"result": {
-		"item": "easy_emerald:copper_treeaxe"
-	},
-	"template": {
-		"item": "minecraft:copper_ingot"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "easy_emerald:gold_treeaxe"
+  },
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "result": {
+    "item": "easy_emerald:copper_treeaxe"
+  },
+  "template": {
+    "item": "minecraft:copper_ingot"
+  }
 }

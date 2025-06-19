@@ -3,20 +3,20 @@
   "category": "misc",
   "group": "easy_emeralds",
   "key": {
-    "a": {
+    "A": {
       "item": "minecraft:netherite_axe"
     },
-    "b": {
+    "H": {
       "item": "minecraft:netherite_shovel"
     },
-    "c": {
+    "P": {
       "item": "minecraft:netherite_pickaxe"
     },
-    "d": {
+    "S": {
       "item": "minecraft:stick"
     }
   },
-  "pattern": ["abc", " d ", " d "],
+  "pattern": ["AHP", " S ", " S "],
   "result": {
     "count": 1,
     "item": "easy_emerald:netherite_paxel"

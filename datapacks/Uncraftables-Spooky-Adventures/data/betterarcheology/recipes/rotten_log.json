@@ -1,23 +1,19 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"LLL",
-		"LBL",
-		"LWL"
-	],
-	"key": {
-		"W": {
-			"item": "minecraft:water_bucket"
-		},
-		"B": {
-			"item": "minecraft:bone_meal"
-		},
-		"L": {
-			"tag": "minecraft:logs"
-		}
-	},
-	"result": {
-		"item": "betterarcheology:rotten_log",
-		"count": 7
-	}
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["LLL", "LBL", "LWL"],
+  "key": {
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "L": {
+      "tag": "minecraft:logs_that_burn"
+    }
+  },
+  "result": {
+    "item": "betterarcheology:rotten_log",
+    "count": 7
+  }
 }

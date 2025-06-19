@@ -18,7 +18,8 @@
       "Invalid statistic",
       "Tried to load unrecognized recipe",
       "Ignored advancement",
-      "Looking up donators"
+      "Looking up donators",
+      "Ignoring heightmap data for chunk"
     ],
     "regex": []
   }

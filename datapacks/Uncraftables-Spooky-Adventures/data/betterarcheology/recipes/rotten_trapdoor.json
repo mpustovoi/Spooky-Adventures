@@ -7,10 +7,7 @@
       "item": "betterarcheology:rotten_planks"
     }
   },
-  "pattern": [
-    "WWW",
-    "WWW"
-  ],
+  "pattern": ["WWW", "WWW"],
   "result": {
     "count": 12,
     "item": "betterarcheology:rotten_trapdoor"

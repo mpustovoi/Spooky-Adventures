@@ -2,6 +2,9 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
       "item": "minecraft:potato"
     },
     {
@@ -9,6 +12,6 @@
     }
   ],
   "result": {
-    "item": "minecraft:barrier"
+    "item": "easy_emerald:amethyst_potato"
   }
 }

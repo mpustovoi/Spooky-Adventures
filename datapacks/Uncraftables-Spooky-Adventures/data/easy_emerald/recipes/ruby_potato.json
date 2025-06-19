@@ -5,10 +5,13 @@
       "item": "minecraft:potato"
     },
     {
+      "item": "easy_emerald:ruby"
+    },
+    {
       "item": "minecraft:barrier"
     }
   ],
   "result": {
-    "item": "minecraft:barrier"
+    "item": "easy_emerald:ruby_potato"
   }
 }

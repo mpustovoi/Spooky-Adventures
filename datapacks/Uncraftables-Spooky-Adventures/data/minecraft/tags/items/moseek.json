@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:moss_block",
+    "minecraft:moss_carpet",
+    {
+      "id": "#forge:moss",
+      "required": false
+    },
+    {
+      "id": "#c:moss",
+      "required": false
+    }
+  ]
+}

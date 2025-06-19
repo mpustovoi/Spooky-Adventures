@@ -4,12 +4,12 @@
     "item": "minecraft:leather_chestplate"
   },
   "addition": {
-  	"item": "minecraft:gold_ingot"
+    "item": "minecraft:gold_ingot"
   },
   "result": {
-	"item": "minecraft:golden_chestplate"
+    "item": "minecraft:golden_chestplate"
   },
-	"template": {
-		"item": "minecraft:gold_nugget"
-	}
+  "template": {
+    "item": "minecraft:gold_nugget"
+  }
 }

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "base": {
+    "item": "easy_emerald:diamond_excavator"
+  },
+  "result": {
+    "item": "easy_emerald:obsidian_excavator"
+  },
+  "template": {
+    "item": "minecraft:crying_obsidian"
+  }
+}

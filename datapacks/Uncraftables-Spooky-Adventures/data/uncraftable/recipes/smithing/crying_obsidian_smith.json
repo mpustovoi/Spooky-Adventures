@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smithing_transform",
   "base": {
-      "item": "minecraft:obsidian"
-   },
-  "addition": {  
-      "item": "minecraft:ghast_tear"
-   },
+    "item": "minecraft:obsidian"
+  },
+  "addition": {
+    "item": "minecraft:ghast_tear"
+  },
   "result": {
     "item": "minecraft:crying_obsidian"
-   },
-	"template": {
-		"item": "minecraft:ghast_tear"
-	}
+  },
+  "template": {
+    "item": "minecraft:ghast_tear"
+  }
 }

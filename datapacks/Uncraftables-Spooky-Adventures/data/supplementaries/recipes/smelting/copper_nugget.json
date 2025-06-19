@@ -1,0 +1,36 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": ["create"]
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:smelting",
+  "group": "copper_nugget",
+  "ingredient": [
+    {
+      "item": "supplementaries:turn_table"
+    },
+    {
+      "item": "supplementaries:altimeter"
+    },
+    {
+      "item": "supplementaries:wrench"
+    }
+  ],
+  "result": "create:copper_nugget",
+  "experience": 0.0,
+  "cookingtime": 200
+}

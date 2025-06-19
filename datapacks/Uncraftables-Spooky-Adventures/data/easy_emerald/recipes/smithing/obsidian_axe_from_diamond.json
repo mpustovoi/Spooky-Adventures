@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "addition": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "item": "easy_emerald:obsidian_axe"
+  },
+  "template": {
+    "item": "minecraft:crying_obsidian"
+  }
+}

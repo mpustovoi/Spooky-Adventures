@@ -1,0 +1,37 @@
+{
+  "group": "maggot_salad",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:salad_ingredients/cabbage"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "alexsmobs:maggot"
+    },
+    {
+      "item": "alexsmobs:maggot"
+    },
+    {
+      "item": "alexsmobs:maggot"
+    },
+    {
+      "item": "alexsmobs:maggot"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:maggot_salad",
+    "count": 1
+  }
+}

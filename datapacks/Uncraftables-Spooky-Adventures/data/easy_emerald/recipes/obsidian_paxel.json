@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AHP", " S ", " S "],
+  "key": {
+    "A": {
+      "item": "easy_emerald:obsidian_axe"
+    },
+    "P": {
+      "item": "easy_emerald:obsidian_pickaxe"
+    },
+    "H": {
+      "item": "easy_emerald:obsidian_shovel"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "easy_emerald:obsidian_paxel"
+  }
+}

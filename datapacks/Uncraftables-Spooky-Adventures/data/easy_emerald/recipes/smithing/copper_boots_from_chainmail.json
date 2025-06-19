@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "minecraft:chainmail_boots"
-	},
-	"addition": {
-		"item": "minecraft:copper_ingot"
-	},
-	"result": {
-		"item": "easy_emerald:copper_boots"
-	},
-	"template": {
-		"item": "minecraft:copper_ingot"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:chainmail_boots"
+  },
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "result": {
+    "item": "easy_emerald:copper_boots"
+  },
+  "template": {
+    "item": "minecraft:copper_ingot"
+  }
 }

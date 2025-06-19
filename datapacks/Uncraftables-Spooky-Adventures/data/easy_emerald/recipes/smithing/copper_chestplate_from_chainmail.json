@@ -1,15 +1,15 @@
 {
-	"type": "minecraft:smithing_transform",
-	"base": {
-		"item": "minecraft:chainmail_chestplate"
-	},
-	"addition": {
-		"item": "minecraft:copper_ingot"
-	},
-	"result": {
-		"item": "easy_emerald:copper_body"
-	},
-	"template": {
-		"item": "minecraft:copper_ingot"
-	}
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:chainmail_chestplate"
+  },
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "result": {
+    "item": "easy_emerald:copper_body"
+  },
+  "template": {
+    "item": "minecraft:copper_ingot"
+  }
 }

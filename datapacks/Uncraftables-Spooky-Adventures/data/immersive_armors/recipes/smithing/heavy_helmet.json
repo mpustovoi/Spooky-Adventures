@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smithing_transform",
   "base": {
-    "item": "immersive_armors:warrior_helmet"
+    "item": "minecraft:iron_helmet"
   },
   "addition": {
-    "item": "minecraft:iron_nugget"
+    "item": "minecraft:iron_block"
   },
   "result": {
     "item": "immersive_armors:heavy_helmet"
   },
   "template": {
-    "item": "minecraft:iron_nugget"
+    "item": "minecraft:iron_block"
   }
 }

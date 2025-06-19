@@ -1,23 +1,19 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"SGS",
-		"SBS",
-		"SSS"
-	],
-	"key": {
-		"S": {
-			"tag": "minecraft:smelts_to_glass"
-		},
-		"B": {
-			"item": "betterarcheology:bomb"
-		},
-		"G": {
-			"item": "minecraft:gunpowder"
-		}
-	},
-	"result": {
-		"item": "minecraft:tnt",
-		"count": 1
-	}
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SGS", "SBS", "SSS"],
+  "key": {
+    "S": {
+      "tag": "minecraft:smelts_to_glass"
+    },
+    "B": {
+      "item": "betterarcheology:bomb"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "minecraft:tnt",
+    "count": 1
+  }
 }

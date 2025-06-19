@@ -1,23 +1,87 @@
 [
   {
-    "item": "delightful:matcha",
+    "item": "alexsdelight:maggot_salad",
     "duration": 10
   },
   {
-    "item": "delightful:field_salad",
+    "item": "brewinandchewin:steel_toe_stout",
+    "duration": 20
+  },
+  {
+    "item": "brewinandchewin:strongroot_ale",
     "duration": 10
   },
   {
-    "item": "delightful:matcha_latte",
-    "duration": 40
+    "item": "collectorsreap:beetroot_gummy",
+    "duration": 20
+  },
+  {
+    "item": "collectorsreap:land_and_sea_burger",
+    "duration": 10
+  },
+  {
+    "item": "collectorsreap:stygian_pomegranate",
+    "duration": 20
+  },
+  {
+    "item": "collectorsreap:yellow_tea_gummy",
+    "duration": 10
   },
   {
     "item": "delightful:berry_matcha_latte",
     "duration": 40
   },
   {
+    "item": "delightful:cantaloupe_bread",
+    "duration": 5
+  },
+  {
+    "item": "delightful:cantaloupe_gummy",
+    "duration": 10
+  },
+  {
+    "item": "delightful:cantaloupe_popsicle",
+    "duration": 10
+  },
+  {
+    "item": "delightful:cantaloupe_slice",
+    "duration": 3
+  },
+  {
+    "item": "delightful:field_salad",
+    "duration": 10
+  },
+  {
+    "item": "delightful:green_tea_leaf",
+    "duration": 40
+  },
+  {
     "item": "delightful:matcha_gummy",
     "duration": 40
+  },
+  {
+    "item": "delightful:matcha_ice_cream",
+    "duration": 3
+  },
+  {
+    "item": "delightful:matcha_latte",
+    "duration": 40
+  },
+  {
+    "item": "delightful:matcha",
+    "duration": 10
+  },
+  {
+    "item": "delightful:stuffed_cantaloupe",
+    "duration": 20
+  },
+  {
+    "item": "delightful:wrapped_cantaloupe",
+    "duration": 5
+  },
+  {
+    "item": "easy_emerald:emerald_potato",
+    "duration": 30
   },
   {
     "item": "ends_delight:assorted_salad",
@@ -34,6 +98,10 @@
   {
     "item": "ends_delight:dragon_breath_and_chorus_soup",
     "duration": 80
+  },
+  {
+    "item": "ends_delight:dragon_breath_soda",
+    "duration": 20
   },
   {
     "item": "ends_delight:dragon_leg_with_sauce",
@@ -109,7 +177,7 @@
   },
   {
     "item": "minecraft:enchanted_golden_apple",
-    "duration": 80
+    "duration": 100
   },
   {
     "item": "minecraft:golden_apple",
@@ -124,7 +192,27 @@
     "duration": 10
   },
   {
+    "item": "mynethersdelight:enchanted_golden_egg",
+    "duration": 20
+  },
+  {
     "item": "mynethersdelight:ghast_salad",
+    "duration": 30
+  },
+  {
+    "item": "mynethersdelight:golden_egg",
+    "duration": 10
+  },
+  {
+    "item": "mynethersdelight:hotdog_with_mixed_salad",
+    "duration": 5
+  },
+  {
+    "item": "mynethersdelight:tear_popsicle",
+    "duration": 10
+  },
+  {
+    "item": "silentsdelight:heartburger",
     "duration": 30
   },
   {

@@ -15,6 +15,10 @@
     "minecraft:torchflower_crop",
     "minecraft:torchflower",
     {
+      "id": "amendments:wall_lantern",
+      "required": false
+    },
+    {
       "id": "suppsquared:copper_lantern",
       "required": false
     },

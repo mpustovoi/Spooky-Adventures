@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "base": {
+    "item": "easy_emerald:diamond_paxel"
+  },
+  "result": {
+    "item": "easy_emerald:obsidian_paxel"
+  },
+  "template": {
+    "item": "minecraft:crying_obsidian"
+  }
+}
