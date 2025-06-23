@@ -8,7 +8,7 @@
     },
     "description": {
       "translate": "advancements.tdp.509.catch_fish_head.descr",
-      "fallback": "§aFind a §eFish Head§a while fishing!"
+      "fallback": "§aFind a §eFish Head§a while fishing"
     },
     "icon": {
       "item": "minecraft:player_head",

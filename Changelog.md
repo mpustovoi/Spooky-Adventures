@@ -29,13 +29,16 @@
   - Расширен список предметов, дающих иммунитет и лечащих инфекцию. Добавлены новые предметы из **Alex's Delight**, **Brewin' And Chewin'**, **Collector's Reap**, **Delightful**, **End's Delight**, **More Delight**, **My Nether's Delight** и **Silent's Delight**.
   - Теперь вся еда, дающая сопротивление, также излечивает от зомби-инфекции и даёт иммунитет на ⅓ длительности сопротивления.
 - **Easy Emerald Tools & More**:
-  - Снижен урон обсидиановых инструментов, немного увеличена их эффективность и зачаровываемость.
+  - Снижен урон обсидиановых инструментов, немного увеличена их эффективность и зачаровываемость. Прочность повышена на 20%.
   - Снижена защита обсидиановых доспехов, немного увеличена их зачаровываемость и сопротивление к отбрасыванию.
   - Немного увеличен урон аметистовых инструментов.
+- Наборы данных **Fishing Extended** и **Merchant**:
+  - Теперь ключевые пользовательские имена (кроме конфигураций) полностью локализуемы.
+  - Небольшая подчистка файлов.
 - Набор данных **Uncraftables**:
   - Все рецепты переработки в печи, ранее возвращавшие незеритовый слиток, теперь возвращают лом.
   - Добавлены фиктивные рецепты переработки, возвращающие кусочки меди из мода **Create**.
-  - Обычный обсидиан заменён на плачущий во всех рецептах обсидиановых доспехов и инструментов из мода **Easy Emerald Tools & More**, включая кузнечные.
+  - Обычный обсидиан заменён на плачущий во всех рецептах обсидиановых доспехов и инструментов из мода **Easy Emerald Tools & More**, включая кузнечные. Вместо палок в рецептах обсидиановых инструментов теперь используется обсидиан.
   - Исправлены и улучшены кузнечные и рецепты переработки фляг из **Tough As Nails**.
   - Дополнены и исправлены рецепты совместимости резки на разделочной доске из **Farmer's Delight**.
   - Подчищены файлы.
@@ -87,21 +90,24 @@ Description.
   - Extended the list of immunity items & infection cures. Added new items from **Alex's Delight**, **Brewin' And Chewin'**, **Collector's Reap**, **Delightful**, **End's Delight**, **More Delight**, **My Nether's Delight** & **Silent's Delight**.
   - Now all the foods that grant resistance also cure zombie infection & grant immunity of ⅓ resistance duration.
 - **Easy Emerald Tools & More**:
-  - Nerfed obsidian tools damage, slightly buffed efficiency & enchantability.
+  - Nerfed obsidian tool damage, slightly buffed efficiency & enchantability. Durability buffed by 20%.
   - Nerfed obsidian armor protection, slightly buffed enchantability & knockback resistance.
-  - Slightly buffed amethyst tools damage.
+  - Slightly buffed amethyst tool damage.
+- **Fishing Extended** & **Merchant** data packs:
+  - Now the key custom names (except configurations) are fully localizable.
+  - Small file cleanup.
 - **Uncraftables** data pack:
   - All the furnace recycling recipes that previously returned netherite ingot now return scrap.
   - Added fictitious recycling recipes that return copper nuggets from **Create** mod.
-  - Replaced regular obsidian with crying one in all obsidian armor & tools recipes from **Easy Emerald Tools & More** mod including smithing ones.
+  - Replaced regular obsidian with crying one in all obsidian armor & tool recipes from **Easy Emerald Tools & More** mod including smithing ones. Obsidian is now used instead of sticks in obsidian tool recipes.
   - Fixed and improved smithing and recycling recipes of canteens from **Tough As Nails**.
   - Updated and corrected cutting board compatibility recipes for **Farmer's Delight**.
-  - Files cleanup.
+  - File cleanup.
 - **Translations** resource pack:
   - Fixes and improvements.
   - Updated mob icons.
   - Added even more tag translations.
-  - Files cleanup.
+  - File cleanup.
 - Updated villagers custom names list.
 
 ### ⚠ Notes and known issues:

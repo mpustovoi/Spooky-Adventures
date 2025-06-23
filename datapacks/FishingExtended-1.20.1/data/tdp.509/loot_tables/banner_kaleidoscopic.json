@@ -14,7 +14,8 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "text": "Old Banner",
+                "translate": "item.tdp.509.old_banner",
+                "fallback": "Old Banner",
                 "color": "yellow",
                 "italic": false
               }

@@ -7,7 +7,8 @@
   ],
   "result": [
     {
-      "item": "gardens_of_the_dead:stripped_whistlecane_block"
+      "item": "gardens_of_the_dead:whistlecane",
+      "count": 4
     },
     {
       "item": "farmersdelight:bark"
@@ -36,5 +37,4 @@
       "modid": "farmersdelight"
     }
   ]
-
 }

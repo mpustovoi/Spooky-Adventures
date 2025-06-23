@@ -8,7 +8,7 @@
 
 data modify storage tdp:516 data.gen_516_adbook3.button_1 set value '{"translate": "[✔] %s", "color": "dark_green", "with": ["Allow Spawning"], "clickEvent": {"action": "run_command", "value": "/function tdp.516:gen_516_adbook3/button_1"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "%s can spawn in %s.", "color": "gray", "with": [{"text": "Merchant", "color": "yellow"}, {"text": "the End", "color": "dark_aqua"}], "font": "minecraft:uniform"}}}'
 scoreboard players set :gen_516_adbook3.button_1: tdp.516.op 1
-data modify storage tdp:516 data.gen_516_adbook3.button_2 set value '{"translate": "[✔] %s", "color": "dark_green", "with": ["Spawn Announcement"], "clickEvent": {"action": "run_command", "value": "/function tdp.516:gen_516_adbook3/button_2"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "%s are notified when %s spawns.", "color": "gray", "with": [{"text": "Players", "color": "dark_aqua"}, {"text": "Ender Merchant", "color": "yellow"}], "font": "minecraft:uniform"}}}'
+data modify storage tdp:516 data.gen_516_adbook3.button_2 set value '{"translate": "[✔] %s", "color": "dark_green", "with": ["Spawn Announcement"], "clickEvent": {"action": "run_command", "value": "/function tdp.516:gen_516_adbook3/button_2"}, "hoverEvent": {"action": "show_text", "contents": {"translate": "%s are notified when %s spawns.", "color": "gray", "with": [{"text": "Players", "color": "dark_aqua"}, {"text": "End Merchant", "color": "yellow"}], "font": "minecraft:uniform"}}}'
 scoreboard players set :gen_516_adbook3.button_2: tdp.516.op 1
 scoreboard players set :spawntime3: tdp.516.op 12000
 scoreboard players set :staytime3: tdp.516.op 3600

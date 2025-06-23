@@ -8,7 +8,7 @@
     },
     "description": {
       "translate": "advancements.tdp.509.fish_too_lucky.descr",
-      "fallback": "§eGo fishing with too much §aLuck§e!"
+      "fallback": "§eGo fishing with too much §aLuck§e"
     },
     "icon": {
       "item": "minecraft:potion",

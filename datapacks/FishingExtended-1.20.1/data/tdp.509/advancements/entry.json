@@ -8,7 +8,7 @@
     },
     "description": {
       "translate": "advancements.tdp.509.entry.descr",
-      "fallback": "§eMore items to Fish!"
+      "fallback": "§eMore items to Fish"
     },
     "icon": {
       "item": "minecraft:fishing_rod"

@@ -3,7 +3,7 @@
   "pattern": ["E", "E", "S"],
   "key": {
     "S": {
-      "item": "minecraft:stick"
+      "item": "minecraft:obsidian"
     },
     "E": {
       "item": "minecraft:crying_obsidian"

@@ -1,8 +1,8 @@
 {
   "pack": {
     "description": {
-      "translate": "datapack.uncraftable.fishingextended.name",
-      "fallback": "§9More items to Fish!§r by §bTheDiamondPlayables"
+      "translate": "datapack.fishing_extended.descr",
+      "fallback": "§9More items to Fish§r by §bTheDiamondPlayables"
     },
     "pack_format": 15,
     "supported_formats": {

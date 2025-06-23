@@ -8,7 +8,7 @@
     },
     "description": {
       "translate": "advancements.tdp.516.open_merchant_crate.descr",
-      "fallback": "§aTry your luck with a §eMerchant Crate§a!"
+      "fallback": "§aTry your luck with a §eMerchant Crate§a"
     },
     "icon": {
       "item": "minecraft:chest"

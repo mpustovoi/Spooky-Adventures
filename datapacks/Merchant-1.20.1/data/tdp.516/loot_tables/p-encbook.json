@@ -11,7 +11,8 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "Rare enchantments:",
+                  "translate": "loot.tdp.516.rare_enchantments",
+                  "fallback": "Rare enchantments:",
                   "color": "gray",
                   "italic": false
                 },
@@ -35,7 +36,8 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "text": "Random Enchanted Book",
+                "translate": "loot.tdp.516.random_enchanted_book",
+                "fallback": "Random Enchanted Book",
                 "color": "yellow",
                 "italic": false
               }

@@ -10,8 +10,9 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "text": "Ancient Fishing Rod",
-                "color": "green",
+                "translate": "item.tdp.509.ancient_fishing_rod",
+                "fallback": "Ancient Fishing Rod",
+                "color": "aqua",
                 "italic": false
               }
             },

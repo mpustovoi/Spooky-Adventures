@@ -10,14 +10,15 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "text": "Cyan Axolotl Head",
+                "translate": "block.tdp.509.cyan_axolotl_head",
+                "fallback": "Cyan Axolotl Head",
                 "color": "yellow",
                 "italic": false
               }
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{SkullOwner:{Id:[I;-1890350282,-700300396,-1656574185,-241986032],Properties:{textures:[{Signature:'{\"italic\":false,\"color\":\"yellow\",\"text\":\"Cyan Axolotl Head\"}',Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFjMmQwYzNiOTZhZDQ1YjQ2NjM4OGUwMjhiMjQ3YWFmZTM2YjI2YjEyYzQxMWVjYjcyZTliNTBlYTIxZTUyYyJ9fX0=\"},{Value:\"TDP511_V1\",Signature:\"tdp.511:sounds/axolotl\"},{Value:'{\"text\":\"Obtained from:\",\"color\":\"#888888\",\"italic\":false}',Signature:'{\"text\":\"Fishing Crate\",\"color\":\"#BB11BB\",\"italic\":false}'},{Value:\"TDP511_V1\",Signature:\"tdp.511:sounds/axolotl\"}]},Name:\"Cyan Axolotl\"},display:{Lore:['{\"text\":\"Obtained from:\",\"color\":\"#888888\",\"italic\":false}','{\"text\":\"Fishing Crate\",\"color\":\"#BB11BB\",\"italic\":false}']}}"
+              "tag": "{SkullOwner:{Id:[I;-1890350282,-700300396,-1656574185,-241986032],Properties:{textures:[{Signature:'{\"italic\":false,\"color\":\"yellow\",\"translate\": \"block.tdp.509.cyan_axolotl_head\",\"fallback\":\"Cyan Axolotl Head\"}',Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFjMmQwYzNiOTZhZDQ1YjQ2NjM4OGUwMjhiMjQ3YWFmZTM2YjI2YjEyYzQxMWVjYjcyZTliNTBlYTIxZTUyYyJ9fX0=\"},{Value:\"TDP511_V1\",Signature:\"tdp.511:sounds/axolotl\"},{Value:'{\"translate\":\"loot.tdp.509.obtained_from\",\"fallback\":\"Obtained from:\",\"color\":\"#888888\",\"italic\":false}',Signature:'{\"translate\":\"loot.tdp.509.fishing_crate\",\"fallback\":\"Fishing Crate\",\"color\":\"#BB11BB\",\"italic\":false}'},{Value:\"TDP511_V1\",Signature:\"tdp.511:sounds/axolotl\"}]},Name:\"Cyan Axolotl\"},display:{Lore:['{\"translate\":\"loot.tdp.509.obtained_from\",\"fallback\":\"Obtained from:\",\"color\":\"#888888\",\"italic\":false}','{\"translate\":\"loot.tdp.509.fishing_crate\",\"fallback\":\"Fishing Crate\",\"color\":\"#BB11BB\",\"italic\":false}']}}"
             }
           ]
         }

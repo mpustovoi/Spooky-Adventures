@@ -8,7 +8,7 @@
     },
     "description": {
       "translate": "advancements.tdp.516.trade_with_merchant.descr",
-      "fallback": "§aStrike a deal with the §eMerchant§a!"
+      "fallback": "§aStrike a deal with the §eMerchant§a"
     },
     "icon": {
       "item": "minecraft:brown_banner",

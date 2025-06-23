@@ -11,21 +11,27 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "Low chance to drop:",
+                  "translate": "item.tdp.516.merchant_crate.lore",
+                  "fallback": "Low chance to get:",
                   "color": "gray",
                   "italic": false
                 },
                 {
-                  "text": "Relic Music Disc",
+                  "translate": "item.minecraft.music_disc_relic",
                   "color": "aqua",
                   "italic": false
                 },
-                { "text": "Pottery Sherds", "color": "green", "italic": false }
+                {
+                  "translate": "loot.tdp.516.pottery_sherds",
+                  "fallback": "Pottery Sherds",
+                  "color": "green",
+                  "italic": false
+                }
               ]
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"Merchant Crate\",\"color\":\"dark_purple\",\"italic\":false}'},Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:0s}],HideFlags:1,BlockEntityTag:{LootTable:\"tdp.516:crate_relic_disc-items\"}}"
+              "tag": "{display:{Name:'{\"translate\":\"item.tdp.516.merchant_crate\",\"fallback\":\"Merchant Crate\",\"color\":\"dark_purple\",\"italic\":false}'},Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:0s}],HideFlags:1,BlockEntityTag:{LootTable:\"tdp.516:crate_relic_disc-items\"}}"
             }
           ]
         }

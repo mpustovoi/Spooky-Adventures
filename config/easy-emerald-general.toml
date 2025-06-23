@@ -35,7 +35,7 @@
 [obsidian_tool_material]
 	#Obsidian Tool Durability [250-4000, default: 525]
 	#Range: 250 ~ 4000
-	obsidianToolDurability = 2539
+	obsidianToolDurability = 3047
 	#Obsidian Tool efficiency [1.0-15.0, default: 5.5]
 	#Range: 0.0 ~ 15.0
 	obsidianToolEfficiency = 7.0

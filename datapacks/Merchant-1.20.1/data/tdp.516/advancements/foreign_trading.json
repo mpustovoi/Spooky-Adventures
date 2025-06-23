@@ -8,7 +8,7 @@
     },
     "description": {
       "translate": "advancements.tdp.516.foreign_trading.descr",
-      "fallback": "§eTrade with a §5Merchant§e that's out of their home dimension!"
+      "fallback": "§eTrade with a §5Merchant§e that's out of their home dimension"
     },
     "icon": {
       "item": "minecraft:jungle_sapling",

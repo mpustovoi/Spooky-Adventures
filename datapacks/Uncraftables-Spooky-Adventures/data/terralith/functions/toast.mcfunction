@@ -1,1 +1,1 @@
-#tellraw @a [{"text":"Hello, and thank you for downloading Terralith!"}]
+#tellraw @a [{"text":"Terralith"}]

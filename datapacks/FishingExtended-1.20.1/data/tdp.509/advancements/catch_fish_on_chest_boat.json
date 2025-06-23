@@ -8,7 +8,7 @@
     },
     "description": {
       "translate": "advancements.tdp.509.catch_fish_on_chest_boat.descr",
-      "fallback": "§aCatch a fish on a §eBoat with Chest§a!"
+      "fallback": "§aCatch a fish on a §eBoat with Chest§a"
     },
     "icon": {
       "item": "minecraft:mangrove_chest_boat"

@@ -10,8 +10,9 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "text": "Ender Fishing Crate",
-                "color": "#A000A0",
+                "translate": "block.tdp.509.end_fishing_crate",
+                "fallback": "End Fishing Crate",
+                "color": "dark_purple",
                 "italic": false
               }
             },

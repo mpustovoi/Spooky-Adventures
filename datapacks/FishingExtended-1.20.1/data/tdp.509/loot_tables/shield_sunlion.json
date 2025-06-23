@@ -14,7 +14,8 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "text": "Old Shield",
+                "translate": "item.tdp.509.old_shield",
+                "fallback": "Old Shield",
                 "color": "yellow",
                 "italic": false
               }

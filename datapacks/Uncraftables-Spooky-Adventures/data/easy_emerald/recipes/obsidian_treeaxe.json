@@ -1,15 +1,15 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": ["EE", "EO", " S"],
+  "pattern": ["EE", "AS", " S"],
   "key": {
     "E": {
       "item": "minecraft:crying_obsidian"
     },
     "S": {
-      "item": "minecraft:stick"
-    },
-    "O": {
       "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "minecraft:respawn_anchor"
     }
   },
   "result": {

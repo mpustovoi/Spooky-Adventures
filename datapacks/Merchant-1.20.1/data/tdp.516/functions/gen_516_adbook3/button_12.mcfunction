@@ -6,6 +6,6 @@
 # Also, support me here for more datapacks:
 # patreon.com/thediamondplayables
 
-tellraw @a {"translate":"%s Default settings restored for the %s!","color":"yellow","with":[{"text":"[Merchant]","color":"aqua"},{"text":"Ender Merchant","color":"light_purple"}]}
+tellraw @a {"translate":"%s Default settings restored for the %s!","color":"yellow","with":[{"text":"[Merchant]","color":"aqua"},{"text":"End Merchant","color":"light_purple"}]}
 function tdp.516:gen_516_adbook3/reset
 function tdp.516:gen_516_adbook3/getbook

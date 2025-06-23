@@ -8,7 +8,7 @@
     },
     "description": {
       "translate": "advancements.tdp.516.entry.descr",
-      "fallback": "§eImproved Wandering Trader!"
+      "fallback": "§eImproved Wandering Trader"
     },
     "icon": {
       "item": "minecraft:player_head",

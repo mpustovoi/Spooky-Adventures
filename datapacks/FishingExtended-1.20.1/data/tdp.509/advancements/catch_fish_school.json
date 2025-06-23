@@ -4,11 +4,11 @@
     "frame": "task",
     "title": {
       "translate": "advancements.tdp.509.catch_fish_school.title",
-      "fallback": "School's Out!"
+      "fallback": "School's Out"
     },
     "description": {
       "translate": "advancements.tdp.509.catch_fish_school.descr",
-      "fallback": "§aYou caught a whole school of fish!"
+      "fallback": "§aYou caught a whole school of fish"
     },
     "icon": {
       "item": "minecraft:cooked_cod"

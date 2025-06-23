@@ -10,8 +10,9 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "text": "Fishing Crate",
-                "color": "#A000A0",
+                "translate": "block.tdp.509.fishing_crate",
+                "fallback": "Fishing Crate",
+                "color": "dark_aqua",
                 "italic": false
               }
             },
