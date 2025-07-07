@@ -21,7 +21,7 @@
 - 🏞 **Distant Horizons** с поддержкой шейдеров. (Возможно, вам захочется увеличить дальность прорисовки)
 - 🧳 Утилиты качества жизни: **EMI**, **Jade**, **Mouse Tweaks** и другие.
 - ⚰ Могилы, появляющиеся при смерти, чтобы ваши вещи не потерялись бесследно.
-- ⚙ Порты **Fabric**-модов через **Sinytra Connector** — **FastQuit**, **Better Statistics Screen** и другие. (При первом запуске возможна задержка из-за динамической сборки)
+- ⚙ Порты **Fabric**-модов через **Sinytra Connector** — **Custom LAN**, **Better Statistics Screen**, **Language Reload** и другие. (При первом запуске возможна задержка из-за динамической сборки)
 - ➕ Расширения в стиле Vanilla+: **Better Archaeology**, **Better Combat**, **Friends&Foes**, **Emotecraft**, **Amendments** и **Supplementaries**.
 - 🎥 Улучшенные визуальные эффекты от **Particular ✨**, **Pretty Rain**, **EnhancedVisuals** и **Explosive Enhancement**.
 - 🎶 Переработка звука с **Sound Physics**, **Sounds**, **Cool Rain** и **Reactive Music**.
@@ -84,7 +84,7 @@
 - 🏞 **Distant Horizons** with shader support. (You might want to increase LOD render distance)
 - 🧳 QoL utilities: **EMI**, **Jade**, **Mouse Tweaks**, and more.
 - ⚰ Graves that appear upon death so that your stuff don't get lost without a trace.
-- ⚙ **Fabric** mod ports via **Sinytra Connector** — includes **FastQuit**, **Better Statistics Screen**, etc. (Expect longer load on first launch)
+- ⚙ **Fabric** mod ports via **Sinytra Connector** — includes **Custom LAN**, **Better Statistics Screen**, **Language Reload**, etc. (Expect longer load on first launch)
 - ➕ Vanilla+ style additions: **Better Archaeology**, **Better Combat**, **Friends&Foes**, **Emotecraft**, **Amendments** & **Supplementaries**.
 - 🎥 Improved visual effects with **Particular ✨**, **Pretty Rain**, **EnhancedVisuals** and **Explosive Enhancement**.
 - 🎶 Audio overhaul by **Sound Physics**, **Sounds**, **Cool Rain** and **Reactive Music**.

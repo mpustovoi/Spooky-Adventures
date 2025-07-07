@@ -1,9 +1,14 @@
 {
   "group": "spawn_egg",
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["GTG", "IZD", "RWC"],
-  "key": {
-    "I": [
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:zombie_spawn_egg"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    [
       {
         "item": "minecraft:iron_ingot"
       },
@@ -11,28 +16,25 @@
         "item": "minecraft:gold_ingot"
       }
     ],
-    "R": {
-      "item": "minecraft:rotten_flesh"
-    },
-    "C": {
+    {
       "item": "minecraft:copper_ingot"
     },
-    "G": {
+    {
       "item": "minecraft:seagrass"
     },
-    "Z": {
-      "item": "minecraft:zombie_spawn_egg"
+    {
+      "item": "minecraft:slime_ball"
     },
-    "W": {
-      "item": "minecraft:water_bucket"
-    },
-    "T": {
+    {
       "item": "minecraft:ghast_tear"
     },
-    "D": {
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
       "item": "minecraft:trident"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:drowned_spawn_egg"
   }

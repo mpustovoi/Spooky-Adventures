@@ -1,21 +1,35 @@
 {
   "group": "spawn_egg",
-  "type": "crafting_shaped",
-  "pattern": ["FSF", "SAS", "FWF"],
-  "key": {
-    "A": {
-      "item": "minecraft:ghast_tear"
-    },
-    "S": {
-      "item": "minecraft:slime_ball"
-    },
-    "F": {
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:frogspawn"
     },
-    "W": {
+    {
+      "item": "minecraft:frogspawn"
+    },
+    {
+      "item": "minecraft:frogspawn"
+    },
+    {
+      "item": "minecraft:frogspawn"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
       "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:slime_ball"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:tadpole_spawn_egg"
   }

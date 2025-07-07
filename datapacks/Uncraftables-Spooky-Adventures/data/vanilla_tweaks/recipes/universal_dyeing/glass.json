@@ -1,17 +1,36 @@
 {
-  "type": "crafting_shaped",
-  "pattern": ["###", "#O#", "###"],
-  "key": {
-    "#": {
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
       "tag": "vanilla_tweaks:stained_glass"
     },
-    "O": {
+    {
+      "tag": "vanilla_tweaks:stained_glass"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass"
+    },
+    {
       "item": "minecraft:water_bucket"
+    },
+    {
+      "tag": "vanilla_tweaks:stained_glass"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:glass",
     "count": 8
-  },
-  "group": ""
+  }
 }

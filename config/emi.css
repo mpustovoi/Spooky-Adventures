@@ -41,7 +41,6 @@
 	 */
 	search-tags-by-default: false;
 }
-
 #ui {
 	/**
 	 * Which action should be performed when clicking the recipe book.
@@ -305,7 +304,6 @@
 	 */
 	bottom-sidebar-theme: transparent;
 }
-
 #binds {
 	/**
 	 * Toggle the visibility of EMI.
@@ -442,7 +440,6 @@
 	 */
 	hide-stack-by-id: "ctrl shift key.mouse.left";
 }
-
 #dev {
 	/**
 	 * Whether development functions should be enabled. Not recommended for general

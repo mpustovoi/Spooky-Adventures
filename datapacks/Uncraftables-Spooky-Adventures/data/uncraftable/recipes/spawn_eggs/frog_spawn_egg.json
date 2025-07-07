@@ -1,18 +1,35 @@
 {
   "group": "spawn_egg",
-  "type": "crafting_shaped",
-  "pattern": ["SSS", "SAS", "SWS"],
-  "key": {
-    "A": {
-      "item": "minecraft:tadpole_spawn_egg"
-    },
-    "S": {
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:slime_ball"
     },
-    "W": {
+    {
+      "item": "minecraft:tadpole_spawn_egg"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
       "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:slime_ball"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:frog_spawn_egg"
   }

@@ -7,8 +7,6 @@
     "minecraft:smooth_stone",
     "minecraft:deepslate",
     "minecraft:infested_deepslate",
-    "minecraft:end_stone",
-    "minecraft:prismarine",
     "minecraft:smooth_basalt",
     {
       "id": "stoneworks:cobbled_andesite",
@@ -52,54 +50,6 @@
     },
     {
       "id": "stoneworks:mossy_cobbled_blackstone",
-      "required": false
-    },
-    {
-      "id": "stoneworks:cobbled_end_stone",
-      "required": false
-    },
-    {
-      "id": "stoneworks:mossy_cobbled_end_stone",
-      "required": false
-    },
-    {
-      "id": "stoneworks:raw_purpur",
-      "required": false
-    },
-    {
-      "id": "stoneworks:cobbled_purpur",
-      "required": false
-    },
-    {
-      "id": "stoneworks:mossy_cobbled_purpur",
-      "required": false
-    },
-    {
-      "id": "stoneworks:cobbled_prismarine",
-      "required": false
-    },
-    {
-      "id": "stoneworks:mossy_cobbled_prismarine",
-      "required": false
-    },
-    {
-      "id": "stoneworks:raw_dark_prismarine",
-      "required": false
-    },
-    {
-      "id": "stoneworks:cobbled_dark_prismarine",
-      "required": false
-    },
-    {
-      "id": "stoneworks:mossy_cobbled_dark_prismarine",
-      "required": false
-    },
-    {
-      "id": "stoneworks:cobbled_quartz",
-      "required": false
-    },
-    {
-      "id": "stoneworks:mossy_cobbled_quartz",
       "required": false
     },
     {

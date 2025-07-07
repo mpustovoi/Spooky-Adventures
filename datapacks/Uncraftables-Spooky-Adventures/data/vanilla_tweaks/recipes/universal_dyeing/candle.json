@@ -1,17 +1,36 @@
 {
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "vanilla_tweaks:candle"
+    },
+    {
+      "tag": "vanilla_tweaks:candle"
+    },
+    {
+      "tag": "vanilla_tweaks:candle"
+    },
+    {
+      "tag": "vanilla_tweaks:candle"
+    },
+    {
+      "tag": "vanilla_tweaks:candle"
+    },
+    {
+      "tag": "vanilla_tweaks:candle"
+    },
+    {
+      "tag": "vanilla_tweaks:candle"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "tag": "vanilla_tweaks:candle"
+    }
+  ],
   "result": {
     "item": "minecraft:candle",
     "count": 8
-  },
-  "type": "crafting_shaped",
-  "pattern": ["###", "#O#", "###"],
-  "key": {
-    "#": {
-      "tag": "vanilla_tweaks:candle"
-    },
-    "O": {
-      "item": "minecraft:water_bucket"
-    }
-  },
-  "group": ""
+  }
 }
