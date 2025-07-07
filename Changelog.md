@@ -100,7 +100,7 @@ Description.
   - Slightly buffed amethyst tool damage.
 - **Fishing Extended** & **Merchant** data packs:
   - Now all the key custom names (except configurations) are fully localizable.
-  - Small file cleanup.
+  - Small file ceanup.
 - **Uncraftables** data pack:
   - All the furnace recycling recipes that previously returned netherite ingot now return scrap.
   - Now some recipes are shapeless. Cleaned up duplicates.
@@ -109,12 +109,12 @@ Description.
   - Replaced regular obsidian with crying one in all obsidian armor & tool recipes from **Easy Emerald Tools & More** mod including smithing ones. Obsidian is now used instead of sticks in obsidian tool recipes.
   - Fixed and improved smithing and recycling recipes of canteens from **Tough As Nails**.
   - Updated and corrected cutting board compatibility recipes for **Farmer's Delight**.
-  - File cleanup.
+  - File ceanup.
 - **Translations** resource pack:
   - Fixes and improvements.
   - Updated mob icons.
   - Added even more tag translations.
-  - File cleanup.
+  - File ceanup.
 - Updated villagers custom names list.
 - Updated the default settings of shader packs.
 
