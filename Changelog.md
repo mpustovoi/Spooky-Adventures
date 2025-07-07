@@ -51,6 +51,7 @@
   - Обновлены иконки мобов.
   - Добавлено ещё больше переводов тегов.
   - Подчищены файлы.
+- Убрана панорама фона настроек из набора ресурсов **Vanilla Tweaks**.
 - Обновлён список пользовательских имён крестьян.
 - Обновлены базовые настройки наборов шейдеров.
 
@@ -115,6 +116,7 @@ Description.
   - Updated mob icons.
   - Added even more tag translations.
   - File ceanup.
+- Removed the options background panorama from **Vanilla Tweaks** resource pack.
 - Updated villagers custom names list.
 - Updated the default settings of shader packs.
 
