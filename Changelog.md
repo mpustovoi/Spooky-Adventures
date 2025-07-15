@@ -47,6 +47,7 @@
   - Дополнены и исправлены рецепты совместимости резки на разделочной доске из **Farmer's Delight**.
   - Подчищены файлы.
 - Набор ресурсов **Translations**:
+  - Пользовательские яйца призыва мобов вынесены в отдельный набор ресурсов: **Unique Spawn Eggs**.
   - Исправления и улучшения.
   - Обновлены иконки мобов.
   - Добавлено ещё больше переводов тегов.
@@ -112,6 +113,7 @@ Description.
   - Updated and corrected cutting board compatibility recipes for **Farmer's Delight**.
   - File ceanup.
 - **Translations** resource pack:
+  - Moved custom mob spawn eggs to a separate resource pack: **Unique Spawn Eggs**.
   - Fixes and improvements.
   - Updated mob icons.
   - Added even more tag translations.
