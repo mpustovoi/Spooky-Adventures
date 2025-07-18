@@ -11,12 +11,13 @@
 - **Infinite Trading** — Ещё один шаг на пути к балансу.
 - **Pretty Rain** (заменён)
 
-### ➕ Добавлено (5 мода):
+### ➕ Добавлено (6 модов):
 
-- **Global Server Config** — Потому что система серверных конфигов **Forge** — просто мусор.
 - **Fresh Compats** (набор ресурсов) — Поддержка **Fresh Animations** для торговца из **Supplementaries**.
+- **Global Server Config** — Потому что система серверных конфигов **Forge** — просто мусор.
 - **Hang Glider** (возвращён) — Было большой ошибкой удалять его.
 - **Minecraft Cursor**
+- **Mowzie's Mobs**
 - **Particle Rain** (замена) — Теперь официально поддерживает **Forge** и имеет функционал **Cool Rain**.
 - **Shut Up GL Error**
 
@@ -77,12 +78,13 @@ Description.
 - **Infinite Trading** — Yet another step towards balance.
 - **Pretty Rain** (replaced)
 
-### ➕ Added (5 mods):
+### ➕ Added (6 mods):
 
-- **Global Server Config** — Because **Forge**'s server config system is crap.
 - **Fresh Compats** (a resource pack) — Adds **Fresh Animations** support for the merchant from **Supplementaries**.
+- **Global Server Config** — Because **Forge**'s server config system is crap.
 - **Hang Glider** (readded) — It was a huge mistake to remove it.
 - **Minecraft Cursor**
+- **Mowzie's Mobs**
 - **Particle Rain** (replacement) — Now officially supports **Forge** and has **Cool Rain**'s functionality.
 - **Shut Up GL Error**
 
