@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["EAE", "TAT", "TGT"],
+  "pattern": ["EAE", "GVG", "TAT"],
   "key": {
     "A": {
       "item": "minecraft:enchanted_golden_apple"
@@ -13,6 +13,9 @@
     },
     "T": {
       "item": "minecraft:ghast_tear"
+    },
+    "V": {
+      "item": "minecraft:villager_spawn_egg"
     }
   },
   "result": {

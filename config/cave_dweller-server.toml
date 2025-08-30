@@ -90,7 +90,7 @@
 [Attributes]
 	#Maximum health
 	#Range: 1.0 ~ 100000.0
-	maximum_health = 150.0
+	maximum_health = 120.0
 	#Attack damage
 	#Range: 0.0 ~ 1000.0
 	attack_damage = 12.0
@@ -102,7 +102,7 @@
 	movement_speed = 0.45
 	#Depth Strider (movement speed in water) bonus
 	#Range: 0.0 ~ 3.0
-	depth_strider_bonus = 1.5
+	depth_strider_bonus = 1.0
 
 [Misc]
 	#Only play the ambient noises to the current (spawn) target (Note: The target can change when a spawn attempt is not successful)

@@ -15,7 +15,7 @@
 		#This value will be added to sanity each second regardless of any other factors
 		#Range: -100.0 ~ 100.0
 		passive = 0.0
-		#Sanity gain per second during rainy weather or in water
+		#Sanity gain per second while in rain
 		#Range: -100.0 ~ 100.0
 		raining = -0.01
 		#Players' sanity will start getting affected with food levels at and below this threshold (in half-drumsticks)
@@ -23,7 +23,7 @@
 		hunger_threshold = 8
 		#Players with food levels at and below <hunger_threshold> gain this amount of sanity per second
 		#Range: -100.0 ~ 100.0
-		hungry = -0.1
+		hungry = -0.05
 		#Players will gain this amount of sanity per second for 5 seconds after looking at an enderman
 		#Range: -100.0 ~ 100.0
 		ender_man_anger = -0.5
@@ -36,22 +36,19 @@
 		monster = -0.1
 		#Players will gain this amount of sanity per second while being in the dark
 		#Range: -100.0 ~ 100.0
-		darkness = -0.02
+		darkness = -0.025
 		#Maximum light level considered to be darkness (inclusive)
 		#Range: 0 ~ 15
 		darkness_threshold = 4
 		#Players will gain this amount of sanity per second while being in the light
 		#Range: -100.0 ~ 100.0
-		lightness = 0.01
+		lightness = 0.015
 		#Minimum light level considered to be lightness (inclusive)
 		#Range: 0 ~ 15
 		lightness_threshold = 4
 		#Players who are stuck in blocks (such as cobweb) and have their movement restricted gain this amount of sanity per second
 		#Range: -100.0 ~ 100.0
 		block_stuck = -0.05
-		#Players moving on a dirt path or a carpet receive this amount of sanity per second
-		#Range: -100.0 ~ 100.0
-		dirt_path = 0.1
 		#Nearby jukebox playing a pleasant melody gives this amount of sanity per second
 		#Range: -100.0 ~ 100.0
 		jukebox_pleasant = 0.2
@@ -66,6 +63,80 @@
 		#Prefix with TAG_ and follow with a tag registry name to define all blocks with the tag
 		#NOTE: not everything may work correctly with any configuration, e.g. multiblocks like tall flowers and beds; needs testing
 		blocks = ["minecraft:furnace[lit=true];0.1;4;false", "minecraft:blast_furnace[lit=true];0.1;4;false", "minecraft:smoker[lit=true];0.1;4;false", "minecraft:campfire[lit=true];0.1;4;false", "piglinproliferation:stone_fire_ring[lit=true];0.1;4;false", "piglinproliferation:deepslate_fire_ring[lit=true];0.1;4;false", "piglinproliferation:netherrack_fire_ring[lit=true];0.1;4;false", "piglinproliferation:blackstone_fire_ring[lit=true];0.1;4;false", "piglinproliferation:end_stone_fire_ring[lit=true];0.1;4;false", "graveyard:fire_brazier[lit=true];0.1;3;false", "farmersdelight:stove[lit=true];0.1;3;false", "ends_delight:end_stove[lit=true];0.1;3;false", "alexscaves:confection_oven[powered=true];0.1;4;false"]
+		#Players moving on carpet receive this amount of sanity per second
+		#Range: -100.0 ~ 100.0
+		carpet = 0.09
+		#Define a list of entities that affect sanity of players standing near them
+		#An entity should be included as follows: A;B;C
+		#A = entity registry name (e.g. minecraft:enderman)
+		#B = how much sanity is gained per second passively
+		#C = radius (in blocks as a double)
+		entities = ["alexsmobs:farseer;-2.0;16", "alexsmobs:murmur;-0.1;16", "cave_dweller:cave_dweller;-0.5;16", "dweller_dweller:dweller_dweller;-0.25;16", "dweller_dweller:ominous_presence;-0.125;16", "endermanoverhaul:axolotl_pet_enderman;0.025;8", "endermanoverhaul:badlands_enderman;-0.01;4", "endermanoverhaul:cave_enderman;-0.025;4", "endermanoverhaul:coral_enderman;-0.01;4", "endermanoverhaul:crimson_forest_enderman;-0.025;8", "endermanoverhaul:dark_oak_enderman;-0.05;8", "endermanoverhaul:desert_enderman;-0.01;4", "endermanoverhaul:end_enderman;-0.025;8", "endermanoverhaul:end_islands_enderman;-0.025;8", "endermanoverhaul:flower_fields_enderman;0.025;8", "endermanoverhaul:hammerhead_pet_enderman;0.025;8", "endermanoverhaul:ice_spikes_enderman;-0.01;8", "endermanoverhaul:mushroom_fields_enderman;-0.01;4", "endermanoverhaul:nether_wastes_enderman;-0.025;8", "endermanoverhaul:pet_enderman;0.01;8", "endermanoverhaul:savanna_enderman;-0.01;4", "endermanoverhaul:snowy_enderman;-0.01;4", "endermanoverhaul:soulsand_valley_enderman;-0.025;16", "endermanoverhaul:swamp_enderman;-0.05;8", "endermanoverhaul:warped_forest_enderman;-0.05;8", "endermanoverhaul:windswept_hills_enderman;-0.025;8", "endofherobrine:armor_stand;-0.025;8", "endofherobrine:builder;-2.5;16", "endofherobrine:chicken;-0.01;16", "endofherobrine:cow;-0.025;16", "endofherobrine:herobrine;-2.5;16", "endofherobrine:husk;-0.025;16", "endofherobrine:lurker;-2.5;16", "endofherobrine:pig;-0.025;16", "endofherobrine:pigman;-0.05;16", "endofherobrine:rabbit;-0.01;16", "endofherobrine:sheep;-0.025;16", "endofherobrine:silverfish;-0.01;16", "endofherobrine:skeleton;-0.05;16", "endofherobrine:stray;-0.05;16", "endofherobrine:villager;-0.05;8", "endofherobrine:zombie_villager;-0.05;8", "endofherobrine:zombie;-0.05;16", "farlanders:classic_enderman;-0.025;4", "farlanders:elder_farlander;0.01;4", "farlanders:ender_golem;-0.05;8", "farlanders:ender_guardian;-0.01;4", "farlanders:enderminion;0.005;4", "farlanders:fanmade_enderman;-0.05;4", "farlanders:farlander;0.01;4", "farlanders:looter;-0.01;4", "farlanders:mystic_enderman;-0.025;4", "farlanders:mystic_enderminion;0.005;4", "farlanders:rebel;-0.01;4", "farlanders:titan;-0.1;16", "farlanders:wanderer;0.01;4", "friendsandfoes:copper_golem;0.005;4", "friendsandfoes:glare;0.005;4", "friendsandfoes:tuff_golem;0.005;4", "goat_man:goat_man;-0.25;16", "goblintraders:goblin_trader;0.005;4", "goblintraders:vein_goblin_trader;0.005;4", "guardvillagers:guard;0.01;8", "man:managgresive;-1.0;16", "man:manfromthefog;-0.1;16", "man:manfromthefogback;-0.1;16", "man:mftfhang;-0.1;16", "minecraft:cat;0.01;4", "minecraft:enderman;-0.025;4", "minecraft:iron_golem;0.01;16", "minecraft:snow_golem;0.01;8", "minecraft:villager;0.025;8", "minecraft:wandering_trader;0.01;8", "minecraft:wolf;0.01;4", "minecraft:zombie_villager;-0.025;4", "mutantmonsters:mutant_enderman;-0.1;16", "mutantmonsters:mutant_snow_golem;0.1;16", "pale_hound:pale_hound;-0.5;16", "rootoffear:decoy_wilted;-0.25;16", "rootoffear:shadow_wilted;-0.5;16", "rootoffear:wilted;-0.75;16", "sculkhorde:sculk_enderman;-0.1;16", "supplementaries:red_merchant;0.01;8", "takesapillage:clay_golem;0.01;8", "the_knocker:knocker;-0.1;8", "the_knocker:knockerdeadanimal;-0.1;8", "the_knocker:knockerstalk;-0.1;8", "the_knocker:knockerstalklooked;-0.1;8", "the_knocker:knockerswim;-0.1;8"]
+		#Define a list of status effects that affect sanity of players who have them
+		#A status effect should be included as follows: A;B;C
+		#A = status effect registry name (e.g. minecraft:blindness)
+		#B = how much sanity is gained per second passively
+		#C = the minimum amplifier in order to get the sanity effect
+		#Note: The defined status effect with the highest amplifier that matches the player's current amplifier is chosen
+		status_effects = ["alexscaves:irradiated;-1.0;0", "alexscaves:irradiated;-1.5;1", "alexscaves:irradiated;-2.0;2", "alexscaves:irradiated;-2.5;3", "alexscaves:irradiated;-3.0;4", "alexscaves:sugar_rush;0.1;0", "alexscaves:sugar_rush;0.25;1", "alexsmobs:ender_flu;-0.1;0", "alexsmobs:ender_flu;-0.25;1", "alexsmobs:ender_flu;-0.5;2", "anomaly_rephased:paralized;-1.5;0", "dweller_dweller:scared;-0.25;0", "hordes:immunity;0.1;0", "hordes:infected;-0.25;0", "hordes:infected;-0.5;1", "hordes:infected;-0.75;2", "hordes:infected;-1.0;3", "hordes:infected;-1.25;4", "minecraft:absorbtion;0.05;0", "minecraft:absorbtion;0.1;1", "minecraft:absorbtion;0.15;2", "minecraft:absorbtion;0.2;3", "minecraft:absorbtion;0.25;4", "minecraft:absorbtion;0.3;5", "minecraft:absorbtion;0.35;6", "minecraft:absorbtion;0.4;7", "minecraft:absorbtion;0.45;8", "minecraft:absorbtion;0.5;9", "minecraft:darkness;0.25;0", "minecraft:health_boost;0.05;0", "minecraft:health_boost;0.1;1", "minecraft:health_boost;0.15;2", "minecraft:health_boost;0.2;3", "minecraft:health_boost;0.25;4", "minecraft:health_boost;0.3;5", "minecraft:health_boost;0.35;6", "minecraft:health_boost;0.4;7", "minecraft:health_boost;0.45;8", "minecraft:health_boost;0.5;9", "minecraft:hero_of_the_village;0.1;0", "minecraft:hero_of_the_village;0.2;1", "minecraft:hero_of_the_village;0.3;2", "minecraft:hunger;-0.25;0", "minecraft:hunger;-0.50;1", "minecraft:hunger;-0.75;2", "minecraft:hunger;-1.00;3", "minecraft:instant_damage;-1.0;0", "minecraft:instant_damage;-1.0;1", "minecraft:instant_damage;-1.0;2", "minecraft:instant_damage;-1.0;3", "minecraft:instant_damage;-1.0;4", "minecraft:instant_healing;-1.0;0", "minecraft:instant_healing;-1.0;1", "minecraft:instant_healing;-1.0;2", "minecraft:instant_healing;-1.0;3", "minecraft:instant_healing;-1.0;4", "minecraft:luck;0.05;0", "minecraft:luck;0.1;1", "minecraft:luck;0.15;2", "minecraft:nausea;0.25;0", "minecraft:regeneration;0.05;0", "minecraft:regeneration;0.1;1", "minecraft:regeneration;0.15;2", "minecraft:regeneration;0.2;3", "minecraft:regeneration;0.25;4", "minecraft:regeneration;0.3;5", "minecraft:regeneration;0.35;6", "minecraft:regeneration;0.4;7", "minecraft:regeneration;0.45;8", "minecraft:regeneration;0.5;9", "minecraft:saturation;0.05;0", "minecraft:saturation;0.1;1", "minecraft:saturation;0.15;2", "minecraft:saturation;0.2;3", "minecraft:saturation;0.25;4", "minecraft:unluck;0.05;0", "minecraft:unluck;0.1;1", "minecraft:unluck;0.15;2", "sculkhorde:corroded;-0.5;0", "sculkhorde:dense;-0.25;0", "sculkhorde:diseased_atmosphere;-0.1;0", "sculkhorde:diseased_cysts;-0.1;0", "sculkhorde:neurotoxin_stage1;-0.1;0", "sculkhorde:neurotoxin_stage2;-0.25;1", "sculkhorde:neurotoxin_stage3;-0.5;2", "sculkhorde:purity;1.0;0", "sculkhorde:soul_disruption;-0.25;0", "sculkhorde:sculk_fog;-0.1;0", "sculkhorde:sculk_infected;-1.0;0", "sculkhorde:sculk_lure;-0.1;0", "sculkhorde:sculk_vessel;0.25;0", "toughasnails:climate_clemency;0.1;0", "toughasnails:ice_resistance;0.1;0", "toughasnails:internal_chill;0.1;0", "toughasnails:internal_warmth;0.1;0", "toughasnails:thirst;-0.01;0"]
+		#Defines how much sanity is gained per second when the player is well hydrated.
+		#This value applies only when the player's hydration level is above the threshold.
+		#Range: -100.0 ~ 100.0
+		well_hydrated = 0.02
+		#Defines what hydration level the player must have to be considered well-hydrated.
+		#Players with their hydration levels at or above this threshold gain bonus sanity per second.
+		#Range: 0.0 ~ 20.0
+		well_hydrated_threshold = 19.0
+		#Defines how much sanity is gained per second when the player is well fed.
+		#This value applies only when the player's food level is above the threshold.
+		#Range: -100.0 ~ 100.0
+		well_fed = 0.02
+		#Defines what food level the player must have to be considered well-fed.
+		#Players with their food levels at or above this threshold gain bonus sanity per second.
+		#Range: 0.0 ~ 20.0
+		well_fed_threshold = 19.0
+		#Defines how much sanity is gained per second when the player is low on hydration.
+		#This value applies only when the player's hydration level is at or below the threshold.
+		#Range: -100.0 ~ 100.0
+		low_hydration = -0.05
+		#Defines how much sanity is gained per second when the player is in the sunlight.
+		#Range: -100.0 ~ 100.0
+		sunlight = 0.05
+		#Defines the sanity effect when wearing damaged armor.
+		#The effect scales with the armor's damage percentage (e.g., 80% damage applies 80% of the value).
+		#Applied individually to each armor piece (e.g., four pieces at 50% damage will net a 200% modifier on the defined value).
+		#Range: -100.0 ~ 100.0
+		worn_armor = 0.0
+
+		#These values are only used if you have Legendary Survival Overhaul installed.
+		[sanity.passive.legendary_survival_overhaul_compat]
+			#Having a slightly wounded body part gives this amount of sanity per second
+			#Range: -100.0 ~ 100.0
+			body_part_slightly_wounded = -0.0
+			#Having a wounded body part gives this amount of sanity per second
+			#Range: -100.0 ~ 100.0
+			body_part_wounded = -0.01
+			#Having a heavily wounded body part gives this amount of sanity per second
+			#Range: -100.0 ~ 100.0
+			body_part_heavily_wounded = -0.025
+			#Having a dead body part gives this amount of sanity per second
+			#Range: -100.0 ~ 100.0
+			body_part_dead = -0.05
+			#How much sanity you gain per second while having a heat stroke temperature
+			#Range: -100.0 ~ 100.0
+			heat_stroke_temperature = -0.1
+			#How much sanity you gain per second while having a frostbite temperature
+			#Range: -100.0 ~ 100.0
+			frostbite_temperature = -0.1
+			#How much sanity you gain per second while having a hot temperature
+			#Range: -100.0 ~ 100.0
+			hot_temperature = -0.05
+			#How much sanity you gain per second while having a cold temperature
+			#Range: -100.0 ~ 100.0
+			cold_temperature = -0.05
+			#How much sanity you gain per second while having a normal temperature
+			#Range: -100.0 ~ 100.0
+			normal_temperature = 0.05
 
 	#Configuration for active sanity sources
 	[sanity.active]
@@ -96,10 +167,10 @@
 		#Players gain this amount of sanity for every point of damage dealt to peaceful animals (incl. neutral ones)
 		#This value is doubled for baby animals
 		#Range: -100.0 ~ 100.0
-		animal_hurt_ratio = -0.02
+		animal_hurt_ratio = -0.01
 		#Players gain this amount of sanity upon their pets' death
 		#Range: -100.0 ~ 100.0
-		pet_death = -5.0
+		pet_death = -1.0
 		#Players gain this amount of sanity upon successfully trading with a villager
 		#Range: -100.0 ~ 100.0
 		villager_trade = 5.0
@@ -114,13 +185,13 @@
 		shearing_cd = 30.0
 		#Consuming food gives this amount of sanity for every half-drumstick the meal restores
 		#Range: -100.0 ~ 100.0
-		eating = 1.5
+		eating = 2.0
 		#Eating cooldown (see notes above), real time in seconds
 		#Range: 0.0 ~ 3.4028234663852886E38
 		eating_cd = 30.0
 		#Fishing an item gives this amount of sanity
 		#Range: -100.0 ~ 100.0
-		fishing = 2.0
+		fishing = 2.5
 		#Fishing cooldown (see notes above), real time in seconds
 		#Range: 0.0 ~ 3.4028234663852886E38
 		fishing_cd = 0.0
@@ -144,7 +215,7 @@
 		#Where A is how much sanity is gained upon usage and B is a custom category
 		#Items with the same categories share the same cooldown
 		#The sanity gained will be multiplied by (timeSinceLastUsage / categoryCooldown) capping at 1.0
-		items = ["minecraft:pufferfish;-5;0", "minecraft:poisonous_potato;-5;0", "minecraft:spider_eye;-5;0", "minecraft:rotten_flesh;-5;0", "minecraft:chorus_fruit;-3;0", "minecraft:ender_pearl;-1;0", "minecraft:honey_bottle;6;1", "minecraft:golden_carrot;7;1", "minecraft:golden_apple;8;1", "minecraft:enchanted_golden_apple;23;1"]
+		items = ["born_in_chaos:monster_flesh;-5;0", "minecraft:chorus_fruit;-3;0", "minecraft:enchanted_golden_apple;20;1", "minecraft:ender_pearl;-1;0", "minecraft:golden_apple;8;1", "minecraft:golden_carrot;6;1", "minecraft:honey_bottle;5;1", "minecraft:poisonous_potato;-5;0", "minecraft:pufferfish;-5;0", "minecraft:rotten_flesh;-5;0", "minecraft:spider_eye;-5;0", "mynethersdelight:enchanted_golden_egg;15;0", "mynethersdelight:golden_egg;6;0"]
 		#Define a list of custom categories for items specified in <items>
 		#A category should be included as follows: A;B
 		#Where A is a category id (integer) and B is a cooldown (in seconds) all items in this category share
@@ -158,11 +229,38 @@
 		#Blocks with the same categories share the same cooldown
 		#The sanity gained will be multiplied by (timeSinceLastUsage / categoryCooldown) capping at 1.0
 		#NOTE: not everything may work correctly with any configuration, e.g. multiblocks like tall flowers and beds need testing
-		broken_blocks = ["minecraft:infested_stone;-8;0;false;false", "minecraft:infested_cobblestone;-8;0;false;false", "minecraft:infested_stone_bricks;-8;0;false;false", "minecraft:infested_cracked_stone_bricks;-8;0;false;false", "minecraft:infested_mossy_stone_bricks;-8;0;false;false", "minecraft:infested_chiseled_stone_bricks;-8;0;false;false", "minecraft:infested_deepslate;-8;0;false;false"]
+		broken_blocks = ["betterarcheology:infested_mud_bricks;-5;0;false;false", "minecraft:infested_chiseled_stone_bricks;-5;0;false;false", "minecraft:infested_cobblestone;-5;0;false;false", "minecraft:infested_cracked_stone_bricks;-5;0;false;false", "minecraft:infested_deepslate;-5;0;false;false", "minecraft:infested_mossy_stone_bricks;-5;0;false;false", "minecraft:infested_stone_bricks;-5;0;false;false", "minecraft:infested_stone;-5;0;false;false"]
 		#Define a list of custom categories for blocks specified in <broken_blocks>
 		#A category should be included as follows: A;B
 		#Where A is a category id (integer) and B is a cooldown (in seconds) all blocks in this category share
 		broken_block_categories = ["0;0"]
+		#Defines how much sanity is lost when a player respawns near their last death location.
+		#The closer the respawn is to the death location, the greater the sanity penalty.
+		#At maximum distance, no penalty is applied. At minimum distance, the full penalty is applied.
+		#Range: -100.0 ~ 100.0
+		respawned_near_last_death = -100.0
+		#Defines the distance (in blocks) within which the penalty for respawning near the last death location is applied.
+		#If the player respawns farther than this distance, no penalty is given.
+		#Set to 0 to disable this penalty.
+		#Range: 0.0 ~ 1024.0
+		distance = 0.0
+		#Defines the penalty given when dying.
+		#Stacks linearly based on how many deaths the player has sustained unless `scorePerDeath = 0`.
+		#Range: -100.0 ~ 100.0
+		sanityPerDeath = -10.0
+		#How many ticks it takes for a full death to go away
+		#Note: Deaths are always rounded up when applying the penalty but remain as a float when incrementing and decrementing the score.
+		#Note: Setting the value to 0 disables the stacking death penalty.
+		#Note: Death score caps out at `(100 / sanityPerDeath) * scorePerDeath`.
+		#Note: Successfully sleeping without being on sleep cooldown (see sanity.active.sleeping_cd) will decrement one full death.
+		#Range: > 0
+		scorePerDeath = 24000
+		#Players gain this amount of sanity when killing a rotting stalker.
+		#Range: -100.0 ~ 100.0
+		rotting_stalker_kill_ratio = 1.0
+		#Players gain this amount of sanity when killing a sneaking terror.
+		#Range: -100.0 ~ 100.0
+		sneaking_terror_kill_ratio = 5.0
 
 	#Multiplayer configuration
 	[sanity.multiplayer]
@@ -178,7 +276,15 @@
 		#Whether sane players should be able to see and battle inner entities
 		#Mobs will still be there server-side and will count towards passive sanity
 		#Players who are targeted by inner entities see them regardless
-		sane_see_inner_entities = false
+		sane_see_nightmares = false
+		#How many seconds it should take for it to be a 95% chance that an inner entity has spawned.
+		#Useful to stop inner entities from spawning predictably after the timeout counter has ended.
+		#Range: 1 ~ 1200
+		spawn_chance_seconds = 30
+		#The distance (in blocks) that entities in #sanitydim:inner_entity_despawnable have to be within to despawn when near inner entities.
+		#Setting this value to 0 disables this feature.
+		#Range: 0 ~ 128
+		despawn_mobs_distance = 32
 
 	#Client configuration
 	[sanity.client]

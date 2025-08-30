@@ -1,15 +1,15 @@
 {
-  "parent": "the_anomaly:liquidate_anomaly",
+  "parent": "anomaly_rephased:liquidate_anomaly",
   "display": {
     "icon": {
-      "item": "the_anomaly:moon_phase_change"
+      "item": "anomaly_rephased:moon_phase_change"
     },
     "title": {
-      "translate": "advancements.the_anomaly.liquidate_anomalies.title",
+      "translate": "advancements.anomaly_rephased.liquidate_anomalies.title",
       "fallback": "No More §4§kAnomalies§r..?"
     },
     "description": {
-      "translate": "advancements.the_anomaly.liquidate_anomalies.descr",
+      "translate": "advancements.anomaly_rephased.liquidate_anomalies.descr",
       "fallback": "Destroy? Every Possible §4§kAnomaly§r"
     },
     "frame": "challenge",
@@ -18,7 +18,7 @@
     "hidden": true
   },
   "criteria": {
-    "anomaly_attack_crawl": {
+    "a_chase": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -26,13 +26,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_attack_crawl"
+              "type": "anomaly_rephased:a_chase"
             }
           }
         ]
       }
     },
-    "anomaly_attack": {
+    "a_cow": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -40,13 +40,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_attack"
+              "type": "anomaly_rephased:a_cow"
             }
           }
         ]
       }
     },
-    "anomaly_behind": {
+    "a_darkness": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -54,13 +54,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_behind"
+              "type": "anomaly_rephased:a_darkness"
             }
           }
         ]
       }
     },
-    "anomaly_deceitful": {
+    "a_find": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -68,13 +68,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_deceitful"
+              "type": "anomaly_rephased:a_find"
             }
           }
         ]
       }
     },
-    "anomaly_escape": {
+    "a_fool": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -82,13 +82,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_escape"
+              "type": "anomaly_rephased:a_fool"
             }
           }
         ]
       }
     },
-    "anomaly_shadow_stalker": {
+    "a_haunt": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -96,13 +96,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_shadow_stalker"
+              "type": "anomaly_rephased:a_haunt"
             }
           }
         ]
       }
     },
-    "anomaly_shadow": {
+    "a_hunt_shadow": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -110,13 +110,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_shadow"
+              "type": "anomaly_rephased:a_hunt_shadow"
             }
           }
         ]
       }
     },
-    "anomaly_trap": {
+    "a_hunt": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -124,13 +124,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_trap"
+              "type": "anomaly_rephased:a_hunt"
             }
           }
         ]
       }
     },
-    "anomaly_viewer_attack": {
+    "a_look": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -138,13 +138,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_viewer_attack"
+              "type": "anomaly_rephased:a_look"
             }
           }
         ]
       }
     },
-    "anomaly_viewer": {
+    "a_peek": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -152,13 +152,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_viewer"
+              "type": "anomaly_rephased:a_peek"
             }
           }
         ]
       }
     },
-    "anomaly_visitor_2": {
+    "a_shadow": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -166,13 +166,13 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_visitor_2"
+              "type": "anomaly_rephased:a_shadow"
             }
           }
         ]
       }
     },
-    "anomaly_visitor": {
+    "a_statue_alt_2": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -180,7 +180,35 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "the_anomaly:anomaly_visitor"
+              "type": "anomaly_rephased:a_statue_alt_2"
+            }
+          }
+        ]
+      }
+    },
+    "a_statue_alt": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "anomaly_rephased:a_statue_alt"
+            }
+          }
+        ]
+      }
+    },
+    "a_statue": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "anomaly_rephased:a_statue"
             }
           }
         ]
@@ -188,20 +216,22 @@
     }
   },
   "requirements": [
-    ["anomaly_attack_crawl"],
-    ["anomaly_attack"],
-    ["anomaly_behind"],
-    ["anomaly_deceitful"],
-    ["anomaly_escape"],
-    ["anomaly_shadow_stalker"],
-    ["anomaly_shadow"],
-    ["anomaly_trap"],
-    ["anomaly_viewer_attack"],
-    ["anomaly_viewer"],
-    ["anomaly_visitor_2"],
-    ["anomaly_visitor"]
+    ["a_chase"],
+    ["a_cow"],
+    ["a_darkness"],
+    ["a_find"],
+    ["a_fool"],
+    ["a_haunt"],
+    ["a_hunt_shadow"],
+    ["a_hunt"],
+    ["a_look"],
+    ["a_peek"],
+    ["a_shadow"],
+    ["a_statue_alt_2"],
+    ["a_statue_alt"],
+    ["a_statue"]
   ],
   "rewards": {
-    "experience": 30000
+    "experience": 50000
   }
 }

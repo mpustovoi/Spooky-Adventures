@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "anomaly_rephased:unlit_torch_wall"
+    }
+  ],
+  "result": {
+    "item": "anomaly_rephased:unlit_torch"
+  }
+}

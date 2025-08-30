@@ -86,7 +86,7 @@
 	maximum_armor = 15.0
 	#Maximum health
 	#Range: 1.0 ~ 100000.0
-	maximum_health = 45.0
+	maximum_health = 50.0
 	#Attack damage
 	#Range: 0.0 ~ 1000.0
 	attack_damage = 9.0

@@ -3,253 +3,108 @@
   "values": [
     "minecraft:enchanted_golden_apple",
     "minecraft:golden_apple",
-    {
-      "id": "alexsdelight:maggot_salad",
-      "required": false
-    },
-    {
-      "id": "brewinandchewin:egg_grog",
-      "required": false
-    },
-    {
-      "id": "brewinandchewin:steel_toe_stout",
-      "required": false
-    },
-    {
-      "id": "brewinandchewin:strongroot_ale",
-      "required": false
-    },
-    {
-      "id": "collectorsreap:beetroot_gummy",
-      "required": false
-    },
-    {
-      "id": "collectorsreap:land_and_sea_burger",
-      "required": false
-    },
-    {
-      "id": "collectorsreap:melon_gummy",
-      "required": false
-    },
-    {
-      "id": "collectorsreap:stygian_pomegranate",
-      "required": false
-    },
-    {
-      "id": "collectorsreap:yellow_tea_gummy",
-      "required": false
-    },
-    {
-      "id": "delightful:berry_matcha_latte",
-      "required": false
-    },
-    {
-      "id": "delightful:cantaloupe_bread",
-      "required": false
-    },
-    {
-      "id": "delightful:cantaloupe_gummy",
-      "required": false
-    },
-    {
-      "id": "delightful:cantaloupe_popsicle",
-      "required": false
-    },
-    {
-      "id": "delightful:cantaloupe_slice",
-      "required": false
-    },
-    {
-      "id": "delightful:field_salad",
-      "required": false
-    },
-    {
-      "id": "delightful:green_tea_leaf",
-      "required": false
-    },
-    {
-      "id": "delightful:matcha_gummy",
-      "required": false
-    },
-    {
-      "id": "delightful:matcha_ice_cream",
-      "required": false
-    },
-    {
-      "id": "delightful:matcha_latte",
-      "required": false
-    },
-    {
-      "id": "delightful:matcha",
-      "required": false
-    },
-    {
-      "id": "delightful:source_berry_cookie",
-      "required": false
-    },
-    {
-      "id": "delightful:source_berry_gummy",
-      "required": false
-    },
-    {
-      "id": "delightful:source_berry_ice_cream",
-      "required": false
-    },
-    {
-      "id": "delightful:source_berry_milkshake",
-      "required": false
-    },
-    {
-      "id": "delightful:source_berry_pie_slice",
-      "required": false
-    },
-    {
-      "id": "delightful:stuffed_cantaloupe",
-      "required": false
-    },
-    {
-      "id": "delightful:wrapped_cantaloupe",
-      "required": false
-    },
-    {
-      "id": "easy_emerald:emerald_potato",
-      "required": false
-    },
-    {
-      "id": "ends_delight:assorted_salad",
-      "required": false
-    },
-    {
-      "id": "ends_delight:chorus_flower_pie",
-      "required": false
-    },
-    {
-      "id": "ends_delight:chorus_flower_tea",
-      "required": false
-    },
-    {
-      "id": "ends_delight:dragon_breath_and_chorus_soup",
-      "required": false
-    },
-    {
-      "id": "ends_delight:dragon_breath_soda",
-      "required": false
-    },
-    {
-      "id": "ends_delight:dragon_leg_with_sauce",
-      "required": false
-    },
-    {
-      "id": "ends_delight:dragon_meat_stew",
-      "required": false
-    },
-    {
-      "id": "ends_delight:end_barbecue_stick",
-      "required": false
-    },
-    {
-      "id": "ends_delight:end_mixed_salad",
-      "required": false
-    },
-    {
-      "id": "ends_delight:ender_bamboo_rice",
-      "required": false
-    },
-    {
-      "id": "ends_delight:ender_congee",
-      "required": false
-    },
-    {
-      "id": "ends_delight:ender_sausage",
-      "required": false
-    },
-    {
-      "id": "ends_delight:fried_dragon_egg",
-      "required": false
-    },
-    {
-      "id": "ends_delight:grilled_shulker",
-      "required": false
-    },
-    {
-      "id": "ends_delight:liquid_dragon_egg",
-      "required": false
-    },
-    {
-      "id": "ends_delight:roasted_dragon_meat_cuts",
-      "required": false
-    },
-    {
-      "id": "ends_delight:roasted_dragon_meat",
-      "required": false
-    },
-    {
-      "id": "ends_delight:roasted_dragon_steak",
-      "required": false
-    },
-    {
-      "id": "ends_delight:shulker_omelette",
-      "required": false
-    },
-    {
-      "id": "ends_delight:smoked_dragon_leg",
-      "required": false
-    },
-    {
-      "id": "ends_delight:steamed_dragon_egg",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:apple_cider",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:fruit_salad",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:melon_juice",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:mixed_salad",
-      "required": false
-    },
-    {
-      "id": "moredelight:chicken_salad",
-      "required": false
-    },
-    {
-      "id": "moredelight:potato_salad",
-      "required": false
-    },
-    {
-      "id": "mynethersdelight:enchanted_golden_egg",
-      "required": false
-    },
-    {
-      "id": "mynethersdelight:ghast_salad",
-      "required": false
-    },
-    {
-      "id": "mynethersdelight:golden_egg",
-      "required": false
-    },
-    {
-      "id": "mynethersdelight:hotdog_with_mixed_salad",
-      "required": false
-    },
-    {
-      "id": "silentsdelight:heartburger",
-      "required": false
-    },
-    {
-      "id": "silentsdelight:sculk_shrieker_shake",
-      "required": false
-    },
-    {
-      "id": "silentsdelight:sculk_vein_salad",
-      "required": false
-    }
+    "minecraft:honey_bottle",
+    { "id": "additionaladditions:honeyed_apple", "required": false },
+    { "id": "alexscaves:alex_meal", "required": false },
+    { "id": "alexsdelight:maggot_salad", "required": false },
+    { "id": "brewinandchewin:cheesy_pasta", "required": false },
+    { "id": "brewinandchewin:creamy_onion_soup", "required": false },
+    { "id": "brewinandchewin:egg_grog", "required": false },
+    { "id": "brewinandchewin:fiery_fondue", "required": false },
+    { "id": "brewinandchewin:flaxen_cheese_wedge", "required": false },
+    { "id": "brewinandchewin:ham_and_cheese_sandwich", "required": false },
+    { "id": "brewinandchewin:horror_lasagna", "required": false },
+    { "id": "brewinandchewin:mead", "required": false },
+    { "id": "brewinandchewin:pale_jane", "required": false },
+    { "id": "brewinandchewin:pickled_pickles", "required": false },
+    { "id": "brewinandchewin:pizza_slice", "required": false },
+    { "id": "brewinandchewin:quiche_slice", "required": false },
+    { "id": "brewinandchewin:scarlet_cheese_wedge", "required": false },
+    { "id": "brewinandchewin:scarlet_pierogi", "required": false },
+    { "id": "brewinandchewin:steel_toe_stout", "required": false },
+    { "id": "brewinandchewin:strongroot_ale", "required": false },
+    { "id": "brewinandchewin:vegetable_omelet", "required": false },
+    { "id": "collectorsreap:apple_gummy", "required": false },
+    { "id": "collectorsreap:beetroot_gummy", "required": false },
+    { "id": "collectorsreap:candied_lime", "required": false },
+    { "id": "collectorsreap:cantaloupe_gummy", "required": false },
+    { "id": "collectorsreap:crab_lasagna", "required": false },
+    { "id": "collectorsreap:glow_berry_gummy", "required": false },
+    { "id": "collectorsreap:honey_lime_chicken", "required": false },
+    { "id": "collectorsreap:lime_gummy", "required": false },
+    { "id": "collectorsreap:melon_gummy", "required": false },
+    { "id": "collectorsreap:pomegranate_gummy", "required": false },
+    { "id": "collectorsreap:pomegranate_pork", "required": false },
+    { "id": "collectorsreap:portobello_quiche_slice", "required": false },
+    { "id": "collectorsreap:salmon_wrapped_prawn", "required": false },
+    { "id": "collectorsreap:stygian_pomegranate", "required": false },
+    { "id": "collectorsreap:yellow_tea_gummy", "required": false },
+    { "id": "delightful:baklava", "required": false },
+    { "id": "delightful:berry_matcha_latte", "required": false },
+    { "id": "delightful:cantaloupe_bread", "required": false },
+    { "id": "delightful:cantaloupe_gummy", "required": false },
+    { "id": "delightful:cantaloupe_popsicle", "required": false },
+    { "id": "delightful:cantaloupe_slice", "required": false },
+    { "id": "delightful:cheeseburger", "required": false },
+    { "id": "delightful:deluxe_cheeseburger", "required": false },
+    { "id": "delightful:ender_nectar", "required": false },
+    { "id": "delightful:field_salad", "required": false },
+    { "id": "delightful:green_tea_leaf", "required": false },
+    { "id": "delightful:matcha_gummy", "required": false },
+    { "id": "delightful:matcha_ice_cream", "required": false },
+    { "id": "delightful:matcha_latte", "required": false },
+    { "id": "delightful:matcha_milkshake", "required": false },
+    { "id": "delightful:matcha", "required": false },
+    { "id": "delightful:salmonberry_gummy", "required": false },
+    { "id": "delightful:smore", "required": false },
+    { "id": "delightful:source_berry_cookie", "required": false },
+    { "id": "delightful:source_berry_gummy", "required": false },
+    { "id": "delightful:source_berry_ice_cream", "required": false },
+    { "id": "delightful:source_berry_milkshake", "required": false },
+    { "id": "delightful:source_berry_pie_slice", "required": false },
+    { "id": "delightful:stuffed_cantaloupe", "required": false },
+    { "id": "delightful:wrapped_cantaloupe", "required": false },
+    { "id": "easy_emerald:emerald_potato", "required": false },
+    { "id": "ends_delight:assorted_salad", "required": false },
+    { "id": "ends_delight:chorus_flower_pie", "required": false },
+    { "id": "ends_delight:chorus_flower_tea", "required": false },
+    { "id": "ends_delight:dragon_breath_and_chorus_soup", "required": false },
+    { "id": "ends_delight:dragon_breath_soda", "required": false },
+    { "id": "ends_delight:dragon_leg_with_sauce", "required": false },
+    { "id": "ends_delight:dragon_meat_stew", "required": false },
+    { "id": "ends_delight:end_barbecue_stick", "required": false },
+    { "id": "ends_delight:end_mixed_salad", "required": false },
+    { "id": "ends_delight:ender_bamboo_rice", "required": false },
+    { "id": "ends_delight:ender_congee", "required": false },
+    { "id": "ends_delight:ender_sausage", "required": false },
+    { "id": "ends_delight:fried_dragon_egg", "required": false },
+    { "id": "ends_delight:grilled_shulker", "required": false },
+    { "id": "ends_delight:liquid_dragon_egg", "required": false },
+    { "id": "ends_delight:roasted_dragon_meat_cuts", "required": false },
+    { "id": "ends_delight:roasted_dragon_meat", "required": false },
+    { "id": "ends_delight:roasted_dragon_steak", "required": false },
+    { "id": "ends_delight:shulker_omelette", "required": false },
+    { "id": "ends_delight:smoked_dragon_leg", "required": false },
+    { "id": "ends_delight:steamed_dragon_egg", "required": false },
+    { "id": "farmersdelight:apple_cider", "required": false },
+    { "id": "farmersdelight:fruit_salad", "required": false },
+    { "id": "farmersdelight:honey_cookie", "required": false },
+    { "id": "farmersdelight:honey_glazed_ham", "required": false },
+    { "id": "farmersdelight:melon_juice", "required": false },
+    { "id": "farmersdelight:mixed_salad", "required": false },
+    { "id": "farmersdelight:sweet_berry_cheesecake_slice", "required": false },
+    { "id": "moredelight:chicken_salad", "required": false },
+    { "id": "moredelight:potato_salad", "required": false },
+    { "id": "moredelight:toast_with_honey", "required": false },
+    { "id": "mynethersdelight:breakfast_sampler", "required": false },
+    { "id": "mynethersdelight:enchanted_golden_egg", "required": false },
+    { "id": "mynethersdelight:ghast_salad", "required": false },
+    { "id": "mynethersdelight:golden_egg", "required": false },
+    { "id": "mynethersdelight:hotdog_with_mixed_salad", "required": false },
+    { "id": "oceansdelight:honey_fried_kelp", "required": false },
+    { "id": "silentsdelight:heartburger", "required": false },
+    { "id": "silentsdelight:sculk_shrieker_shake", "required": false },
+    { "id": "silentsdelight:sculk_vein_salad", "required": false },
+    { "id": "supplementaries:candy", "required": false }
   ]
 }

@@ -1,10 +1,19 @@
 {
   "group": "spawn_egg",
   "type": "minecraft:crafting_shaped",
-  "pattern": ["CSR", "BTB", "PMB"],
+  "pattern": ["PBM", "WEO", "CKC"],
   "key": {
-    "B": {
+    "W": {
+      "item": "minecraft:wooden_sword"
+    },
+    "O": {
       "item": "hunters_return:boomerang"
+    },
+    "C": {
+      "item": "hunters_return:mini_crossbow"
+    },
+    "E": {
+      "item": "minecraft:pillager_spawn_egg"
     },
     "P": {
       "item": "minecraft:porkchop"
@@ -12,20 +21,11 @@
     "B": {
       "item": "minecraft:beef"
     },
-    "C": {
-      "item": "minecraft:chicken"
-    },
-    "R": {
-      "item": "minecraft:rabbit"
-    },
     "M": {
       "item": "minecraft:mutton"
     },
-    "S": {
-      "item": "minecraft:sweet_berries"
-    },
-    "T": {
-      "item": "minecraft:pillager_spawn_egg"
+    "K": {
+      "item": "minecraft:chicken"
     }
   },
   "result": {

@@ -1,0 +1,16 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 400,
+  "experience": 0.25,
+  "ingredient": {
+    "item": "cratedelight:poisonous_potato_crate"
+  },
+  "result": "farmersdelight:potato_crate"
+}

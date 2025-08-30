@@ -284,5 +284,71 @@
     "converts_to": "minecraft:zombie",
     "chance": 1.0,
     "nbt": "{Health:16f, Attributes:[{Name:generic.max_health,Base:16}]}"
+  },
+  {
+    "entity": "dweller_dweller:dweller_dweller",
+    "converts_to": "graveyard:nightmare",
+    "chance": 0.8,
+    "nbt": "{ActiveEffects:[{Id:6,Amplifier:19b,Duration:9}], Attributes:[{Name:generic.max_health,Base:75},{Name:generic.attack_damage,Base:12}]}"
+  },
+  {
+    "entity": "pale_hound:pale_hound",
+    "converts_to": "cave_dweller:cave_dweller",
+    "chance": 0.8,
+    "nbt": "{Health:50f, Attributes:[{Name:generic.max_health,Base:50},{Name:generic.attack_damage,Base:9}]}"
+  },
+  {
+    "entity": "man:managgresive",
+    "converts_to": "graveyard:nightmare",
+    "chance": 0.8,
+    "nbt": "{ActiveEffects:[{Id:6,Amplifier:19b,Duration:9}], Attributes:[{Name:generic.max_health,Base:300},{Name:generic.attack_damage,Base:15}]}"
+  },
+  {
+    "entity": "man:manfromthefog",
+    "converts_to": "graveyard:nightmare",
+    "chance": 1.0,
+    "nbt": "{Health:30f, Attributes:[{Name:generic.max_health,Base:30},{Name:generic.attack_damage,Base:15}]}"
+  },
+  {
+    "entity": "man:manfromthefogback",
+    "converts_to": "graveyard:nightmare",
+    "chance": 1.0,
+    "nbt": "{Health:30f, Attributes:[{Name:generic.max_health,Base:30},{Name:generic.attack_damage,Base:15}]}"
+  },
+  {
+    "entity": "man:mftfhang",
+    "converts_to": "graveyard:nightmare",
+    "chance": 1.0,
+    "nbt": "{Health:30f, Attributes:[{Name:generic.max_health,Base:30},{Name:generic.attack_damage,Base:15}]}"
+  },
+  {
+    "entity": "the_knocker:knocker",
+    "converts_to": "minecraft:zombie",
+    "chance": 1.0,
+    "nbt": "{chat_name:\"entity.hordes.ZombieKnocker.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieKnocker.name\",\"fallback\":\"Zombie Knocker\",\"italic\":false}', HandItems:[{id:\"the_knocker:knife\",Count:1b,tag:{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Name:\"generic.attack_damage\",Amount:4,Operation:0,UUID:[I;1516723466,533743556,-1801170198,1332157679],Slot:\"mainhand\"},{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:-1.8,Operation:0,UUID:[I;-388769418,-806600232,-1578142744,1438984422],Slot:\"mainhand\"}]}},{}], ActiveEffects:[{Id:7,Amplifier:19b,Duration:9}], Attributes:[{Name:generic.max_health,Base:50},{Name:generic.attack_damage,Base:6}], texture:\"hordes:textures/entity/zombie_knocker.png\"}"
+  },
+  {
+    "entity": "the_knocker:knockerdeadanimal",
+    "converts_to": "minecraft:zombie",
+    "chance": 1.0,
+    "nbt": "{chat_name:\"entity.hordes.ZombieKnocker.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieKnocker.name\",\"fallback\":\"Zombie Knocker\",\"italic\":false}', HandItems:[{id:\"the_knocker:knife\",Count:1b,tag:{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Name:\"generic.attack_damage\",Amount:4,Operation:0,UUID:[I;1516723466,533743556,-1801170198,1332157679],Slot:\"mainhand\"},{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:-1.8,Operation:0,UUID:[I;-388769418,-806600232,-1578142744,1438984422],Slot:\"mainhand\"}]}},{}], ActiveEffects:[{Id:7,Amplifier:19b,Duration:9}], Attributes:[{Name:generic.max_health,Base:50},{Name:generic.attack_damage,Base:6}], texture:\"hordes:textures/entity/zombie_knocker.png\"}"
+  },
+  {
+    "entity": "the_knocker:knockerstalk",
+    "converts_to": "minecraft:zombie",
+    "chance": 1.0,
+    "nbt": "{chat_name:\"entity.hordes.ZombieKnocker.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieKnocker.name\",\"fallback\":\"Zombie Knocker\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9}], Attributes:[{Name:generic.max_health,Base:50},{Name:generic.attack_damage,Base:6}], texture:\"hordes:textures/entity/zombie_knocker.png\"}"
+  },
+  {
+    "entity": "the_knocker:knockerstalklooked",
+    "converts_to": "minecraft:zombie",
+    "chance": 1.0,
+    "nbt": "{chat_name:\"entity.hordes.ZombieKnocker.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieKnocker.name\",\"fallback\":\"Zombie Knocker\",\"italic\":false}', ActiveEffects:[{Id:7,Amplifier:19b,Duration:9}], Attributes:[{Name:generic.max_health,Base:50},{Name:generic.attack_damage,Base:6}], texture:\"hordes:textures/entity/zombie_knocker.png\"}"
+  },
+  {
+    "entity": "the_knocker:knockerswim",
+    "converts_to": "minecraft:zombie",
+    "chance": 1.0,
+    "nbt": "{chat_name:\"entity.hordes.ZombieKnocker.name\", CustomName:'{\"translate\":\"entity.hordes.ZombieKnocker.name\",\"fallback\":\"Zombie Knocker\",\"italic\":false}', HandItems:[{id:\"the_knocker:bridge\",Count:1b},{}], ActiveEffects:[{Id:7,Amplifier:19b,Duration:9}], Attributes:[{Name:generic.max_health,Base:50},{Name:generic.attack_damage,Base:6}], texture:\"hordes:textures/entity/zombie_knocker.png\"}"
   }
 ]

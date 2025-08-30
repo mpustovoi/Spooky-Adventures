@@ -1,13 +1,16 @@
 {
   "group": "spawn_egg",
   "type": "crafting_shaped",
-  "pattern": ["EEE", "EAE", "EEE"],
+  "pattern": ["TET", "EAE", "EEE"],
   "key": {
     "A": {
       "item": "minecraft:ghast_tear"
     },
     "E": {
       "item": "minecraft:emerald_block"
+    },
+    "T": {
+      "item": "minecraft:enchanted_golden_apple"
     }
   },
   "result": {
