@@ -41,6 +41,18 @@
     "chance": 1.0
   },
   {
+    "entity": "minecraft:cod",
+    "converts_to": "born_in_chaos_v1:corpse_fish",
+    "chance": 1.0,
+    "nbt": "{Health:6f, Attributes:[{Name:generic.max_health,Base:6}]}"
+  },
+  {
+    "entity": "minecraft:salmon",
+    "converts_to": "born_in_chaos_v1:corpse_fish",
+    "chance": 1.0,
+    "nbt": "{Health:6f, Attributes:[{Name:generic.max_health,Base:6}]}"
+  },
+  {
     "entity": "minecraft:enderman",
     "converts_to": "graveyard:nightmare",
     "chance": 0.75,
